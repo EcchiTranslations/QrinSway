@@ -1,0 +1,1915 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+攻撃
+> CONTEXT: Skills/1/name/
+> CONTEXT: System/terms/commands/2/
+Attack
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+> CONTEXT: Skills/1/description/
+> CONTEXT: Skills/51/description/
+> CONTEXT: Skills/52/description/
+> CONTEXT: Skills/53/description/
+Damages the enemy.
+> END STRING
+
+> BEGIN STRING
+の攻撃！
+> CONTEXT: Skills/1/message1/
+> CONTEXT: Skills/3/message1/
+> CONTEXT: Skills/4/message1/
+> CONTEXT: Skills/5/message1/
+ attacks!
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: Skills/2/name/
+> CONTEXT: States/9/name/
+> CONTEXT: System/terms/commands/3/
+Guard
+> END STRING
+
+> BEGIN STRING
+身を守ることに専念し、受けるダメージを抑える。
+> CONTEXT: Skills/2/description/
+Protects user and reduces damage taken.
+> END STRING
+
+> BEGIN STRING
+は身を守っている。
+> CONTEXT: Skills/2/message1/
+ guards.
+> END STRING
+
+> BEGIN STRING
+連続攻撃
+> CONTEXT: Skills/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に対して２回攻撃を行う。
+> CONTEXT: Skills/3/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+２回攻撃
+> CONTEXT: Skills/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵２体にダメージを与える。
+> CONTEXT: Skills/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３回攻撃
+> CONTEXT: Skills/5/name/
+Triple Attack
+> END STRING
+
+> BEGIN STRING
+敵３体にダメージを与える。
+> CONTEXT: Skills/5/description/
+Attacks three random enemies.
+> END STRING
+
+> BEGIN STRING
+敵キャラの行動用。使用者が戦闘から離脱する。
+> CONTEXT: Skills/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は逃げてしまった。
+> CONTEXT: Skills/6/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+様子を見る
+> CONTEXT: Skills/7/name/
+> CONTEXT: Skills/128/name/
+Wait
+> END STRING
+
+> BEGIN STRING
+何もしない。
+> CONTEXT: Skills/7/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は様子を見ている。
+> CONTEXT: Skills/7/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+甘い息
+> CONTEXT: Skills/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を睡眠状態にする。
+> CONTEXT: Skills/16/description/ < UNTRANSLATED
+> CONTEXT: Skills/17/description/ < UNTRANSLATED
+> CONTEXT: Skills/39/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は甘い息を吐いた！
+> CONTEXT: Skills/16/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+眠りの花粉
+> CONTEXT: Skills/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は眠りの花粉を放った！
+> CONTEXT: Skills/17/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痺れる息
+> CONTEXT: Skills/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を麻痺状態にする。
+> CONTEXT: Skills/18/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は痺れる息を吐いた！
+> CONTEXT: Skills/18/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+麻痺にらみ
+> CONTEXT: Skills/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体を麻痺状態にする。
+> CONTEXT: Skills/19/description/ < UNTRANSLATED
+> CONTEXT: Skills/40/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は鋭い目でにらみつけた！
+> CONTEXT: Skills/19/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+足払い
+> CONTEXT: Skills/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体のバランスを崩させる。
+> CONTEXT: Skills/20/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は足払いを仕掛けた！
+> CONTEXT: Skills/20/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体当たり
+> CONTEXT: Skills/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与え、バランスを崩させる。
+> CONTEXT: Skills/21/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体当たりをした！
+> CONTEXT: Skills/21/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雄たけび
+> CONTEXT: Skills/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体のバランスを崩させる。
+> CONTEXT: Skills/22/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は雄たけびを上げた！
+> CONTEXT: Skills/22/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吸血
+> CONTEXT: Skills/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体のＨＰを吸収する。
+> CONTEXT: Skills/23/description/ < UNTRANSLATED
+> CONTEXT: Skills/49/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の吸血攻撃！
+> CONTEXT: Skills/23/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瞑想
+> CONTEXT: Skills/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用者のＨＰを回復する。
+> CONTEXT: Skills/24/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は瞑想を始めた。
+> CONTEXT: Skills/24/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+--------------------
+> CONTEXT: Skills/25/name/ < UNTRANSLATED
+> CONTEXT: Skills/75/name/ < UNTRANSLATED
+> CONTEXT: Skills/79/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒールⅠ
+> CONTEXT: Skills/26/name/
+Heal
+> END STRING
+
+> BEGIN STRING
+ＨＰを80回復する。
+> CONTEXT: Skills/26/description/
+Restores 80 HP.
+> END STRING
+
+> BEGIN STRING
+はヒールⅠを唱えた！
+> CONTEXT: Skills/26/message1/
+ casts Heal!
+> END STRING
+
+> BEGIN STRING
+ヒールⅡ
+> CONTEXT: Skills/27/name/
+Heal II
+> END STRING
+
+> BEGIN STRING
+ＨＰを200回復する。
+> CONTEXT: Skills/27/description/
+Restores 200 HP
+> END STRING
+
+> BEGIN STRING
+はヒールⅡを唱えた！
+> CONTEXT: Skills/27/message1/
+ casts Heal II!
+> END STRING
+
+> BEGIN STRING
+ヒールⅢ
+> CONTEXT: Skills/28/name/
+Heal III
+> END STRING
+
+> BEGIN STRING
+ＨＰを400回復する。
+> CONTEXT: Skills/28/description/
+Restore 400 HP
+> END STRING
+
+> BEGIN STRING
+はヒールⅢを唱えた！
+> CONTEXT: Skills/28/message1/
+ casts Heal III!
+> END STRING
+
+> BEGIN STRING
+ヒールⅣ
+> CONTEXT: Skills/29/name/
+Heal IV
+> END STRING
+
+> BEGIN STRING
+ＨＰを全回復する。
+> CONTEXT: Skills/29/description/
+Restores all HP
+> END STRING
+
+> BEGIN STRING
+はヒールⅣを唱えた！
+> CONTEXT: Skills/29/message1/
+ casts Heal IV!
+> END STRING
+
+> BEGIN STRING
+キュアⅡ
+> CONTEXT: Skills/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘不能以外の状態異常を治療する。
+> CONTEXT: Skills/32/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はキュアⅡを唱えた！
+> CONTEXT: Skills/32/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レイズ
+> CONTEXT: Skills/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘不能から復活させる。
+> CONTEXT: Skills/33/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はレイズを唱えた！
+> CONTEXT: Skills/33/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レイズⅡ
+> CONTEXT: Skills/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘不能から復活させ、ＨＰを大きく回復する。
+> CONTEXT: Skills/34/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はレイズⅡを唱えた！
+> CONTEXT: Skills/34/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポイズン
+> CONTEXT: Skills/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を毒状態にする。
+> CONTEXT: Skills/35/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はポイズンを唱えた！
+> CONTEXT: Skills/35/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラインド
+> CONTEXT: Skills/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を暗闇状態にする。
+> CONTEXT: Skills/36/description/ < UNTRANSLATED
+> CONTEXT: Skills/111/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はブラインドを唱えた！
+> CONTEXT: Skills/36/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイレンス
+> CONTEXT: Skills/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を沈黙状態にする。
+> CONTEXT: Skills/37/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサイレンスを唱えた！
+> CONTEXT: Skills/37/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コンフューズ
+> CONTEXT: Skills/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を混乱状態にする。
+> CONTEXT: Skills/38/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はコンフューズを唱えた！
+> CONTEXT: Skills/38/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スリープ
+> CONTEXT: Skills/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスリープを唱えた！
+> CONTEXT: Skills/39/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パラライズ
+> CONTEXT: Skills/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はパラライズを唱えた！
+> CONTEXT: Skills/40/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェポンブレス
+> CONTEXT: Skills/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方単体の攻撃力を上げる。
+> CONTEXT: Skills/41/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウェポンブレスを唱えた！
+> CONTEXT: Skills/41/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーマーブレス
+> CONTEXT: Skills/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方単体の防御力を上げる。
+> CONTEXT: Skills/42/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアーマーブレスを唱えた！
+> CONTEXT: Skills/42/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディバインブレス
+> CONTEXT: Skills/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方単体の魔法防御を上げる。
+> CONTEXT: Skills/43/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はディバインブレスを唱えた！
+> CONTEXT: Skills/43/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クイックムーブ
+> CONTEXT: Skills/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+味方単体の敏捷性を上げる。
+> CONTEXT: Skills/44/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はクイックムーブを唱えた！
+> CONTEXT: Skills/44/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェポンカース
+> CONTEXT: Skills/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体の攻撃力を下げる。
+> CONTEXT: Skills/45/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウェポンカースを唱えた！
+> CONTEXT: Skills/45/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーマーカース
+> CONTEXT: Skills/46/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体の防御力を下げる。
+> CONTEXT: Skills/46/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアーマーカースを唱えた！
+> CONTEXT: Skills/46/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディバインカース
+> CONTEXT: Skills/47/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体の魔法防御を下げる。
+> CONTEXT: Skills/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はディバインカースを唱えた！
+> CONTEXT: Skills/47/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スロームーブ
+> CONTEXT: Skills/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体の敏捷性を下げる。
+> CONTEXT: Skills/48/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスロームーブを唱えた！
+> CONTEXT: Skills/48/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ライフドレイン
+> CONTEXT: Skills/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はライフドレインを唱えた！
+> CONTEXT: Skills/49/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火の魔法
+> CONTEXT: Skills/51/name/
+Fire
+> END STRING
+
+> BEGIN STRING
+は火の魔法を放った！
+> CONTEXT: Skills/51/message1/
+ casts Fire!
+> END STRING
+
+> BEGIN STRING
+氷の魔法
+> CONTEXT: Skills/52/name/
+Ice
+> END STRING
+
+> BEGIN STRING
+は氷の魔法を放った！
+> CONTEXT: Skills/52/message1/
+ casts Ice!
+> END STRING
+
+> BEGIN STRING
+雷の魔法
+> CONTEXT: Skills/53/name/
+Thunder
+> END STRING
+
+> BEGIN STRING
+は雷の魔法を放った！
+> CONTEXT: Skills/53/message1/
+ casts Thunder!
+> END STRING
+
+> BEGIN STRING
+サンダー
+> CONTEXT: Skills/59/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に雷属性のダメージを与える。
+> CONTEXT: Skills/59/description/ < UNTRANSLATED
+> CONTEXT: Skills/60/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサンダーを唱えた！
+> CONTEXT: Skills/59/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サンダーⅡ
+> CONTEXT: Skills/60/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサンダーⅡを唱えた！
+> CONTEXT: Skills/60/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スパーク
+> CONTEXT: Skills/61/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に雷属性のダメージを与える。
+> CONTEXT: Skills/61/description/ < UNTRANSLATED
+> CONTEXT: Skills/62/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスパークを唱えた！
+> CONTEXT: Skills/61/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スパークⅡ
+> CONTEXT: Skills/62/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスパークⅡを唱えた！
+> CONTEXT: Skills/62/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウォーター
+> CONTEXT: Skills/63/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に水属性のダメージを与える。
+> CONTEXT: Skills/63/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウォーターを唱えた！
+> CONTEXT: Skills/63/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェーブ
+> CONTEXT: Skills/64/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に水属性のダメージを与える。
+> CONTEXT: Skills/64/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウェーブを唱えた！
+> CONTEXT: Skills/64/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ストーン
+> CONTEXT: Skills/65/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に大地属性のダメージを与える。
+> CONTEXT: Skills/65/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はストーンを唱えた！
+> CONTEXT: Skills/65/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クェイク
+> CONTEXT: Skills/66/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に大地属性のダメージを与える。
+> CONTEXT: Skills/66/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はクェイクを唱えた！
+> CONTEXT: Skills/66/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウィンド
+> CONTEXT: Skills/67/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に風属性のダメージを与える。
+> CONTEXT: Skills/67/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウィンドを唱えた！
+> CONTEXT: Skills/67/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トルネード
+> CONTEXT: Skills/68/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に風属性のダメージを与える。
+> CONTEXT: Skills/68/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はトルネードを唱えた！
+> CONTEXT: Skills/68/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイント
+> CONTEXT: Skills/69/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に神聖属性のダメージを与える。
+> CONTEXT: Skills/69/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はセイントを唱えた！
+> CONTEXT: Skills/69/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スターライト
+> CONTEXT: Skills/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に神聖属性のダメージを与える。
+> CONTEXT: Skills/70/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスターライトを唱えた！
+> CONTEXT: Skills/70/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シェイド
+> CONTEXT: Skills/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に暗黒属性のダメージを与える。
+> CONTEXT: Skills/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はシェイドを唱えた！
+> CONTEXT: Skills/71/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダークネス
+> CONTEXT: Skills/72/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に暗黒属性のダメージを与える。
+> CONTEXT: Skills/72/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はダークネスを唱えた！
+> CONTEXT: Skills/72/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バースト
+> CONTEXT: Skills/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に防御無視のダメージを与える。
+> CONTEXT: Skills/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバーストを唱えた！
+> CONTEXT: Skills/73/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニュークリア
+> CONTEXT: Skills/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に防御無視のダメージを与える。
+> CONTEXT: Skills/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はニュークリアを唱えた！
+> CONTEXT: Skills/74/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファイアウェポン
+> CONTEXT: Skills/76/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に炎属性を付与する。
+> CONTEXT: Skills/76/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はファイアウェポンを唱えた！
+> CONTEXT: Skills/76/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイスウェポン
+> CONTEXT: Skills/77/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に氷属性を付与する。
+> CONTEXT: Skills/77/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアイスウェポンを唱えた！
+> CONTEXT: Skills/77/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サンダーウェポン
+> CONTEXT: Skills/78/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に雷属性を付与する。
+> CONTEXT: Skills/78/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサンダーウェポンを唱えた！
+> CONTEXT: Skills/78/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強撃
+> CONTEXT: Skills/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に対して強力な攻撃を行う。
+> CONTEXT: Skills/80/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は強撃を放った！
+> CONTEXT: Skills/80/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+薙ぎ払い
+> CONTEXT: Skills/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に対して攻撃を行う。
+> CONTEXT: Skills/81/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は薙ぎ払った！
+> CONTEXT: Skills/81/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂戦士の咆哮
+> CONTEXT: Skills/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の攻撃力を少し上げる。
+> CONTEXT: Skills/82/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は狂戦士の咆哮を使った！
+> CONTEXT: Skills/82/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バーサーカーダンス
+> CONTEXT: Skills/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧技。敵３体に対して強力な攻撃を行う。
+> CONTEXT: Skills/83/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバーサーカーダンスを放った！
+> CONTEXT: Skills/83/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ギガスランページ
+> CONTEXT: Skills/84/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧技。敵全体に対して強力な攻撃を行う。
+> CONTEXT: Skills/84/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はギガスランページを放った！
+> CONTEXT: Skills/84/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タックル
+> CONTEXT: Skills/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に対して攻撃を行ない、バランスを崩させる。
+ダメージは使用者の攻撃力と防御力に依存する。
+> CONTEXT: Skills/85/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はタックルを放った！
+> CONTEXT: Skills/85/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャクラ
+> CONTEXT: Skills/86/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用者の状態異常をすべて治す。
+> CONTEXT: Skills/86/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はチャクラを使った！
+> CONTEXT: Skills/86/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虎伏の構え
+> CONTEXT: Skills/87/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、敵の攻撃をキャンセルして反撃を行う。
+> CONTEXT: Skills/87/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は虎伏の構えを使った！
+> CONTEXT: Skills/87/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無影脚
+> CONTEXT: Skills/88/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に対して、防御力無視の強力な攻撃を行う。
+通常よりも素早く行動できる。
+> CONTEXT: Skills/88/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は無影脚を放った！
+> CONTEXT: Skills/88/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破龍爪円舞
+> CONTEXT: Skills/89/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+爪技。敵単体に対して、防御力無視の強力な２回攻撃を行う。
+> CONTEXT: Skills/89/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は破龍爪円舞を放った！
+> CONTEXT: Skills/89/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+１ターンの間、ＨＰの少ない味方を自動的にかばう。
+> CONTEXT: Skills/90/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は仲間をかばっている。
+> CONTEXT: Skills/90/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の狙われやすさを上げる。
+> CONTEXT: Skills/91/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は敵の注意を引きつけた！
+> CONTEXT: Skills/91/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉄壁の守り
+> CONTEXT: Skills/92/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者への物理攻撃をほぼ完全に防ぐ。
+> CONTEXT: Skills/92/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は鉄壁の守りを使った！
+> CONTEXT: Skills/92/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リッターシルト
+> CONTEXT: Skills/93/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の防御力を大幅に上げる。
+> CONTEXT: Skills/93/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はリッターシルトを使った！
+> CONTEXT: Skills/93/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼクスシュツルム
+> CONTEXT: Skills/94/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍技。敵３体に対して強力な２回攻撃を行う。
+> CONTEXT: Skills/94/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はゼクスシュツルムを放った！
+> CONTEXT: Skills/94/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーラブレード
+> CONTEXT: Skills/95/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣技。敵単体に対して強力な攻撃を行ない、沈黙させる。
+ダメージは使用者の攻撃力と魔法力に依存する。
+> CONTEXT: Skills/95/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はオーラブレードを放った！
+> CONTEXT: Skills/95/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ディスペル
+> CONTEXT: Skills/96/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体の強化魔法を解除する。
+> CONTEXT: Skills/96/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はディスペルを使った！
+> CONTEXT: Skills/96/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法バリア
+> CONTEXT: Skills/97/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の魔法防御を大幅に上げる。
+> CONTEXT: Skills/97/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔法バリアを使った！
+> CONTEXT: Skills/97/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リインフォーサー
+> CONTEXT: Skills/98/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者に炎・氷・雷の属性を付与する。
+> CONTEXT: Skills/98/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はリインフォーサーを使った！
+> CONTEXT: Skills/98/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+レディアントブレード
+> CONTEXT: Skills/99/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣技。敵全体に対して強力な神聖属性の攻撃を行う。
+ダメージは使用者の攻撃力と魔法力に依存する。
+> CONTEXT: Skills/99/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はレディアントブレードを放った！
+> CONTEXT: Skills/99/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎧通し
+> CONTEXT: Skills/100/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に防御力無視の攻撃を行なう。
+> CONTEXT: Skills/100/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は鎧通しを放った！
+> CONTEXT: Skills/100/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心頭滅却
+> CONTEXT: Skills/101/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用者のＴＰを少し増やす。
+> CONTEXT: Skills/101/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は心頭滅却を使った！
+> CONTEXT: Skills/101/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+八相
+> CONTEXT: Skills/102/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の攻撃力と防御力を少し上げる。
+> CONTEXT: Skills/102/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は八相を使った！
+> CONTEXT: Skills/102/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ツバメ返し
+> CONTEXT: Skills/103/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+刀技。敵全体に対して２回攻撃を行う。
+> CONTEXT: Skills/103/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はツバメ返しを放った！
+> CONTEXT: Skills/103/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+桜花夢幻刃
+> CONTEXT: Skills/104/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+刀技。敵全体に対して４回攻撃を行う。
+> CONTEXT: Skills/104/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は桜花夢幻刃を放った！
+> CONTEXT: Skills/104/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウェポンブレイク
+> CONTEXT: Skills/105/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に必中攻撃を行い、攻撃力を少し下げる。
+> CONTEXT: Skills/105/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウェポンブレイクを放った！
+> CONTEXT: Skills/105/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーマーブレイク
+> CONTEXT: Skills/106/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に必中攻撃を行い、防御力を少し下げる。
+> CONTEXT: Skills/106/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアーマーブレイクを放った！
+> CONTEXT: Skills/106/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶影
+> CONTEXT: Skills/107/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の敏捷性を大幅に上げる。
+> CONTEXT: Skills/107/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は絶影を使った！
+> CONTEXT: Skills/107/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリプルショット
+> CONTEXT: Skills/108/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓技。敵３体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+> CONTEXT: Skills/108/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はトリプルショットを放った！
+> CONTEXT: Skills/108/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サウザンドアロー
+> CONTEXT: Skills/109/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓技。敵全体に対して３回攻撃を行う。
+ダメージは使用者の攻撃力と敏捷性に依存する。
+> CONTEXT: Skills/109/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサウザンドアローを放った！
+> CONTEXT: Skills/109/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の狙われやすさを下げる。
+> CONTEXT: Skills/110/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は気配を消した！
+> CONTEXT: Skills/110/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+閃光玉
+> CONTEXT: Skills/111/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は閃光玉を使った！
+> CONTEXT: Skills/111/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盗賊の悪運
+> CONTEXT: Skills/112/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+８ターンの間、使用者の運を大幅に上げる。
+> CONTEXT: Skills/112/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は盗賊の悪運を使った！
+> CONTEXT: Skills/112/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アサシンエッジ
+> CONTEXT: Skills/113/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣技。敵単体に対して強力な２回攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+> CONTEXT: Skills/113/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアサシンエッジを放った！
+> CONTEXT: Skills/113/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァリアントエッジ
+> CONTEXT: Skills/114/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣技。敵４体に対して強力な攻撃を行う。
+ダメージは使用者の攻撃力と運に依存する。
+> CONTEXT: Skills/114/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はヴァリアントエッジを放った！
+> CONTEXT: Skills/114/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖霊の祝福
+> CONTEXT: Skills/115/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、味方全体の防御力を少し上げる。
+> CONTEXT: Skills/115/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は聖霊の祝福を使った！
+> CONTEXT: Skills/115/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妖精の息吹
+> CONTEXT: Skills/116/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+４ターンの間、味方全体をＨＰ自動回復状態にする。
+> CONTEXT: Skills/116/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は妖精の息吹を使った！
+> CONTEXT: Skills/116/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神罰
+> CONTEXT: Skills/117/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体に対して、魔法力依存の神聖属性攻撃を行う。
+> CONTEXT: Skills/117/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は神罰を放った！
+> CONTEXT: Skills/117/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女神の加護
+> CONTEXT: Skills/118/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+７ターンの間、味方全体の防御力と魔法防御を大幅に上げる。
+> CONTEXT: Skills/118/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は女神の加護を使った！
+> CONTEXT: Skills/118/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+１ターンの間、敵の魔法攻撃を跳ね返す。
+> CONTEXT: Skills/119/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は敵の魔法攻撃に備えている。
+> CONTEXT: Skills/119/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スペルエンハンス
+> CONTEXT: Skills/120/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の魔法力を大幅に上げる。
+> CONTEXT: Skills/120/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスペルエンハンスを使った！
+> CONTEXT: Skills/120/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナイトメア
+> CONTEXT: Skills/121/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵全体を睡眠状態にし、魔法防御を大幅に下げる。
+> CONTEXT: Skills/121/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はナイトメアを放った！
+> CONTEXT: Skills/121/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力の奔流
+> CONTEXT: Skills/122/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使用者のＭＰを最大値の50％回復する。
+> CONTEXT: Skills/122/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔力の奔流を使った！
+> CONTEXT: Skills/122/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔脈のオーラ
+> CONTEXT: Skills/123/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+４ターンの間、使用者をＭＰ自動回復状態にする。
+> CONTEXT: Skills/123/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔脈のオーラを使った！
+> CONTEXT: Skills/123/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絶対魔法防御
+> CONTEXT: Skills/124/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者への魔法攻撃を打ち消す。
+> CONTEXT: Skills/124/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は絶対魔法防御を使った！
+> CONTEXT: Skills/124/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マナの光輝
+> CONTEXT: Skills/125/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、味方全体の状態異常を防止する。
+> CONTEXT: Skills/125/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はマナの光輝を使った！
+> CONTEXT: Skills/125/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔道の秘儀
+> CONTEXT: Skills/126/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の消費ＭＰを大幅に減らす。
+> CONTEXT: Skills/126/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔道の秘儀を使った！
+> CONTEXT: Skills/126/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1ターンの間何もせずにぼんやりする。
+> CONTEXT: Skills/128/description/
+Does nothing for one turn.
+> END STRING
+
+> BEGIN STRING
+はテレッとしている！
+> CONTEXT: Skills/128/message1/
+ doesn't do anything.
+> END STRING
+
+> BEGIN STRING
+足を滑らせる
+> CONTEXT: Skills/129/name/
+Trip and fall
+> END STRING
+
+> BEGIN STRING
+うっかり足を滑らせてころぶ。
+頭を打って大ダメージ。戦闘には負ける。
+> CONTEXT: Skills/129/description/
+Carelessly slip your foot and fall.
+Deals massive damage to your head. Loses the battle.
+> END STRING
+
+> BEGIN STRING
+はころんでしまった！
+> CONTEXT: Skills/129/message1/
+ has fallen down!
+> END STRING
+
+> BEGIN STRING
+頭を強打した！！
+> CONTEXT: Skills/129/message2/
+ hit their head hard!
+> END STRING
+
+> BEGIN STRING
+魔物攻撃1
+> CONTEXT: Skills/132/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は様子を伺っている…
+> CONTEXT: Skills/132/message1/
+> CONTEXT: Skills/133/message1/
+> CONTEXT: Skills/134/message1/
+ is about to do something...
+> END STRING
+
+> BEGIN STRING
+魔物攻撃2
+> CONTEXT: Skills/133/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物攻撃3
+> CONTEXT: Skills/134/name/ < UNTRANSLATED
+
+> END STRING

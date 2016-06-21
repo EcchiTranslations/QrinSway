@@ -1,0 +1,1571 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔物
+> CONTEXT: Troops/1/name/
+> CONTEXT: Troops/4/name/
+> CONTEXT: Enemies/1/name/
+> CONTEXT: Enemies/2/name/
+> CONTEXT: Enemies/4/name/
+Demon
+> END STRING
+
+################################################################################
+# Ignore Troops/1
+# Duplicate code from first game
+################################################################################
+
+> BEGIN STRING
+ナズナ：
+すぐに、終わらせる…。
+覚悟して。
+> CONTEXT: Troops/1/pages/0/2/Dialogue
+Nazuna:
+Time to end this now...\\.
+Prepare.
+> END STRING
+
+> BEGIN STRING
+魔物は呪文をつぶやいている…
+> CONTEXT: Troops/1/pages/1/1/Dialogue
+The demon murmurs an incantation...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+むっ…、魔力が高まってる。
+早めに倒さないと…
+> CONTEXT: Troops/1/pages/1/4/Dialogue
+Nazuna:
+Huh..., his magic is getting stronger.
+I need to end this now...
+> END STRING
+
+> BEGIN STRING
+魔物:
+ばかめ！
+もう遅いわ！！
+> CONTEXT: Troops/1/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物の手から放たれた魔法が、
+周囲を闇に染める！
+> CONTEXT: Troops/1/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…！
+> CONTEXT: Troops/1/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇が晴れ、
+奪われた視界が元に戻る…。
+> CONTEXT: Troops/1/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(今のはいったい、
+何の魔法…？
+ダメージは受けていない…)
+> CONTEXT: Troops/1/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ざわざわ…
+> CONTEXT: Troops/1/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/1/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/38/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……。
+> CONTEXT: Troops/1/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/88/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/89/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/92/pages/0/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/92/pages/0/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/52/pages/1/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/52/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ…！？
+え！？えええっ！！？
+> CONTEXT: Troops/1/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ハハハ、それは呪いの服だ！
+俺の魔法は、他人の服を強制的に着せ替えてしまうのだ。
+> CONTEXT: Troops/1/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+こ、これ、呪いの服…！？
+どう見ても、す、すく……
+> CONTEXT: Troops/1/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+なんと、魔物が魔法を放った途端、
+ナズナさんの服が、
+スクール水着に…！
+> CONTEXT: Troops/1/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+魔物いわく、呪いの服だそうです！
+しかし、似合っていますねー、
+スクール水着！！
+> CONTEXT: Troops/1/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひゃっ！？
+と、と、撮っちゃ駄目！！
+こんな格好…！
+> CONTEXT: Troops/1/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ちなみに、呪いの服は、
+脱ぐことはできても、着替えることはできんからな。
+お前はもう、他の服を着れないというわけだ。
+> CONTEXT: Troops/1/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+今日のところは、挨拶代わりだ！
+次は倒すまでやるからな。
+> CONTEXT: Troops/1/pages/1/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物は好き勝手にまくし立てると、
+ナズナを置いて、
+飛び去っていった…。
+> CONTEXT: Troops/1/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、ちょっと、待っ……。
+> CONTEXT: Troops/1/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+################################################################################
+
+> BEGIN STRING
+魔物2
+> CONTEXT: Troops/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人
+> CONTEXT: Troops/3/name/
+Bystander
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+消して！消して！！消して！！消して！！！
+消せ！この馬鹿！！！
+> CONTEXT: Troops/3/pages/0/8/Dialogue
+Nazuna:
+Delete it! Delete it!! Delete it!! Delete it!!!
+Delete it! Delete it stupid!!!
+> END STRING
+
+> BEGIN STRING
+通行人:
+うるせえなあ。
+俺が撮った写真なんだから、好きにしていいだろ。
+これ、ネットにアップして、ブログのPV稼ぐんだ〜。
+> CONTEXT: Troops/3/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なっ…な、な…！！
+だめぇ！！
+絶対に駄目！！！
+> CONTEXT: Troops/3/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+鬱陶しいなぁ。
+さっさとアップしちゃえば、諦めるかな？
+まずは、っと…。
+> CONTEXT: Troops/3/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ほらほら、ナズナちゃん！
+この写真、ブログにアップしたよ！
+これでもう、俺の端末の写真を消しても無駄だぜ。
+> CONTEXT: Troops/3/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナのお尻の写真が、
+ネットにアップされた！！
+> CONTEXT: Troops/3/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃああああああああ！！？
+> CONTEXT: Troops/3/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャ、パシャ…
+> CONTEXT: Troops/3/pages/2/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/462/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ま、まだ撮ってる…。
+> CONTEXT: Troops/3/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+写真…、やめてよぉぉ…！
+私の裸を不特定多数に公開するなんて、
+やり口が、汚い…！
+> CONTEXT: Troops/3/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うへへ…、ブログのPVが俺の収入に直結するんだ。
+人気のためなら、何だってやるぜ〜！
+> CONTEXT: Troops/3/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+…てなわけで、この写真も、っと…
+> CONTEXT: Troops/3/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ほ〜ら、よく撮れてるだろ？
+左右の乳首が並んで、美味しそうだねぇ。
+これで、世界中のみんなに見てもらえるぞ！
+> CONTEXT: Troops/3/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナの胸の写真が、
+ネットにアップされた！！
+> CONTEXT: Troops/3/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やーめーーてーーーーー！！！！！
+こんなの、犯罪…！！
+> CONTEXT: Troops/3/pages/2/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+しつこい奴だ。
+本当は、もっと焦らしてから貼りたかったんだけど…、
+負けたら消されちゃうし、今アップするか。
+> CONTEXT: Troops/3/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+はい、これでナズナちゃんの恥ずかしいとこ、コンプリート！
+もう、撮ったの全部アップしちゃった。
+俺を倒しても、もう何の意味もないぜ。
+> CONTEXT: Troops/3/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナの性器の写真が、
+ネットにアップされた！！
+> CONTEXT: Troops/3/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やだあぁ……！！
+なんで…、こんな！
+酷い…、大勢に、見られちゃうっ…！！
+> CONTEXT: Troops/3/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+もう、アップする写真も残ってないし、
+逃がして欲しいんだけど…。
+> CONTEXT: Troops/3/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふざけないで…！
+ブログごと、削除してもらう…。
+それに、一発殴らないと、気が済まない！！
+> CONTEXT: Troops/3/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+そんなこと言うなよー。
+こんなに大反響なのにさ。
+もう、何万PVも稼いでるんだぜ？
+> CONTEXT: Troops/3/pages/4/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+『ナズナちゃんのお尻、プリプリしてて柔らかそう！
+触ってみたいなぁ。』
+> CONTEXT: Troops/3/pages/4/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+『高画質だから、乳首の先っぽの形まではっきり分かりますね！
+めちゃくちゃ興奮します！！』
+> CONTEXT: Troops/3/pages/4/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+『こんなに近くでナズナちゃんのオマ○コが撮れるなんて、
+素晴らしい才能ですね！！
+今日はこのスジを見ながら抜こうと思います！！』
+> CONTEXT: Troops/3/pages/4/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+コメント…、読み上げるなーーーーっ！！
+ああぅ、ほ、ほんとに、ネットで公開されてる…。
+何万人もの人に、私の裸の写真、ばら撒かれちゃった…。
+> CONTEXT: Troops/3/pages/4/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くらくら…
+> CONTEXT: Troops/3/pages/5/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、なんだか疲れてきてるな。
+ショックを受けすぎて、体力が切れ始めてるんだろ…。
+> CONTEXT: Troops/3/pages/5/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぐ…、うるさい！！
+き、キック…！
+> CONTEXT: Troops/3/pages/5/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドボォ！！
+> CONTEXT: Troops/3/pages/5/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ぐえっ！！
+> CONTEXT: Troops/3/pages/5/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャッ！！
+> CONTEXT: Troops/3/pages/5/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！
+> CONTEXT: Troops/3/pages/5/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ……、
+い…、今っ！
+> CONTEXT: Troops/3/pages/5/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+いたた…、おっ、撮れた撮れた。
+決定的瞬間！！
+これも即、ブログにアップ…と。
+> CONTEXT: Troops/3/pages/5/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ちょ、ちょ、ちょ……！！
+それは駄目っ！！
+ほんとに、駄目ぇえ！！！
+> CONTEXT: Troops/3/pages/5/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あはは、アップして10秒で、ものすげー閲覧数。
+みんな、ずーっと貼り付いて、更新を待ってるんだろうな。
+> CONTEXT: Troops/3/pages/5/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ…、見られて、世界中に…。
+やだ、恥ずかしいっ、恥ずかしいぃ…！
+> CONTEXT: Troops/3/pages/5/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふらふら…
+> CONTEXT: Troops/3/pages/5/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは恥ずかしさのあまり、
+気絶してしまった…。
+> CONTEXT: Troops/3/pages/5/66/Dialogue
+> CONTEXT: Commonevents/4/284/Dialogue
+Nazuna had become so embarrassed 
+she fainted...
+> END STRING
+
+> BEGIN STRING
+魔物:
+さて、どこからでも、かかって来るがいい。
+> CONTEXT: Troops/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………。
+ぶつぶつ…。
+> CONTEXT: Troops/4/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+大丈夫…、恥ずかしくない……、町を守るため…。
+必要なこと。仕方ないこと……。
+> CONTEXT: Troops/4/pages/0/9/Dialogue
+Nazuna:
+Alright..., I'm not embarrassed......, 
+to defend this town...
+It's necessary. It can't be helped......
+> END STRING
+
+> BEGIN STRING
+ぬぎぬぎ…
+> CONTEXT: Troops/4/pages/0/17/Dialogue
+> CONTEXT: Troops/4/pages/0/46/Dialogue
+*undresses*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…。
+> CONTEXT: Troops/4/pages/0/19/Dialogue
+> CONTEXT: Map004/events/26/pages/2/2/Dialogue
+> CONTEXT: Map001/events/92/pages/0/52/Dialogue
+> CONTEXT: Map002/events/38/pages/0/123/Dialogue
+Nazuna:
+...
+> END STRING
+
+> BEGIN STRING
+通行人:
+おいおい、ナズナちゃん脱いでるぞ？
+まあ、メガネの前だと、常時全裸と変わらんけど。
+でも、一体、どうしたんだ…？
+> CONTEXT: Troops/4/pages/0/22/Dialogue
+Bystander:
+Woah, Nazuna's taking off her clothes?
+Well, with the glasses, it's not very different.
+But, what on earth happened...?
+> END STRING
+
+> BEGIN STRING
+通行人:
+メガネ越しじゃない、純粋な下着姿ってのも、なかなか…。
+はぁはぁ。
+> CONTEXT: Troops/4/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+？
+> CONTEXT: Troops/4/pages/0/31/Dialogue
+Demon:
+?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、下着姿になってしまいました！
+軽量化して、動きやすくする作戦でしょうか？
+> CONTEXT: Troops/4/pages/0/34/Dialogue
+Reporter:
+Nazuna's in her underwear!
+With less weight on, 
+would she be able to move around easier?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+く…、くぅ…。
+> CONTEXT: Troops/4/pages/0/39/Dialogue
+Nazuna:
+Ku..., kuu...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+なんと、下着まで…！
+ご覧ください、完全な全裸です！
+ナズナさん、町中で全裸姿を晒しております！！
+> CONTEXT: Troops/4/pages/0/48/Dialogue
+What, even her underwear...!
+She's completely naked!
+Nazuna is completely naked in downtown!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+い、言わないで…、撮らないで！！
+> CONTEXT: Troops/4/pages/0/54/Dialogue
+Nazuna:
+D-\\.don't say that...\\.\\.
+Don't record this!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+お前が自分から脱いだんだろうが。
+どうした？
+ストレスで壊れたか？
+> CONTEXT: Troops/4/pages/0/57/Dialogue
+Demon:
+You took if off by yourself.
+Did something happen?
+Did the stress break you?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ち、違…！
+よ、余裕を見せてるのも、今のうちだから！！
+これを見れば…、あなたも…！
+> CONTEXT: Troops/4/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぶつぶつ……。
+はぁはぁ…、だ、大丈夫…。
+どうせもう、皆に見られてるし…、今更……。
+> CONTEXT: Troops/4/pages/0/69/Dialogue
+Nazuna:
+\\}*mumble......*\\{
+*pant*\\. *pant*\\. I-\\.it's fine...\\.\\.
+Everyone's...\\.\\. already seen by now...
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうした？
+早くしろ。
+> CONTEXT: Troops/4/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うるさい！！
+…う、くぅぅ…！
+> CONTEXT: Troops/4/pages/0/79/Dialogue
+Nazuna:
+Shut up!!
+...uguu...!
+> END STRING
+
+> BEGIN STRING
+通行人:
+おおっ、すげー格好…。
+> CONTEXT: Troops/4/pages/0/85/Dialogue
+Passeby:
+Ooo, nice looks...
+> END STRING
+
+> BEGIN STRING
+通行人:
+また、マ○コ見せてるよ、ナズナちゃん…。
+今度は自分から…。
+露出に目覚めたか？
+> CONTEXT: Troops/4/pages/0/88/Dialogue
+Also, she's showing her pussy...\\.
+Willingly this time...\\.\\.
+Has she awakend to exhibitionism?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+おっと、ナズナさん、脚を開いて座り込みました！
+色仕掛けでしょうか？
+丸見えです！！
+> CONTEXT: Troops/4/pages/0/93/Dialogue
+Reporter:
+Oh ho, she sat down and spread her legs!
+Is she trying to seduce?
+It's completely exposed!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+が、外野は黙ってて…！
+あっち、向いてて…。
+ぅ、う…。
+> CONTEXT: Troops/4/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぱぁ…。
+> CONTEXT: Troops/4/pages/0/105/Dialogue
+> CONTEXT: Commonevents/1/77/Dialogue
+*spread*
+> END STRING
+
+> BEGIN STRING
+魔物:
+！？
+> CONTEXT: Troops/4/pages/0/107/Dialogue
+Demon:
+\\{\\{!?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、秘部を開いて、テープでとめた！
+中に、呪文のようなものが書かれていますね！！
+これがナズナさんの秘密兵器でしょうか！？
+> CONTEXT: Troops/4/pages/0/110/Dialogue
+Reporter:
+Her privates are being held open with tape!
+A spell is written inside!
+Is this her secret weapon!?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ど、どう…！？
+あなたの弱点…、特殊な呪文を、
+触媒となる全裸の10代少女の性器に書きこんで、見せつける…。
+> CONTEXT: Troops/4/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いきなりは、絶対できない手段だけど…、
+あなたが酷いことをしたせいで、こっちも踏ん切りがついた！！
+私が払う代償は大きいけど、これで勝てる！
+> CONTEXT: Troops/4/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うわぁ…、とんでもない弱点もあったもんだな。
+ていうか、あんなの、魔物じゃなくても、
+だいたいの男にとっては弱点じゃね？
+> CONTEXT: Troops/4/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+これまでも、テレビで晒されたとはいえ…、
+よくあんなのできるなぁ、ナズナちゃん。
+まあ、それだけ追い詰められてた、ってことだろうな。
+> CONTEXT: Troops/4/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……………。
+> CONTEXT: Troops/4/pages/0/136/Dialogue
+Nazuna:
+.........
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(どうせ、世間に公開しちゃってるからと思って、やっちゃったけど…、
+やっぱり、は、恥ずかしいぃぃぃ…！！)
+> CONTEXT: Troops/4/pages/0/140/Dialogue
+Nazuna:
+(Even though the whole world has seen by now, 
+it's still embarrassing)
+> END STRING
+
+> BEGIN STRING
+魔物:
+…なんなんだ？それは。
+> CONTEXT: Troops/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！
+> CONTEXT: Troops/4/pages/1/5/Dialogue
+Nazuna:
+\\{\\{!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(き、効いてる！！
+協会員さんが言ってた通り…、知らないふりをして、耐えてるんだ！
+本当はもう、フラフラなはず！)
+> CONTEXT: Troops/4/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ、はぁ……。
+私は辛いけど、あなたはもっと、辛いはず！！
+く、くらえ！えいえい！
+> CONTEXT: Troops/4/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、たたみかけるように、
+腰を振って性器を見せつけています！！
+心なしか、魔物が怯んでいるようですね！！
+> CONTEXT: Troops/4/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+カメラは、こっち来ないでいい…！
+撮るなぁっ…！！
+> CONTEXT: Troops/4/pages/1/37/Dialogue
+Nazuna:
+You don't need to bring the camera here...!
+Don't record...!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+……。
+> CONTEXT: Troops/4/pages/2/2/Dialogue
+Demon:
+.......
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ、まだ倒れないのぉ…？
+意外としつこい…。
+恥ずかしいのに…！
+> CONTEXT: Troops/4/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+もっと近寄らなきゃ、効きが弱いのかも…。
+うぅ、くらえぇ…！
+> CONTEXT: Troops/4/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、魔物の至近距離で見せつけます！
+これは、人間の男性であれば確実にノックアウトですね！！
+魔物にはそういった感情はあるのでしょうか！？
+> CONTEXT: Troops/4/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ご覧ください、肌の張りはみずみずしく、
+無毛の股間と一本のスリットからは想像も出来ないほど、
+中はまっピンクの膣内…、奥には処女膜も見えますね〜。
+> CONTEXT: Troops/4/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あなたたちは、近くで撮らなくていいからっ！！！
+> CONTEXT: Troops/4/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+意外と長く耐えてるっ…！
+うぅ、このままじゃ、負けちゃう…。
+ここまでしたのに、私の覚悟が無駄になるのだけは、嫌…！
+> CONTEXT: Troops/4/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+協会員さんから聞いた、奥の手…。
+これだけはやりたくなかったけど、仕方ない…！
+うううぅっ…！
+> CONTEXT: Troops/4/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+なんだ、ナズナちゃん、こっちに来るぞ！？
+> CONTEXT: Troops/4/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うわ…、恥ずかしくないのかな…。
+> CONTEXT: Troops/4/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぅぅ…、みんな、見て…！
+わ、私のアソコの、魔法陣、いっぱい見てぇ…！
+> CONTEXT: Troops/4/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、ご乱心でしょうか！？
+今度は集まったギャラリーに、性器を見せつけ始めました！
+> CONTEXT: Troops/4/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぐす…、カメラも、撮って…！
+いっぱい…、大勢に、見せつけて…！
+> CONTEXT: Troops/4/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(協会員さん…、これでいいのぉ…！？
+大勢に見せれば見せるほど…、呪文の効果は増すって…。
+恥ずかしいけど…、ま、負けたくない…！！)
+> CONTEXT: Troops/4/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+おぉ、よく見える…。
+> CONTEXT: Troops/4/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+そんなに見て欲しかったの？
+この、かわいい落書きマ○コ。
+> CONTEXT: Troops/4/pages/4/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ち、違っ…、大勢が見るほど、呪文の効力が…。
+だから、恥ずかしいの、我慢して…、こんなことを…！
+うぅ、ど、どうせ、あなたたちは、メガネやテレビでも、見てるし…。
+> CONTEXT: Troops/4/pages/4/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+まあ、確かに、どうせテレビでマ○コの奥まで見せまくったんだし、
+同じことして勝てるなら、やった方が得か。
+…でもなぁ、これは…。うひひ！
+> CONTEXT: Troops/4/pages/4/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+マジックで書いたの？この呪文。
+油性じゃないよね？
+鏡見ながら、自分で書いてるの想像すると、惨めで笑えるな。
+> CONTEXT: Troops/4/pages/4/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…………。
+は…恥ずかしすぎて、こっちが先に、
+気絶しそう…。
+> CONTEXT: Troops/4/pages/4/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+まだ倒れないなんて…！
+ここまでしても、見せ足りないっていうの…！？
+こ、これ以上、なんて…。
+> CONTEXT: Troops/4/pages/5/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、協力するぜ！
+写真撮って、SNSやら匿名掲示板に、
+アップしまくってあげる！
+> CONTEXT: Troops/4/pages/5/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、俺も協力するよ！
+早速、アップで撮影して…。
+おお、大迫力！
+> CONTEXT: Troops/4/pages/5/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャパシャパシャパシャ…
+> CONTEXT: Troops/4/pages/5/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/38/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぇあ、ひっっ…！？
+あ、ちょ…、う、ううん、
+あ、ありが、ありがとう…。ありがとう？
+> CONTEXT: Troops/4/pages/5/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(なんだかもう…、頭、クラクラして…、
+わけわかんなく、なってきた…。
+な、なんなの…、これ、現実…？)
+> CONTEXT: Troops/4/pages/5/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+我々も微力ながら協力しますね！！
+日本中のお茶の間に、ナズナさんの性器の映像、
+奥の奥まで、無修正でお届けしますので！！
+> CONTEXT: Troops/4/pages/5/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふぁ、ふぁい…、お願い、しましゅ…。
+ナズナのオマ○コ…、全国に隅々まで、公開してくらしゃい…。
+> CONTEXT: Troops/4/pages/5/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(あっ、もうだめ…。
+意識が朦朧として…、自分でも、何言ってるのか…？
+どうなってるの、今……？)
+> CONTEXT: Troops/4/pages/5/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふにゃふにゃ……。
+> CONTEXT: Troops/4/pages/5/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+あれっ、ナズナさん、気絶してしまいました…。
+何が起こったのでしょうか？
+> CONTEXT: Troops/4/pages/5/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+何だったんだ…？
+> CONTEXT: Troops/4/pages/5/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣
+> CONTEXT: Troops/5/name/
+> CONTEXT: Enemies/5/name/
+Reporter
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、世間に裸を晒したことで、
+非常に神経質になっていますね〜。
+色々とお話しを聞いてみましょう！
+> CONTEXT: Troops/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+まずは、このメガネについて！
+現時点で、大変なヒット作となりましたが…、
+ナズナさんはどのように……
+> CONTEXT: Troops/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そのメガネ、使うなって言ってるの！！！
+> CONTEXT: Troops/5/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+むぅ…、勢いで戦いを仕掛けたけど…、
+流石に、強力な魔法でぶっとばす訳には…。
+無傷で帰す気も、ないけど…。
+> CONTEXT: Troops/5/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+…では、ここからは、
+ナズナさんが魔物に敗北した際の画像を見ながら、
+お話しを進めましょう…。
+> CONTEXT: Troops/5/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣はナズナの裸が写った
+フリップを取り出した！
+> CONTEXT: Troops/5/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぎゃーーーーっ！！？
+何、出してる！？
+仕舞って！仕舞えっっ！！
+> CONTEXT: Troops/5/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+視聴者の皆さんに注目して欲しいのは、
+やはり…、厚手の制服の生地すら完全透過する、
+メガネの圧倒的性能でしょうね〜。
+> CONTEXT: Troops/5/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+見てください、フリップ同様、ナズナさんの胸が綺麗に透けています。
+ブラの内側の乳首まで、鮮明に見えますね〜。
+仕組みはどうなってるんでしょう？
+> CONTEXT: Troops/5/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ち、ちく…！？
+と、撮るな…、放送はぁぁ…っ！
+> CONTEXT: Troops/5/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、早く倒して、カメラを壊そう！
+それが一番、いい方法…
+> CONTEXT: Troops/5/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣はナズナのお尻が
+大きく写ったフリップを取り出した！
+> CONTEXT: Troops/5/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！！！？？
+> CONTEXT: Troops/5/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさんがお尻を突き出したときに、
+撮影されたものですね！！
+こんなところまで、はっきりと見えています！！
+> CONTEXT: Troops/5/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+今回の魔物は、ナズナさんの裸を晒すことに、
+一切の躊躇がないどころか…、
+テレビを利用して、積極的に拡散し、宣伝に利用しているんですね！
+> CONTEXT: Troops/5/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+実際、全国ネットでこんな美少女のお尻の穴が公開されては、
+みんなメガネが欲しくなりますよね〜！
+カメラさん、お尻の穴を、もうちょっとアップにして下さい。
+> CONTEXT: Troops/5/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やぁあああああっ！！？
+あっ…、やめて！！
+お尻の穴…は、だ、駄目！！
+> CONTEXT: Troops/5/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+たまたま現場に居合わせた我々のカメラは、
+この肛門を8K画質で接写することに成功していました…。
+皺の一本一本の深さまで、はっきり分かりますね。
+> CONTEXT: Troops/5/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+こんな映像をばら撒くことで、売り上げを伸ばそうとは…、
+恐ろしい発想があったものです！
+当のナズナさんにとっては、たまったものではありませんね〜！
+> CONTEXT: Troops/5/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うるさい、バカぁ…！！
+全部、自分たちに、ブーメラン返ってきてるじゃない！！
+分かってないのぉ…！？
+> CONTEXT: Troops/5/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、うっ…。
+> CONTEXT: Troops/5/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(もうだめ…、泣いちゃいそう…。
+こんな、卑怯者たちに、一矢報いることもできず、終わるなんて…、
+そんなの、嫌…！)
+> CONTEXT: Troops/5/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+では、次のフリップに…
+> CONTEXT: Troops/5/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+まだ、あるのぉ…！？
+> CONTEXT: Troops/5/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(止めたいけど…、もう、足が震えて！！
+恥ずかしすぎて…、立つのがやっと…。)
+> CONTEXT: Troops/5/pages/3/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣はナズナの性器が
+写ったフリップを取り出した！
+> CONTEXT: Troops/5/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、ぁ、あ…！！
+出さないでぇ…、それだけは！！
+> CONTEXT: Troops/5/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+やっぱり、性器を見られるのは、特別恥ずかしいですか？
+我々が撮影した映像を使って、魔物が作成したCMです…。
+これは今でも、物議を醸していますね〜。
+> CONTEXT: Troops/5/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ほら、見てください！！
+こんなに大陰唇を広げて、中まで公開するようなCMは、
+前代未聞ですよ〜！
+> CONTEXT: Troops/5/pages/3/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”ぁあああ”ぁあ！！！
+い、いやーーーーっ！！！
+見ないで、見ないでぇえ…！
+> CONTEXT: Troops/5/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(やだ！やだ！！
+なんでこんな映像を、何度も、
+テレビで流されなきゃ、いけないのぉぉ…！？)
+> CONTEXT: Troops/5/pages/4/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+もちろん、本来、こんなものをテレビで流したら、
+アブラテレビは即刻、営業停止でしょう！！
+しかし、これは魔物が絡むこと！
+> CONTEXT: Troops/5/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+異世界の存在がやることは、あまりに情報が少ないのです！
+広く世間に広めて、少しでも有益な議論を交わさなくては！！
+そのためには、我々は心を鬼にして…
+> CONTEXT: Troops/5/pages/4/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+めちゃくちゃなこと、言ってるっ…！！
+だいたい…、放送してるのは、魔物じゃなくて…、
+私の、裸じゃない…！！
+> CONTEXT: Troops/5/pages/4/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+…あっ、学園の生徒がいます！
+お話しを聞いてみましょう！
+ちょっといいですかー！？
+> CONTEXT: Troops/5/pages/4/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+は、はい！！
+うわ、テレビだ。
+緊張するなあ…。
+> CONTEXT: Troops/5/pages/4/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+これ、見てください！
+ここにいる、ナズナさんの性器です。
+どう思いますか！？
+> CONTEXT: Troops/5/pages/4/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぇええ！！？
+み、見せるなぁぁぁぁ…！？
+> CONTEXT: Troops/5/pages/4/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うは…、本人の前だと言いづらいですけど…、
+すっげー興奮しますね。
+やっぱ、女の子の、こういうとこは…。
+> CONTEXT: Troops/5/pages/4/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………！！！
+……………！……！！！！！
+> CONTEXT: Troops/5/pages/4/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+やはり、宣伝効果としては強いみたいですね〜！
+どんなところが興奮しますか？
+このクリトリス？整った小陰唇？やっぱり膣穴ですか？
+> CONTEXT: Troops/5/pages/4/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ…、そうすね……。
+全部凄いですけど、やっぱ、処女膜って初めて見て……、
+お尻の穴も、映像だとピクピク蠢いてて、たまんねっていうか……。
+> CONTEXT: Troops/5/pages/4/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+指っ…！指しながら、私のアソコを、
+解説しないでぇぇぇぇ…！？
+> CONTEXT: Troops/5/pages/4/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ありがとうございました…。
+いやー、しかし、ナズナさんも大変ですね！
+こんな映像を、毎日何度も、何千万人に見られている訳ですから…
+> CONTEXT: Troops/5/pages/4/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ…っ！
+あひっ、え、えぐっ……。
+ぐしゅ、ひ、ひぐ…！
+> CONTEXT: Troops/5/pages/4/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”ぅ、う”、うぅう”……！
+ご、ごべんなざい…、叩こうとしたの、謝るから……、
+もう、ゆるじで……。
+> CONTEXT: Troops/5/pages/4/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+えっ！？
+許すも何も、我々はナズナさんのことを、嫌っている訳では…。
+ただ、真実を報道しているだけですよー？
+> CONTEXT: Troops/5/pages/4/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うそ、れしょおぉ…！
+私のこと、嫌いだから、するんでしょ！！ぅ、えぐ…！
+> CONTEXT: Troops/5/pages/4/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…っあ、や、やなのぉお…！！
+みんなに見られ”っ…、は、裸…！
+> CONTEXT: Troops/5/pages/4/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ら”っでぇえ”……！！
+わら”しっ、本当は！！
+好きな人…、できだら…、その人にしかっ…！見せたぐ……！！
+> CONTEXT: Troops/5/pages/4/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う”っ、うっ…！
+うわ”ぁああああん……！！！
+カメラ…、CMも…、メガネも、もう、やだぁあああああ”！！！
+> CONTEXT: Troops/5/pages/4/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナの精神力は恥辱に耐えられず、
+へし折れてしまった…。
+> CONTEXT: Troops/5/pages/4/126/Dialogue < UNTRANSLATED
+
+> END STRING

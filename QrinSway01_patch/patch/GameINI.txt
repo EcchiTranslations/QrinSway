@@ -1,0 +1,8 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+QrinSway01
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+> CONTEXT: System/game_title/
+QrinSway01
+> END STRING

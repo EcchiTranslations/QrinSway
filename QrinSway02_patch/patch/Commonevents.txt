@@ -1,0 +1,2232 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ナズナ:
+むっ、何か仕掛けてきそう…。
+> CONTEXT: Commonevents/1/2/Dialogue
+Nazuna:
+Mmm, he seems to be preparing something...
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのスカートに
+手をかけた！！
+> CONTEXT: Commonevents/1/5/Dialogue
+The demon reaches out to her skirt!
+Ready to steal it!!
+> END STRING
+
+> BEGIN STRING
+ナズナは手を払いのけた。
+> CONTEXT: Commonevents/1/11/Dialogue
+Nazuna brushed his hand away.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+さ、触らないで…！
+> CONTEXT: Commonevents/1/16/Dialogue
+Nazuna:
+Do-\\.dont touch it...!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのスカートを
+一気に引き下ろした！！
+> CONTEXT: Commonevents/1/22/Dialogue
+The demon grabs hold of Nazuna's skirt
+and pulls it down in one stroke!!
+> END STRING
+
+> BEGIN STRING
+ずるっ！
+> CONTEXT: Commonevents/1/29/Dialogue
+*drag*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！？
+> CONTEXT: Commonevents/1/31/Dialogue
+Nazuna:
+!!!?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+おっと、魔物がナズナさんの
+スカートを引き下ろして
+しまいました！
+> CONTEXT: Commonevents/1/34/Dialogue
+Reporter:
+Oh ho, the demon grabbed Nazuna's skirt
+and pulled it down
+and took it away!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+白い下着が可愛らしいですねー。
+この間はスクール水着だったので、
+パンツは見えませんでしたから…
+> CONTEXT: Commonevents/1/39/Dialogue
+Reporter:
+Her white underwear is pretty~.
+Since she was in a swimsuit the other day,
+we weren't able to see her underwear.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ、きゃあぁ！？
+> CONTEXT: Commonevents/1/45/Dialogue
+Nazuna:
+Kya,\\. kyaaa!?
+> END STRING
+
+> BEGIN STRING
+身体が硬直してしまう！
+> CONTEXT: Commonevents/1/48/Choice/0
+> CONTEXT: Commonevents/1/74/Choice/0
+> CONTEXT: Commonevents/1/107/Choice/0
+> CONTEXT: Commonevents/1/157/Choice/0
+Body becomes stiff!
+> END STRING
+
+> BEGIN STRING
+スカートを取り戻す！
+> CONTEXT: Commonevents/1/48/Choice/1
+> CONTEXT: Commonevents/1/74/Choice/1
+> CONTEXT: Commonevents/1/107/Choice/1
+> CONTEXT: Commonevents/1/157/Choice/1
+Recover skirt!
+> END STRING
+
+> BEGIN STRING
+魔物:
+おら、じっくり見て貰え！！
+> CONTEXT: Commonevents/1/50/Dialogue
+Demon:
+Watch me closely!!
+> END STRING
+
+> BEGIN STRING
+ぐいっ！
+> CONTEXT: Commonevents/1/58/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/5/23/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/315/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いやっ、や、やめっ…！！
+> CONTEXT: Commonevents/1/61/Dialogue
+Nazuna:
+St-\\.stop it...!!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの脚を開き、
+カメラに向けて抱えあげた！
+> CONTEXT: Commonevents/1/64/Dialogue
+The demon opens up her legs,
+aiming it toward the camera!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+魔物の容赦ない攻撃です！
+ナズナさん動けません！！
+> CONTEXT: Commonevents/1/67/Dialogue
+Reporter:
+It's a merciless attack by the demon!
+Nazuna can't move!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”っ、あっ…、と、撮っちゃ…！
+> CONTEXT: Commonevents/1/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほらほら、拡げてやるぞ〜。
+くくく、パンツの下が、
+大変なことになっているなぁ？
+> CONTEXT: Commonevents/1/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの秘部を、
+パンツの下で、
+思いっきり割り広げた！
+> CONTEXT: Commonevents/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぃいいいいっ！！？
+> CONTEXT: Commonevents/1/95/Dialogue
+Nazuna:
+Piiiiii!!?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+うわっ、これはえぐい！
+魔物がナズナさんの大切な所を、指で拡げています！！
+下着越しでも、中が広がっているのが分かりますね〜。
+> CONTEXT: Commonevents/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あひ…、あっ、や、やぁあ…！
+> CONTEXT: Commonevents/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+見物人どもがつけている眼鏡だが、
+これはな…、こいつにだけ効く、
+スケスケ眼鏡で…
+> CONTEXT: Commonevents/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+せ、説明しちゃダメ…！
+> CONTEXT: Commonevents/1/122/Dialogue
+Nazuna:
+Do-\\.don't tell them that...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+百聞は一見に如かず。
+試してみるといい。
+ほら、カメラの前にかざして…
+> CONTEXT: Commonevents/1/125/Dialogue
+Demon:
+A picture is worth a thousand words.
+Give it a try.
+Hold the glasses infront of the camera.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！？！？
+そ、それ駄目ぇ！！
+やめて、それだけ、はっ…！
+> CONTEXT: Commonevents/1/131/Dialogue
+ナズナ:
+！！？！？
+そ、それ駄目ぇ！！
+やめて、それだけ、はっ…！
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ほ、本当ですね…！
+本当に、ナズナさんの下着が、
+綺麗に透けました！！
+> CONTEXT: Commonevents/1/137/Dialogue
+Reporter:
+It's\\. it's true...!
+Her underwear is completely transparent!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+皆さんご覧ください！
+魔導具の効果を注意喚起するため、
+無修正でお送りしております！
+> CONTEXT: Commonevents/1/142/Dialogue
+Reporter:
+Everyone, look for yourself!
+魔導具の効果を注意喚起するため、
+無修正でお送りしております！
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさんの性器が奥まで
+見えてしまっていますね！！
+何も着けてない様にしか見えません！
+> CONTEXT: Commonevents/1/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぎぃいいいいぃ！！？
+や”め”っ…！
+あ”、ぁわ…！
+> CONTEXT: Commonevents/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうだ！？
+俺が作った眼鏡は、
+素晴らしいだろう！！
+> CONTEXT: Commonevents/1/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+これさえ買えば、
+こいつのこんな姿を、
+いつでも何度でも見放題だ！！
+> CONTEXT: Commonevents/1/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+こんな所の、奥の奥までもな！！
+隅々まで全部見えるだろう！？
+どうだ！どうだ！！
+> CONTEXT: Commonevents/1/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぱくぱく！
+> CONTEXT: Commonevents/1/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぱぁ！くぱぁ！！
+> CONTEXT: Commonevents/1/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひゃわ…、ら、らめぇぇ……。
+撮ららいれ…、見ないれ…。
+あっ、あっ……。
+> CONTEXT: Commonevents/1/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+なんと、魔物はテレビに向けて
+ナズナさんの性器を広げて、
+CMに仕立てあげてしまいました！
+> CONTEXT: Commonevents/1/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+何千万人も見ている番組
+ですからね〜。
+効果は絶大でしょうね〜！
+> CONTEXT: Commonevents/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なんっ、ぜん、まん……。
+はひぃぃ……。
+くらっ…。
+> CONTEXT: Commonevents/1/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+時間の許す限り撮り続けろ。
+カメラのバッテリーが
+持つ限りだ！
+> CONTEXT: Commonevents/1/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+では、あと30分ぐらいですね。
+ナズナさんは辛いですが、
+頑張りましょう！！
+> CONTEXT: Commonevents/1/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+む、り、ぃぃ…！
+は、恥ずかしい…、見られてる、
+全部、全国ネットで……。
+> CONTEXT: Commonevents/1/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はひ…、ひゅ、あ、ぁ……。
+がくっ…。
+> CONTEXT: Commonevents/1/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは気絶してしまい、
+その後、本当に30分間、
+性器を放送され続けた…。
+> CONTEXT: Commonevents/1/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+か、返して！！
+> CONTEXT: Commonevents/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナはスカートを取り返した！
+> CONTEXT: Commonevents/2/12/Dialogue
+Nazuna got her skirt back!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ…、また、テレビに…。
+ゆ、許さない…。
+> CONTEXT: Commonevents/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物がナズナに襲いかかる！
+> CONTEXT: Commonevents/3/2/Dialogue
+The demon rushed toward Nazuna!
+> END STRING
+
+> BEGIN STRING
+バシッ！バシッ！！
+> CONTEXT: Commonevents/3/7/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/3/47/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/4/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飛び離れて距離をとる
+> CONTEXT: Commonevents/3/9/Choice/0
+> CONTEXT: Commonevents/4/9/Choice/0
+Retreat and gain some ground.
+> END STRING
+
+> BEGIN STRING
+足を止めて打ち合う
+> CONTEXT: Commonevents/3/9/Choice/1
+> CONTEXT: Commonevents/4/9/Choice/1
+Stop and fight.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+無駄…。
+体術も、魔物に負けないぐらい、
+鍛えてる…。
+> CONTEXT: Commonevents/3/15/Dialogue
+Nazuna:
+It's useless...
+He has the advantage fighting in such
+close quarters. I need to try my best!
+> END STRING
+
+> BEGIN STRING
+魔物:
+なかなかやるようだが、いいのか？
+手で隠さねば、お前の服は、
+無いのも同然なんだぞ？
+> CONTEXT: Commonevents/3/20/Dialogue
+Demon:
+You're going pretty all out, is that OK?
+Shouldn't you be covering yourself? Your clothes
+are as good as transparent you know?
+> END STRING
+
+> BEGIN STRING
+通行人:
+はぁはぁ…、小さいおっぱい、
+ぷるんぷるん揺れてる…。
+> CONTEXT: Commonevents/3/28/Dialogue
+Bystander:
+Haha... Those small breasts,
+Look at them jiggling around...
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃんの乳首、
+綺麗だなぁ。
+眼鏡、買っといてよかったー！
+> CONTEXT: Commonevents/3/32/Dialogue
+Bystander:
+Nazuna's nipples are really pretty.
+I'm glad I bought these glasses!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…、う！
+> CONTEXT: Commonevents/3/38/Dialogue
+Nazuna:
+... What?!
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほらほら、
+隠した方がいいんじゃないか？
+乳首を見られまくってるぞ？
+> CONTEXT: Commonevents/3/41/Dialogue
+Demon:
+You see?
+Shouldn't you be hiding?
+They are all staring at your nipples.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、あっ…！
+ちょ、待って！
+ずるい、肉弾戦は…！
+> CONTEXT: Commonevents/3/49/Dialogue
+Nazuna:
+W-\\. wait!
+That's not fair!
+I can't fight properly like this.
+> END STRING
+
+> BEGIN STRING
+その場から飛び離れる
+> CONTEXT: Commonevents/3/56/Choice/0
+Retreat from that spot.
+> END STRING
+
+> BEGIN STRING
+蹴りで敵を弾き飛ばす
+> CONTEXT: Commonevents/3/56/Choice/1
+Repel the demon with a kick.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(恥ずかしいとか、
+言ってられない…！
+蹴り飛ばして、距離を稼ぐ。)
+> CONTEXT: Commonevents/3/61/Dialogue
+Nazuna:
+(I can't let his embarrassing
+words get to me...!
+I'll gain some ground with a kick!)
+> END STRING
+
+> BEGIN STRING
+ナズナは蹴りを繰り出した！
+> CONTEXT: Commonevents/3/66/Dialogue
+Nazuna attempted a kick!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+え、えい…！
+> CONTEXT: Commonevents/3/72/Dialogue
+Nazuna:
+T-\\.take that!
+> END STRING
+
+> BEGIN STRING
+魔物:
+おっと、読んでいたぞ！
+> CONTEXT: Commonevents/3/75/Dialogue
+Demon:
+Heh, I can read your moves!
+> END STRING
+
+> BEGIN STRING
+がしっ！！
+> CONTEXT: Commonevents/3/78/Dialogue
+*Thud*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ…？
+> CONTEXT: Commonevents/3/84/Dialogue
+Nazuna:
+Huh...?
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの足を取ると、
+上に持ち上げた！
+> CONTEXT: Commonevents/3/87/Dialogue
+The demon grabbed Nazuna's foot
+and held it high in the air!
+> END STRING
+
+> BEGIN STRING
+ぐいっ…
+> CONTEXT: Commonevents/3/96/Dialogue
+*Gasp*
+> END STRING
+
+> BEGIN STRING
+通行人:
+おほっ…！
+足を思いっきり開いて…、
+モロだ！！
+> CONTEXT: Commonevents/3/98/Dialogue
+Bystander:
+Look at that...!
+Her legs are wide open...
+This is great!!
+> END STRING
+
+> BEGIN STRING
+通行人:
+うわ～、ほんとにツルツルだな…。
+よく見える～。
+> CONTEXT: Commonevents/3/103/Dialogue
+Bystander:
+Wow, it's really smooth isn't it...
+You can see it so clearly.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴえっ！？
+は、放しっ…！
+> CONTEXT: Commonevents/3/108/Dialogue
+Nazuna:
+W-\\.wait!
+Let me go...!
+> END STRING
+
+> BEGIN STRING
+全力で振り切る！
+> CONTEXT: Commonevents/3/112/Choice/0
+> CONTEXT: Commonevents/3/166/Choice/0
+Do your best to escape!
+> END STRING
+
+> BEGIN STRING
+身体が硬直してしまう…
+> CONTEXT: Commonevents/3/112/Choice/1
+> CONTEXT: Commonevents/3/166/Choice/1
+Your body goes stiff...
+> END STRING
+
+> BEGIN STRING
+ナズナは足を掴まれたまま、
+動けない！
+> CONTEXT: Commonevents/3/117/Dialogue
+With her leg held firmly,
+Nazuna couldn't move!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やめて…！
+は、恥ずかしい！
+> CONTEXT: Commonevents/3/121/Dialogue
+Nazuna:
+Stop...!
+It's e-\\.embarrassing!
+> END STRING
+
+> BEGIN STRING
+魔物:
+やめる訳ないだろう。
+皆、貴様のマ○コを見に、
+集まっているのだぞ？
+> CONTEXT: Commonevents/3/125/Dialogue
+Demon:
+There's no reason for me to stop is there?
+Everyone is gathering around to
+enjoy the view of your p○ssy.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そんっ…、なっ…！
+> CONTEXT: Commonevents/3/131/Dialogue
+Nazuna:
+Th-\\.that can't...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+わざわざ千円払って、
+魔導具まで買って、な…！
+スケスケメガネは大ヒットだな！！
+> CONTEXT: Commonevents/3/134/Dialogue
+Demon:
+For only ¥1000 try out
+this amazing magical tool!
+These see-through glasses are a big hit!
+> END STRING
+
+> BEGIN STRING
+魔物:
+この眼鏡は、貴様の裸を見る以外、
+何の役にも立たん。
+なら、ちゃんと見せてやらねばな！
+> CONTEXT: Commonevents/3/139/Dialogue
+Demon:
+These glasses allow you to see her naked body!
+Sure, they aren't useful for anything else,
+but you don't want to miss out on this!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ほ、ほんとに、やめてよぉ…！
+見せちゃ、駄目なの…！
+そこは、大事な人、にしか…。
+> CONTEXT: Commonevents/3/146/Dialogue
+Nazuna:
+R-\\.really, stop...!
+Seeing me like this...
+Only my important person can see this...
+> END STRING
+
+> BEGIN STRING
+魔物:
+何が、大事な人だ！
+毛も生えていない、
+小便臭いマ○コの小娘が！
+> CONTEXT: Commonevents/3/151/Dialogue
+Demon:
+What's that? Important person?!
+You don't even have hair growing down there.
+You're just a little girl with a pissy p○ssy.
+> END STRING
+
+> BEGIN STRING
+魔物:
+どんなに嫌だろうが、
+貴様のマ○コは
+この場の全員にたっぷり見られておるわ！！
+> CONTEXT: Commonevents/3/156/Dialogue
+Demon:
+Whatever your objections,
+You're p○ssy is being seen
+closely by all these people!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅぅぅぅぅぅ…！！
+……っ！
+> CONTEXT: Commonevents/3/162/Dialogue
+Nazuna:
+Ah......!!
+Eh...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+い、いつまで…、捕まえてるの…。
+もう、全員に、見られた…。
+もういいでしょ…？
+> CONTEXT: Commonevents/3/171/Dialogue
+Nazuna:
+This w-\\.whole time... I've been caught...
+You've all been looking...
+Haven't you had enough?
+> END STRING
+
+> BEGIN STRING
+魔物:
+いつまででもだよ！！
+貴様はもう一生、世界中の男全員に、
+裸を見られ続けるんだからな！
+> CONTEXT: Commonevents/3/176/Dialogue
+Demon:
+This whole time? That's not enough!!
+We are going to keep going till every guy
+in the world has seen you naked!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ…！？
+> CONTEXT: Commonevents/3/181/Dialogue
+Nazuna:
+Eh...!?
+> END STRING
+
+> BEGIN STRING
+魔物:
+この眼鏡が出回ってる以上、
+全裸で生活してるのと同義だ。
+外を歩く度に、今と同じ思いをするぞ？
+> CONTEXT: Commonevents/3/184/Dialogue
+Demon:
+Once these glasses are out on the market,
+you may as well live naked. If you ever go out
+for a walk, you'll feel the same as you do now!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えぁ…、あ、あぁ…！
+そっ、ん、なっ…！！
+> CONTEXT: Commonevents/3/190/Dialogue
+Nazuna:
+Eh..., N-\\.no...!
+Th-\\.tha-\\.thats...!!
+> END STRING
+
+> BEGIN STRING
+通行人:
+やべえ…、あのナズナちゃんの裸、
+毎日堂々と全部見放題なんて…。
+> CONTEXT: Commonevents/3/194/Dialogue
+Bystander:
+Seeing Nazuna's naked body
+everyday as much as I want...
+> END STRING
+
+> BEGIN STRING
+通行人:
+これから、ナズナちゃんが
+この街にいる限り、
+すれ違う度に全裸見れるんだよな…。
+> CONTEXT: Commonevents/3/198/Dialogue
+Bystander:
+From now on...
+Whenever I see Nazuna in town...
+I will get to see her naked!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うそ…、私、これから、
+毎日…、町中の人に、
+裸、見られなきゃ、いけないの…？
+> CONTEXT: Commonevents/3/203/Dialogue
+Nazuna:
+Wait... no....
+People in the town are always
+going to see me naked from now on?!
+> END STRING
+
+> BEGIN STRING
+魔物:
+町中どころか、世界中だよ。
+メガネは通販もしているし、
+今日はテレビで宣伝もできたからな！
+> CONTEXT: Commonevents/3/209/Dialogue
+Demon:
+Not just the town, the entire world.
+I'm going to sell these glasses by mail order.
+We just made a great TV commercial after all!
+> END STRING
+
+> BEGIN STRING
+魔物:
+お前、超有名人になるぞ〜？
+世界中から、お前の裸を見に、
+男が集まって来るんだからな！！
+> CONTEXT: Commonevents/3/214/Dialogue
+Demon:
+You are going to become super famous you know?
+All the guys in the world are going to come
+to see your naked body!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そんな…、
+ひゃ、ひ、ひぃ……！
+> CONTEXT: Commonevents/3/220/Dialogue
+Nazuna:
+No...
+That can't be...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+私…、も、もう…、
+恥ずかしすぎて、
+外、歩けない……！
+> CONTEXT: Commonevents/3/224/Dialogue
+Nazuna:
+I-\\.I'll be...
+I'll be too embarrassed.
+I won't be able to go outside......!
+> END STRING
+
+> BEGIN STRING
+ナズナは気絶してしまった…。
+> CONTEXT: Commonevents/3/232/Dialogue
+Nazuna fainted!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナに接近戦を仕掛けた！
+> CONTEXT: Commonevents/4/2/Dialogue
+The demon moved to engage in close combat!
+> END STRING
+
+> BEGIN STRING
+通行人:
+はぁはぁ…、おっぱい丸見えだ…。
+> CONTEXT: Commonevents/4/17/Dialogue
+Bystander:
+Oh-ho... Look how round her boobs are...
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃんのスジ…。
+> CONTEXT: Commonevents/4/22/Dialogue
+Bystander:
+Nazuna's slit...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ、聞こえない、聞こえない…！
+何も、聞こえない、見えてない…、
+気のせい、幻聴…。
+> CONTEXT: Commonevents/4/26/Dialogue
+Nazuna:
+Wah, didn't hear anything, didn't hear anything...!
+Nothing, I heard nothing, they can't see anything...
+Its just my imagination, that's all...
+> END STRING
+
+> BEGIN STRING
+通行人:
+お尻もいいなぁ…。
+でも、流石に肛門までは
+見えないか。
+> CONTEXT: Commonevents/4/32/Dialogue
+Bystander:
+Her ass isn't bad either...
+But still, you can't really see
+her anus like this can you.
+> END STRING
+
+> BEGIN STRING
+通行人:
+マ○コも綺麗なのはいいけど、
+ぴっちり閉じてるから、
+普通にしてると中は見えないな。
+> CONTEXT: Commonevents/4/38/Dialogue
+Bystander:
+Her p○ssy is pretty nice as well,
+but it's completely closed.
+I guess you can't normally see inside...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(なんなの…!？この人たち！
+そんなの、街中で、大勢に見られたら…、
+私、お嫁にいけなくなっちゃう…。)
+> CONTEXT: Commonevents/4/43/Dialogue
+Nazuna:
+(What..! What's with these people!
+Being seen by this crowd of people...
+I won't be able to get married anymore...)
+> END STRING
+
+> BEGIN STRING
+魔物:
+ていっ！！
+> CONTEXT: Commonevents/4/48/Dialogue
+Demon:
+Take that!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…、うぅ！！
+> CONTEXT: Commonevents/4/57/Dialogue
+Nazuna:
+Wah...!! *oomph*
+> END STRING
+
+> BEGIN STRING
+魔物がナズナに足払いをかけた！
+> CONTEXT: Commonevents/4/60/Dialogue
+The demon managed to trip Nazuna!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+危ない…、バランスが…。
+> CONTEXT: Commonevents/4/63/Dialogue
+Nazuna:
+This is bad... My balance...
+> END STRING
+
+> BEGIN STRING
+前につんのめり、四つん這いになる
+> CONTEXT: Commonevents/4/66/Choice/0
+Fall onto all fours.
+> END STRING
+
+> BEGIN STRING
+両足に力を込め、そこから飛び退く
+> CONTEXT: Commonevents/4/66/Choice/1
+Regain balance and retreat.
+> END STRING
+
+> BEGIN STRING
+魔物:
+オラァ！！
+> CONTEXT: Commonevents/4/68/Dialogue
+Demon:
+Excellent!!
+> END STRING
+
+> BEGIN STRING
+ガシッ！！
+> CONTEXT: Commonevents/4/75/Dialogue
+*Thwok*
+> END STRING
+
+> BEGIN STRING
+ナズナは魔物により、
+四つん這い姿で
+拘束されてしまった！！
+> CONTEXT: Commonevents/4/77/Dialogue
+The demon held Nazuna
+down on all fours!!
+> END STRING
+
+> BEGIN STRING
+通行人:
+おおおおお！？
+ナズナちゃんのアナル、
+見えた！！
+> CONTEXT: Commonevents/4/83/Dialogue
+Bystander:
+Ooooooh!?
+I see Nazuna's anus!!
+> END STRING
+
+> BEGIN STRING
+通行人:
+マ○コもちょっと開いて、
+中のピンク色が見えるぞ！
+> CONTEXT: Commonevents/4/88/Dialogue
+Bystander:
+Her p○ssy opened a little as well,
+It's pink on the inside!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…っっ、き、きゃあぁああ！！？
+> CONTEXT: Commonevents/4/93/Dialogue
+... W-\\.what are you doing!!?
+> END STRING
+
+> BEGIN STRING
+全力で飛び上がり、脱出する
+> CONTEXT: Commonevents/4/96/Choice/0
+> CONTEXT: Commonevents/4/118/Choice/0
+> CONTEXT: Commonevents/4/149/Choice/0
+Do your best to escape and retreat.
+> END STRING
+
+> BEGIN STRING
+身体が動かない！
+> CONTEXT: Commonevents/4/96/Choice/1
+> CONTEXT: Commonevents/4/118/Choice/1
+> CONTEXT: Commonevents/4/149/Choice/1
+Your body doesn't move!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、あっ…、放してぇ…!
+> CONTEXT: Commonevents/4/102/Dialogue
+A-\\.ah, let go of me...!
+> END STRING
+
+> BEGIN STRING
+通行人:
+おほっ、ナズナちゃんが、
+足をバタバタさせるたびに、
+アソコがクニクニ動いて…。
+> CONTEXT: Commonevents/4/105/Dialogue
+Bystander:
+Oho, with Nazuna held down, when she
+struggles her legs shake and then
+'that place' moves as well...
+> END STRING
+
+> BEGIN STRING
+通行人:
+アナルもヒクついてるぜ！
+最高の景色だな。
+> CONTEXT: Commonevents/4/110/Dialogue
+Bystander:
+Her anus is also moving!
+This view is the best...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+見ないでぇええええ！？
+> CONTEXT: Commonevents/4/115/Dialogue
+Nazuna:
+Don't loo\\.oo\\.oo\\.ook!
+> END STRING
+
+> BEGIN STRING
+通行人:
+はー…、いつまででも、
+見ていられるな…。
+> CONTEXT: Commonevents/4/123/Dialogue
+Bystander:
+Ah..., I can watch
+as much as I like...
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃんの肛門とオマ○コ…、
+リアルタイムで、
+こんなにじっくり見れるとは…。
+> CONTEXT: Commonevents/4/127/Dialogue
+Bystander:
+Nazuna's anus and p○ssy...,
+I can see them so closely,
+in real time...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いい加減、放してよぉ…!
+いつまで、晒しものに、
+してる気なの…？
+> CONTEXT: Commonevents/4/133/Dialogue
+Nazuna:
+Enough, let me go...!
+I've been exposed this whole
+time, isn't this enough?
+> END STRING
+
+> BEGIN STRING
+魔物:
+今日一日、こうしていてやろうか？
+このみっともないケツ穴、
+いったい何千人に見て貰えるかな？
+> CONTEXT: Commonevents/4/138/Dialogue
+Demon:
+Why don't we leave you like this all day?
+I wonder how many thousands of people are
+going to see your disgraceful asshole.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ、ひぃぃ…!
+冗談やめて！
+お願い、もうやめてぇ…!
+> CONTEXT: Commonevents/4/144/Dialogue
+Nazuna:
+S-\\.stop...!
+Stop talking about that hole.
+Please, just stop...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(もう、何分経ったかな…。
+何人に、私のお尻の穴と、
+大事な所…、見られたんだろう…。)
+> CONTEXT: Commonevents/4/154/Dialogue
+Nazuna:
+(How long have I been held like this?
+How many people have seen my asshole?
+My precious place...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぅぅ…、
+恥ずかしい………。
+> CONTEXT: Commonevents/4/159/Dialogue
+Nazuna:
+A-....,
+It's embarrassing......
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、全身から
+力が抜けてしまったようです！
+抵抗もろくにできません！！
+> CONTEXT: Commonevents/4/165/Dialogue
+Reporter:
+Nazuna is immobilized!
+She can't bring out her full
+power and put up a fight!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ…、か、カメラ…、やだ…。
+> CONTEXT: Commonevents/4/171/Dialogue
+Nazuna:
+N-\\.no, not the c-\\.camera...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+もし…、メガネ越しに撮られたら、
+私の大事なところが、
+全国ネットで…!
+> CONTEXT: Commonevents/4/174/Dialogue
+Nazuna:
+If... If someone puts glasses in front of the camera 
+My precious place is going to be on
+the net for the whole nation to see...!
+> END STRING
+
+> BEGIN STRING
+カメラがナズナのお尻に、
+レンズを向ける…。
+> CONTEXT: Commonevents/4/179/Dialogue
+The camera focuses on
+Nazuna's ass.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………!
+お、お願い、しますぅ…!
+メガネは…、メガネだけは…。
+> CONTEXT: Commonevents/4/183/Dialogue
+Nazuna:
+P-Please... Please don't!
+Anything... Anything but the glasses...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+メガネ越しに、
+私の姿を、撮るのだけは…、
+やめてぇ…!
+> CONTEXT: Commonevents/4/189/Dialogue
+Nazuna:
+Just don't film my body with the
+glasses in front of the camera.
+Anything but that...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+必死の懇願に悪いが…、
+もう、メガネなんぞ、
+あってもなくても、変わらんぞ。
+> CONTEXT: Commonevents/4/194/Dialogue
+Demon:
+Your pathetic plight is pointless...
+With or without the glasses
+nothing changes.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふぇ…？
+> CONTEXT: Commonevents/4/200/Dialogue
+Nazuna:
+...?!?
+> END STRING
+
+> BEGIN STRING
+涙で曇る視界で、魔物を見る。
+その手には…、
+ナズナのスカートと、
+パンツがしっかりと握られていた。
+> CONTEXT: Commonevents/4/204/Dialogue
+Through tear blurred vision,
+Nazuna sees the demon's hand...
+Holding her skirt and
+panties with a strong grip.
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、下半身丸出しの上、
+四つん這いで固定されています！
+大変な光景が、白昼の街中に…。
+> CONTEXT: Commonevents/4/210/Dialogue
+Reporter:
+Nazuna is trying to resist with her lower
+half raised up in the air. This is big news!
+In the middle of town... In broad daylight...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、わたし、下…、
+なにも、つけて、ない…？
+> CONTEXT: Commonevents/4/216/Dialogue
+Nazuna:
+I'm n-\\.not wearing...
+anything below the waist...?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+もう少し、近寄ってみましょう！
+ナズナさーん、
+大丈夫ですかー？
+> CONTEXT: Commonevents/4/220/Dialogue
+Reporter:
+Let's record for just a little
+longer, let's get in close!
+Nazuna, are you OK?
+> END STRING
+
+> BEGIN STRING
+わざとらしく近づいたカメラは、
+レンズをナズナのお尻の数センチ
+手前まで近づけると、
+少女の秘部をどアップで撮影した…
+> CONTEXT: Commonevents/4/225/Dialogue
+The cameraman moved closer so the lens
+was a few centimeters from Nazuna's ass.
+Despite the fact they are shooting a 
+close-up of a schoolgirl's genitals...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさんのお尻の穴が丸見えですねー。
+ナズナさん、何かコメントを！
+> CONTEXT: Commonevents/4/230/Dialogue
+Reporter:
+You can really see Nazuna's asshole can't you.
+Nazuna, please, give us a comment!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あひ…、ひ、ひぐ…!
+> CONTEXT: Commonevents/4/234/Dialogue
+Nazuna:
+Ah..., I... pl-...!
+> END STRING
+
+> BEGIN STRING
+ヒクヒク…
+> CONTEXT: Commonevents/4/237/Dialogue
+> CONTEXT: Commonevents/4/256/Dialogue
+*Twitch*
+> END STRING
+
+> BEGIN STRING
+報道陣:
+皆さん、ご覧頂けたでしょうか？
+ナズナさん、お尻の穴をヒクヒクさせて、
+お返事してくださいました！！
+> CONTEXT: Commonevents/4/239/Dialogue
+Reporter:
+Everyone, did you see that?
+Nazuna's asshole just twitched,
+we have received our reply!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………!？
+……〜〜〜〜〜……!、…!！
+> CONTEXT: Commonevents/4/248/Dialogue
+Nazuna:
+...!?
+...~~~~~~...!, ...!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぁ、ぁ、あ……。
+> CONTEXT: Commonevents/4/253/Dialogue
+Nazuna:
+Ah, ah, ah....
+> END STRING
+
+> BEGIN STRING
+キュッ！
+> CONTEXT: Commonevents/4/258/Dialogue
+*Sobs*
+> END STRING
+
+> BEGIN STRING
+報道陣:
+あっ、また大きくヒクついて、
+キュッと収縮しましたね〜。
+どういう意味なんですか？
+> CONTEXT: Commonevents/4/260/Dialogue
+Reporter:
+Ah, another big twitch.
+We just saw it contract.
+I wonder what it means...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、わ…、あわわ、
+実況…、や、や、やめ……!
+> CONTEXT: Commonevents/4/266/Dialogue
+Nazuna:
+N-\\.no.. *sobs*,
+s-\\.s-\\.stop reporting live......!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(嘘…!？
+お尻の穴…、全国ネットで、
+ずっと、アップで放送されてる！)
+> CONTEXT: Commonevents/4/270/Dialogue
+Nazuna:
+(It can't be...
+My asshole... on the net...
+It's never going to come down!)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(ヒクヒクさせてるとこまで…、
+みんなに、全部、見られ…!
+あ、あ…、恥ずかし、すぎる…!)
+> CONTEXT: Commonevents/4/276/Dialogue
+Nazuna:
+They even saw it twitching...
+everyone has seen... everything...!
+I-\\.it's way too..., embarrassing...!)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぅ〜………。
+> CONTEXT: Commonevents/4/281/Dialogue
+Nazuna:
+Aah~.......
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、気絶して
+しまいました…。
+恥ずかしかったんでしょうね〜。
+> CONTEXT: Commonevents/4/287/Dialogue
+Reporter:
+Nazuna fainted...
+I guess it was too embarrassing.
+It can't be helped, can it...
+> END STRING
+
+> BEGIN STRING
+魔物:
+折角だし、起きるまで
+ケツの穴を放送し続けてやれ。
+無修正で、皺の一本一本までな。
+> CONTEXT: Commonevents/4/292/Dialogue
+Demon:
+Keep recording her asshole 'till
+she wakes back up. Record every
+detail down to the last wrinkle.
+> END STRING
+
+> BEGIN STRING
+報道陣:
+そうですね、世間に肛門の映像が行き渡れば、
+ナズナさんも見られることに慣れて、
+次は気絶せずに済むかもしれません！
+> CONTEXT: Commonevents/4/297/Dialogue
+Reporter:
+Yes, let's continue filming her anus for the
+whole world to see. Nazuna might get used to
+this so that next time, maybe she won't faint!
+> END STRING
+
+> BEGIN STRING
+適当な理由をつけ、
+報道陣はナズナの秘部と肛門を
+限界までアップにして、
+ピクピクと蠢く二つの穴を、長時間に渡って放送し続けた…。
+> CONTEXT: Commonevents/4/302/Dialogue
+Now that they had an excuse, the media
+continued to broadcast Nazuna's genitals
+and anus to the whole world while they
+twitched about until the batteries died.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、放してぇ！！
+> CONTEXT: Commonevents/5/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは拘束を振り切った！
+> CONTEXT: Commonevents/5/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは水着を直した！
+> CONTEXT: Commonevents/5/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(揉まれたっ…、ち、直接っ！
+男子に、私の胸…！)
+> CONTEXT: Commonevents/5/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+一旦、離れよう…。
+> CONTEXT: Commonevents/6/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは魔物から飛び離れた！
+> CONTEXT: Commonevents/6/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+んんっ…！
+> CONTEXT: Commonevents/7/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは片足で
+思いっきり背後に飛び、
+拘束を脱した！
+> CONTEXT: Commonevents/7/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(うぅ…、ものすごい人数に、
+大事なところ、
+また見られちゃった…。)
+> CONTEXT: Commonevents/7/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やっ…!
+> CONTEXT: Commonevents/8/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナはその場を飛び離れた。
+> CONTEXT: Commonevents/8/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは飛び上がり、
+魔物の拘束を脱した。
+> CONTEXT: Commonevents/9/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(アナル…お尻の穴！？
+お、お、お尻の穴…、
+街の人に、み、見られ…!？)
+> CONTEXT: Commonevents/9/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+もう、諦めなさい…。
+私の勝ち。
+> CONTEXT: Commonevents/30/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ぐふっ…、お、おのれ……。
+> CONTEXT: Commonevents/30/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+(こうなったら…、仲間たちと俺の無念だけでも、晴らさせて貰う！
+全てのメガネに、全魔力を送り込んでやる！！)
+> CONTEXT: Commonevents/30/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+(俺が元の世界に送り返された後も、
+3日程はメガネの効力が続くようにしてやるからな…！
+俺が送還された後も、精々恥をかくがいい！！)
+> CONTEXT: Commonevents/30/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…ふう、勝った…。
+魔物を倒したから、魔導具の効果も消える。
+もう、裸を見られることも、ない…。
+> CONTEXT: Commonevents/30/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えへへ、安心……。
+> CONTEXT: Commonevents/30/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(…いや、普通に透けて見えてるんだけどね…。
+でも、黙って見てよっと。)
+> CONTEXT: Commonevents/30/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(魔物の最後っ屁ってところか…。
+ナズナちゃんには悪いけど、メガネの効力が続く限りは、
+裸を見せて貰うね！)
+> CONTEXT: Commonevents/30/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なんか、悪寒が…？
+やだな、折角勝ったのに…、もう…。
+> CONTEXT: Commonevents/30/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうしてナズナは町内の平和を守った。
+> CONTEXT: Commonevents/30/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+END
+> CONTEXT: Commonevents/30/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プレイしてくださってありがとうございました。
+ここからエピローグになります。
+エロシーンはありませんが、
+敗北経験の有無などでモブとの会話内容などが微妙に変わります。
+> CONTEXT: Commonevents/30/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+破廉恥なメガネも効果がなくなったし、
+ようやくのんびり過ごせる…。
+何、しよっかな…。
+> CONTEXT: Commonevents/30/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+負けた…。
+勝てない、どうして…？
+こんな、卑怯者に……。
+> CONTEXT: Commonevents/31/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+危ない危ない…。
+送還されてしまっては、眼鏡で稼いだ金も紙クズだ。
+> CONTEXT: Commonevents/31/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ちょうどいい、折角来たのだし、イベントを開催するとしよう。
+貴様が主役の握手会だ。
+盛り上げてくれよ？
+> CONTEXT: Commonevents/31/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+え…、なに、それぇ…！
+> CONTEXT: Commonevents/31/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん！
+俺、大ファンなんだよ！
+握手できるなんて、感激！
+> CONTEXT: Commonevents/31/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、あ、ありがとう…。
+あ、握手…。
+> CONTEXT: Commonevents/31/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にぎにぎ…
+> CONTEXT: Commonevents/31/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(き、気持ち悪いぃ…！
+男の人と、手を繋ぐなんて、初めて…。
+こんなの、恋人同士が、やることじゃないの…？)
+> CONTEXT: Commonevents/31/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、嬉しすぎて忘れるとこだった。
+眼鏡、眼鏡…
+> CONTEXT: Commonevents/31/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やあっ…。
+> CONTEXT: Commonevents/31/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うひょ〜！
+こんなに近くで、ナズナちゃんのおっぱい、じっくり見れるなんて！
+今日は人生最高の1日だよ！！
+> CONTEXT: Commonevents/31/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+見ないで、よぉ…。
+私の胸…、見世物じゃ、ない…。
+> CONTEXT: Commonevents/31/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+こらっ、なんて言い草だ！
+ちゃんと魔法契約書に書いてある通り、
+にこやかに対応しろ！！
+> CONTEXT: Commonevents/31/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『私、九輪ナズナは、次に魔物に勝利するまでの間、
+スケスケメガネの販売促進に協力し、
+お客様には裸のすべてを包み隠さず、
+お見せすることを誓います…』
+> CONTEXT: Commonevents/31/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+む、無理やり、サインさせたくせにぃ…！
+私は、そんな眼鏡の販売になんて、
+協力したくない…！
+> CONTEXT: Commonevents/31/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+貴様が望むと望むまいと、
+魔法契約を破った者は、今後一切魔法が使えなくなるからな。
+いずれにせよ、眼鏡で裸を見られるのを、阻止できんという訳だ。
+> CONTEXT: Commonevents/31/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ…、どうして、こんなことに…。
+これじゃ、裸で街中にいるのと、
+何も変わらない…。
+> CONTEXT: Commonevents/31/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃんのお尻…！
+はぁはぁ…、目の前5センチで見えちゃってるよ…。
+> CONTEXT: Commonevents/31/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+じゃあ俺は、ナズナちゃんの両足の間に頭を突っ込んで、
+真下からオマ○コを…。
+ううっ、なんて見事な一本スジだ…！
+> CONTEXT: Commonevents/31/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+本当に、やめてよぉ…！
+こんなの、もう、握手会ですらない…！
+> CONTEXT: Commonevents/31/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うわ、マジで九輪さん、握手会やってるよ。
+学園抜け出してきた甲斐があったー。
+> CONTEXT: Commonevents/31/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+九輪さーん、大変そうだねぇ。
+どれどれ…、おおっ！
+同じ学園の後輩の、生乳首…、しっかり見えるぞ。
+> CONTEXT: Commonevents/31/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぇっ！！？
+さ、三年の、先輩たちぃぃ…！？
+やだっ、見ちゃ駄目ぇ…！
+> CONTEXT: Commonevents/31/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ふぅ…、全身堪能した。
+ナズナちゃんの裸、隅から隅まで、
+3センチの距離で見尽くしたからね。
+> CONTEXT: Commonevents/31/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+じゃあ俺は1センチまで近寄って見てやる！！
+あっ、見えない布が顔に当たる…。
+これ、スカートかな？
+> CONTEXT: Commonevents/31/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えぐ………。
+> CONTEXT: Commonevents/31/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+…こちらでは、魔物に敗北したナズナさんが、
+握手会をやっています！
+どうも、ナズナさん！
+> CONTEXT: Commonevents/31/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ああぁ…、て、テレビカメラぁ…！？
+最悪、こ、来ないで…！
+> CONTEXT: Commonevents/31/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+こちらの握手会は、
+あるメガネを買った方のみが、参加できるんですね〜。
+どんなメガネかと、いいますと…
+> CONTEXT: Commonevents/31/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+こちら、カメラの前にかざしますと…、
+お分かりでしょうか！
+ナズナさんの服が、透けてしまうんですね〜！
+> CONTEXT: Commonevents/31/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…、やめて！やめて！！！
+お願い、眼鏡越しに撮影しないでぇぇぇ…！！
+> CONTEXT: Commonevents/31/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+おい、契約…。
+隠すな、ちゃんと見せろ。
+乳首もマ○コのスジも、しっかり見えるってことを証明しろ。
+> CONTEXT: Commonevents/31/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、ぅ……。
+> CONTEXT: Commonevents/31/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+まるで着てないみたいに、綺麗に透けますね〜！
+あっ、性器に毛が生えてないように見えますが、
+陰毛も透過しているのでしょうか？
+> CONTEXT: Commonevents/31/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なぁっ…！
+な、な、ななな…っ！？
+い、いん…！？
+> CONTEXT: Commonevents/31/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうなんだ？
+ちゃんと答えろ！！
+お客様が製品スペックを知りたがってるだろうが！！
+> CONTEXT: Commonevents/31/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ、は、ぅ…っ！
+もともとぉ…、はえて、ましぇん…っ！
+き、気にしてるのにぃ…、酷いっ…！！
+> CONTEXT: Commonevents/31/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+これは失礼、天然のパイパンでしたか〜！
+あっ、そういえば、以前の放送時にも、直接見て確認しましたね。
+あれから数日でまた性器を全国放送なんて、大変ですね〜。
+> CONTEXT: Commonevents/31/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+い、言うなっ…！！
+なんでいつもいつも…、私の大事なとこ、
+みんなに、見られなきゃいけないのぉ…！？
+> CONTEXT: Commonevents/31/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+そうか、眼鏡越しに撮れば、撮影も可能なんだな。
+スマホに眼鏡をかざして、と…。
+> CONTEXT: Commonevents/31/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャッ、パシャ…
+> CONTEXT: Commonevents/31/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、俺もー。
+ひゃはは、マジで撮れてるじゃん！
+お尻、接写しちゃおう。
+> CONTEXT: Commonevents/31/258/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひぃぃ！？
+と、撮るの、駄目ぇ！！
+> CONTEXT: Commonevents/31/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ほら、足開けよ。
+オマ○コ撮るんだから。
+> CONTEXT: Commonevents/31/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャパシャ…
+> CONTEXT: Commonevents/31/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+俺は乳首！
+まあ、後で全部撮るけどね。
+右と左、片方ずつ、あらゆる角度から記録するぞ〜。
+> CONTEXT: Commonevents/31/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャ、パシャ、パシャ…
+> CONTEXT: Commonevents/31/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”ーーー！！
+あぁあ、や、やめてぇ！
+恥ずかしいぃ、は、恥ずかしい！！
+> CONTEXT: Commonevents/31/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+おらおら、嫌な顔すんなっつってんだろが！！
+撮ってください、だ！！
+ほら、言え！言ってみろ！！
+> CONTEXT: Commonevents/31/292/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+とっ、とってくりゃしゃ…、
+とりゃひゃい…、
+とっ、とってくら、とりひゃひ……。
+> CONTEXT: Commonevents/31/298/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、完全にテンパってます！
+現場は大盛り上がりですねー。
+> CONTEXT: Commonevents/31/303/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+おら、折角テレビが来てるんだ！
+サービスして、買って貰えるようコマーシャルしろっ！
+ここ、おっ広げてな！！
+> CONTEXT: Commonevents/31/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くぱぁ…
+> CONTEXT: Commonevents/31/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+に”ゃああ”ああ”あ”あ”あ”！！？
+やめ”でっ…、しょこぉ、ひりょげちゃ…！
+> CONTEXT: Commonevents/31/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+何て言うんだ！？あぁ！？
+正解を言うまで、お前のマ○コの中身を、
+カメラのレンズに押し付け続けるぞ！！
+> CONTEXT: Commonevents/31/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐりぐり…
+> CONTEXT: Commonevents/31/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぎぃいいいいぃぃ！！！？？
+> CONTEXT: Commonevents/31/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさんの大事なところが、レンズに押し付けられました！
+もう、画面は余すところなく、まっピンクで埋め尽くされています！
+あっ、奥に見える、これ…、処女膜でしょうか？
+> CONTEXT: Commonevents/31/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”ーーーー！！！
+あ”ーーーーーーーーー！！！！
+あ”ーーー！！あ”ぁあ”！！！
+> CONTEXT: Commonevents/31/341/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ、もう、駄目…、耐えられないぃ…。
+言わなきゃ…、うぅ……。
+テレビで、こんなの放送され続けるよりは、マシ…。
+> CONTEXT: Commonevents/31/347/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぐす…、てりぇびの、まえの…、全国の、みなさん…！
+す、スケスケめがね、か、かってぇえ…！
+ナズナの、はだか…、いっぱい、みて、見てぇ！！！
+> CONTEXT: Commonevents/31/353/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後の気力を振り絞り、宣伝文句を叫ぶと、
+ナズナは恥ずかしさの限界値を超えて、
+気絶してしまった…。
+> CONTEXT: Commonevents/31/358/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+ふん、失神しやがった。
+まあ、意識がなくても、撮影はできるからな。
+せいぜい裸を晒して、売り上げに貢献してくれよ。
+> CONTEXT: Commonevents/31/363/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その後、しばらくの間、
+ナズナは意識がないまま、全身あらゆる部分を視姦され、
+撮影されてしまった…。
+> CONTEXT: Commonevents/31/368/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+メガネ…、あの後、何千個も売れたって、言ってた…。
+街中、どこ見ても、メガネだらけ…。
+この人たち全員に、今も、裸、見られてるの…？
+> CONTEXT: Commonevents/31/382/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…あんまり考えないように、しよう…。
+また、気絶しそうになっちゃう…。
+> CONTEXT: Commonevents/31/391/Dialogue < UNTRANSLATED
+
+> END STRING

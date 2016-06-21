@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ナズナ
+> CONTEXT: Actors/1/name/
+Nazuna
+> END STRING
+
+> BEGIN STRING
+若干マイペースなところがあるが、優秀な魔法使い。
+目立つのが苦手。
+> CONTEXT: Actors/1/description/
+A powerful witch that likes to do things at her own pace.
+Does not like to attract attention.
+> END STRING
