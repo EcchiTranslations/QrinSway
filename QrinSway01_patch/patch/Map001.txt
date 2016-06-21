@@ -842,7 +842,7 @@ so I'm not worried about you.
 魔法協会員:
 こんにちは、ナズナちゃん。
 苦戦しているみたいだね。
-> CONTEXT: Map001/events/95/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/0/Dialogue
 Wizard:
 Hello Nazuna.
 You seem to be having trouble.
@@ -851,7 +851,7 @@ You seem to be having trouble.
 > BEGIN STRING
 ナズナ:
 あっ…、どうも…、ご無沙汰してます…。
-> CONTEXT: Map001/events/95/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/5/Dialogue
 Nazuna:
 Ah..., I am...,
 it's been a long time...
@@ -860,7 +860,7 @@ it's been a long time...
 > BEGIN STRING
 ナズナの前に現れたのは、この町を含む周辺地域を管理する、
 魔法協会の男だった。
-> CONTEXT: Map001/events/95/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/9/Dialogue
 A man from another town appeared before Nazuna.
 He was a member of the magic association.
 > END STRING
@@ -895,7 +895,7 @@ He was a member of the magic association.
 ナズナ:
 ま、ママは関係ないでしょ…。
 仕方ないじゃないですか…、魔法で、着せられて…。
-> CONTEXT: Map001/events/95/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/27/Dialogue
 Nazuna:
 Mama isn't the issue right now.
 These magic clothes... 
@@ -916,7 +916,7 @@ I can't do anything about them...!!
 私だって、好きで負けてる訳じゃないの！！
 状況が分かってるなら、協会からも、
 テレビやネットに圧力をかけてくださいよぉ！
-> CONTEXT: Map001/events/95/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/44/Dialogue
 Nazuna:
 I know! It's embarrassing...!!
 If you understand the situation, please...
@@ -928,7 +928,7 @@ pressure the net and TV to remove them!
 そんなことにお金を使う余裕は…。
 まあ、そう興奮しないで。
 君が何故負けたのか、理由を教えてあげよう。
-> CONTEXT: Map001/events/95/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/50/Dialogue
 Wizard:
 Doing such a thing would be very costly...
 But don't get so worked up.
@@ -938,8 +938,8 @@ I will teach you why you lost.
 > BEGIN STRING
 ナズナ:
 ふぇ…？
-> CONTEXT: Map001/events/95/pages/0/56/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/34/226/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/56/Dialogue
+> CONTEXT: Commonevents/34/226/Dialogue
 Nazuna:
 Huh...?
 > END STRING
@@ -948,7 +948,7 @@ Huh...?
 魔法協会員:
 君が着せられているスクール水着…、
 何故そんなものを着せてきたのか、疑問はなかったかい？
-> CONTEXT: Map001/events/95/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/60/Dialogue
 Wizard:
 About the school swimsuit...
 Why would he have cast it first place?
@@ -959,7 +959,7 @@ Why would he have cast it first place?
 …？
 私を、恥ずかしがらせるためでしょ…？
 魔物は、恥辱のエネルギーが大好きだって…。
-> CONTEXT: Map001/events/95/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/65/Dialogue
 Nazuna:
 ...?
 To embarrass me, I suppose...?
@@ -971,7 +971,7 @@ The demon fuels his energy from my shame...
 それもあるけどね、本当は他の理由があるんだ。
 その水着、君の魔力を弱める効果があるんだよね。
 だから、戦っても、すぐ負けちゃうのさ。
-> CONTEXT: Map001/events/95/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/71/Dialogue
 Wizard:
 But there might be another reason:
 The swimsuit is weakening your magic powers.
@@ -983,7 +983,7 @@ So you've lost before the battle has even begun.
 えっ…、う、嘘…。
 私も、この水着の呪いを調べたけど、
 そんな効力は、ありませんでしたよ…？
-> CONTEXT: Map001/events/95/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/77/Dialogue
 Nazuna:
 Eh..., you're lying...
 I've examined this swimsuit spell,
@@ -994,7 +994,7 @@ there was no such an effect...
 魔法協会員:
 アメリカ支部の、なんか…偉い人が言ってたから間違いないよ！
 まだ、ナズナちゃんのレベルでは検知できないんじゃないかな？
-> CONTEXT: Map001/events/95/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/83/Dialogue
 Wizard:
 I'm from the American branch..., 
 of course I would never lie!
@@ -1006,7 +1006,7 @@ Perhaps you cannot detect it at your level?
 う…、偉い人が言ってたなら、そうなのかな…。
 で、でも、私は今、この水着以外の服を、着れないんです…。
 どうしたら…。
-> CONTEXT: Map001/events/95/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/88/Dialogue
 Nazuna:
 Eh..., I guess so..., you are more experienced...
 But even still, I can't wear anything but this...
@@ -1017,7 +1017,7 @@ How...?
 魔法協会員:
 脱ぐことはできるだろ？
 裸で戦えばいいじゃないか。
-> CONTEXT: Map001/events/95/pages/0/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/94/Dialogue
 Wizard:
 Can you take it off?
 Maybe you should fight without it.
@@ -1028,7 +1028,7 @@ Maybe you should fight without it.
 な、何言ってるんですか！？
 魔物は、学園にいるのにっ…！
 全校生徒が集まるうえ、テレビ中継があるんですよ…！？
-> CONTEXT: Map001/events/95/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/105/Dialogue
 Nazuna:
 Wh-wh-wh-what are you saying...!?
 The demon would see...! The students...!
@@ -1040,7 +1040,7 @@ The TV broadcast...!!
 まあまあ、そう興奮しないで…。
 ものは考えようだよ。
 どうせ君の裸は、全国に公開されているんだし。
-> CONTEXT: Map001/events/95/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/111/Dialogue
 Wizard:
 Now now, don't get excited.
 Think of it like this:
@@ -1052,7 +1052,7 @@ The whole country has already seen you naked.
 これから何度も負けるよりは、
 自分からスパッと全裸になって、サッと勝つ方がいいんじゃない？
 みんな、もう見てるんだから、今更、恥ずかしがることもないだろ。
-> CONTEXT: Map001/events/95/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/116/Dialogue
 Wizard:
 You can lose as many times now.
 Wouldn't it be easier if you stripped naked?
@@ -1064,7 +1064,7 @@ Everyone has already seen, so no need to be shy.
 恥ずかしいに決まってますっ…！
 そりゃ、テレビで日本中の人に見られたし、学園のみんなにも…、
 ネットにもあげられちゃってるけど…、でも、それは無理…！
-> CONTEXT: Map001/events/95/pages/0/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/128/Dialogue
 Nazuna:
 But that's too embarrassing...!
 I was seen by everyone in school..., in Japan,
@@ -1075,7 +1075,7 @@ even on the net!! That's impossible to do...!
 魔法協会員:
 いずれにせよ、僕からできる助言は以上だよ。
 どうするかは、君が決めるといい。
-> CONTEXT: Map001/events/95/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/134/Dialogue
 Wizard:
 In any case, thats all the advice I have.
 You should decide what to do.
@@ -1085,7 +1085,7 @@ You should decide what to do.
 魔法協会員:
 まっ、水着を着て戦っても、負けて脱がされるんだから、
 大した違いはないだろうけどね。
-> CONTEXT: Map001/events/95/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/138/Dialogue
 Wizard:
 Either you take it off or it gets taken off,
 it makes very little difference.
@@ -1095,7 +1095,7 @@ it makes very little difference.
 ナズナ:
 んぐ…、
 う、うぅうぅっ…！
-> CONTEXT: Map001/events/95/pages/0/143/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/143/Dialogue
 Nazuna:
 Ngu...,
 Uuuuu.....!
@@ -1103,7 +1103,7 @@ Uuuuu.....!
 
 > BEGIN STRING
 ナズナは思いつめた様子で、その場を後にした…。
-> CONTEXT: Map001/events/95/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/148/Dialogue
 Nazuna left thinking over the idea...
 > END STRING
 
@@ -1112,7 +1112,7 @@ Nazuna left thinking over the idea...
 (…まあ、嘘なんだけどね。
 あの子、優秀なんだけど、融通が効かないし、邪魔なんだよな〜。
 俺の寄付金の着服に気付きやがって…、おかげで降格されちまった。)
-> CONTEXT: Map001/events/95/pages/0/154/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/154/Dialogue
 Wizard:
 (...Well, it's a lie. She's prodigious, 
 but she gets in my way~. I owe her this 
@@ -1124,7 +1124,7 @@ after my embezzlement got me demoted.)
 (あの子の母親はイギリス本部の幹部だから、圧力も通用しないし。
 今回の一件はまだ本部には伝わってないから、
 今のうちに失敗させまくって、協会内の格を落とさせまくってやる！！)
-> CONTEXT: Map001/events/95/pages/0/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/159/Dialogue
 Wizard:
 (Her mother is the head of the British branch,
 and since this affair hasn't reach headquarters,
@@ -1134,7 +1134,7 @@ her repeated failures will destroy their status!!)
 > BEGIN STRING
 恐るべき罠にかけられたことを、
 ナズナは知る由もない…。
-> CONTEXT: Map001/events/95/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/95/pages/0/164/Dialogue
 And thus the trap had been set,
 one Nazuna was oblivious to...
 > END STRING

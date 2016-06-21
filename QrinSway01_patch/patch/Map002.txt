@@ -67,14 +67,14 @@ I can't believe it! I'm completely exposed!
 
 > BEGIN STRING
 画面にナズナの胸が大写しになった！
-> CONTEXT: Map002/events/2/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/49/Dialogue
 The show changed to a close-up of her chest.
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ！！
-> CONTEXT: Map002/events/2/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/57/Dialogue
 Nazuna:
 !!
 > END STRING
@@ -83,7 +83,7 @@ Nazuna:
 通行人:
 おお、全国ネットで乳首公開かー。
 ナズナちゃんも災難だな。
-> CONTEXT: Map002/events/2/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/60/Dialogue
 Passerby:
 To show her breasts on national TV...
 That must be awful for Nazuna.
@@ -92,7 +92,7 @@ That must be awful for Nazuna.
 > BEGIN STRING
 通行人:
 おっぱい小さくても、俺はずっとファンだよ！
-> CONTEXT: Map002/events/2/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/64/Dialogue
 Passerby:
 Even if her breasts are small, 
 I'm still an all-time fan of her!
@@ -103,7 +103,7 @@ I'm still an all-time fan of her!
 やぁぁ…！
 私の、む、胸…！
 ちくび…、見えて…、見られてっ…！！
-> CONTEXT: Map002/events/2/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/68/Dialogue
 Nazuna:
 A-ah...!
 My breasts...!
@@ -112,14 +112,14 @@ Being... shown...!!
 
 > BEGIN STRING
 画面にナズナの尻が大写しになった！
-> CONTEXT: Map002/events/2/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/74/Dialogue
 The show changed to a close-up of her ass.
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 きゃ…、ま、まだ、続くのぉ…！？
-> CONTEXT: Map002/events/2/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/77/Dialogue
 Nazuna:
 T-there's... more...!?
 > END STRING
@@ -128,7 +128,7 @@ T-there's... more...!?
 通行人:
 ナズナちゃんのお尻…、
 ぷりっとしてて、柔らかそうだなぁ。
-> CONTEXT: Map002/events/2/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/80/Dialogue
 Nazuna:
 T-there's... more...!?
 > END STRING
@@ -137,7 +137,7 @@ T-there's... more...!?
 通行人:
 パンツの中まで大勢に見せちゃったねー、ナズナちゃん！
 俺、家で録画してるよー。
-> CONTEXT: Map002/events/2/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/84/Dialogue
 Passerby:
 I've shown a lot of people Nazuna's cute butt!
 I recorded it at my house.
@@ -146,21 +146,21 @@ I recorded it at my house.
 > BEGIN STRING
 ナズナ:
 あぅぁ…、こ、こんにゃ…、の…！
-> CONTEXT: Map002/events/2/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/88/Dialogue
 Nazuna:
 A-ahh... E-ehh...
 > END STRING
 
 > BEGIN STRING
 画面にナズナの股間が大写しになった！
-> CONTEXT: Map002/events/2/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/92/Dialogue
 The show changed to a close-up of her crotch!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 あわ…、ぎ、ぎゃーーーー！！？
-> CONTEXT: Map002/events/2/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/98/Dialogue
 Nazuna:
 A-ah... Uwahh~~~~!!!
 > END STRING
@@ -169,7 +169,7 @@ A-ah... Uwahh~~~~!!!
 通行人:
 モロじゃん！
 げへへ、ツルッツルだ…。
-> CONTEXT: Map002/events/2/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/101/Dialogue
 Passerby:
 Isn't it pretty?
 It looks so inviting...
@@ -179,7 +179,7 @@ It looks so inviting...
 通行人:
 今のご時世、テレビでこんなの見れるなんてな。
 あの魔物には感謝しなきゃ。
-> CONTEXT: Map002/events/2/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/105/Dialogue
 Passerby:
 To show this on national TV these days...
 I must thank that demon.
@@ -190,7 +190,7 @@ I must thank that demon.
 綺麗に閉じてるなぁ。
 こりゃ、絶対に処女だな、ナズナちゃん。
 彼氏ができるより先に、世界中にオマ○コ公開しちゃったねぇ。
-> CONTEXT: Map002/events/2/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/109/Dialogue
 Passerby:
 It looks pretty tight.
 She must definitely be a virgin.
@@ -201,7 +201,7 @@ But she won't be able to find a boyfriend now.
 ナズナ:
 ひどい…、ひどい！！
 テレビで、こんなの…！
-> CONTEXT: Map002/events/2/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/115/Dialogue
 Nazuna:
 Bad... this is bad...!
 It's all on TV!!
@@ -211,7 +211,7 @@ It's all on TV!!
 通行人:
 たまんねー。
 家に帰ってから、録画を見ながら抜こうっと。
-> CONTEXT: Map002/events/2/pages/0/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/119/Dialogue
 Passerby:
 I need to save all these.
 Can't wait to go home and fap to all these.
@@ -221,7 +221,7 @@ Can't wait to go home and fap to all these.
 通行人:
 ネットにも上がってるな。
 主要な動画サイトで、ランキング上位を総ナメしてるぜ。
-> CONTEXT: Map002/events/2/pages/0/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/123/Dialogue
 Passerby:
 It's gone on the net too.
 It's the most watched video on every site.
@@ -230,7 +230,7 @@ It's the most watched video on every site.
 > BEGIN STRING
 ナズナ:
 …………！！！
-> CONTEXT: Map002/events/2/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/131/Dialogue
 Nazuna:
 ................!!
 > END STRING
@@ -240,7 +240,7 @@ Nazuna:
 (そうだ…、まだまだ、終わりじゃない！！
 私の裸の映像…、もう、拡散され尽くしてて、全部は消せない…。
 ずっと、世界中、誰でも、何回でも、見れちゃう……。)
-> CONTEXT: Map002/events/2/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/134/Dialogue
 Nazuna:
 (So... it's over!!
 The videos are everywhere, I can't delete them
@@ -251,7 +251,7 @@ and people are watching them over and over...)
 通行人:
 へへ、本物のナズナちゃんもかわいいな…。
 写真撮っとこうっと。
-> CONTEXT: Map002/events/2/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/139/Dialogue
 Passerby:
 Eeeh! It's the real Nazuna...
 I need to take a picture.
@@ -262,7 +262,7 @@ I need to take a picture.
 あっ、俺も俺も。
 全裸動画の隣に並べて表示すると、
 きっと捗るぞ〜！
-> CONTEXT: Map002/events/2/pages/0/143/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/143/Dialogue
 Passerby:
 Oh, me too!
 When I put it next to her nudes,
@@ -271,7 +271,7 @@ it'll look even better~!
 
 > BEGIN STRING
 カシャ…カシャカシャ…
-> CONTEXT: Map002/events/2/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/148/Dialogue
 *click* *click* *click*
 > END STRING
 
@@ -279,7 +279,7 @@ it'll look even better~!
 ナズナ:
 ぴぃぃ！？
 や、や…、やめてぇ…！！！
-> CONTEXT: Map002/events/2/pages/0/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/157/Dialogue
 Nazuna:
 Piiii!?
 Stop...!!!
@@ -287,7 +287,7 @@ Stop...!!!
 
 > BEGIN STRING
 ナズナは慌ててその場を離れた…。
-> CONTEXT: Map002/events/2/pages/0/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/161/Dialogue
 Nazuna ran away as fast as she could...
 > END STRING
 
@@ -296,7 +296,7 @@ Nazuna ran away as fast as she could...
 ぅ〜…。
 恥ずかしいから、放送しないでって、
 電話入れたのに…。
-> CONTEXT: Map002/events/2/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/172/Dialogue
 Nazuna:
 U~...
 So embarrassinng... they're airing it...
@@ -307,7 +307,7 @@ I need to give them a call later...
 通行人:
 ナズナちゃんの水着姿なんて、一生拝めないと思ってたよ。
 ボディラインがよく分かるなぁ。
-> CONTEXT: Map002/events/2/pages/0/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/178/Dialogue
 Passerby:
 I didn't think much of swimsuits until now.
 I understand the body line well now,
@@ -319,7 +319,7 @@ thanks to Nazuna.
 ていうか、本人いるじゃん。
 やっぱり生で見ると、かわいーな！
 写真撮っちゃお。
-> CONTEXT: Map002/events/2/pages/0/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/182/Dialogue
 Passerby:
 Isn't she right here...
 You can see it live, so cute!
@@ -329,7 +329,7 @@ Take some pictures.
 > BEGIN STRING
 ナズナ:
 ひゃ…！
-> CONTEXT: Map002/events/2/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/188/Dialogue
 Nazuna:
 Hiya...!
 > END STRING
@@ -338,7 +338,7 @@ Hiya...!
 通行人:
 ナズナちゃん、マジでかわいいなぁ。
 なんでアイドルやらないんだろう。
-> CONTEXT: Map002/events/2/pages/0/198/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/198/Dialogue
 Passerby:
 Nazuna is really cute.
 I wonder why she's not an idol.
@@ -348,7 +348,7 @@ I wonder why she's not an idol.
 通行人:
 もっといっぱい見ていたいのに、
 メディア嫌いなんてもったいない…。
-> CONTEXT: Map002/events/2/pages/0/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/202/Dialogue
 Passerby:
 I want to see some more,
 too bad she's so mediaphobic...
@@ -359,7 +359,7 @@ too bad she's so mediaphobic...
 ぅ〜、恥ずかしい…。
 これ、全国に流れてるの…？
 スカートだし、めくれちゃわないかハラハラしちゃう…。
-> CONTEXT: Map002/events/2/pages/0/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/207/Dialogue
 Nazuna:
 U~, embarrassing...
 Is it being shown to the whole country?
@@ -370,9 +370,9 @@ My skirt... it's lifting up and down...
 おじさん：
 やあ、ナズナちゃん。
 コロッケ食べる？
-> CONTEXT: Map002/events/4/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/0/Dialogue
+> CONTEXT: Map002/events/4/pages/1/0/Dialogue
+> CONTEXT: Map002/events/4/pages/2/0/Dialogue
 Older Man：
 Hello Nazuna.
 Would you like a croquette?
@@ -380,17 +380,17 @@ Would you like a croquette?
 
 > BEGIN STRING
 食べる
-> CONTEXT: Map002/events/4/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/4/Choice/0
+> CONTEXT: Map002/events/4/pages/1/4/Choice/0
+> CONTEXT: Map002/events/4/pages/2/4/Choice/0
 Eat
 > END STRING
 
 > BEGIN STRING
 食べない
-> CONTEXT: Map002/events/4/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/4/Choice/1
+> CONTEXT: Map002/events/4/pages/1/4/Choice/1
+> CONTEXT: Map002/events/4/pages/2/4/Choice/1
 Don't eat
 > END STRING
 
@@ -398,9 +398,9 @@ Don't eat
 ナズナ：
 いつも、ありがとう。
 食べる…。
-> CONTEXT: Map002/events/4/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/7/Dialogue
+> CONTEXT: Map002/events/4/pages/1/7/Dialogue
+> CONTEXT: Map002/events/4/pages/2/7/Dialogue
 Nazuna:
 Thank you.
 ...I'll have one.
@@ -410,9 +410,9 @@ Thank you.
 おじさん：
 いつも守ってくれるお礼だよ！
 いつでも、好きなだけ食べていいからね。
-> CONTEXT: Map002/events/4/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/12/Dialogue
+> CONTEXT: Map002/events/4/pages/1/12/Dialogue
+> CONTEXT: Map002/events/4/pages/2/12/Dialogue
 Older Man:
 I do this for your thanks!
 You can have as many as you want.
@@ -423,9 +423,9 @@ You can have as many as you want.
 もぐもぐもぐ…
 コロッケは、完全食。
 魔力も一時的にだけど、アップする…。
-> CONTEXT: Map002/events/4/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/17/Dialogue
+> CONTEXT: Map002/events/4/pages/1/17/Dialogue
+> CONTEXT: Map002/events/4/pages/2/17/Dialogue
 Nazuna:
 I munch on it...
 The croquette makes for a full meal.
@@ -434,18 +434,18 @@ My magical powers grow as well...
 
 > BEGIN STRING
 コロッケを食べて魔力のレベルが上がりました。
-> CONTEXT: Map002/events/4/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/23/Dialogue
+> CONTEXT: Map002/events/4/pages/1/23/Dialogue
+> CONTEXT: Map002/events/4/pages/2/23/Dialogue
 Nazuna gained a level eating the croquette.
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 う～…、ダイエット中…。
-> CONTEXT: Map002/events/4/pages/0/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/2/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/29/Dialogue
+> CONTEXT: Map002/events/4/pages/1/29/Dialogue
+> CONTEXT: Map002/events/4/pages/2/29/Dialogue
 Nazuna:
 U~..., I'm on a diet...
 > END STRING
@@ -454,7 +454,7 @@ U~..., I'm on a diet...
 通行人:
 あーあ、ナズナちゃんのスク水姿は、
 もう生で見ることはないのか…。
-> CONTEXT: Map002/events/5/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/1/Dialogue
 Passerby:
 Ah, you're no longer in your swimsuit anymore
 I won't ever get to see it again...
@@ -464,7 +464,7 @@ I won't ever get to see it again...
 ナズナ:
 もう二度と…、大事な人以外には、
 見せないもん…。
-> CONTEXT: Map002/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/6/Dialogue
 Nazuna:
 Of course not... I'm very important.
 I would never dress like that...
@@ -474,7 +474,7 @@ I would never dress like that...
 通行人:
 まあ、録画とネットでは、今でも好きなだけ見れるけどね。
 水着どころか、その下のおっぱいもお尻も、ツルツルのスジまで…。
-> CONTEXT: Map002/events/5/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/12/Dialogue
 Passerby:
 Well it's on the net, so I can watch all I like.
 And not just your swimsuit, 
@@ -486,7 +486,7 @@ but also your tits and ass.
 ぴっ……！
 や、やめてよぉ…。
 恥ずかしい…、折角、勝ったのに…。
-> CONTEXT: Map002/events/5/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/17/Dialogue
 Nazuna:
 Pi......!
 Make it stop...
@@ -496,7 +496,7 @@ Even after winning... it's still embarrassing...
 > BEGIN STRING
 通行人:
 ナズナちゃーん、テレビ見たよー。
-> CONTEXT: Map002/events/5/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/28/Dialogue
 Passerby:
 Nazuna, I saw you on TV
 > END STRING
@@ -505,7 +505,7 @@ Nazuna, I saw you on TV
 ナズナ:
 んぐっ…、て、れび…？
 知らない…、うぅ、知らない！
-> CONTEXT: Map002/events/5/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/32/Dialogue
 Nazuna:
 Ngu...
 W-What are you t-talking about?
@@ -516,7 +516,7 @@ W-What are you t-talking about?
 とぼけちゃってー。
 俺、オマ○コ隅々まで見たんだからね。
 画面いっぱいに、でっかく映ったんだから。
-> CONTEXT: Map002/events/5/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/37/Dialogue
 Passerby:
 Don't play dumb.
 I saw every nook and cranny of you.
@@ -527,7 +527,7 @@ You filled up all those huge screens.
 ナズナ:
 な…、なんで、そんなこと、
 報告するのぉぉ…！？
-> CONTEXT: Map002/events/5/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/43/Dialogue
 Nazuna:
 W-why... why would they do that?
 Record me like that...
@@ -536,7 +536,7 @@ Record me like that...
 > BEGIN STRING
 通行人:
 ナズナちゃんのスク水、最高！！
-> CONTEXT: Map002/events/5/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/51/Dialogue
 Passerby:
 Nazuna in a school swimsuit...
 this is the best!!
@@ -544,14 +544,14 @@ this is the best!!
 
 > BEGIN STRING
 パシャッ！
-> CONTEXT: Map002/events/5/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/55/Dialogue
 *click*
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ！？
-> CONTEXT: Map002/events/5/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/57/Dialogue
 Nazuna:
 !?
 > END STRING
@@ -561,7 +561,7 @@ Nazuna:
 (い、今っ…！
 写真…？
 写真、撮られた！！)
-> CONTEXT: Map002/events/5/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/61/Dialogue
 Nazuna:
 (J-just now...!
 A picture...?
@@ -573,7 +573,7 @@ He took a picture!!)
 あっ、ナズナちゃんだ！！
 俺、ファンなんだよー。
 サインくれない？
-> CONTEXT: Map002/events/5/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/69/Dialogue
 Passerby:
 Ah, it's Nazuna!!
 I'm a huge fan.
@@ -585,7 +585,7 @@ Can I get your signature?
 ふぇ…？
 さ、サイン…？
 そんなの、ない…。
-> CONTEXT: Map002/events/5/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/75/Dialogue
 Nazuna:
 Huh...?
 S-signature...?
@@ -596,7 +596,7 @@ I don't do that...
 通行人：
 ナズナちゃんって直接会ってもめちゃくちゃかわいいけど、
 テレビ写りもいいよなー。
-> CONTEXT: Map002/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/6/pages/0/0/Dialogue
 Passerby:
 Even if I can meet you in person,
 you also look beautiful on TV.
@@ -606,7 +606,7 @@ you also look beautiful on TV.
 通行人：
 最近、ナズナちゃんテレビに出ずっぱりだね。
 タレントでもないのに…。
-> CONTEXT: Map002/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/7/pages/0/0/Dialogue
 Passerby:
 These days, they've only shown you on TV.
 You must have some real talent...
@@ -615,7 +615,7 @@ You must have some real talent...
 > BEGIN STRING
 通行人：
 ぐへへ…。
-> CONTEXT: Map002/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/8/pages/0/0/Dialogue
 Passerby:
 Hehe...
 > END STRING
@@ -625,7 +625,7 @@ Hehe...
 もう水着は着てくれないの？
 その辺のアイドルよりよっぽどかわいいんだから、
 もっと肌見せていこうよ。
-> CONTEXT: Map002/events/9/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/1/Dialogue
 Passerby:
 You're not wearing your swimsuit anymore?
 You looked great in it,
@@ -635,7 +635,7 @@ it showed so much skin.
 > BEGIN STRING
 ナズナ:
 絶対やだ…！
-> CONTEXT: Map002/events/9/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/7/Dialogue
 Nazuna:
 I hated it...!
 > END STRING
@@ -645,7 +645,7 @@ I hated it...!
 どうせ全裸姿まで世間に晒しちゃったんだから、
 この際AVにでも出てみない？
 絶対買うんだけど…。
-> CONTEXT: Map002/events/9/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/12/Dialogue
 Passerby:
 Since the world has seen you naked anyways,
 would you consider doing an AV?
@@ -655,7 +655,7 @@ I would absolutely buy it...
 > BEGIN STRING
 ナズナ:
 ふざけないで…！
-> CONTEXT: Map002/events/9/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/18/Dialogue
 Nazuna:
 Are you kidding me...!
 > END STRING
@@ -664,7 +664,7 @@ Are you kidding me...!
 通行人:
 学園で全校生徒がいる前で、裸にされてたね。
 テレビで見たよ～。
-> CONTEXT: Map002/events/9/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/27/Dialogue
 Passerby:
 You were naked in front of the whole school.
 I saw it on TV~.
@@ -674,7 +674,7 @@ I saw it on TV~.
 ナズナ:
 言わないでいいっ…！
 あぅぅ、この人にも、見られちゃったなんて…。
-> CONTEXT: Map002/events/9/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/32/Dialogue
 Nazuna:
 Don't say anymore...!
 Auu, even he saw...
@@ -684,7 +684,7 @@ Auu, even he saw...
 通行人:
 おおっ、テレビでもやってたけど…、
 本当にスクール水着しか着れないんだね。
-> CONTEXT: Map002/events/9/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/40/Dialogue
 Passerby:
 Even though I saw it on TV...,
 you really are wearing a swimsuit.
@@ -693,7 +693,7 @@ you really are wearing a swimsuit.
 > BEGIN STRING
 ナズナ:
 ううう…、こんな姿を世界中に…。
-> CONTEXT: Map002/events/9/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/45/Dialogue
 Nazuna:
 Uuu..., being seen like this all over the world.
 > END STRING
@@ -702,7 +702,7 @@ Uuu..., being seen like this all over the world.
 通行人:
 ナズナちゃん、いつもテレビで見てるよー。
 魔法が使えるっていいなあ。
-> CONTEXT: Map002/events/9/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/51/Dialogue
 Passerby:
 I always see you on TV Nazuna.
 I wish I could use magic.
@@ -712,7 +712,7 @@ I wish I could use magic.
 ナズナ:
 魔法は、修行しないと使えない…。
 私も、かなりがんばった。
-> CONTEXT: Map002/events/9/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/56/Dialogue
 Nazuna:
 Magic isn't hard if you practice for it...
 I trained hard to get here.
@@ -722,7 +722,7 @@ I trained hard to get here.
 通行人:
 今回の魔物は半端ないと思ってたけど、
 ナズナちゃんは強いなあ。
-> CONTEXT: Map002/events/10/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/1/Dialogue
 Passerby:
 That demon didn't stand a chance,
 you're much more stronger.
@@ -731,7 +731,7 @@ you're much more stronger.
 > BEGIN STRING
 ナズナ:
 あんなのに、私が負けるなんてこと、ありえない…。
-> CONTEXT: Map002/events/10/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/6/Dialogue
 Nazuna:
 Can't argue with you there...
 > END STRING
@@ -756,7 +756,7 @@ Can't argue with you there...
 通行人:
 こんなかわいい子が、裸をテレビで放送されちゃったなんてなあ…。
 うっ、興奮してきた。
-> CONTEXT: Map002/events/10/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/26/Dialogue
 Passerby:
 Such a cute girl, broadcasted naked on TV.
 It got me very excited.
@@ -765,7 +765,7 @@ It got me very excited.
 > BEGIN STRING
 ナズナ:
 やめて…！
-> CONTEXT: Map002/events/10/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/31/Dialogue
 Nazuna:
 Stop it...!
 > END STRING
@@ -773,7 +773,7 @@ Stop it...!
 > BEGIN STRING
 通行人:
 ひひっ、いいねえ…。
-> CONTEXT: Map002/events/10/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/38/Dialogue
 Passerby:
 Hehe, this is nice...
 > END STRING
@@ -781,7 +781,7 @@ Hehe, this is nice...
 > BEGIN STRING
 ナズナ:
 ひ…！
-> CONTEXT: Map002/events/10/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/42/Dialogue
 Nazuna:
 Hyee...!
 > END STRING
@@ -789,7 +789,7 @@ Hyee...!
 > BEGIN STRING
 通行人:
 ナズナちゃんってモテそうだけど、彼氏いないの？
-> CONTEXT: Map002/events/10/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/48/Dialogue
 Passerby:
 You're quite popular Nazuna,
 do you have a boyfriend?
@@ -799,7 +799,7 @@ do you have a boyfriend?
 ナズナ:
 いっ、いない…。
 私はそういうの、まだよく、わかんない…。
-> CONTEXT: Map002/events/10/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/0/52/Dialogue
 Nazuna:
 N-no way...
 I'm not looking for one...
@@ -808,63 +808,71 @@ I'm not looking for one...
 > BEGIN STRING
 通行人：
 ふひひひひ…。
-> CONTEXT: Map002/events/11/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/0/Dialogue
+Passerby:
+Fufufu...
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 うっ…、なんか、やな感じ…。
 目を合わせないようにして、通り過ぎよう…。
-> CONTEXT: Map002/events/11/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/4/Dialogue
+Nazuna:
+Ehh... I have a bad feeling about him...
+I should try to avoid eye contact...
 > END STRING
 
 > BEGIN STRING
 通行人：
 おっと、ナズナちゃ～ん。
 どこ行くのかな…っと！
-> CONTEXT: Map002/events/11/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/9/Dialogue
+Passerby:
+Oh, hey Nazuna~!
+Where are you going?
 > END STRING
 
 > BEGIN STRING
 ガシィ！
-> CONTEXT: Map002/events/11/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/17/Dialogue
+Eek!
 > END STRING
 
 > BEGIN STRING
 手を振り払う！
-> CONTEXT: Map002/events/11/pages/0/19/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/19/Choice/0
+Shake off his hand!
 > END STRING
 
 > BEGIN STRING
 肩を掴まれ、硬直してしまう
-> CONTEXT: Map002/events/11/pages/0/19/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/19/Choice/1
+Shoulder is caught and become stiff
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 触らないで！
-> CONTEXT: Map002/events/11/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/28/Dialogue
+Nazuna:
+Don't touch me!
 > END STRING
 
 > BEGIN STRING
 通行人：
 ちぇっ…。
-> CONTEXT: Map002/events/11/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/31/Dialogue
+Passerby:
+Tch...
 > END STRING
 
 > BEGIN STRING
 通行人はナズナのスクール水着を
 一気に引き下ろした！！
-> CONTEXT: Map002/events/11/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/37/Dialogue
+The man grabbed her swimsuit,
+and pulled it straight down!!
 > END STRING
 
 > BEGIN STRING
@@ -877,15 +885,17 @@ I'm not looking for one...
 > BEGIN STRING
 ナズナ：
 ！！！？
-> CONTEXT: Map002/events/11/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/47/Dialogue
+Nazuna:
+!!!?
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 はぁはぁ…。
-> CONTEXT: Map002/events/11/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/54/Dialogue
+Nazuna:
+*pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -906,15 +916,16 @@ I'm not looking for one...
 
 > BEGIN STRING
 変態は警察に連れられていった…
-> CONTEXT: Map002/events/11/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/68/Dialogue
+The pervert was apprehended the police...
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 …………！！
-> CONTEXT: Map002/events/11/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/76/Dialogue
+Nazuna:
+...........!!
 > END STRING
 
 > BEGIN STRING
@@ -922,38 +933,45 @@ I'm not looking for one...
 （普通の人に…、全力の魔法なんて、
 使えるわけ、ない…！
 うぅ、何にもできず、負けちゃうなんて…。）
-> CONTEXT: Map002/events/11/pages/0/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/79/Dialogue
+Nazuna:
+...........!!
 > END STRING
 
 > BEGIN STRING
 変態：
 ぐひひひ…、それじゃあ衆人環視のもと、
 ナズナちゃんにも～っと酷いことを…
-> CONTEXT: Map002/events/11/pages/0/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/84/Dialogue
+Pervert:
+Fufufu... to be like that in public,
+this must be awful for her...
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 ひっ…！
-> CONTEXT: Map002/events/11/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/88/Dialogue
+Nazuna:
+Hee...!
 > END STRING
 
 > BEGIN STRING
 通行人：
 おまわりさん！こっちこっち！！
-> CONTEXT: Map002/events/11/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/91/Dialogue
+Passerby:
+Police! Police! Over here!!
 > END STRING
 
 > BEGIN STRING
 通行人：
 ナズナちゃんが変な男に全裸にされて、
 ピンチなんだよ！！
-> CONTEXT: Map002/events/11/pages/0/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/94/Dialogue
+Passerby:
+Nazuna is naked next to a strange man,
+she's in trouble!!
 > END STRING
 
 > BEGIN STRING
@@ -961,29 +979,35 @@ I'm not looking for one...
 全裸に！！！？
 すぐ行くぞ！！！！！！
 待っててくれ、ナズナちゃん！ハァハァハァ…
-> CONTEXT: Map002/events/11/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/98/Dialogue
+Police:
+Naked!!!?
+I'm off!!!!!!
+Wait for me Nazuna! *pant* *pant*
 > END STRING
 
 > BEGIN STRING
 変態：
 やべっ…、ポリ公来やがった！！
 逃げろっ！
-> CONTEXT: Map002/events/11/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/103/Dialogue
+Pervert:
+Uh oh... the police!!
+Gotta dash!
 > END STRING
 
 > BEGIN STRING
 変態は警官を恐れて逃げていった…
-> CONTEXT: Map002/events/11/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/108/Dialogue
+The pervert escaped the police officer...
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 …………。
-> CONTEXT: Map002/events/11/pages/0/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/113/Dialogue
+Nazuna:
+............
 > END STRING
 
 > BEGIN STRING
@@ -991,6 +1015,9 @@ I'm not looking for one...
 最悪…。
 うぅぅ、もう、最低！
 最っ低……！
-> CONTEXT: Map002/events/11/pages/0/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/117/Dialogue
+Nazuna:
+The worst...
+Uuu, he's despicable!
+Garbage......!
 > END STRING

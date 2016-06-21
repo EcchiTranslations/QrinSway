@@ -146,13 +146,6 @@ Fight
 > END STRING
 
 > BEGIN STRING
-逃げる
-> CONTEXT: Skills/6/name/
-> CONTEXT: System/terms/commands/1/
-Escape
-> END STRING
-
-> BEGIN STRING
 アイテム
 > CONTEXT: System/terms/commands/4/
 Item
