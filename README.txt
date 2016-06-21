@@ -5,7 +5,10 @@ Requirements
 ================================
 
 QrinSway (Demo works for the first game)
-http://www.dlsite.com/maniax/work/=/product_id/RJ178175.html
+http://www.dlsite.com/ecchi-eng/work/=/product_id/RE178175.html
+
+RPG Maker VX Ace RTP
+https://s3.amazonaws.com/degica-downloads/RPGVXAce_RTP.zip
 
 RPGMaker Trans
 http://rpgmakertrans.bitbucket.org/
@@ -16,3 +19,5 @@ Translation Patch
 ================================
 Instructions
 ================================
+
+<TODO>
