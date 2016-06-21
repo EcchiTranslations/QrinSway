@@ -1,0 +1,137 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+銭湯
+> CONTEXT: Map005/display_name/
+Public bath
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+…お風呂、入ろう。
+> CONTEXT: Map005/events/3/pages/0/2/Dialogue
+> CONTEXT: Map005/events/3/pages/1/2/Dialogue
+> CONTEXT: Map005/events/3/pages/2/2/Dialogue
+> CONTEXT: Map005/events/5/pages/0/2/Dialogue
+> CONTEXT: Map005/events/5/pages/1/2/Dialogue
+> CONTEXT: Map005/events/5/pages/2/2/Dialogue
+Nazuna:
+...Let's enter the bath.
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+…ふう。
+> CONTEXT: Map005/events/3/pages/0/49/Dialogue
+> CONTEXT: Map005/events/3/pages/0/95/Dialogue
+> CONTEXT: Map005/events/3/pages/1/49/Dialogue
+> CONTEXT: Map005/events/3/pages/1/95/Dialogue
+> CONTEXT: Map005/events/3/pages/2/49/Dialogue
+> CONTEXT: Map005/events/3/pages/2/95/Dialogue
+Nazuna:
+...phew
+> END STRING
+
+> BEGIN STRING
+お風呂に入って体力が全回復した！
+> CONTEXT: Map005/events/3/pages/0/53/Dialogue
+> CONTEXT: Map005/events/3/pages/1/53/Dialogue
+> CONTEXT: Map005/events/3/pages/2/53/Dialogue
+The bath recovered all your strength!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+…出よう。
+> CONTEXT: Map005/events/3/pages/0/60/Dialogue
+> CONTEXT: Map005/events/3/pages/1/60/Dialogue
+> CONTEXT: Map005/events/3/pages/2/60/Dialogue
+Nazuna:
+...Time to go.
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+…。
+> CONTEXT: Map005/events/5/pages/0/47/Dialogue
+> CONTEXT: Map005/events/5/pages/0/64/Dialogue
+> CONTEXT: Map005/events/5/pages/1/47/Dialogue
+> CONTEXT: Map005/events/5/pages/1/64/Dialogue
+> CONTEXT: Map005/events/5/pages/2/47/Dialogue
+> CONTEXT: Map005/events/5/pages/2/64/Dialogue
+Nazuna:
+...
+> END STRING
+
+> BEGIN STRING
+入浴客：
+な、ナズナちゃん！？
+> CONTEXT: Map005/events/5/pages/0/50/Dialogue
+> CONTEXT: Map005/events/5/pages/1/50/Dialogue
+> CONTEXT: Map005/events/5/pages/2/50/Dialogue
+Bathing Guest:
+N-Nazuna!?
+> END STRING
+
+> BEGIN STRING
+入浴客：
+おほっ…！
+ぜ、全裸…。
+> CONTEXT: Map005/events/5/pages/0/53/Dialogue
+> CONTEXT: Map005/events/5/pages/1/53/Dialogue
+> CONTEXT: Map005/events/5/pages/2/53/Dialogue
+Bathing Guest：
+Oh ho...!
+N-naked...!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+あれ…？
+> CONTEXT: Map005/events/5/pages/0/57/Dialogue
+> CONTEXT: Map005/events/5/pages/1/57/Dialogue
+> CONTEXT: Map005/events/5/pages/2/57/Dialogue
+Nazuna:
+Huh...?
+> END STRING
+
+> BEGIN STRING
+入浴客：
+こ、ここは男湯だよ！？
+はぁはぁ…。
+> CONTEXT: Map005/events/5/pages/0/60/Dialogue
+> CONTEXT: Map005/events/5/pages/1/60/Dialogue
+> CONTEXT: Map005/events/5/pages/2/60/Dialogue
+Bathing Guest：
+Y-you know this is the men's bath?
+*pant* *pant*
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ぴゃああ！！？
+> CONTEXT: Map005/events/5/pages/0/71/Dialogue
+> CONTEXT: Map005/events/5/pages/1/71/Dialogue
+> CONTEXT: Map005/events/5/pages/2/71/Dialogue
+Nazuna：
+Pyaa!!?
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+お、男湯…、だった……。
+あぅ…、裸、見られちゃった…。
+> CONTEXT: Map005/events/5/pages/0/80/Dialogue
+> CONTEXT: Map005/events/5/pages/1/80/Dialogue
+> CONTEXT: Map005/events/5/pages/2/80/Dialogue
+Nazuna：
+Th-the mens b-bath?
+They saw me naked...
+> END STRING
+
+> BEGIN STRING
+男：
+ここは銭湯だよ。
+> CONTEXT: Map005/events/8/pages/0/0/Dialogue
+Man:
+Welcome to the public bath.
+> END STRING

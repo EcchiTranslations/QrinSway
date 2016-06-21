@@ -1,0 +1,2224 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ナズナ:
+むっ、何か仕掛けてきそう…。
+> CONTEXT: Commonevents/1/2/Dialogue
+> CONTEXT: Commonevents/3/2/Dialogue
+> CONTEXT: Commonevents/4/2/Dialogue
+Nazuna:
+Hrmm... He's up to something...
+> END STRING
+
+> BEGIN STRING
+魔物はスクール水着の
+肩紐に手をかけた！
+> CONTEXT: Commonevents/1/5/Dialogue
+The demon reaches for her swimsuit
+his hand grabs hold of her shoulder straps!
+> END STRING
+
+> BEGIN STRING
+ナズナは手を払いのけた。
+> CONTEXT: Commonevents/1/11/Dialogue
+> CONTEXT: Commonevents/3/11/Dialogue
+> CONTEXT: Commonevents/4/11/Dialogue
+> CONTEXT: Commonevents/4/36/Dialogue
+Nazuna pushes his hand away.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+さ、触らないで…！
+> CONTEXT: Commonevents/1/16/Dialogue
+> CONTEXT: Commonevents/3/16/Dialogue
+> CONTEXT: Commonevents/4/16/Dialogue
+> CONTEXT: Commonevents/4/41/Dialogue
+Nazuna:
+D-don't touch it...!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのスクール水着を
+一気に引き下ろした！！
+> CONTEXT: Commonevents/1/22/Dialogue
+The demon firmly grabbed her shoulder straps
+一and pulled it straight down!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…
+> CONTEXT: Commonevents/1/31/Dialogue
+Nazuna:
+Aa...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うおおおおおお！！？
+> CONTEXT: Commonevents/1/34/Dialogue
+Schoolboy:
+Oooooooh!!!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+今だ！
+アップで撮れ！！
+> CONTEXT: Commonevents/1/37/Dialogue
+Reporter:
+Now! Now!
+Start recording!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…、駄目！！
+> CONTEXT: Commonevents/1/44/Dialogue
+Nazuna:
+Kyaa... this is bad!!
+> END STRING
+
+> BEGIN STRING
+身体を隠す
+> CONTEXT: Commonevents/1/47/Choice/0
+> CONTEXT: Commonevents/1/69/Choice/0
+> CONTEXT: Commonevents/1/98/Choice/0
+> CONTEXT: Commonevents/1/166/Choice/0
+Cover your body
+> END STRING
+
+> BEGIN STRING
+水着を引き上げる
+> CONTEXT: Commonevents/1/47/Choice/1
+> CONTEXT: Commonevents/1/69/Choice/1
+> CONTEXT: Commonevents/1/98/Choice/1
+> CONTEXT: Commonevents/1/166/Choice/1
+Pull up swimsuit
+> END STRING
+
+> BEGIN STRING
+ナズナは身体を隠した。
+> CONTEXT: Commonevents/1/50/Dialogue
+Nazuna covered her body.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、早く…、着ないと…！
+> CONTEXT: Commonevents/1/58/Dialogue
+Nazuna:
+Quickly... I need to put it back on...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+おっと、水着を直す暇は与えないぞ？
+> CONTEXT: Commonevents/1/61/Dialogue
+Demon:
+Oh ho, didn't you have time to do so?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ…！
+> CONTEXT: Commonevents/1/64/Dialogue
+Nazuna:
+Tch...!
+> END STRING
+
+> BEGIN STRING
+ナズナは両手が使えない！
+> CONTEXT: Commonevents/1/67/Dialogue
+Nazuna can't use both of her hands
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くっ…。
+> CONTEXT: Commonevents/1/78/Dialogue
+Nazuna:
+Kuu...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(九輪さん、
+両手で胸を隠してるけど、
+その隠し方はやばいぞ…。)
+> CONTEXT: Commonevents/1/82/Dialogue
+Schoolboy:
+(Nazuna,
+she's covering her chest with both of her hands,
+she's not covering herself well...)
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(オマ○コとお尻が、
+完全に丸見えのままだ…。)
+> CONTEXT: Commonevents/1/87/Dialogue
+Schoolboy:
+(Her pussy and ass,
+they're completely exposed...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(恥ずかしい…、
+早く手を離して、
+水着を着なきゃ…。)
+> CONTEXT: Commonevents/1/93/Dialogue
+Nazuna:
+(So embarrassing...
+I need to release a hand
+to put my swimsuit back on...)
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうした！？
+両手が使えないのでは、
+防戦一方だぞ？
+> CONTEXT: Commonevents/1/100/Dialogue
+Demon:
+What happened?
+Both of your hands are busy,
+are you staying on the defensive?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ…！
+ちょっと、待ってよぉ…！
+> CONTEXT: Commonevents/1/111/Dialogue
+Nazuna:
+Uu....!
+W-wait a second...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほれ、全国の視聴者に向けて、
+サービスだっ！！
+> CONTEXT: Commonevents/1/115/Dialogue
+Demon:
+To all those viewers,
+Enjoy this service!!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの背を押して、
+カメラに突き飛ばした！
+> CONTEXT: Commonevents/1/119/Dialogue
+The demon pushes Nazuna
+straight towards the camera!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃっ…！
+> CONTEXT: Commonevents/1/125/Dialogue
+Nazuna:
+Kiya...!
+> END STRING
+
+> BEGIN STRING
+ナズナの股間が、
+レンズの至近距離に…！
+> CONTEXT: Commonevents/1/129/Dialogue
+Nazuna's crotch were positioned
+right next to the camera lens...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…、あ、ああ……。
+> CONTEXT: Commonevents/1/133/Dialogue
+Nazuna:
+Aah... aah, aah....
+> END STRING
+
+> BEGIN STRING
+報道陣:
+おっと、ナズナさん、
+魔物に突き飛ばされて、
+こっちに来ました！
+> CONTEXT: Commonevents/1/136/Dialogue
+Reporter:
+Woah, Nazuna was pushed by the demon
+right towards us!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+多少、刺激の強い映像ですが、
+報道のため、無修正で
+お送りしております！！
+> CONTEXT: Commonevents/1/141/Dialogue
+Reporter:
+This may be a little erotic,
+but this is the uncensored truth.
+We must show this!!
+> END STRING
+
+> BEGIN STRING
+ナズナの性器が、
+どアップで全国放送された！！
+> CONTEXT: Commonevents/1/146/Dialogue
+Nazuna's pussy was now being
+shown to a nationwide audience!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴゃうぅうぅっ！！？
+> CONTEXT: Commonevents/1/156/Dialogue
+Nazuna:
+Pyauuu!!?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、あひ、ひぃ、あわわわ…。
+> CONTEXT: Commonevents/1/160/Dialogue
+Nazuna:
+Aa, aa... wa... wa...
+> END STRING
+
+> BEGIN STRING
+ナズナは混乱している…。
+> CONTEXT: Commonevents/1/163/Dialogue
+Nazuna is confused...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+一回、離れないと…、
+これじゃ、何もできない…！
+> CONTEXT: Commonevents/1/169/Dialogue
+Nazuna:
+I have to get away...
+There's nothing I can do...!
+> END STRING
+
+> BEGIN STRING
+ナズナは魔物に背を向け、
+距離を取ろうとした。
+> CONTEXT: Commonevents/1/174/Dialogue
+Nazuna turns her back towards the demon,
+and tries to make some distance.
+> END STRING
+
+> BEGIN STRING
+魔物:
+おっと、今度は尻を、
+見て欲しいのか？
+いいぞ、お望み通り…！
+> CONTEXT: Commonevents/1/178/Dialogue
+Demon:
+Oh ho, your ass,
+Do you want us to see?
+Okay, wish granted...!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの足を取ると、
+一気に引き寄せる！
+> CONTEXT: Commonevents/1/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+おらっ！
+じっくり見てもらえ！！
+> CONTEXT: Commonevents/1/193/Dialogue
+Demon:
+Hey!!
+Look carefully!!
+> END STRING
+
+> BEGIN STRING
+どんっ！！
+> CONTEXT: Commonevents/1/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナのお尻が、
+カメラの至近距離に…！
+> CONTEXT: Commonevents/1/204/Dialogue
+The camera was right infront of Nazuna's ass...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほらほら、見られてるぞ〜？
+全部見られてるぞ〜？
+> CONTEXT: Commonevents/1/207/Dialogue
+Demon:
+Can you see it now~?
+Did you catch it all~?
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのお尻を、
+レンズに押し付けんばかりに、
+たっぷりと見せつけている…。
+> CONTEXT: Commonevents/1/211/Dialogue
+The demon presses Nazuna's ass onto the lens,
+every little detail was being shown...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+〜〜〜〜……っっっ…！！
+はぅ…、ひ、ひぃ…！
+> CONTEXT: Commonevents/1/222/Dialogue
+Nazuna:
+~~~........!
+Wah... hi, hii...!
+> END STRING
+
+> BEGIN STRING
+ナズナの肛門と性器が、
+どアップで全国放送された！！
+> CONTEXT: Commonevents/1/226/Dialogue
+Nazuna's pussy and anus was now
+being shown to the entire nation.
+> END STRING
+
+> BEGIN STRING
+報道陣:
+大変です！
+魔物がナズナさんのお尻を、
+カメラに押し付けています！！
+> CONTEXT: Commonevents/1/229/Dialogue
+Reporter:
+Unbelievable!
+The demon pushed Nazuna's bottom onto the lens!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+これはえげつない…！
+ナズナさんのお尻の穴が、
+全国に公開されてしまいました！！
+> CONTEXT: Commonevents/1/234/Dialogue
+Reporter:
+This is too dirty...!
+Nazuna's asshole is being
+seen by the whole country!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”ひぃ…！
+やめでっ！
+や、やめ…！
+> CONTEXT: Commonevents/1/245/Dialogue
+Nazuna:
+A...hi...!
+S-stop!
+Stop iiit...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ、あ…、あぅ…、
+あっ………。
+> CONTEXT: Commonevents/1/251/Dialogue
+Nazuna:
+A, a..., au...,
+Aaa...........
+> END STRING
+
+> BEGIN STRING
+ナズナは恥ずかしさのあまり、
+気絶してしまった…。
+> CONTEXT: Commonevents/1/255/Dialogue
+Feeling too embarrassed, Nazuna fainted...
+> END STRING
+
+> BEGIN STRING
+ナズナは水着を直した！
+> CONTEXT: Commonevents/2/6/Dialogue
+> CONTEXT: Commonevents/5/25/Dialogue
+Nazuna put her swimsuit back on!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(み、見られた…、いっぱい！
+テレビにも、みんなにも…！)
+> CONTEXT: Commonevents/2/8/Dialogue
+Nazuna:
+(I-I've been seen..., with it off!
+By everyone on TV...!)
+> END STRING
+
+> BEGIN STRING
+魔物はスクール水着の
+お尻部分に手をかけた！
+> CONTEXT: Commonevents/3/5/Dialogue
+The demon went for her swimsuit,
+and grabbed hold of her bottom!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのスクール水着を
+思いっきり引き上げた！！
+> CONTEXT: Commonevents/3/22/Dialogue
+Clenching her bottom, 
+he pulled it up with all his might!!
+> END STRING
+
+> BEGIN STRING
+ぐいっ！！
+> CONTEXT: Commonevents/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぴぎぃい！？
+> CONTEXT: Commonevents/3/36/Dialogue
+Nazuna:
+Pigii!?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うお、お尻が…。
+> CONTEXT: Commonevents/3/39/Dialogue
+Schoolboy:
+H-her ass...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+Tバック状態だ！！
+> CONTEXT: Commonevents/3/42/Dialogue
+Schoolboy:
+It looks like a T!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やだっ…！
+> CONTEXT: Commonevents/3/49/Dialogue
+Nazuna:
+This is awful...!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの身体に
+手を伸ばした！
+> CONTEXT: Commonevents/4/5/Dialogue
+The demon's hand reaches out to Nazuna
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの身体を拘束した！
+> CONTEXT: Commonevents/4/21/Dialogue
+The demon restrains Nazuna!
+> END STRING
+
+> BEGIN STRING
+ガッ！
+> CONTEXT: Commonevents/4/27/Dialogue
+Gah!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くっ…、動けない…。
+は、放して！
+> CONTEXT: Commonevents/4/29/Dialogue
+Nazuna:
+Ku... I can't move...
+Let me go!
+> END STRING
+
+> BEGIN STRING
+力いっぱい拘束を振り切る
+> CONTEXT: Commonevents/4/33/Choice/0
+> CONTEXT: Commonevents/4/142/Choice/0
+> CONTEXT: Commonevents/4/178/Choice/0
+> CONTEXT: Commonevents/4/219/Choice/0
+Shake him off as hard as possible
+> END STRING
+
+> BEGIN STRING
+身体が動かない！
+> CONTEXT: Commonevents/4/33/Choice/1
+> CONTEXT: Commonevents/4/142/Choice/1
+> CONTEXT: Commonevents/4/178/Choice/1
+> CONTEXT: Commonevents/4/219/Choice/1
+Her body doesn't move
+> END STRING
+
+> BEGIN STRING
+魔物:
+くくく…。
+おい、そこのお前！
+> CONTEXT: Commonevents/4/46/Dialogue
+Demon:
+Kukuku...
+Hey, you there!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+えっ…、お、俺ですか？
+> CONTEXT: Commonevents/4/50/Dialogue
+Schoolboy:
+Eeeh... me?
+> END STRING
+
+> BEGIN STRING
+魔物:
+そうだ！
+手を前に突き出せ。
+> CONTEXT: Commonevents/4/53/Dialogue
+Demon:
+Yes, you!
+Put out your hand.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やめて…。
+皆には、手を出さないで！
+> CONTEXT: Commonevents/4/61/Dialogue
+Nazuna:
+S-stop...
+Everyone, don't listen to him!
+> END STRING
+
+> BEGIN STRING
+魔物:
+危害は加えないから、
+心配するな。
+ほら、早くしろ。
+> CONTEXT: Commonevents/4/65/Dialogue
+Demon:
+This won't hurt, don't worry.
+C'mon, hurry up.
+> END STRING
+
+> BEGIN STRING
+男子生徒は手を前に出した…
+> CONTEXT: Commonevents/4/70/Dialogue
+The student extends his hand...
+> END STRING
+
+> BEGIN STRING
+魔物:
+よしよし…、ほれ！
+> CONTEXT: Commonevents/4/72/Dialogue
+Demon:
+Alright... here!
+> END STRING
+
+> BEGIN STRING
+ずるっ！
+> CONTEXT: Commonevents/4/79/Dialogue
+> CONTEXT: Commonevents/31/43/Dialogue
+*strip*
+> END STRING
+
+> BEGIN STRING
+ナズナのスクール水着が
+引き下ろされた！
+> CONTEXT: Commonevents/4/81/Dialogue
+Nazuna's swimsuit was pulled down!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なに、するのぉぉぉ！！？
+> CONTEXT: Commonevents/4/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+おほ…、お、おっぱい……
+> CONTEXT: Commonevents/4/93/Dialogue
+Schoolboy:
+Ooh... b-boobs...
+> END STRING
+
+> BEGIN STRING
+むにょっ…
+> CONTEXT: Commonevents/4/97/Dialogue
+*pat*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！？！？？？
+> CONTEXT: Commonevents/4/103/Dialogue
+Nazuna:
+!!!?!???
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うお…。
+> CONTEXT: Commonevents/4/106/Dialogue
+Schoolboy:
+Uo...
+> END STRING
+
+> BEGIN STRING
+魔物はナズナの胸を、
+男子生徒の掌に
+押し付けている！
+> CONTEXT: Commonevents/4/109/Dialogue
+The demon pushed the boy's hand
+onto Nazuna's chest.
+> END STRING
+
+> BEGIN STRING
+むに…むに…
+> CONTEXT: Commonevents/4/113/Dialogue
+*pat* *pat*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やめっ…、あ、ぁん…！
+ゆび…、動かさないでっ！
+んあっ、き、きゃうっ…！？
+> CONTEXT: Commonevents/4/122/Dialogue
+Nazuna:
+S-stop it... aan...!
+Your finger... don't move it!
+Na, ki... kiyau...!?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+はぁはぁ…、
+や、柔らかい！！
+> CONTEXT: Commonevents/4/127/Dialogue
+Schoolboy:
+*pant* *pant*
+It's so... soft!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やめてぇっ…！
+> CONTEXT: Commonevents/4/138/Dialogue
+Nazuna:
+S-stop...!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほらほら、次はお前だ。
+手を出せ。
+> CONTEXT: Commonevents/4/148/Dialogue
+Demon:
+Hey! Hey! You're next.
+Hold your hand out.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ぼ、僕ですか！？
+…ごめんね、九輪さん…。
+> CONTEXT: Commonevents/4/152/Dialogue
+Schoolboy:
+M-me... really!?
+...Thank you Nazuna...
+> END STRING
+
+> BEGIN STRING
+むにゅむにゅ…。
+> CONTEXT: Commonevents/4/157/Dialogue
+*pat* *pat*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぅ…、や、やだぁ…！
+> CONTEXT: Commonevents/4/160/Dialogue
+Nazuna:
+Au..., h-hate this...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+生おっぱいの手触りが最高だ…！
+ち、乳首立ってるのが分かる…。
+> CONTEXT: Commonevents/4/163/Dialogue
+Schoolboy:
+Her tits feel the best...!
+You can see her nipples standing up...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひぃ…、
+ぅ………っ、くふぅ…！
+> CONTEXT: Commonevents/4/173/Dialogue
+Nazuna:
+Hii...,
+Uu....., kufuu...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+次の奴だな。
+お前が動けんなら、
+この場の全員に堪能させてやる。
+> CONTEXT: Commonevents/4/183/Dialogue
+Demon:
+Next person.
+If she won't move,
+I'll let everyone here thoroughly enjoy this.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+はいはい！
+次は俺に…！
+> CONTEXT: Commonevents/4/188/Dialogue
+Schoolboy:
+Yes! Yes!
+Me next...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ずるいぞ、お前！！
+俺にも揉ませて下さい！！！
+> CONTEXT: Commonevents/4/192/Dialogue
+Schoolboy:
+That's not fair!!
+Let me rub it too!!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+くくっ…、大人気ではないか？
+> CONTEXT: Commonevents/4/196/Dialogue
+Demon:
+Kuku..., aren't you popular?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なんで、みんな…！
+ひ、酷い…、うぅ……。
+> CONTEXT: Commonevents/4/199/Dialogue
+Nazuna:
+Everyone... why...?
+T-too cruel... uu...
+> END STRING
+
+> BEGIN STRING
+プニプニ…
+> CONTEXT: Commonevents/4/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+はぁはぁ…、柔らかい…！
+ち、乳首摘まんじゃお…。
+> CONTEXT: Commonevents/4/206/Dialogue
+Schoolboy:
+*pant* *pant* ...so soft...!
+Her nipple... I want to pinch it...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゅっ、ひきゅ、や、ぁあっ…！
+揉まないでぇ…！
+> CONTEXT: Commonevents/4/214/Dialogue
+Nazuna:
+D-d... s-s...sto...!
+Don't rub it...!
+> END STRING
+
+> BEGIN STRING
+くにくに…
+> CONTEXT: Commonevents/4/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あぁ…、柔らかすぎるっ…！
+> CONTEXT: Commonevents/4/227/Dialogue
+Schoolboy:
+Aah... it's so soft...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+もう何人目だ？
+マジで全員、
+揉ませて貰ったんじゃね？
+> CONTEXT: Commonevents/4/230/Dialogue
+Schoolboy:
+How many people are watching?
+Seriously, is it okay to massage her?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やぁんっ…♥、
+うっ、ひ、ひく…。
+> CONTEXT: Commonevents/4/236/Dialogue
+Nazuna:
+D-don...♥
+p-p...pinch..
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさんは殆ど動けません！
+生徒たちに胸を揉まれています！！
+> CONTEXT: Commonevents/4/240/Dialogue
+Reporter:
+Nazuna can't move!
+All the students are feeling her up!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひゃめて…、みんらぁ、
+あっ、あ、あ……！
+> CONTEXT: Commonevents/4/244/Dialogue
+Nazuna:
+P-ple-... sto-...!
+Aaa.......!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うわ、
+い、イったのか…？
+胸だけで…？
+> CONTEXT: Commonevents/4/251/Dialogue
+Schoolboy:
+Uwa,
+D-did she just come...?
+Just from her chest...?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ナズナさんの絶頂姿…。
+ごくっ。
+> CONTEXT: Commonevents/4/256/Dialogue
+Schoolboy:
+Nazuna just came...
+Wooah!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なにっ、いまの……。
+はひ…、皆の、前で…、
+て、テレビにも、出てるのに…。
+> CONTEXT: Commonevents/4/261/Dialogue
+Nazuna:
+W-why...
+In front... of everyone...
+even... on TV...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くらっ…
+> CONTEXT: Commonevents/4/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは恥ずかしさのあまり、
+気絶してしまった…
+> CONTEXT: Commonevents/4/269/Dialogue
+Feeling overly embarrassed
+Nazuna fainted...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、放してぇ！！
+> CONTEXT: Commonevents/5/4/Dialogue
+Nazuna:
+L-let go!!!
+> END STRING
+
+> BEGIN STRING
+ナズナは拘束を振り切った！
+> CONTEXT: Commonevents/5/17/Dialogue
+Nazuna shook off her restraints
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(揉まれたっ…、ち、直接っ！
+男子に、私の胸…！)
+> CONTEXT: Commonevents/5/27/Dialogue
+Nazuna:
+(They touched me... my bare chest!
+A boy touched my breasts...!)
+> END STRING
+
+> BEGIN STRING
+魔物:
+がくっ…
+> CONTEXT: Commonevents/30/4/Dialogue
+Demon:
+Argh...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+危ないところだった…。
+> CONTEXT: Commonevents/30/11/Dialogue
+Nazuna:
+That was close...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+やったー！
+さすが九輪さんだ！
+> CONTEXT: Commonevents/30/15/Dialogue
+Schoolboy:
+Bravo~!
+As expected of Nazuna!
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+ナズナちゃんかっこいいー！！
+> CONTEXT: Commonevents/30/19/Dialogue
+Schoolgirl:
+Nazuna is so cool~!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+学園に現れた魔物は、魔法使いの九輪ナズナさんの活躍によって、
+異世界に送り還されました！
+ナズナさん！コメントを…
+> CONTEXT: Commonevents/30/32/Dialogue
+Reporter:
+The demon who appeared in school was defeated,
+sent back to his world thanks for Nazuna!
+Nazuna! Any comments...?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひゃっ！？
+…す、すみません…、
+コメントなんて、む、無理ぃ…。
+> CONTEXT: Commonevents/30/41/Dialogue
+Nazuna:
+Hiya!?
+...S-sorry...
+I-I have no comments...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+あぁ、また逃げられてしまった…。
+> CONTEXT: Commonevents/30/58/Dialogue
+Reporter:
+Oh, ...she got away...
+> END STRING
+
+> BEGIN STRING
+こうしてナズナは学園の平和を守った。
+> CONTEXT: Commonevents/30/61/Dialogue
+Peace has been restored thanks to Nazuna.
+> END STRING
+
+> BEGIN STRING
+END
+> CONTEXT: Commonevents/30/64/Dialogue
+END
+> END STRING
+
+# I want to put a translators "Thanks to the original creators here"
+
+> BEGIN STRING
+プレイしてくださってありがとうございました。
+ここからエピローグになります。
+エロシーンはありませんが、
+敗北経験の有無などでモブとの会話内容などが微妙に変わります。
+> CONTEXT: Commonevents/30/66/Dialogue
+Thank you for playing.
+The epilogue starts here.
+While there are no more ero scenes,
+the consequences of losing can be viewed.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+制服、着れた…。
+今日はのんびりしてよう。
+> CONTEXT: Commonevents/30/81/Dialogue
+Nazuna:
+Finally back in my uniform...
+Now I can relax.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+負けた…。
+ど、どうして…、うぅ…。
+> CONTEXT: Commonevents/31/1/Dialogue
+Nazuna:
+I lost...
+How...?
+> END STRING
+
+> BEGIN STRING
+魔物:
+残念だったな。
+諦めて土下座でもすれば、呪いを解いて許してやったものを…。
+俺を倒そうなどという発想になるとは、頭の悪い奴だ。
+> CONTEXT: Commonevents/31/5/Dialogue
+Demon:
+I'm disappointed.
+If you kneel before me, I'll lift the curse...
+Admit your defeat!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う、うるさい…！
+そんなこと、するぐらいなら…、
+今の格好で、生活する方がマシ…。
+> CONTEXT: Commonevents/31/10/Dialogue
+Nazuna:
+S-shut up...!
+I would never do such a thing...
+I'd rather live looking like this...
+> END STRING
+
+> BEGIN STRING
+魔物:
+そうか、そうか。
+それでは、当分の間は、その格好で生活するんだな。
+今は夏だし、ちょうどいいではないか。
+> CONTEXT: Commonevents/31/15/Dialogue
+Demon:
+I see... I see...
+The continue living with your swimsuit.
+You're fortunate that it's summer now.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う………。
+> CONTEXT: Commonevents/31/20/Dialogue
+Nazuna:
+Uu.........
+> END STRING
+
+> BEGIN STRING
+魔物:
+さて、おれは疲れたから、校舎に帰る。
+それじゃあな。
+> CONTEXT: Commonevents/31/23/Dialogue
+Demon:
+Now then, I must be returning to school,
+I am quite tired from all this.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、待て…！
+> CONTEXT: Commonevents/31/28/Dialogue
+Nazuna:
+Ah..., wait...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+…追ってこれないようにしておくか。
+> CONTEXT: Commonevents/31/31/Dialogue
+Demon:
+...Is this holding you back?
+> END STRING
+
+> BEGIN STRING
+魔物がナズナのスクール水着に手を延ばす！
+> CONTEXT: Commonevents/31/37/Dialogue
+The demon stops to grab Nazuna's swimsuit!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…ぁ、あ、やめて！
+> CONTEXT: Commonevents/31/54/Dialogue
+Nazuna:
+Kyaa... stop!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ、あいつ、脱がしやがった！！
+九輪さんが素っ裸に…！
+> CONTEXT: Commonevents/31/57/Dialogue
+Schoolboy:
+He took off her swimsuit!!
+Nazuna... is naked...!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+大変です！
+敗北したナズナさんの水着を、魔物が脱がせてしまいました！！
+人気No.1魔法使いの全裸映像を、アブラテレビが独占配信で…
+> CONTEXT: Commonevents/31/61/Dialogue
+Reporter:
+This is serious!
+With Nazuna defeated, the demon stripped her!
+This is exclusive footage of the No. 1 witch naked!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やめてぇえええ！！？
+> CONTEXT: Commonevents/31/69/Dialogue
+Nazuna:
+W-w-w-wait!!?
+> END STRING
+
+> BEGIN STRING
+魔物:
+そら、取ってこい！
+こいつをなくしたら、貴様は全裸生活だぞ？
+> CONTEXT: Commonevents/31/76/Dialogue
+Demon:
+Alright, fetch!
+Would you have to live naked if you lost this?
+> END STRING
+
+> BEGIN STRING
+魔物はナズナのスクール水着を、
+報道陣に向かって投げ捨てた！
+> CONTEXT: Commonevents/31/80/Dialogue
+The demon clenched her swimsuit,
+and threw it to the reporter!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃー！きゃーーー！！！
+> CONTEXT: Commonevents/31/90/Dialogue
+Nazuna:
+Kya~! Kya~~!!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+魔物がこちらに水着を投げてよこしました。
+ナズナさん、裸で駆け寄ります！
+必死ですねー。
+> CONTEXT: Commonevents/31/99/Dialogue
+Reporter:
+The demon threw her swimsuit here.
+Nazuna is running here, naked!
+Very desperately.
+> END STRING
+
+> BEGIN STRING
+意地の悪いことに、
+カメラは駆け寄るナズナを真正面からローアングルで撮影する…。
+> CONTEXT: Commonevents/31/105/Dialogue
+To make matters worse,
+the camera recorded Nazuna at a low angle...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…っと、撮らないでよぉ…。
+> CONTEXT: Commonevents/31/109/Dialogue
+Nazuna:
+D-don't film this!!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、大急ぎでスクール水着を着ていますね〜。
+…あっ、魔物が校舎に入っていってしまいました…。
+> CONTEXT: Commonevents/31/129/Dialogue
+Reporter:
+Nazuna quickly puts her swimsuit back on~
+...Ah, the demon returned to the school...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ……。
+あなたたち、魔物と、共謀してない…？
+連携がスムーズすぎる…。
+> CONTEXT: Commonevents/31/145/Dialogue
+Nazuna:
+Ugh...
+Are you working with the demon?
+You cooperate too well...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+バカな！
+我々はありのままを、そのまま伝えるだけですよ！
+こんな風に！こんな風に！！
+> CONTEXT: Commonevents/31/151/Dialogue
+Reporter:
+Nonsense!
+We only seek the truth!
+Just like this! Just like this!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+わっ、分かったからぁ…！
+胸を、アップで撮らないでぇ…。
+> CONTEXT: Commonevents/31/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは水着を着るまで、たっぷりと裸を撮影され、
+その全てを全国のお茶の間に放送されてしまった…。
+> CONTEXT: Commonevents/31/162/Dialogue
+Until Nazuna put on her swimsuit,
+she had been filmed completely naked,
+and shown to every living room in the country...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+部長さん…、何かを取られたって言ってたけど、
+何だったんだろう…？
+写真部だから、写真にまつわることかな？
+> CONTEXT: Commonevents/32/5/Dialogue
+Nazuna:
+The club leader said something was stolen, but what could it be? 
+If it's the photography club, maybe it's a picture.
+> END STRING
+
+> BEGIN STRING
+魔物:
+知りたいか？
+先刻、部長の私物を漁っていたら、良いものを見つけたのだ。
+お前に関係するものだぞ。
+> CONTEXT: Commonevents/32/12/Dialogue
+Demon:
+Do you want to know what it is?
+It was something good I found going through their stuff. 
+It's related to you.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+へ…？
+> CONTEXT: Commonevents/32/21/Dialogue
+Nazuna:
+Ehh...?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+わ、私に…、写真部が…？
+何回か、戦ってる写真、撮られてた…。
+そのこと？
+> CONTEXT: Commonevents/32/24/Dialogue
+Nazuna:
+The photography club...
+they took pictures of me...?
+Is that it?
+> END STRING
+
+> BEGIN STRING
+魔物:
+くくく…。
+もっといいものだ。
+折角だから、この学校の全教室で再生してやろう。
+> CONTEXT: Commonevents/32/29/Dialogue
+Demon:
+Hehehe
+Something even better...
+I'll spread to every classroom in this school.
+> END STRING
+
+> BEGIN STRING
+魔物が、パソコンの画面を示す。
+映っているのは、何かの動画のようだ。
+それになにやら呪文をつぶやき、魔法をかけている。
+おそらく、画面内の動画を各教室に転送しているのだろう…。
+> CONTEXT: Commonevents/32/34/Dialogue
+The demon points to the PC screen.
+A picture of some kind is displayed.
+He murmurs an incantation on the computer.
+Forwarding it to each screen in every classroom.
+> END STRING
+
+> BEGIN STRING
+…ナズナは、猛烈に嫌な予感がした。
+> CONTEXT: Commonevents/32/39/Dialogue
+...Nazuna had a bad feeling.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+動画…？
+な、何……？
+変なことは、やめて……。
+> CONTEXT: Commonevents/32/41/Dialogue
+Nazuna:
+A video...?
+What...?
+Stop being strange...
+> END STRING
+
+> BEGIN STRING
+映像には、灰色の壁が映っている。
+聞こえるのは、水音と、遠くで少女たちが話す声…。
+そこがどこなのか、ナズナには見覚えがあった。
+> CONTEXT: Commonevents/32/46/Dialogue
+A grey wall is appears in the video.
+The sound of water and a girl's voice can be heard...
+Nazuna felt an odd familiarity about it.
+> END STRING
+
+> BEGIN STRING
+パッ…
+> CONTEXT: Commonevents/32/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どよどよ…
+> CONTEXT: Commonevents/32/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！
+> CONTEXT: Commonevents/32/70/Dialogue
+Nazuna:
+!!!
+> END STRING
+
+> BEGIN STRING
+画面にフレームインしてきたのは、スクール水着姿のナズナ。
+今と同じ格好だが、おそらくこちらは、学園指定の、
+正真正銘、ナズナのスクール水着だ。
+> CONTEXT: Commonevents/32/73/Dialogue
+Nazuna in her swimsuit appears on the screen,
+She looks similar to how she's dressed now,
+but this swimsuit was authentic to the school.
+> END STRING
+
+> BEGIN STRING
+映像を見るに、数日前の水泳の授業の直後のものだろう。
+背景に見える壁は、女子更衣室のものだ。
+> CONTEXT: Commonevents/32/77/Dialogue
+The video was recorded a few days ago, after swimming class.
+The walls in the background were the girl's locker room.
+> END STRING
+
+> BEGIN STRING
+魔物：
+…そう、水泳の授業後の、女子更衣室だよ。
+この映像が、何を目的として撮られたものかは、
+バカでも分かるだろう？
+> CONTEXT: Commonevents/32/80/Dialogue
+Demon:
+...So after swimming class, in the girl's locker room.
+What's the purpose of this? 
+You're about to see.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やめて…！
+止めて、再生……、
+と、止めてぇ！
+> CONTEXT: Commonevents/32/92/Dialogue
+Nazuna:
+S-stop it...!
+Stop showing it...
+I want it to stop!!
+> END STRING
+
+> BEGIN STRING
+察したナズナが、取り乱した様子で叫ぶ。
+各教室の方から、主に男子生徒の歓声が聞こえてきた。
+> CONTEXT: Commonevents/32/97/Dialogue
+Nazuna became extremely worried.
+The shout of joys from the boys 
+were heard from every classroom.
+> END STRING
+
+> BEGIN STRING
+画面の中のナズナは、
+呑気に鼻歌を歌っている…。
+> CONTEXT: Commonevents/32/100/Dialogue
+Nazuna appeared on the screen,
+humming happily to herself...
+> END STRING
+
+> BEGIN STRING
+『ナズナ:
+ふんふん…♪』
+> CONTEXT: Commonevents/32/103/Dialogue
+『Nazuna:
+Lalala...♪』
+> END STRING
+
+> BEGIN STRING
+魔物：
+ハハハ、もう遅い！
+全校生徒に、全裸着替えシーンを公開するがいいわ。
+> CONTEXT: Commonevents/32/106/Dialogue
+Demon:
+Hahaha, too late!
+All the students will watch you changing naked.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+〜〜〜……っ…！
+…！！！
+っぐ、ひぅ…！
+> CONTEXT: Commonevents/32/115/Dialogue
+Nazuna:
+~~~......!
+...!!!
+Gi......!
+> END STRING
+
+> BEGIN STRING
+うおおおお…
+> CONTEXT: Commonevents/32/120/Dialogue
+Oooooh...
+> END STRING
+
+> BEGIN STRING
+はっきりと、男子生徒たちがあげる歓声が聞こえる。
+同じ学校に通う者全員に、裸を見られている…！
+ナズナの頭の中は、恥辱でいっぱいになった。
+> CONTEXT: Commonevents/32/122/Dialogue
+A loud shout of joy was heard clearly from the boys.
+Everyone at her school had now seen her naked...!
+Nazuna's face became clouded with embarrassment.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+やべーぞ、完っ全に、見えて…
+> CONTEXT: Commonevents/32/126/Dialogue
+Male Student:
+Wow...! You can see everything...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+誰が、こんなこと…
+九輪さんの、おっぱいと、アソコが…
+> CONTEXT: Commonevents/32/129/Dialogue
+Male Student:
+What a sight...
+Nazuna's boobs...
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+やめなさいよ、あんたたち…
+ナズナちゃんが、かわいそ…
+> CONTEXT: Commonevents/32/133/Dialogue
+Female Student:
+Stop this you guys...
+Nazuna is too precious...
+> END STRING
+
+> BEGIN STRING
+自分の裸について、同級生たちがコメントしているのが聞こえる…。
+丸一日水着を見られていたことなど、もはやどうでもよくなる程の、
+最悪の事態である。
+> CONTEXT: Commonevents/32/137/Dialogue
+Voices were heard everywhere commenting her.
+Even after being seen in a swimsuit all day long,
+it no longer mattered.
+This was the worst thing to happen.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、あ…、み、見られて…！
+私の裸、み、みんなに…。
+> CONTEXT: Commonevents/32/144/Dialogue
+Nazuna:
+Aa... aa... s-seen...!
+N-naked... by everyone...!!
+> END STRING
+
+> BEGIN STRING
+視界がぐにゃりと歪む。
+画面の中には一切の容赦なく、
+自分の乳首と性器のスリットが映し出されているのだ。
+> CONTEXT: Commonevents/32/148/Dialogue
+Nazuna's vision got blurry from disbelief. 
+It was all mercilessly on the screen.
+Her nipples and slit were all being shown.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぅ…、あぅ、あぅ…。
+やだ、見えてる…。
+見られてる、全部、裸…、みんなに…。
+> CONTEXT: Commonevents/32/153/Dialogue
+Nazuna:
+Ah..., ah, ah...
+I can't believe it...
+Everyone's... seen me naked...
+> END STRING
+
+> BEGIN STRING
+『ナズナ:
+むぅ…、なかなか、膨らんでこない…。
+毎日、マッサージしてるのに…。
+もっと、大きく、ならないかな…。』
+> CONTEXT: Commonevents/32/159/Dialogue
+『Nazuna:
+Hmpf... they're still small...
+I even massage them every day...
+I want them to grow already...』
+> END STRING
+
+> BEGIN STRING
+むにゅ…、と、画面の中のナズナが、自身の胸を揉む。
+小さめだが小さいなりに膨らんだ胸が、
+柔らかそうに形を変える。
+白い肌にピンク色の乳首が、実に美しかった。
+> CONTEXT: Commonevents/32/164/Dialogue
+The Nazuna on-screen begins massaging her chest.
+Her breasts were on the smaller side,
+but their softness made them very squishy.
+Her pink nipples were beautiful on her white skin.
+> END STRING
+
+> BEGIN STRING
+教室の方からは、失笑するような笑い声が聞こえてきた…。
+> CONTEXT: Commonevents/32/169/Dialogue
+Laughter could be heard from all the classes...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…………！！！
+…〜〜！！
+> CONTEXT: Commonevents/32/178/Dialogue
+Nazuna:
+.............!!!
+...~~!!
+> END STRING
+
+> BEGIN STRING
+渦中の少女は声の出し方すら忘れて、
+口をパクパクさせている…。
+> CONTEXT: Commonevents/32/182/Dialogue
+Nazuna was speechless,
+her mouth dropped open...
+> END STRING
+
+> BEGIN STRING
+『ナズナ:
+こっちも…。
+生えてこない…、毛……。
+みんなは、生えてきてるのに…。』
+> CONTEXT: Commonevents/32/186/Dialogue
+『Nazuna:
+And this too...
+My hair down there... they haven't grown...
+Everyone else already has...』
+> END STRING
+
+> BEGIN STRING
+ぷにゅっ
+> CONTEXT: Commonevents/32/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+発毛の兆しすらない、ツルツルの秘部を指で突つく。
+指先に合わせて陰唇が引っ張られ、
+チラリと中のサーモンピンクが顔を出すと、
+学園中を揺らす程の歓声が鳴り響いた。
+> CONTEXT: Commonevents/32/193/Dialogue
+She slid her finger across, not feeling any hair growing.
+Her fingertip, reaching her labia, pulls it open.
+The salmon pink insides of Nazuna briefly appear.
+A shout of joy shook the school.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぁ、あ、あぅぅぅ…！
+やめ、てぇえ…！
+はひ…、だ、だめぇ…！！
+> CONTEXT: Commonevents/32/205/Dialogue
+Nazuna:
+Aaa... auuu....!!
+S-s-stop it...!
+T-this is a nightmare...!!
+> END STRING
+
+> BEGIN STRING
+膝が震え、立っていられない程になる。
+とんでもない映像が流出してしまった。
+ナズナは、女の子の秘すべき部分を全て、
+よりによって自身が通う学園にいる全員に晒してしまったのだ。
+> CONTEXT: Commonevents/32/210/Dialogue
+Her knees quivering, she could barely stand anymore.
+The video began to spread throughout the school.
+Things that every girl keep secret,
+were now all exposed to all her classmates.
+> END STRING
+
+> BEGIN STRING
+『ナズナ:
+ふん♪ふん♪』
+> CONTEXT: Commonevents/32/216/Dialogue
+『Nazuna:
+Lala♪Lala♪』
+> END STRING
+
+> BEGIN STRING
+『ナズナ:
+〜〜…♪』
+> CONTEXT: Commonevents/32/220/Dialogue
+『Nazuna:
+~~...♪』
+> END STRING
+
+> BEGIN STRING
+泣きそうな表情でくずおれる現在のナズナとは対照的に、
+映像のナズナは下着を履き、制服を着ると、
+上機嫌で更衣室を後にしていった…。
+> CONTEXT: Commonevents/32/224/Dialogue
+In contrast to the Nazuna about to burst in tears,
+the Nazuna on the screen put on her uniform, 
+and cheerfully leaves the locker room...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…………。
+> CONTEXT: Commonevents/32/229/Dialogue
+> CONTEXT: Commonevents/32/276/Dialogue
+Nazuna:
+...............
+> END STRING
+
+> BEGIN STRING
+放送が終わったあとも、ナズナは放心したように、
+その場に座りこんでいた。
+自分の裸を見た同級生たちと、
+いったいどんな顔をして会えばいいのか…。
+> CONTEXT: Commonevents/32/232/Dialogue
+Nazuna was completely dumbstruck.
+She fumbled onto the floor.
+Now that all her classmates saw her nude,
+how could she face them again...
+> END STRING
+
+> BEGIN STRING
+今の映像は、写真部の部長が隠しカメラで撮影し、
+個人的に楽しんでいたものなのだろう。
+よりによって魔物に見つかり、
+あまつさえ学園中に公開されてしまうとは…。
+> CONTEXT: Commonevents/32/237/Dialogue
+The photography club secretly recorded her...,
+a moment she was privately enjoying herself.
+The demon of all people found the video,
+and displayed it to the whole school...
+> END STRING
+
+> BEGIN STRING
+魔物：
+ずいぶんショックだったようだが、
+たかだか同じ学園の生徒全員に、じっくり見られた程度だろう？
+どうせ全裸姿など、テレビで全国に晒したではないか。
+> CONTEXT: Commonevents/32/242/Dialogue
+Demon:
+That was quite the shock.
+Will all the students watch is slowly and carefully?
+I may even show this to the whole country on TV.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+〜〜〜〜〜〜…っ…！！！
+この馬鹿…、どうかしてる…！！
+女の子が、みっ、見られて…、恥ずかしく、ないわけ…！！
+> CONTEXT: Commonevents/32/248/Dialogue
+Nazuna:
+~~~~~~.....!!!
+I-idiot... of course...
+every girl... embarrassed... seen like this...!!!
+> END STRING
+
+> BEGIN STRING
+ナズナは今にも泣き出しそうな顔で、
+ブルブルと震えている。
+もはや、戦える精神状態ではない…。
+> CONTEXT: Commonevents/32/253/Dialogue
+Nazuna's face was about to burst into tears,
+trembling in embarrassment.
+She no longer had the willpower to fight anymore...
+> END STRING
+
+> BEGIN STRING
+魔物:
+俺は、お前のことが気に入ったぞ。
+魔法使いの恥辱にまみれた精神エネルギーは、最高のご馳走だ。
+> CONTEXT: Commonevents/32/257/Dialogue
+Demon:
+I like you.
+The energy you give me 
+from your disgrace is the best feast.
+> END STRING
+
+> BEGIN STRING
+魔物:
+しばらくの間、この学園に滞在するとしよう。
+お前が魔法使いである以上、俺と戦いに来るしかないからな。
+何度でも倒して、精神エネルギーを頂いてやる！
+> CONTEXT: Commonevents/32/261/Dialogue
+Demon:
+I assume you'll stay in this school for a while.
+You're obligated to fight me since you're a witch,
+so I'll defeat you over and over for your energy.
+> END STRING
+
+> BEGIN STRING
+一度出直し、精神を落ち着かせねば、
+呪文の一つも唱えられない。
+ナズナはフラフラとよろめきながら、部屋を出た…。
+> CONTEXT: Commonevents/32/266/Dialogue
+Nazuna needed to calm herself down.
+She couldn't cast any spells like this,
+so she staggered out of the room, very dizzy...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(に、逃げたんじゃない…。
+万全の体制で挑まないと、足元を掬われるから…。
+ま、負けて裸にされるのが、怖い訳じゃない…。)
+> CONTEXT: Commonevents/32/280/Dialogue
+Nazuna:
+(I-I had to run away...
+I can't challenge him unless I'm at my peak...
+otherwise I'd lose and be stripped naked again...)
+> END STRING
+
+> BEGIN STRING
+かぁぁぁ…。
+> CONTEXT: Commonevents/32/285/Dialogue
+*shiver*
+> END STRING
+
+> BEGIN STRING
+自分の顔が赤くなっていくのが分かる。
+多感な年頃の少女が裸を見られるというのは、大変な出来事なのだ。
+魔法使いとはいえ、そこは普通の女の子と一緒である。
+> CONTEXT: Commonevents/32/287/Dialogue
+It's understandable for her face to turn red.
+At her age, it's very sensitive to be seen naked.
+Despite being a witch, she is still a girl.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+よ、弱気になっちゃ駄目…。
+行かなきゃ。
+> CONTEXT: Commonevents/32/291/Dialogue
+Nazuna:
+I-I can't stay like this...
+I have to keep on going.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+このままだと、負ける可能性が高い。
+商店街で、銭湯に入って体力を回復させなきゃ…。
+なにか食べて、パワーを増やすのも、いいかも…。
+> CONTEXT: Commonevents/32/295/Dialogue
+Nazuna:
+I'll probably lose again as is.
+I should take a bath to revitalize myself,
+and eat something to increase my power...
+> END STRING
+
+> BEGIN STRING
+通行人:
+おっと、ごめんよ！
+> CONTEXT: Commonevents/34/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どんっ
+> CONTEXT: Commonevents/34/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃっ！
+> CONTEXT: Commonevents/34/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ビリッ！
+> CONTEXT: Commonevents/34/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ぶつかっちゃったよ。
+大丈夫？ナズナちゃん。
+> CONTEXT: Commonevents/34/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うん、大丈夫…。
+> CONTEXT: Commonevents/34/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(やべっ、服の金具が引っかかって、水着が切れちゃった。
+ナズナちゃんの方はまだ、気付いてないみたいだな。
+う〜ん、かわいい乳首だ…、堪能させてもらおう…。)
+> CONTEXT: Commonevents/34/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あなたも、怪我はない…？
+じゃあ、私は行くから…。
+> CONTEXT: Commonevents/34/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(あーあ、乳首出てるのに、気付かず行っちゃった。
+まあいいか…、いっぱい見て貰いなよ、ナズナちゃん！)
+> CONTEXT: Commonevents/34/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…
+> CONTEXT: Commonevents/34/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………？
+視線が突き刺さる…。
+水着で、町中を歩いてるから、当たり前か…。
+> CONTEXT: Commonevents/34/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クスクス…
+> CONTEXT: Commonevents/34/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(落ち着かない…。)
+> CONTEXT: Commonevents/34/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+おおっ…。
+ナズナちゃん、いい格好だねえ！
+> CONTEXT: Commonevents/34/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いい格好…？
+うぅ、スクール水着なんて、着たくないんだからね…。
+> CONTEXT: Commonevents/34/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(いや、水着っていうか……。
+まあいいや。
+折角乳首見せてくれてるんだし、黙ってよっと！)
+> CONTEXT: Commonevents/34/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うは…。
+> CONTEXT: Commonevents/34/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+おおっ、先っちょが…。
+> CONTEXT: Commonevents/34/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うるさいなぁ…。
+水着だからって…、恥ずかしいから、騒がないでほしい…。
+> CONTEXT: Commonevents/34/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+教室…。
+授業、こんな格好じゃ、受けたくないな…。
+どうしよ……。
+> CONTEXT: Commonevents/34/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ、九輪さ…うおおお！？
+> CONTEXT: Commonevents/34/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+み、見え……。
+> CONTEXT: Commonevents/34/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、何…？
+> CONTEXT: Commonevents/34/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ…、な、なんでもないよ。
+うん…。
+うへへへ…。
+> CONTEXT: Commonevents/34/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……？
+> CONTEXT: Commonevents/34/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+わあ…。
+> CONTEXT: Commonevents/34/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+？
+> CONTEXT: Commonevents/34/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ…いや、九輪さん、数学得意だよね。
+宿題で、わからないとこがあってさ…。
+このノート、見てくれよ。
+> CONTEXT: Commonevents/34/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…ここに、Xを代入すると…、Yが…
+> CONTEXT: Commonevents/34/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+へ〜！なるほど〜〜！
+な、なるほどなぁ！！
+詳細に、ばっちり、鮮明に、よく分かるなあ！！
+> CONTEXT: Commonevents/34/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、なんか、近いんだけど…。
+近眼、なの？
+> CONTEXT: Commonevents/34/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+えっ！？
+あ…そうそう！！
+間近で見たほうが、やっぱりよくわかるじゃん！？
+> CONTEXT: Commonevents/34/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+続けて続けて！
+はぁはぁ…、こんなに近くで、凝視できる日が来るとは…！
+この、ほのかに膨らんだ突起が…！
+> CONTEXT: Commonevents/34/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……？
+なんか、変…。
+テストが近いからって、根を詰めすぎなんじゃないの…？
+> CONTEXT: Commonevents/34/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふぅ…、私の席。
+なんだか、色んな人に話しかけられて、疲れちゃった。
+やっぱり、水着だからかな……
+> CONTEXT: Commonevents/34/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+ちょっと、ナズナ！
+む、胸…！
+出てる！出てる！
+> CONTEXT: Commonevents/34/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………！
+> CONTEXT: Commonevents/34/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きっっっ…！
+き、きゃあああああーーーーーっ！！！！！
+> CONTEXT: Commonevents/34/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なんで！？
+いつからっ…、水着、切れて！？
+あ…、まさか、商店街で、ぶつかった時！！
+> CONTEXT: Commonevents/34/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+え…、ち、ちょっと待って…？
+あの時から、見えてたなら…、
+あの時も、あの時も…、男の人に、胸、見られて……？
+> CONTEXT: Commonevents/34/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(何人に、見られちゃったんだろう…。
+これじゃ、私、露出狂みたい…！！
+うぅぅ、恥ずかしいぃ…！)
+> CONTEXT: Commonevents/34/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+とりあえず…、ぬ、縫おう。
+今はこれしか着れないんだから…、
+大事に扱わなきゃ……。
+> CONTEXT: Commonevents/34/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちくちく…
+> CONTEXT: Commonevents/34/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ…、情けない……。
+クラスの男子も、私の乳首…、黙って見てたんだよね…？
+うぅ〜…、酷い…、許せない……。
+> CONTEXT: Commonevents/34/294/Dialogue < UNTRANSLATED
+
+> END STRING

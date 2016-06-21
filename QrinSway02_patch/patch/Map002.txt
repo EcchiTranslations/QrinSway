@@ -1,0 +1,2856 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『今回も、ナズナさんが魔物に勝利。
+街の平和を取り戻しました…』
+> CONTEXT: Map002/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+今回の魔物は、別に悪いことしてなかったけどな。
+人間社会に溶け込もうと、がんばってたのに。
+> CONTEXT: Map002/events/2/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん的には、絶対許せない相手だったんだろう…。
+俺たちにとっては、恩人だけどな。
+ぐへへ…。
+> CONTEXT: Map002/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+むぐ…、なんで、あんな、外道の肩を持つの…？
+女の子の裸を無断で公開させた、悪者なのにぃ…。
+> CONTEXT: Map002/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『それでは、今回の魔物が放送させたという、
+CMを見てみましょう…。』
+> CONTEXT: Map002/events/2/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ナズナさんに戦闘で勝利したのをいいことに、
+やりたい放題でしたね〜。
+全国ネットでこれを流したのは、快挙…いえ、大問題でしょう。』
+> CONTEXT: Map002/events/2/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、なんでいつも、こんなの、放送するのぉぉ…！？
+魔物関連なら、どんなに酷い映像でも、そのまま公開されちゃう…。
+うぅ、もうやだ……。
+> CONTEXT: Map002/events/2/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+へへへ、俺も録画したよ、このCM。
+無修正だもんな〜、歴史的快挙だぜ。
+クリトリスから膣口に処女膜まで、完全公開されてるよ…。
+> CONTEXT: Map002/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、毛も生えてないツルツルなのは知ってたけど、
+オマ○コの中も一切黒ずみも汚れもなくて、
+綺麗だよなぁ…。
+> CONTEXT: Map002/events/2/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+い、いやーーーーっ！！？
+> CONTEXT: Map002/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+私のアソコの中を、テレビで見て、
+感想を言われてる…！
+あぅ…、あぅぁ、うぐっ……。
+> CONTEXT: Map002/events/2/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+街頭のテレビには、スケスケメガネのCMが映っている…。
+> CONTEXT: Map002/events/2/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…こんなの、放送して、いいの…？
+私の裸を見るための、道具なんて…。
+堂々と、売っていいわけ、ない…。
+> CONTEXT: Map002/events/2/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『驚きの透過率！
+ナズナさんの白いパンツだって、
+メガネを通せば…』
+> CONTEXT: Map002/events/2/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『この通り！
+魔力に反応して、肌とレンズの間にあるものを透かすので、
+服の素材を問わず、完璧に透けます！！』
+> CONTEXT: Map002/events/2/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ま、待って…、ちょっとぉ…！？
+これ、テレビで流していい、映像じゃない…！
+> CONTEXT: Map002/events/2/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うわー、完全無修正だよ…。
+AVでもこんなえげつないもん、
+モザイクなしじゃ出せないのに…。
+> CONTEXT: Map002/events/2/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うは、ヒクヒクしてる…。
+わざわざ本人の前に行ってメガネで見なくても、
+もうこのCMだけ見ればよくね？
+> CONTEXT: Map002/events/2/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(もう私…、手遅れだ……。
+もう、ずっと、世界中に全裸を見せた、
+恥さらしとして、生きていくしか、ない…。)
+> CONTEXT: Map002/events/2/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うぅ、スクール水着の映像…、
+いつまで、放送する気で…
+> CONTEXT: Map002/events/2/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ひひ…。
+> CONTEXT: Map002/events/2/pages/0/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うひょ…。
+> CONTEXT: Map002/events/2/pages/0/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はっ！！？
+> CONTEXT: Map002/events/2/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(テレビなんか、見てる場合じゃない！
+今は…、街を歩いてるだけで、
+裸を見られてるのと、変わらないんだった…。)
+> CONTEXT: Map002/events/2/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ニヤニヤ…。
+> CONTEXT: Map002/events/2/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+柔らかそうだなあ…。
+> CONTEXT: Map002/events/2/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あぅ…、お、お尻…、見ないでっ！
+> CONTEXT: Map002/events/2/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+街頭のテレビには、戦うナズナの姿が映っている…。
+> CONTEXT: Map002/events/2/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/2/pages/0/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う〜、いつまで、これ、放送するんだろう…。
+こんなに肌を出した姿…、他人に見せるのは、よくない…。
+> CONTEXT: Map002/events/2/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(ナズナちゃん、スク水ぐらいで恥ずかしがってる場合じゃないんだよ、
+今は…。)
+> CONTEXT: Map002/events/2/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(ぐへへ…、かぶりつきでテレビを見るのはいいけど、
+道を歩く人たちで、メガネを持ってるやつからは、
+お尻が丸見えだよ〜？)
+> CONTEXT: Map002/events/2/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+む〜…、なんか、今日は、テレビを見てる人も多い…。
+チャンネル変えちゃおう…。
+> CONTEXT: Map002/events/2/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ポチポチ…
+> CONTEXT: Map002/events/2/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+子供向けアニメにした。
+これで、私の映像はもう流れない…。
+少し、見ていこう…。
+> CONTEXT: Map002/events/2/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(ナズナちゃん…、俺たちが見てるのは、スク水の映像じゃなくて、
+今そこにいる、君のお尻なんだよ。)
+> CONTEXT: Map002/events/2/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(プリプリだなぁ…。
+もし、ここにいる全員が、ナズナちゃんのお尻を見てるって知ったら、
+どんな顔するだろう…。)
+> CONTEXT: Map002/events/2/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふふ…、このアニメ、面白い…。
+主題歌がタイ語なんて……。
+> CONTEXT: Map002/events/2/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いつまで、この前の、水着の映像、放送する気なの…？
+苦情の電話を入れても、全然聞いてくれないし…。
+> CONTEXT: Map002/events/2/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん：
+やあ、ナズナちゃん。
+コロッケ食べる？
+> CONTEXT: Map002/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食べる
+> CONTEXT: Map002/events/4/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/1/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食べない
+> CONTEXT: Map002/events/4/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/1/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+いつも、ありがとう。
+食べる…。
+> CONTEXT: Map002/events/4/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん：
+いつも守ってくれるお礼だよ！
+いつでも、好きなだけ食べていいからね。
+> CONTEXT: Map002/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+もぐもぐもぐ…
+コロッケは、完全食。
+魔力も一時的にだけど、アップする…。
+> CONTEXT: Map002/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コロッケを食べて魔力のレベルが上がりました。
+> CONTEXT: Map002/events/4/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+う～…、ダイエット中…。
+> CONTEXT: Map002/events/4/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+コロッケ…。
+ママのせいで、すっごく買いづらい…。
+> CONTEXT: Map002/events/4/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、あのっ、こ、コロッケ…。
+> CONTEXT: Map002/events/4/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+あぁ、ナズナちゃん…。
+お母さんに許して貰えたの？
+大変だったねえ。
+> CONTEXT: Map002/events/4/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…………！！
+さ、さよなら…。
+> CONTEXT: Map002/events/4/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+ま、待って、待って！！
+ごめんごめん、恥ずかしかったんだよね…。
+ほら、コロッケ、サービスするから、持って行きな？
+> CONTEXT: Map002/events/4/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ、ありがと……、おじさん。
+こ、これからも…、買いに来ていい？
+ここのコロッケ、食べると力が湧いてくるの…。
+> CONTEXT: Map002/events/4/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+もちろんだよ〜！
+嬉しいな、そこまで言って貰えると。
+> CONTEXT: Map002/events/4/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……こ、この前見たものは、忘れてね…？
+うぅう、ぅ〜〜〜……。
+> CONTEXT: Map002/events/4/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+分かった分かった…。
+> CONTEXT: Map002/events/4/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+…話しかけづらい。
+やめとこ…。
+> CONTEXT: Map002/events/4/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+今日も魔物を倒したんだって？
+すごいね～！
+> CONTEXT: Map002/events/5/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+夢のようなひとときだった…。
+> CONTEXT: Map002/events/5/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+（実はまだ、終わってないんだけどね。
+そのうちこのメガネの効力も消えるんだろうけど…、
+名残惜しいなあ。）
+> CONTEXT: Map002/events/5/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……？
+> CONTEXT: Map002/events/5/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+とうとう、ナズナちゃんも、オマ○コの奥まで解禁か。
+これでもう、本当に隅から隅まで世間に公開しちゃったね。
+> CONTEXT: Map002/events/5/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+言わないでっ…！！
+み、みんなに…、最後の最後の、一番見られちゃいけない部分まで…、
+じっくり見られて、もう、どうすれば……。
+> CONTEXT: Map002/events/5/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+たまらん…。
+美少女学生の生マ○コ…。
+> CONTEXT: Map002/events/5/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……っ！！
+> CONTEXT: Map002/events/5/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+やあ、ナズナちゃん。
+元気かな？
+ふひひ…。
+> CONTEXT: Map002/events/5/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うん…、元気…。
+> CONTEXT: Map002/events/5/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+そっか〜、ならよかった！
+先っぽの血色もいいから、きっと元気だと思ったよ！
+ピンク色で素敵だねぇ。
+> CONTEXT: Map002/events/5/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+？
+ピンク…？先っぽ…？
+私の何が、血色がいいの？
+> CONTEXT: Map002/events/5/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+いやあ、なんでもないんだ。
+うひひ…、もうちょっとお話してようよ。
+> CONTEXT: Map002/events/5/pages/1/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…？
+別に今は、忙しくないから、いいけど…。
+ナンパなら、付き合わない…。
+> CONTEXT: Map002/events/5/pages/1/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナンパじゃないから安心しなよ〜！
+ただ、おっぱ…じゃない、ナズナちゃんの可愛い顔を、
+見ていたいだけなんだ。ひひひ…。
+> CONTEXT: Map002/events/5/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+可愛いって…。
+なんだか、表情が緩んでて、気持ち悪い…。
+> CONTEXT: Map002/events/5/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+ナズナちゃんって直接会ってもめちゃくちゃかわいいけど、
+テレビ写りもいいよなー。
+> CONTEXT: Map002/events/6/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+最近、ナズナちゃんテレビに出ずっぱりだね。
+タレントでもないのに…。
+> CONTEXT: Map002/events/7/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+ぐへへ…。
+> CONTEXT: Map002/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、また水着着てくれよ。
+たまにはサービスしてくれてもいいじゃん？
+> CONTEXT: Map002/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+断る…。
+たまにも何も、水着、着せられたのだって、ほんの数日前だし…。
+二度とあんなこと、やらない…。
+> CONTEXT: Map002/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、機嫌良さそうじゃん。
+魔物に勝てて、嬉しい？
+> CONTEXT: Map002/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+嬉しい…、恥ずかしいのから、解放されたから…。
+みんなに見られたこと自体は、もう、どうしようもないけど…。
+> CONTEXT: Map002/events/9/pages/1/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+そっかそっか！
+まあ、確かに俺たちも裸を見ちゃったけど、
+今更気にしてもしょうがないもんな…
+> CONTEXT: Map002/events/9/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボグッ！！
+> CONTEXT: Map002/events/9/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ゴボッ！？
+> CONTEXT: Map002/events/9/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…どうしようもないけど、殴らないと気が済まない…。
+これだけで済ませるのも、すっごく不本意だけど…、
+数が多すぎる。反省してね。
+> CONTEXT: Map002/events/9/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うぅ…、はい……。
+> CONTEXT: Map002/events/9/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+…。
+> CONTEXT: Map002/events/9/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(なんちゃって…、ナズナちゃんには悪いけど、
+このメガネの効力がある限りは、使わせて貰っちゃうもんね。
+殴られた分、たっぷり見せて貰うぞ〜！)
+> CONTEXT: Map002/events/9/pages/1/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、なんで、殴られたのに、ニヤニヤしてるの…？
+気持ち悪い…、そういう趣味の人…？
+> CONTEXT: Map002/events/9/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そ、そんなに、凝視しないで…。
+嫌なのに…。
+> CONTEXT: Map002/events/9/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+嫌嫌言っても、どうせナズナちゃんの裸は、
+ネットやテレビでいつでも見れるんだし、大して変わらなくない？
+> CONTEXT: Map002/events/9/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+違うのぉぉ…！
+うぅ、ネットの動画だって…、すごく嫌なんだから…。
+絶対、削除してもらう…。
+> CONTEXT: Map002/events/9/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+削除なんて、もう無理だろ〜！
+ナズナちゃんの名前で検索するだけで、山のように出てくるのに。
+ほら、見てみなよ。
+> CONTEXT: Map002/events/9/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+「九輪ナズナ」で検索、っと…。
+> CONTEXT: Map002/events/9/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『火寄学園二年C組、九輪ナズナちゃんのオマ○コ開帳動画！
+HD画質で無修正、お尻の穴まで見えます！
+世界中に裸を晒して叫ぶナズナちゃんの姿に勃起確実です！！』
+> CONTEXT: Map002/events/9/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+一番上がこれだぜ？
+こんなのが、あと何百件あって、どんな速度で増えてると思う？
+> CONTEXT: Map002/events/9/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふぇ……、え、えぐっ…。
+ぐす…、ひっく……。
+> CONTEXT: Map002/events/9/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、ごめん…、泣いちゃったよ。
+> CONTEXT: Map002/events/9/pages/1/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う〜、ずるい…。
+私にバレないように、みんな、こっそり…、
+いやらしい魔導具を、使ってたなんて…。
+> CONTEXT: Map002/events/9/pages/1/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+まーまー、見られて減るもんじゃなし…、
+ナズナちゃんは普通に暮らしてればいいんだよ〜。
+> CONTEXT: Map002/events/9/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そういう問題じゃ、ないぃ…！
+私は、みんなに見られるの、嫌なのぉ…！！
+> CONTEXT: Map002/events/9/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(この間の水着姿より、100倍刺激的だぜ！！
+あーあ、町中の男に、全部見られちゃって…。)
+> CONTEXT: Map002/events/9/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あの…。
+> CONTEXT: Map002/events/9/pages/1/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ん？なに？
+> CONTEXT: Map002/events/9/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+メガネ…、なんなの…？
+みんな、かけてるし…、
+私を見てる、気がする……。
+> CONTEXT: Map002/events/9/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あー…、テレビでこのデザインが流行ってるって、やってたんだよ。
+ナズナちゃんかわいいから、みんな、気を引きたいんじゃない？
+> CONTEXT: Map002/events/9/pages/1/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そ、そうなの…？
+私はあんまり、テレビ見ないから…、知らないだけなのかな。
+> CONTEXT: Map002/events/9/pages/1/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(騙されやすくていいねえ、ナズナちゃん…。
+うひひひ…、そうやって話し込んでると、じっくり見られちゃうよ〜？)
+> CONTEXT: Map002/events/9/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、元気そうだねえ。
+酷い格好の映像が出回ってたから、
+もっと落ち込んでるかと思ったよ。
+> CONTEXT: Map002/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ…、気にしないように、してるのに…。
+そ、そのうち、みんな、忘れてくれるもん…。
+> CONTEXT: Map002/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あーあ、ナズナちゃんが魔物に勝っちゃったから、
+このメガネも、普通のメガネになっちまったよ。
+千円もしたのになー、元は十分取ったけど。
+> CONTEXT: Map002/events/10/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+魔導具で女の子の裸を覗き見るなんて、卑怯…。
+もう、絶対、こんなもの、流通させない…。
+> CONTEXT: Map002/events/10/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(まあ、ナズナちゃんには絶対言えないけど、
+まだ魔力が残ってるんだよね…。
+多分、魔物を倒すのが、遅くなりすぎたからだな。)
+> CONTEXT: Map002/events/10/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、なんでまだ、メガネ、かけてるの…？
+もう、透けないはず、なのに…。
+> CONTEXT: Map002/events/10/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+いやあ、ファッションとして、普通に使えるからね。
+折角買ったんだし、もったいないだろ？
+> CONTEXT: Map002/events/10/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うひひ…、ツルツル…。
+> CONTEXT: Map002/events/10/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(…落ち着かない……。
+ちょっと前まで、この人にも、裸を見られてたせいかな…。
+もう服が透けることはないから、心配いらないんだけど…。)
+> CONTEXT: Map002/events/10/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ひっでえ負けっぷりだったねえ。
+このぴっちり閉じたオマンコが、
+限界まで拡げられたとこ、世界中に晒しちゃって…。
+> CONTEXT: Map002/events/10/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やだ…！
+思い出さないで！見ないで！！
+うぅぅ、すっごく、恥ずかしいのに…、なんでそんな事、言うの…！
+> CONTEXT: Map002/events/10/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、元気？
+お話しない？
+> CONTEXT: Map002/events/10/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うひひ…。
+> CONTEXT: Map002/events/10/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ…、こっち、見ないで…。
+そのメガネ…、外して！
+> CONTEXT: Map002/events/10/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、バレてたのか。
+でも別に、メガネで見てるだけだから、犯罪でも何でもないもんね。
+う〜ん、街中でナズナちゃんの乳首、生で見れるなんてな…。
+> CONTEXT: Map002/events/10/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やめてぇ…！！
+> CONTEXT: Map002/events/10/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、今日もかわいいねえ。
+みんなの注目の的じゃん。
+> CONTEXT: Map002/events/10/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うひひ…
+> CONTEXT: Map002/events/10/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+むぅ…、注目されるのは、なんか、やだな…。
+別に、見られて困るような格好は、
+してないんだけど…。
+> CONTEXT: Map002/events/10/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+(むしろ、見られちゃマズい部分を、
+道行く人に見せつけまくってるんだけどね。
+分かるわけないか…！)
+> CONTEXT: Map002/events/10/pages/1/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+占い師:
+やあ、お嬢さん。
+> CONTEXT: Map002/events/11/pages/0/1/Dialogue
+Fortune Teller:
+Hello young lady.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+どうも…。
+なんだか、すごい行列。
+流行ってるのかな？
+> CONTEXT: Map002/events/11/pages/0/5/Dialogue
+Nazuna:
+Thank you.\\!
+There's a large line.\\.
+Are you popular?
+> END STRING
+
+> BEGIN STRING
+占い師:
+お嬢さん、占ってあげようか？
+タダでいいよ。
+> CONTEXT: Map002/events/11/pages/0/13/Dialogue
+Fortune Teller:
+Would you like to hear your fortune young lady?
+It's free.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ、タダ？
+うん、お願い。
+占い、好き…。
+> CONTEXT: Map002/events/11/pages/0/18/Dialogue
+Nazuna:
+Oh,\\. it's free?\\!
+Yes, please.\\.\\.
+I'd like to hear my fortune.
+> END STRING
+
+> BEGIN STRING
+占い師:
+では、手を…。
+…むむむ！
+> CONTEXT: Map002/events/11/pages/0/24/Dialogue
+Fortune Teller:
+Give me your hand\\..\\..\\..\\!
+\\..\\..\\..Hmm!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ど、どう…？
+> CONTEXT: Map002/events/11/pages/0/29/Dialogue
+Nazuna:
+What is it?
+> END STRING
+
+> BEGIN STRING
+占い師:
+大凶だねぇ！
+近いうちに、大きな災難を受ける羽目になるよ！！
+> CONTEXT: Map002/events/11/pages/0/33/Dialogue
+Fortune Teller:
+\\{Terrible!\\}\\!
+Big misfortune is coming your way!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ…！？
+そ、そんなぁ……。
+困る…。
+> CONTEXT: Map002/events/11/pages/0/38/Dialogue
+Nazuna:
+Huh...!?
+R-\\.really.......
+I'm worried...
+> END STRING
+
+> BEGIN STRING
+占い師:
+そんなこと言っても、占いの結果は覆らないからねぇ。
+諦めて、受け入れるしかないよ。
+> CONTEXT: Map002/events/11/pages/0/44/Dialogue
+Fortune Teller:
+I cannot say,\\. as it will change your fortune.\\.\\.
+You cannot do anything but accept it.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+がっくり…。
+> CONTEXT: Map002/events/11/pages/0/49/Dialogue
+Nazuna:
+Disappointing...
+> END STRING
+
+> BEGIN STRING
+ナズナは肩を落として去っていった…。
+> CONTEXT: Map002/events/11/pages/0/53/Dialogue
+Nazuna dropped her shoulders and left...
+> END STRING
+
+> BEGIN STRING
+占い師:
+くくく…、魔法使いの小娘…。
+占うフリをして、魔力のサンプルを手に入れたぞ。
+見ていろ、想像を絶する恥辱を与えてやる！！
+> CONTEXT: Map002/events/11/pages/0/62/Dialogue
+Fortune Teller:
+Kukuku...\\. young \\C[3]witch\\C[0]...\\.\\.
+I now have a sample of your magical powers.\\!
+Now watch,\\. for \\C[6]humiliation\\C[0] beyond imagination!
+> END STRING
+
+> BEGIN STRING
+なんと、占い師は魔物だった…！
+> CONTEXT: Map002/events/11/pages/0/67/Dialogue
+The fortune teller was really a demon...!
+> END STRING
+
+> BEGIN STRING
+通行人:
+マジで〜？
+本当にこれでナズナちゃんの裸が見れるなら、
+千円なんて全然安いけどさ。
+> CONTEXT: Map002/events/11/pages/1/4/Dialogue
+Bystander:
+Seriously~?\\.
+I can really see her naked with this?\\.\\.
+1,000 yen is nothing for that.
+> END STRING
+
+> BEGIN STRING
+通行人:
+どうやら、マジみたいだぜ！
+俺の友達が、たまたま登校するナズナちゃんを見てみたらしいんだよ。
+…モロに全部見えたらしい！！
+> CONTEXT: Map002/events/11/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+占い師:
+正真正銘、本物ですよ〜。
+ナズナちゃんがどんな服を着てようが、この眼鏡を通せば、
+いつでもスケスケ！！
+> CONTEXT: Map002/events/11/pages/1/14/Dialogue
+Fortune Teller:
+It's genuine and the real deal~.\\.\\.
+No matter what kind of clothes she wears,
+you can always see right through them!!
+> END STRING
+
+> BEGIN STRING
+占い師:
+今ならたったの千円で買えますよ〜！
+既に500個以上売れている、大人気商品です！！
+> CONTEXT: Map002/events/11/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+〜〜〜〜〜〜〜！！！？？
+…！！！！！
+> CONTEXT: Map002/events/11/pages/1/32/Dialogue
+Nazuna:
+\\{~~~~~~~!!!??
+...!!!!!\\|\\^
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、や、やめて…！
+う、売るなっ！！
+> CONTEXT: Map002/events/11/pages/1/42/Dialogue
+Nazuna:
+S-\\.s-\\.stop it...!\\.\\.
+S-\\.stop selling these!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+おっと、現れたな。
+貴様を倒せば、この街は俺のもの…。
+> CONTEXT: Map002/events/11/pages/1/47/Dialogue
+Demon:
+Oh ho, I've been found.
+If I beat you, this town is mine...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なに、何して…！
+私と戦うのが目的なら、
+こ、こ、こんなの売る、必要ない…！
+> CONTEXT: Map002/events/11/pages/1/52/Dialogue
+Nazuna:
+Wh-\\.what...!\\!
+If you want to fight me,
+s-\\.selling this is unnecessary...!
+> END STRING
+
+> BEGIN STRING
+占い師:
+我々とて、お金は必要なのだ。
+無料モニターに、貴様の学園の生徒に協力して貰ったが…、
+皆、大喜びしていたぞ？
+> CONTEXT: Map002/events/11/pages/1/57/Dialogue
+Fortune Teller:
+We need the money.
+All the students at your school got it for free...\\.\\.,
+did they enjoy?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……っっっ！！
+あなたのせいで、わ、私が、どれだけ、恥ずかしい思いをしたと…！
+それに、こ、これからも…、見られちゃう…、ぅぅぅ…、っ…。
+> CONTEXT: Map002/events/11/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、ナズナちゃん来たし、試してみようぜ、これ。
+> CONTEXT: Map002/events/11/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+どれどれ…、まずは、透過度を低めに…。
+あっ、透けてる透けてる！
+本物だぜ、これ。
+> CONTEXT: Map002/events/11/pages/1/72/Dialogue
+Bystander:
+Let's see...\\. lowering the opacity.\\..\\..\\.\\|
+Oh\\., it's transparent!\\.\\. Transparent!\\.\\.
+It's the real deal.
+> END STRING
+
+> BEGIN STRING
+通行人:
+透過度アップ…。
+おほっ…！白かぁ。
+でも、色気のないパンツ履いてるな。
+> CONTEXT: Map002/events/11/pages/1/79/Dialogue
+Bystander:
+Now lowering the opacity some more...\\.\\.\\.
+Oh ho...!\\. It's white.\\.\\.
+But they're not very sexy.
+> END STRING
+
+> BEGIN STRING
+通行人:
+最大透過…、あっ、消えた消えた！
+服、完全に消えたぜ…。
+す、すっぽんぽんだ…。
+> CONTEXT: Map002/events/11/pages/1/86/Dialogue
+Bystander:
+Now at max power.\\..\\..\\.\\.\\. it's gone!!\\.
+Her clothes are completely gone...\\.\\.
+She's in her birthday suit...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”えっ…！？
+やっ、ちょ…！
+み、見ちゃ駄目ぇぇ…！
+> CONTEXT: Map002/events/11/pages/1/91/Dialogue
+Nazuna:
+Wha...!?\\.
+Don't...!\\.\\.
+Don't look...!
+> END STRING
+
+> BEGIN STRING
+戦わない
+> CONTEXT: Map002/events/11/pages/1/96/Choice/1
+Don't fight
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぜ、絶対許さない…。
+さっさと倒して、あの眼鏡、
+一つ残らず、回収する…。
+> CONTEXT: Map002/events/11/pages/1/107/Dialogue
+Nazuna:
+I-\\.I won't allow this...
+I'll defeat you quickly\\.\\., and those glasses\\.\\.,
+I'll collect them all...
+> END STRING
+
+> BEGIN STRING
+魔物:
+ふん…。
+貴様にやられた仲間の仇を討ってやる。
+こんなものではない恥辱にまみれさせてやるからな。
+> CONTEXT: Map002/events/11/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+アブラテレビです！
+ご覧ください、商店街に魔物が現れました！
+既に、ナズナさんが対応にあたっております！！
+> CONTEXT: Map002/events/11/pages/1/145/Dialogue
+Reporter:
+This is Abura TV!\\.
+The demon has appeared in downtown!\\.\\.
+And Nazuna is already set to fight!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ…、テレビカメラまで、来ちゃった…。
+この前みたいな目には、あいたくない…。
+気をつけないと…。
+> CONTEXT: Map002/events/11/pages/1/151/Dialogue
+Nazuna:
+Uu...\\., the TV reporters again...\\.
+I don't want a repeat of last time...\\.
+I need to be careful...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+こっ、こっ、この…、ば、バカ！！
+ちょっと待ってろ！！
+後で…、後で、うぅ…、覚えてろーーーっ！！！
+> CONTEXT: Map002/events/11/pages/1/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あれ、ナズナちゃん逃げちゃったよ。
+> CONTEXT: Map002/events/11/pages/1/186/Dialogue
+Bystander:
+Oh my, she ran away.
+> END STRING
+
+> BEGIN STRING
+通行人:
+ひゃはは、よっぽど恥ずかしかったんだろうな。
+顔、真っ赤にしちゃって。
+> CONTEXT: Map002/events/11/pages/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+協会員さんから聞いた、弱点…。
+試してみるべきか、どうか…。
+> CONTEXT: Map002/events/11/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+> CONTEXT: Map002/events/11/pages/2/6/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+試してみる
+> CONTEXT: Map002/events/11/pages/2/6/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+なんだ、用か？
+> CONTEXT: Map002/events/11/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ…、し、勝負して！！
+あなたの弱点、知ってるんだから！
+うぅ…、か、覚悟！！
+> CONTEXT: Map002/events/11/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+弱点など、この俺にあるものか。
+返り討ちにしてやろう！
+> CONTEXT: Map002/events/11/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、何やら勝算があるようですね！！
+これはどうなるか、分からなくなって来ました！！
+> CONTEXT: Map002/events/11/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…、て、テレビ…。
+うぅぅ、あれを実行するとこ…、
+放送されたら、困るのにっ！！
+> CONTEXT: Map002/events/11/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+少し休んだ方がいいのでは？
+疲れているようだぞ。
+> CONTEXT: Map002/events/11/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+誰のせいでっ…！！
+…うぅ、限界まで体を張ったのにぃ…、
+ダメダメだった…。
+> CONTEXT: Map002/events/11/pages/2/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+はぁはぁ…。
+> CONTEXT: Map002/events/11/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うっ…！
+> CONTEXT: Map002/events/11/pages/2/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……服を着て、離れよう…。
+> CONTEXT: Map002/events/11/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+全然、効かなかったじゃないですかぁ…！！
+みんなに見られただけで…、いっぱい、恥ずかしい思い、したのに！
+全部見られたんですよ！？大勢に、じっくり！！！
+> CONTEXT: Map002/events/11/pages/2/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+まあまあ、落ち着いて！
+見る感じ、相当効いてたけど…、
+今ひとつ、押しが足りなかったのかもね！！
+> CONTEXT: Map002/events/11/pages/2/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あんなに見せたのにぃ…！？
+私、あんなのもう、嫌です…。
+女の子として、終わっちゃう…。
+> CONTEXT: Map002/events/11/pages/2/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+どうせ、同じ映像が毎日テレビで…
+> CONTEXT: Map002/events/11/pages/2/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+ギャッ！！
+> CONTEXT: Map002/events/11/pages/2/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+言わないで！！
+> CONTEXT: Map002/events/11/pages/2/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+こ、この小娘…！じゃない、
+そう言わず、また試してみなよ。
+僕もテレビで見てたけど…、ほら、ネットに上がってた画像。
+> CONTEXT: Map002/events/11/pages/2/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ああああああっ…！！
+こんなの、テレビで放送された上、ネットに…！
+世界中の人に、見られたなんて！！
+> CONTEXT: Map002/events/11/pages/2/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…ていうか、何、保存してるんですかぁぁ…！！
+消して！変態！！
+> CONTEXT: Map002/events/11/pages/2/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+まあ、待ちなよ。
+君、教えた呪文、ちゃんと書いてないじゃない。
+ほら、ここの円は閉じてないし、ここなんかインクが垂れてるし…
+> CONTEXT: Map002/events/11/pages/2/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+じっくり見ないで！！
+……だ、だってぇ…、デコボコして、書きにくいし…、
+鏡を見ながらだと難しいし、恥ずかしいし…。
+> CONTEXT: Map002/events/11/pages/2/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+恥ずかしくても、ちゃんとしないと、やっぱり効果がね…。
+あとは、大勢に見せれば見せるほど、
+その呪文のパワーは増すんだけど…、試してみた？
+> CONTEXT: Map002/events/11/pages/2/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+て、テレビで全国放送されて、ネットにも上げられて…、
+何千万人が見たと思ってるんですか！？
+本当なら、最大級のパワーが出るはずですよぉ…！！
+> CONTEXT: Map002/events/11/pages/2/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+やっぱりテレビ越しだと効力が低いのかも…。
+でも、どんな形で見せても、確実に効果はあるから！！
+一億人でも十億人でも、どんどん見せていこう！
+> CONTEXT: Map002/events/11/pages/2/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+お、億単位は、いくらなんでも、絶対やだ…。
+うぅ、またやるかは、考えさせてください…。
+> CONTEXT: Map002/events/11/pages/2/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは肩を落として、恥ずかしそうに去っていった…。
+> CONTEXT: Map002/events/11/pages/2/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+(…まあ、全部嘘なんだから、
+どんだけマ○コ見せようが、何の意味もないんだけどね。
+あの恥ずかしそうな顔、傑作だったな！)
+> CONTEXT: Map002/events/11/pages/2/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+(今回だけでも、相当に協会内での評価を落としてやったぞ。
+くくく、精々何度もチャレンジして、
+恥を上塗りしてくれよ！)
+> CONTEXT: Map002/events/11/pages/2/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+早く、こいつを、なんとかしないと…！！
+私の人生は、取り返しのつかないことに…。
+> CONTEXT: Map002/events/11/pages/2/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔物:
+おお、よく来たな。
+お客様も待っているぞ。
+> CONTEXT: Map002/events/11/pages/2/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イベントを飛ばしますか？
+> CONTEXT: Map002/events/11/pages/2/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Map002/events/11/pages/2/250/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map002/events/11/pages/2/250/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+はぁはぁ…
+> CONTEXT: Map002/events/12/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+早く買わなきゃ…
+> CONTEXT: Map002/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+早く売ってくれ！
+> CONTEXT: Map002/events/14/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+…。
+> CONTEXT: Map002/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+ニタニタ…
+> CONTEXT: Map002/events/16/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+並びすぎだよ！まったく！
+> CONTEXT: Map002/events/17/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+1000円とは安い…
+> CONTEXT: Map002/events/18/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+あっ、九輪さん…。
+ごくり。
+> CONTEXT: Map002/events/19/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+俺もメガネデビューだぜ！
+> CONTEXT: Map002/events/34/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+どきどき…
+> CONTEXT: Map002/events/35/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ニタニタ…
+> CONTEXT: Map002/events/38/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、あの人、見てる…。
+くぅ……。
+> CONTEXT: Map002/events/38/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急いでその場を立ち去る
+> CONTEXT: Map002/events/38/pages/0/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+注意してみる
+> CONTEXT: Map002/events/38/pages/0/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+さ、さっさと行こう……。
+悔しいけど、長居するほど、裸を見られちゃうだけ…。
+> CONTEXT: Map002/events/38/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あの…、あ、あんまり、見ないで……。
+私は、裸を見られるのは、嫌なの…。
+> CONTEXT: Map002/events/38/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、ごめんごめん。
+じゃあ、さっさと撮影して、撤収するね。
+> CONTEXT: Map002/events/38/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+カメラに、メガネをかざして、っと…
+> CONTEXT: Map002/events/38/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+パシャパシャパシャパシャ！
+> CONTEXT: Map002/events/38/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！！！？
+> CONTEXT: Map002/events/38/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やめて…！
+スマホ、こっちに！
+写真、消して！！
+> CONTEXT: Map002/events/38/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+あっ、何だよ！
+勝手に触るんじゃねえ！！
+> CONTEXT: Map002/events/38/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ、はぁ…。
+あ、あなたが、悪いんだからね…。
+スマホ……。
+> CONTEXT: Map002/events/38/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グシャア！！
+> CONTEXT: Map002/events/38/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…これで安心。
+写真のデータごと消して、撮影もできない。
+完璧…。
+> CONTEXT: Map002/events/38/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+……あらら、倒れちゃった。
+ナズナちゃーん？
+………。
+> CONTEXT: Map002/events/38/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+…これは、俺にもっと撮ってって言ってるんだよね？
+分かった分かった。
+たっぷり撮影して、責任持って全部ブログに上げてあげるからね〜。
+> CONTEXT: Map002/events/38/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+はい、お尻突き上げて〜。
+はい、チーズ！
+> CONTEXT: Map002/events/38/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ははは、お尻の穴までばっちりだ。
+今月はブログの収入で、リッチに過ごせるぞ〜！
+> CONTEXT: Map002/events/38/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+見ろよ、あいつ、メガネ越しにナズナちゃんの裸を撮ってやがる。
+俺たちも真似して撮ろうぜ！
+> CONTEXT: Map002/events/38/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+うわ、すげー格好だな…。
+メガネを通して見ると、ナズナちゃんの恥ずかしいところ、
+全部丸見えじゃん！
+> CONTEXT: Map002/events/38/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+どんどん人、増えてきたな…。
+撮るだけ撮ったら、さっさと帰ろう。
+ナズナちゃんはこのまま放置しとくから、みんなに撮って貰いなよ！
+> CONTEXT: Map002/events/38/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その後、ナズナは気絶から覚醒するまで、
+群がった通行人たちから、散々裸の写真を撮られた…。
+> CONTEXT: Map002/events/38/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”〜〜〜…、ぅ”〜〜〜……。
+な、情けない……。
+一生ものの、大恥を…。
+> CONTEXT: Map002/events/38/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+さ、さっさと解決しなきゃ…。
+メガネをばら撒いてる魔物さえ倒せば、
+こんな目にあうことも、なくなるはず…！
+> CONTEXT: Map002/events/38/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+久しぶりね、ナズナ。
+何だか、面白いことになっているようだけど？
+> CONTEXT: Map002/events/39/pages/0/6/Dialogue
+Shami:
+Long time no see Nazuna.
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひぃっ…、ま、ママーー！！
+> CONTEXT: Map002/events/39/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナの目の前に現れたのは、
+魔法協会イギリス本部の最高幹部の一人。
+世界最強との呼び声も高い無敵の魔法使いにして、
+ナズナの実の母でもある、九輪シャミーだ。
+> CONTEXT: Map002/events/39/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ち、違うの…、ママ……。
+私は、ま、負けたのは、確かだけど…、
+そ、それは、魔物がいやらしいことを、してくるせいで……、
+> CONTEXT: Map002/events/39/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あらあら…、惨めに負けただけではなく、言い訳までするの？
+たるんでるわね〜、引き締めてあげなきゃ♪
+> CONTEXT: Map002/events/39/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひぃいいいいいっ！！
+ごめんなさい！ごめんなさい！！
+> CONTEXT: Map002/events/39/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミーの躾や修行は度を越したものが殆どで、
+幼い頃から、ナズナは随分と泣かされてきた。
+おかげで、日本では五本の指に入る程の魔法使いになれた訳だが…、
+刻まれたトラウマは並大抵のものではない。
+> CONTEXT: Map002/events/39/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+イギリスのニュースで見たわよ〜？
+あなた、裸を見られて、恥ずかしくって負けちゃったのね。
+アソコに落書きまでして…、私が本部で、どんな思いをしたか分かる？
+> CONTEXT: Map002/events/39/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+だ、だって……えっ！？
+ち、ちょっと待って…、イギリスでも私の裸、流れたの！？
+> CONTEXT: Map002/events/39/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+愛する娘のことだもの。
+局に圧力をかけて、あなたの戦いは必ず放送するようにしてるの♪
+ぜーんぶ、無修正で放送されてるわよ♪
+> CONTEXT: Map002/events/39/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……………！！？
+> CONTEXT: Map002/events/39/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+ほらぁ、またそうやって固まる。
+裸を見られたぐらいで、そんなに狼狽えちゃダメよ〜？
+これは、特訓が必要ね！！
+> CONTEXT: Map002/events/39/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+い、いらない！！
+特訓なんて、しないでいいから！
+勝てるから！！！
+> CONTEXT: Map002/events/39/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+だから、帰ってぇえ…！！
+私は、大丈夫だから！！
+> CONTEXT: Map002/events/39/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『特訓』…。
+ナズナにとって、聞くだけで全身が硬直する程の恐るべき言葉である。
+何か失敗する度に、この母親はその言葉と共に、
+ナズナの心に強烈なトラウマを刻んでいくのだ。
+> CONTEXT: Map002/events/39/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+そんなに警戒しなくても大丈夫！
+今回は、砂漠にも密林にも行かないし、
+拷問器具も使わないし、精神汚染系の魔法も使わないから！！
+> CONTEXT: Map002/events/39/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+そうねぇ…、ナズナは恥ずかしがりみたいだから、
+恥ずかしくなくなるまで、裸で過ごしてみましょうか？
+学園や町の皆さんにも、協力して頂いて…
+> CONTEXT: Map002/events/39/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……！
+> CONTEXT: Map002/events/39/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だっ…！
+> CONTEXT: Map002/events/39/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+逃げちゃダメよ♪
+> CONTEXT: Map002/events/39/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひぎゃーーーっ！！！？
+> CONTEXT: Map002/events/39/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+許して…、ママぁ…！
+私…、こんな格好…。
+この町に、いられなくなっちゃう…。
+> CONTEXT: Map002/events/39/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+ほらほら、そうやって恥ずかしがる。
+裸を見られるぐらい、今更どうってことないでしょ？
+慣れるまで、あなたの知り合いに、片っ端から見せつけていくからね。
+> CONTEXT: Map002/events/39/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やだ…、やだ！！
+ま、ママだって…、町中を裸で歩くのは、
+嫌でしょぉぉ…！？
+> CONTEXT: Map002/events/39/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+常識で考えて、私は無理よ〜！
+大人のレディーは、みだりに肌を出しちゃいけないの！
+ナズナには、まだちょっと分かんないかしら？
+> CONTEXT: Map002/events/39/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+狂おしいほど分かる…！
+私だって、もう大人だもん…！！
+肌を出すの…、嫌なのー！！恥ずかしいの！！
+> CONTEXT: Map002/events/39/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あらあら、背伸びしちゃって…。
+いいから、行くわよ。
+はい、特訓開始〜♪
+> CONTEXT: Map002/events/39/pages/0/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、えぅぅ、ひっく…！
+> CONTEXT: Map002/events/39/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+おい…、ナズナちゃん、素っ裸で歩いてるぞ…。
+俺、今、メガネはかけてないよな…？
+> CONTEXT: Map002/events/39/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+隣の人、誰だろ…。
+すっげー美人。
+女王様みてえ。色々と…。
+> CONTEXT: Map002/events/39/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+ご機嫌よう、皆さん。
+今日は娘のナズナの、特訓中ですの。
+恥ずかしさの克服のため、協力してくださらない？
+> CONTEXT: Map002/events/39/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+ま、マジ…？
+ナズナちゃんの裸を見ればいいの？
+こんなに堂々と、お母様のお墨付きまで貰えるとは…。
+> CONTEXT: Map002/events/39/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+まあ、そうだよねぇ…、羞恥心を克服すれば、
+メガネなんか関係なくなって、
+魔物との戦いに集中できるもんね！
+> CONTEXT: Map002/events/39/pages/0/227/Dialogue
+Bystander:
+Well, if you overcome your embarrassment,
+the glasses become irrelevant,
+and you can focus on fighting the demon!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひっ…、こ、来ないで！！
+私は、こんな特訓…、したくないぃ…！
+> CONTEXT: Map002/events/39/pages/0/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あら、美味しそうなお惣菜。
+コロッケくださる？
+> CONTEXT: Map002/events/39/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+はいよ、コロッケ！
+> CONTEXT: Map002/events/39/pages/0/269/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+……。
+> CONTEXT: Map002/events/39/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や、やぁあ！！
+おじさん…、み、見ないでぇ！！
+> CONTEXT: Map002/events/39/pages/0/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あらあら…、お知り合いなの？
+あっ、コロッケ美味しい…。
+> CONTEXT: Map002/events/39/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+どうも、お母様…。
+ナズナちゃんは、よくコロッケを買いに来てくれるんです。
+お、お得意様で…。
+> CONTEXT: Map002/events/39/pages/0/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チラチラ…
+> CONTEXT: Map002/events/39/pages/0/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…、あひ、う、うぅ…や、やだっ…、ま、ママ！！
+おじさんは、知り合いなの…！
+お願い、もう行こう…？
+> CONTEXT: Map002/events/39/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あら、知り合いなら、ちょうどいいじゃない。
+恥ずかしい方が、特訓になるんだから。
+ほら、前に出て、じっくり見て貰いなさい？
+> CONTEXT: Map002/events/39/pages/0/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+やぁっ、やだーーーっ…！！
+お願い…、私、ここのコロッケ、好きなの…！
+もう、買いに来れなくなっちゃう…！
+> CONTEXT: Map002/events/39/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+だから、ちゃんと特訓して、
+恥ずかしさを克服すれば、また買いに来れるでしょう？
+ごめんなさいね、おじさま。うるさい娘で…。
+> CONTEXT: Map002/events/39/pages/0/318/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん:
+いっ、いえいえ…。
+いつも、礼儀正しい子で、感心してますよ…。
+> CONTEXT: Map002/events/39/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あらあら、嬉しい！
+ナズナ、いつもご馳走になっているんだし、ちゃんとお礼言いなさい。
+ほら…
+> CONTEXT: Map002/events/39/pages/0/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…、ふ、ひぐっ…！
+おじさん…、い、いつも…、あ、ありが、と…。
+ナズナのはだか…、み、見て、いって、ね…、うっ、うぇ、ええん…。
+> CONTEXT: Map002/events/39/pages/0/333/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人:
+たまらんな、この光景…。
+> CONTEXT: Map002/events/39/pages/0/360/Dialogue
+Bystander:
+Check this out...
+> END STRING
+
+> BEGIN STRING
+通行人:
+ナズナちゃん、泣いてるじゃん。
+特訓とはいえ、ちょっと可哀想だな。
+> CONTEXT: Map002/events/39/pages/0/363/Dialogue
+Bystander:
+She's crying.
+It might be special training,
+but I feel bad for her.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぐす…、えっ、えっ……。
+見られ”た…。
+商店街中の、みんなに……。
+> CONTEXT: Map002/events/39/pages/0/367/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ママ！ママ！！！
+こ、ここはダメ！！
+ここだけは…、お願い！一生のお願い！！
+> CONTEXT: Map002/events/39/pages/0/385/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あらあら…、まだ反抗するの？
+あなた、特訓のたびに、一生のお願いをするわね。
+いったい、何生分お願いする気なのかしら？
+> CONTEXT: Map002/events/39/pages/0/390/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+一度も、聞いてくれたことなんて、ない癖にいぃ…！！
+ここは…、私の、学園！！
+分かるでしょ…、ここにいるのは、み、みんな…、友達なの！！
+> CONTEXT: Map002/events/39/pages/0/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+？
+だから、見て貰いに行くんでしょ？
+恥ずかしがらずに、特訓、特訓！！
+> CONTEXT: Map002/events/39/pages/0/401/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+お願い、ママぁぁぁ…！！
+私の学園生活…、台無しに、しないでよぉ…！！
+> CONTEXT: Map002/events/39/pages/0/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+えっ…、く、九輪さん！？
+なんで裸で…。
+> CONTEXT: Map002/events/39/pages/0/423/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+えっ、後ろの人、お母さん！？
+へー、美人だ…、えっ、特訓！？
+> CONTEXT: Map002/events/39/pages/0/427/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+娘がいつもお世話に…。
+良ければ、見てあげてね？
+写真を撮ってもいいし、ちょっとなら、触ってもいいから…。
+> CONTEXT: Map002/events/39/pages/0/431/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+撮っ…！？触っ……！！？
+> CONTEXT: Map002/events/39/pages/0/436/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ごくっ…。
+> CONTEXT: Map002/events/39/pages/0/439/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぷにぷに…
+> CONTEXT: Map002/events/39/pages/0/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+やべ…、九輪さんのアソコ、柔らかい…！
+ピクピクしてるのが感触でわかるよ。
+汗めっちゃかいてるな…、いい匂い…。
+> CONTEXT: Map002/events/39/pages/0/448/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+よし、そうやって拡げてろ…。
+おほぉ、ばっちり撮れてる！！
+> CONTEXT: Map002/events/39/pages/0/453/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+許して…、やめて、やめてっ！！
+こんなのやだ…、無理ぃ！！
+> CONTEXT: Map002/events/39/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ”っ…、あ、あ”〜〜…っ！！
+うぇぇ…ん、う、恥ずかしいよぉ…！
+ママぁ…、助けてぇ…！！
+> CONTEXT: Map002/events/39/pages/0/471/Dialogue
+Nazuna:
+Aa...,\\.\\. aah\\.\\. aah--...!!
+Nuuu...,\\.\\. so embarrassing...!\\.\\.
+Mom...\\.\\.\\. help...!!
+> END STRING
+
+> BEGIN STRING
+シャミー:
+情けないわよ、ナズナ！
+お友達の前で泣くなんて…。
+ごめんなさいねぇ、過保護に育ててしまったものだから…。
+> CONTEXT: Map002/events/39/pages/0/476/Dialogue
+Shami:
+Nazuna, how embarrassing!\\!
+To cry in front of your friends...\\.\\.
+I'm sorry,\\. I overprotected you growing up...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+い、いえ…、九輪さんはすっげーいい子ですよ…。
+みんなに優しいし…。
+はぁはぁ…。
+> CONTEXT: Map002/events/39/pages/0/481/Dialogue
+Schoolboy:
+N-\\.not true...\\. Nazuna is a good girl...\\.
+Everyone's nice to her...\\.\\.
+*pant*\\. *pant*\\.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+過保護どころか、虐待だよ、これ…。
+俺は嬉しいけど。
+ぐへへ…。
+> CONTEXT: Map002/events/39/pages/0/486/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あっ、お友達のメールアドレスとか、知ってる？
+…あら、学園のメーリングリストがあるのね…。
+じゃあ、写真はそれを使って、全校生徒と先生に送ってくださる？
+> CONTEXT: Map002/events/39/pages/0/491/Dialogue
+Shami:
+Do you have your friend's email?\\.\\.
+Ah...\\.\\. the school has a mailing list.\\..\\..\\.\\.
+Can you send it to all the students and teachers?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ママーーーーっ！！？
+> CONTEXT: Map002/events/39/pages/0/500/Dialogue
+Nazuna:
+\\{\\{\\{Mama----!!?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+わ、分かりました…。
+ごめんね、九輪さん。
+撮ったの全部送信するから。
+> CONTEXT: Map002/events/39/pages/0/503/Dialogue
+Schoolboy:
+Ah... okay...
+Sorry Nazuna.
+But it's already being sent.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+俺たちも辛いけど、九輪さんが強くなるためだもんな！！
+心を鬼にして…あ、早速写真が送られてきた…。
+…うわ、お前、アップで撮りすぎだろ！！
+> CONTEXT: Map002/events/39/pages/0/508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+が、学園…、もう、来れない…！！
+うぐ、こ、こんなっ…！
+> CONTEXT: Map002/events/39/pages/0/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+なかなか、恥ずかしさを捨てられないわねぇ…。
+じゃあ、次はそのまま、裸踊りでもしましょうか？
+> CONTEXT: Map002/events/39/pages/0/526/Dialogue
+Shami:
+Your shyness still hasn't left...\\!
+Well then,\\.\\. how about dancing naked next?
+> END STRING
+
+> BEGIN STRING
+シャミー:
+そうそう、みっともなく足を開いて、リズミカルに踊りなさい？
+恥をかなぐり捨てて…。
+あっ、ちゃんと歌も、大きな声で歌うのよ？
+> CONTEXT: Map002/events/39/pages/0/530/Dialogue
+Shami:
+そうそう、みっともなく足を開いて、リズミカルに踊りなさい？
+Throw away your shame...
+Ah,\\. can you sing it with a loud voice too?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う”ぁああ”ぁん…！
+う…、え、えぐ！！
+ひぃぃ…、ふ、ふぐ…っ！！
+> CONTEXT: Map002/events/39/pages/0/545/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う”、じ〜の、うっ、うっ…、たかね”っ、にっ、ふ、ふ、ふ…、
+ゆきぃ〜、もぉぉ……。
+> CONTEXT: Map002/events/39/pages/0/560/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あはは、何よその選曲…、阿波踊り？盆踊り？
+泣きながら裸でダンスなんて、面白すぎて笑っちゃった♪
+ほらほら、全教室に中継してるんだから、もっと踊りなさい！
+> CONTEXT: Map002/events/39/pages/0/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+とけぇ〜、て…、ひぐぅっ…！
+な、な、なが、な……、が、れっ………、
+> CONTEXT: Map002/events/39/pages/0/587/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぐじゅっ…、
+え、ぐ…、えっ、うえ”っ…。
+な、な、が……、
+> CONTEXT: Map002/events/39/pages/0/598/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+どうしたの、ナズナ！
+お歌が止まってるわよ！
+ほら、大きな声で、ハキハキ歌いなさい！！
+> CONTEXT: Map002/events/39/pages/0/609/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+こんら”の”ぉお…！
+恥ずかしい、だけだよぉ…！！
+マ”マ”ぁ…、許し”て”ぇぇ…。
+> CONTEXT: Map002/events/39/pages/0/618/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+流石に、可哀想すぎないか…？
+九輪さん、不登校になるぞ、これじゃ…。
+> CONTEXT: Map002/events/39/pages/0/623/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+特訓っていうか、イジメだな、これは…。
+まあ、でも九輪さんの裸見れるし…、
+あのお母さん怖いし、黙っとこう。
+> CONTEXT: Map002/events/39/pages/0/627/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+ナズナちゃん…、が、頑張って…！
+> CONTEXT: Map002/events/39/pages/0/632/Dialogue
+Schoolgirl:
+Nazuna...\\. do your best...!
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あはは、アソコがヒクついてるわよ？
+まったく、マセてるわね…、興奮してるのかしら？
+> CONTEXT: Map002/events/39/pages/0/644/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+お”…、鬼ババーーーっっ…！！
+なんでも、いいがら”ぁ…！
+やめさせろ”ぉぉお…！！！
+> CONTEXT: Map002/events/39/pages/0/658/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+やだ、ナズナったら、なんて言葉遣いを…。
+あなたが恥ずかしがってるうちは、やめるわけにはいきません！
+この後、他の教室も全部回って踊らせますからね！
+> CONTEXT: Map002/events/39/pages/0/664/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+あっ、そうだ…。
+後で、ネットにも上げときましょう。
+1000万人ぐらいに見られたら、ちょっとは慣れるわよね？
+> CONTEXT: Map002/events/39/pages/0/669/Dialogue
+Shami:
+Ah,\\. also...\\!
+I'll post this online later.
+You'll get used to it after ten million people see.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+や”ら”ぁあ”あ”ああぁあーーーっ！！
+あ”ーーーーーっ！！
+う”わ”ぁああ”ぁあああ”ん！！！
+> CONTEXT: Map002/events/39/pages/0/681/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ、うっ…、ひぐ…、えぐ！！
+> CONTEXT: Map002/events/39/pages/0/732/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+う〜ん、全校生徒に見せても、触らせても、ネットに動画を上げても、
+全然慣れないわね…。
+まだ、恥ずかしさが足りないかしら？
+> CONTEXT: Map002/events/39/pages/0/735/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+じゃあ、次は渋谷のスクランブル交差点に行きましょう！
+東京観光したかったのよね〜！
+山手線で行きましょうか…、その格好のままでね。
+> CONTEXT: Map002/events/39/pages/0/740/Dialogue
+Shami:
+Now,\\.\\. let's go to the Shibuya diagonal crosswalk next!
+I want to do some Tokyo sightseeing!
+Let's go on the Yamanote Line...\\.\\. looking like that.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(ブルブルブルブルブルブルブルブル)
+> CONTEXT: Map002/events/39/pages/0/755/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+そんなに首を横に振っても、無駄…あら？
+国際電話だわ。
+> CONTEXT: Map002/events/39/pages/0/758/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+……………。
+………。
+> CONTEXT: Map002/events/39/pages/0/762/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+ごめんね、ナズナ！
+イギリス本部が魔王に襲われてるみたい！
+ちょっとママ、帰るから。
+> CONTEXT: Map002/events/39/pages/0/766/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シャミー:
+特訓は途中だけど、自習しといてね！
+愛してるわよ、ナズナ！
+それじゃ…。
+> CONTEXT: Map002/events/39/pages/0/771/Dialogue
+Shami:
+Study this special training by yourself now!
+Love you Nazuna!
+Now then...
+> END STRING
+
+> BEGIN STRING
+シャミーは一瞬でイギリスまで飛んでいった…。
+> CONTEXT: Map002/events/39/pages/0/777/Dialogue
+Shami flew to the U.K. in an instant.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う”…、う”ぇっ、ああ”う”ぅ……！！
+わ”ら”しぃ…、引っ越す、学園、やめ”る”っっ…！！！
+もう、誰にも会わずに…、引きこ”もって”、生き”て”いく”ぅぅ…！！
+> CONTEXT: Map002/events/39/pages/0/788/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+ナズナちゃん、学園やめないでー！！
+ナズナちゃんがいなくなると、寂しい…。
+> CONTEXT: Map002/events/39/pages/0/793/Dialogue
+Schoolgirl:
+Don't quit school Nazuna-!!
+I'll get lonely if you leave...
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+みんな、ナズナちゃんのこと大好きだから、安心して〜！
+男子たちには、見たこと、後から謝らせるから…。
+> CONTEXT: Map002/events/39/pages/0/797/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えぐ…、ひぐ！！
+う、う、う、うぅうう”…！
+> CONTEXT: Map002/events/39/pages/0/802/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ………。
+私の学園生活、もう、ボロボロ……。
+ママ………、恨むよぉ……。
+> CONTEXT: Map002/events/39/pages/0/818/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……みんな、引き止めてくれたし…、
+辞めるのは、なしにしよう…。
+恥ずかしいけど…、が、頑張るもん…。
+> CONTEXT: Map002/events/39/pages/0/823/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナは少しだけ度胸がついた！
+レベルが1アップした！
+> CONTEXT: Map002/events/39/pages/0/828/Dialogue < UNTRANSLATED
+
+> END STRING

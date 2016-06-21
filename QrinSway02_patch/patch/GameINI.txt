@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+QrinSway02話 スケスケメガネ編
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+QrinSway02 See-through Glasses Chapter
+> END STRING

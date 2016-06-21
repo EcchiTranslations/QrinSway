@@ -1,0 +1,1874 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ナズナ:
+この気配…。
+いる…、あいつが、この先に！
+> CONTEXT: Map004/events/3/pages/1/1/Dialogue
+Nazuna:
+This door...
+He's definitely in here!
+> END STRING
+
+> BEGIN STRING
+教室の扉の向こうに感じるのは、ナズナの恥辱の原因となった存在。
+その強大な魔力を肌に感じるのだ。
+> CONTEXT: Map004/events/3/pages/1/6/Dialogue
+Nazuna sensed a strong presence behind the door.
+She could feel the magic on her skin.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あいつを倒せば、呪いも解ける…。
+もう、恥ずかしい思いをする必要も、なくなる…！
+> CONTEXT: Map004/events/3/pages/1/10/Dialogue
+Nazuna:
+If I defeat him, this curse will go away...
+Then I won't feel embarrassed anymore...!
+> END STRING
+
+> BEGIN STRING
+戦いに行く
+> CONTEXT: Map004/events/3/pages/1/15/Choice/0
+Fight
+> END STRING
+
+> BEGIN STRING
+まだ戦わない
+> CONTEXT: Map004/events/3/pages/1/15/Choice/1
+Not yet
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+し、勝負……
+え？
+か、カメラ…？
+> CONTEXT: Map004/events/3/pages/1/31/Dialogue
+Nazuna:
+I-I'm ready...
+Huh?
+A c-camera?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+…では、魔物の皆さんは、人間の思念のエネルギーを目当てに、
+異世界からやって来ているんですね。
+> CONTEXT: Map004/events/3/pages/1/37/Dialogue
+Demon:
+...This is to give me energy.
+I come from another world.
+> END STRING
+
+> BEGIN STRING
+魔物:
+そうだ。
+絶望や苦しみの感情は強いエネルギーを生むからな。
+手っ取り早く手に入れるには、破壊活動を行うのが一番効率がいい。
+> CONTEXT: Map004/events/3/pages/1/41/Dialogue
+Demon:
+Because of that,
+feelings of despair and suffering give me energy.
+This is the most efficient way to quickly obtain it.
+> END STRING
+
+> BEGIN STRING
+報道陣:
+なるほど〜！
+では…
+> CONTEXT: Map004/events/3/pages/1/46/Dialogue
+Reporter:
+I see~!
+Then...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、何してる…！
+危ないからっ！
+離れて…
+> CONTEXT: Map004/events/3/pages/1/51/Dialogue
+Nazuna:
+What are you doing...!
+This is dangerous!
+You need to leave...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+あっ、ナズナさんが現れました！
+ご覧ください、彼女はこちらの魔物さんに呪いをかけられ、
+スクール水着以外、着れなくされてしまったんですね〜。
+> CONTEXT: Map004/events/3/pages/1/57/Dialogue
+Reporter:
+Ah, Nazuna appeared!
+She's still under the demon's spell,
+unable to wear anything else except her swimsuit~.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…っ、と、撮るな…！
+だ、駄目…。
+> CONTEXT: Map004/events/3/pages/1/63/Dialogue
+Nazuna:
+Ah..., don't film...!
+You're not allowed to.
+> END STRING
+
+> BEGIN STRING
+報道陣:
+あっ、顔が真っ赤ですね〜。
+生放送で水着姿は、やっぱり恥ずかしいですか？
+> CONTEXT: Map004/events/3/pages/1/68/Dialogue
+Reporter:
+Oh, is her face turning red?
+Is she ashamed of her swimsuit being broadcasted live?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+生放送…って！
+か、勝手に撮るの、駄目っ…！
+あっち向いて！！
+> CONTEXT: Map004/events/3/pages/1/73/Dialogue
+Nazuna:
+Broadcasted live...!
+D-don't, I don't permit you to...!
+Go away!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+…何でもいいが、俺に何か、用があったのではないか？
+> CONTEXT: Map004/events/3/pages/1/79/Dialogue
+Demon:
+...So do you have any business with me?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぅ…、あ、そ、そう！
+呪い、解いて！！
+嫌なら…、今度こそ、送還されてもらう…。
+> CONTEXT: Map004/events/3/pages/1/83/Dialogue
+Nazuna:
+Ua... no!
+Undo this curse!!
+I hate it... I'll send you back home...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+おっと、ここでナズナさんから、再戦の申し込みです！
+このまま戦闘の様子を、アブラテレビが独占生中継します！
+チャンネルはそのまま！
+> CONTEXT: Map004/events/3/pages/1/89/Dialogue
+Reporter:
+Oh ho, Nazuna has come back for a rematch!
+We're broadcasting this battle exclusively live!
+Stay tuned!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+か、勝手に撮らないでってばぁ…！
+> CONTEXT: Map004/events/3/pages/1/95/Dialogue
+Nazuna:
+D-don't film without my permission...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひ、ひどい目にあった…。
+次は負けられない。
+> CONTEXT: Map004/events/3/pages/1/120/Dialogue
+> CONTEXT: Map004/events/9/pages/1/229/Dialogue
+Nazuna:
+... That was an awful experience...
+I can't lose next time.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+銭湯で体力を回復させて、再戦しないと…。
+商店街で何か食べて、魔力も上げよう。
+> CONTEXT: Map004/events/3/pages/1/124/Dialogue
+> CONTEXT: Map004/events/9/pages/1/233/Dialogue
+Nazuna:
+I can recover some health at the bath,
+or eat something at the shops to strengthen me.
+I should consider doing those before a rematch.
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+こっちは、男子更衣室…。
+> CONTEXT: Map004/events/7/pages/0/0/Dialogue
+Nazuna:
+This is the boy's locker room...
+> END STRING
+
+> BEGIN STRING
+魔物:
+よく来たな、魔法使い！！
+仲間たちの分も合わせて、たっぷりとお返ししてやるぞ！
+> CONTEXT: Map004/events/9/pages/0/0/Dialogue
+Demon:
+The witch has arrived!!
+I will return the favor you did to my friends!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+む…、また魔物…。
+喋るタイプの奴は、初めて見た。
+> CONTEXT: Map004/events/9/pages/0/5/Dialogue
+Nazuna:
+Oho, there's the demon...
+You seem like the type to be all bark and no bite.
+> END STRING
+
+> BEGIN STRING
+魔物:
+俺は、今までこの世界に来ていた者たちとは、レベルが違うぞ。
+覚悟するのだな！
+> CONTEXT: Map004/events/9/pages/0/10/Dialogue
+Demon:
+I am different from 
+everyone you've faced thus far.
+So prepare yourself!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…。
+> CONTEXT: Map004/events/9/pages/0/15/Dialogue
+> CONTEXT: Map001/events/89/pages/0/5/Dialogue
+> CONTEXT: Map004/events/46/pages/0/11/Dialogue
+> CONTEXT: Map004/events/47/pages/0/19/Dialogue
+> CONTEXT: Commonevents/34/230/Dialogue
+> CONTEXT: Commonevents/34/281/Dialogue
+Nazuna:
+...
+> END STRING
+
+> BEGIN STRING
+ちょっと待ってもらう
+> CONTEXT: Map004/events/9/pages/0/19/Choice/1
+Wait a minute
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…無駄。返り討ち。
+私に勝てる魔物なんて、いるわけない…。
+ここは物が壊れちゃうから、外で戦おう。
+> CONTEXT: Map004/events/9/pages/0/22/Dialogue
+Nazuna:
+...This is pointless.
+There isn't a demon who can beat me.
+Let's fight outside so we don't break anything.
+> END STRING
+
+> BEGIN STRING
+魔物:
+さあ、勝負だ！
+> CONTEXT: Map004/events/9/pages/0/34/Dialogue
+> CONTEXT: Map004/events/9/pages/1/199/Dialogue
+Demon:
+En garde!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふん…。
+> CONTEXT: Map004/events/9/pages/0/38/Dialogue
+> CONTEXT: Map004/events/9/pages/1/203/Dialogue
+Nazuna:
+Fufu...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+また新しい魔物だ！
+最近多いな…。
+> CONTEXT: Map004/events/9/pages/0/44/Dialogue
+Schoolboy:
+It's another demon!
+There's been a lot of them lately...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+報道陣も来てるぜ。
+誰かが通報したんだな。
+> CONTEXT: Map004/events/9/pages/0/48/Dialogue
+Schoolboy:
+The reporters came too.
+Someone tipped them off.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+テレビ、嫌い…。
+気が散る…。
+> CONTEXT: Map004/events/9/pages/0/53/Dialogue
+Nazuna:
+I don't like TV...
+It's too distracting...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ちょっと、用事がある。
+戦う前に、ここで待ってて。
+> CONTEXT: Map004/events/9/pages/0/67/Dialogue
+Nazuna:
+I have some things left to do.
+Wait here until then.
+> END STRING
+
+> BEGIN STRING
+魔物:
+早く終わらせてくるんだぞ！！
+> CONTEXT: Map004/events/9/pages/0/72/Dialogue
+Demon:
+Finish them now!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…協会員さんの助言…、
+ど、どうしよう…。
+> CONTEXT: Map004/events/9/pages/1/2/Dialogue
+Nazuna:
+...That mage's advice...
+Should I try it...?
+> END STRING
+
+> BEGIN STRING
+試してみる
+> CONTEXT: Map004/events/9/pages/1/6/Choice/0
+Try it
+> END STRING
+
+> BEGIN STRING
+試してみない
+> CONTEXT: Map004/events/9/pages/1/6/Choice/1
+Don't try it
+> END STRING
+
+> BEGIN STRING
+魔物:
+よし、勝負だ！
+表に出ろ！！
+> CONTEXT: Map004/events/9/pages/1/8/Dialogue
+Demon:
+Challenge accepted!
+Let's head outside!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ま、待って！
+ここで戦わない…？
+テレビもギャラリーもいない方が、あなたも集中できるはず…
+> CONTEXT: Map004/events/9/pages/1/12/Dialogue
+Nazuna:
+Oh, w-wait!
+Why don't we fight here...?
+The audience won't distract you here...
+> END STRING
+
+> BEGIN STRING
+魔物:
+バカか！
+物が壊れるだろうが！！
+外でやるぞ！！
+> CONTEXT: Map004/events/9/pages/1/17/Dialogue
+Demon:
+Idiot!
+Something could break inside!
+We fight outside!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ま、待ってぇ…！
+> CONTEXT: Map004/events/9/pages/1/23/Dialogue
+Nazuna:
+W-wait...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+がんばれー！九輪さん！
+> CONTEXT: Map004/events/9/pages/1/36/Dialogue
+Schoolboy:
+Nazuna~! Do your best~!
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+ナズナちゃーん！勝ってーーー！！
+> CONTEXT: Map004/events/9/pages/1/39/Dialogue
+Schoolgirl:
+Nazuna's gonna win this time~~~!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+さあ、九輪さん、リベンジマッチです！
+前回、敗北して裸にされた屈辱を、
+お返しできるといいですね！
+> CONTEXT: Map004/events/9/pages/1/42/Dialogue
+Reporter:
+Aha, this is Nazuna's revenge match!
+Her last match ended with her naked and defeated,
+but this time she should return the favor!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…この水着には、私を弱体化させる魔法が、かかってる…。
+うぅ、理屈では分かってる。
+でも、でも…！！
+> CONTEXT: Map004/events/9/pages/1/47/Dialogue
+Nazuna:
+...The swimsuit weakens my magic...
+Uu, I understand the reason.
+But... but...!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+全然…！
+全然意味ありませんでしたよぉぉ…！
+勇気を出して、裸になったのにぃ…！！
+> CONTEXT: Map004/events/9/pages/1/74/Dialogue
+Nazuna:
+That was terrible...!
+There was no reason to do that...!
+...and after all my courage to undress...!
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+そんなこと言われてもな…。
+テレビで見てたけど、ナズナちゃん、
+恥ずかしがって全然戦ってなかったじゃない。
+> CONTEXT: Map004/events/9/pages/1/79/Dialogue
+Magic Associate:
+That was quite a defeat...
+I was watching you on TV,
+you were too ashamed to fight.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ、あんな格好で、戦えるわけ、ないじゃない！！
+みんなに見られたんですよ！？
+学校で！全部！！
+> CONTEXT: Map004/events/9/pages/1/84/Dialogue
+Nazuna:
+I-It's impossible to fight looking like that!!
+Wasn't everyone watching!?
+The whole school!!
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+結局のところ、君の精神が弱いせいで負けたんだろ。
+お母様も今回のことを知ったら、
+そう仰るよ。
+> CONTEXT: Map004/events/9/pages/1/89/Dialogue
+Magic Associate:
+You lost because your spirit was too weak.
+I think your mother needs to know about that.
+I'll tell her myself.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ママには言わないでぇぇ！！
+あの鬼ババに知られたら、
+絶対、酷いお仕置きが…！
+> CONTEXT: Map004/events/9/pages/1/98/Dialogue
+Nazuna:
+Don't tell mama!!
+If she finds out about this,
+she'll punish me very badly...!
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+怖いもんねえ、イギリス支部のお母様…。
+僕も責任とか問われたくないから、報告はしないよ。
+君も、僕が教えた作戦だって、誰にも言わないでね？
+> CONTEXT: Map004/events/9/pages/1/103/Dialogue
+Magic Associate:
+Magic Associate:
+Likewise, you won't tell anyone 
+of the strategy I taught you, alright?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、はい…。言いません…。
+> CONTEXT: Map004/events/9/pages/1/108/Dialogue
+Nazuna:
+O-okay... I won't tell anyone...
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+まあ、気が向いたら、また試してみるといい。
+幸い、あの魔物は優しい方みたいだから、
+何度負けても、全裸にされる以上の責めは受けないだろう。
+> CONTEXT: Map004/events/9/pages/1/111/Dialogue
+Magic Associate:
+Oh, and you should try it again if you feel like it.
+Thankfully, that demon is an amiable person,
+but I'm not responsible should you try it again.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+十分すぎるほど、酷い責めですよぉ…。
+うぅ、二度と嫌だけど、
+検討してみます…。
+> CONTEXT: Map004/events/9/pages/1/117/Dialogue
+Nazuna:
+It was torture enough as is...
+Uu, I never want to do it again.
+...but I'll keep it open as an option.
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+その意気だよ！！
+次は裸の戦いも慣れて、きっといつも通りに戦えるさ！
+頑張ってね！！
+> CONTEXT: Map004/events/9/pages/1/122/Dialogue
+Magic Associate:
+That's the spirit!!
+You're used to being naked in battle, 
+so surely now you can win next time! Good luck!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+な、慣れたくないです…。
+ぐす…失礼します…。
+> CONTEXT: Map004/events/9/pages/1/128/Dialogue
+Nazuna:
+But I don't want to get used to it...
+Huh... excuse me...
+> END STRING
+
+> BEGIN STRING
+ナズナは肩を落として、恥ずかしそうに去っていった…。
+> CONTEXT: Map004/events/9/pages/1/132/Dialogue
+Nazuna dropped her shoulders 
+and went away embarrassed
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+(…まあ、全部嘘なんだから、
+全裸になっても、何の意味もないんだけどね。
+あの恥ずかしそうな顔、傑作だったな！)
+> CONTEXT: Map004/events/9/pages/1/139/Dialogue
+Magic Associate:
+(...Well, it's a complete lie.
+There is no meaning to being naked.
+But that embarrassed face, it was a masterpiece!)
+> END STRING
+
+> BEGIN STRING
+魔法協会員:
+(今回だけでも、相当に協会内での評価を落としてやったぞ。
+くくく、精々何度もチャレンジして、
+恥を上塗りしてくれよ！)
+> CONTEXT: Map004/events/9/pages/1/144/Dialogue
+Magic Associate:
+(She's lost a lot of prestige in the association now.
+Hehe, and she can keep trying this over and over,
+it'll only add onto their embarrassment!)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+（いくらなんでも、裸で戦うなんて、どうかしてる。
+できるわけ、ない…。）
+> CONTEXT: Map004/events/9/pages/1/158/Dialogue
+Nazuna:
+(No matter how you look at it,
+there's something wrong about fighting naked.
+There's probably an ulterior motive...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+さっきは、準備が足りなかった…。
+今回は勝つ。
+> CONTEXT: Map004/events/9/pages/1/168/Dialogue
+Nazuna:
+I wasn't prepared last time...
+This time, I'll win.
+> END STRING
+
+> BEGIN STRING
+魔物:
+ほほう、あんな目にあわされて、
+まだ立ち向かってくるとはな。
+面白い。
+> CONTEXT: Map004/events/9/pages/1/173/Dialogue
+Demon:
+Hohou, despite what happened,
+you're still challenging me.
+Interesting.
+> END STRING
+
+> BEGIN STRING
+魔物:
+今度も全校生徒の前で水着を脱がせてやる！
+また、素っ裸でテレビに出れるなぁ？
+> CONTEXT: Map004/events/9/pages/1/178/Dialogue
+Demon:
+This time I'll remove your swimsuit
+in front of all the students!
+I wonder..., will you appear on TV naked?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ううっ…！
+> CONTEXT: Map004/events/9/pages/1/183/Dialogue
+Nazuna:
+Uuu....!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ち、挑発には乗らない。
+早く戦う…、今度は負けない。
+> CONTEXT: Map004/events/9/pages/1/188/Dialogue
+Nazuna:
+Tch, I won't give in to your threats.
+This time, I'll quickly finish the fight.
+> END STRING
+
+> BEGIN STRING
+イベントを飛ばしますか？
+> CONTEXT: Map004/events/9/pages/1/212/Dialogue
+> CONTEXT: Map004/events/50/pages/0/1/Dialogue
+Skip the event?
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Map004/events/9/pages/1/214/Choice/0
+> CONTEXT: Map004/events/50/pages/0/3/Choice/0
+Yes
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map004/events/9/pages/1/214/Choice/1
+> CONTEXT: Map004/events/50/pages/0/3/Choice/1
+No
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+また部室に入れるようになったよ。
+ありがとう！
+> CONTEXT: Map004/events/9/pages/2/0/Dialogue
+> CONTEXT: Map004/events/12/pages/0/1/Dialogue
+Photography Club:
+I'm able to use the clubroom again.
+Thank you!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+今度、私のこと、勝手に撮ったら…、
+絶対、許しませんから…。
+> CONTEXT: Map004/events/9/pages/2/6/Dialogue
+> CONTEXT: Map004/events/12/pages/0/7/Dialogue
+Nazuna:
+Don't ever record me again...
+I'll never permit it...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+先輩…、私に、何か、言うことないですか…？
+> CONTEXT: Map004/events/12/pages/0/18/Dialogue
+Nazuna:
+Senpai... do you have anything to tell me...?
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+えっ！！？
+あ、あぁ…、酷い事件だったね…。
+あんな映像を、学校中で再生するなんて……。
+> CONTEXT: Map004/events/12/pages/0/22/Dialogue
+Photography Club:
+Oh!!?
+I-It was terrible... terrible indeed...,
+to show such a thing in school!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+じーーーーっ…。
+> CONTEXT: Map004/events/12/pages/0/28/Dialogue
+Nazuna:
+*stares*
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+ま、まあ、待ちなよ…。
+確かに、ナズナちゃんの着替えを盗撮したのは僕だけど、
+1番悪いのは、あれを大勢に公開した、魔物だろ？
+> CONTEXT: Map004/events/12/pages/0/32/Dialogue
+Photography Club:
+W-wait...
+I may have recorded you changing,
+but the demon is worse for playing it, right?
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+全校生徒1000人ぐらいに裸を見られたのは辛いだろうけど、
+怒りの矛先を間違えてはいけない！
+今までは、僕一人で楽しんでたんだから、実害はなかったわけだし…
+> CONTEXT: Map004/events/12/pages/0/37/Dialogue
+Photography Club:
+Having all 1,000 students at this school seeing you naked,
+that's much worse... don't you agree?
+Until now, I was the only one enjoying it... no harm done...
+> END STRING
+
+> BEGIN STRING
+ボゴォ！！
+> CONTEXT: Map004/events/12/pages/0/42/Dialogue
+*smack*
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+がああああああ！？
+> CONTEXT: Map004/events/12/pages/0/44/Dialogue
+Photography Club:
+Gaaaaaaa!?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+最低…！
+ずっと、隠れて、私の裸を見てたなんて！
+> CONTEXT: Map004/events/12/pages/0/48/Dialogue
+Nazuna:
+You're disgusting...!
+To have hid it all this time, 
+and having peeped on me!
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+うぅ…、ごめんなさい……。
+ガクリ…。
+> CONTEXT: Map004/events/12/pages/0/53/Dialogue
+Photography Club:
+I'm so sorry...
+Uwa...
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+はあ…、魔物にアレを奪われるなんて、えらいことになった…。
+もし、あれが流出したら、えらいことに…
+> CONTEXT: Map004/events/12/pages/0/60/Dialogue
+Photography Club:
+Ugh... the demon took that thing...,
+it was so good...
+But if it's leaked, there's gonna be trouble...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+なにか、取られたんですか…？
+もし、私が何とかできるなら……
+> CONTEXT: Map004/events/12/pages/0/66/Dialogue
+Nazuna:
+What was taken...?
+Is there any way I can help?
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+い、いや、いいよ！
+大丈夫、なんでもないから！！
+気にしないで！
+> CONTEXT: Map004/events/12/pages/0/71/Dialogue
+Photography Club:
+N-no, no!
+It's alright!!
+Don't worry about it!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…？
+でも、困ってるんじゃ…？
+> CONTEXT: Map004/events/12/pages/0/77/Dialogue
+Nazuna:
+...?
+Is it really...?
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+た、大したものじゃないから！！
+うん…。
+> CONTEXT: Map004/events/12/pages/0/82/Dialogue
+Photography Club:
+It's really not all that important!
+It's fine...
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+（パソコンの中の、あんな映像…、
+魔物に見つかったのは大問題だけど、この子に見つかるのは、
+それ以上にやばい…！！）
+> CONTEXT: Map004/events/12/pages/0/86/Dialogue
+Photography Club:
+(Such a picture on the PC...,
+It could be a problem if the demon or her find it,
+but who finds it is more dangerous...?)
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+鍵を使っても、部室のドアが開かないんだ。
+まるで、魔法でもかかってるみたいに、
+ビクともしない…。
+> CONTEXT: Map004/events/12/pages/0/95/Dialogue
+Photography Club:
+The door won't open, even with its key.
+It's as if magic is locking it,
+it won't budge an inch...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きっと、中に、魔物がいる…。
+下がってて、先輩…。
+> CONTEXT: Map004/events/12/pages/0/101/Dialogue
+Nazuna:
+Surely the demon must be inside...
+Stand back senpai...
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+ここは写真部の部室だよ。
+> CONTEXT: Map004/events/12/pages/0/108/Dialogue
+Photography Club:
+This is the photography clubroom.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+どうも、先輩…。
+> CONTEXT: Map004/events/12/pages/0/112/Dialogue
+Nazuna:
+Thank you senpai...
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+…。
+> CONTEXT: Map004/events/12/pages/0/116/Dialogue
+Photography Club:
+...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+どうしたんですか…？
+ニヤニヤしてる。
+私の顔、何か、ついてます…？
+> CONTEXT: Map004/events/12/pages/0/120/Dialogue
+Nazuna:
+What happened...?
+Why are you grinning?
+Is there something on my face...?
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+い、いや、なんでもないよ…。
+えへへ…。
+> CONTEXT: Map004/events/12/pages/0/126/Dialogue
+Photography Club:
+No no no, you're fine...
+Ehehe...
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+ナズナ、がんばってね。
+> CONTEXT: Map004/events/15/pages/1/0/Dialogue
+Schoolgirl:
+Nazuna, try your best!
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+よかったね、ナズナちゃん！
+応援してたよ～。
+> CONTEXT: Map004/events/19/pages/1/1/Dialogue
+Schoolgirl:
+Good job out there Nazuna!
+I supported you all the way~.
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+制服着れるの、うれしい…。
+えへへ。
+> CONTEXT: Map004/events/19/pages/1/6/Dialogue
+Nazuna:
+It's nice to be wearing a uniform again.
+Ehehe.
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+ナズナちゃん肌きれいだし顔もかわいいんだから、
+胸の大きさなんて気にすることないのに～！
+> CONTEXT: Map004/events/19/pages/1/14/Dialogue
+Schoolgirl:
+Your skin is so beautiful, and a cute face too.
+Your chest... well, I don't mind it!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+そんなフォロー、いらない………。
+> CONTEXT: Map004/events/19/pages/1/19/Dialogue
+Nazuna:
+I didn't need that follow-up..........
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+大丈夫だった？
+女の子を人前で裸にするなんて、ひどい！！
+> CONTEXT: Map004/events/19/pages/1/26/Dialogue
+Schoolgirl:
+Are you alright?
+It must be terrible to be naked in public!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+恥ずかしかった…。
+う、うぅぅ～～…っ！
+> CONTEXT: Map004/events/19/pages/1/31/Dialogue
+Nazuna:
+It was super embarrassing...
+Uuuu~~!
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+ぷ、プールの授業が、ちょっと長引いてると思えば…。
+> CONTEXT: Map004/events/19/pages/1/39/Dialogue
+Schoolgirl:
+I think swim class might be extended now...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+思えないよぉ…。
+> CONTEXT: Map004/events/19/pages/1/43/Dialogue
+Nazuna:
+I don't think so...
+> END STRING
+
+> BEGIN STRING
+女子生徒：
+ナズナちゃん、あんなに怖い魔物と戦ってて、すごいね～！
+みんな、ナズナちゃんのこと尊敬してるんだよ！
+> CONTEXT: Map004/events/19/pages/1/49/Dialogue
+Schoolgirl:
+Wow, you've fought so many scary monsters~!
+Everyone respects you!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ぅ…そ、そう？
+照れちゃう…。
+> CONTEXT: Map004/events/19/pages/1/54/Dialogue
+Nazuna:
+I-Is that so?
+That's... nice.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あんなに強そうな魔物に勝つなんて、
+やっぱり九輪さんは違うぜ！
+> CONTEXT: Map004/events/26/pages/1/1/Dialogue
+Male Student:
+The demon seemed to be strong,
+but you're stronger!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+当然…、当たり前。
+私に勝てる魔物なんか、いない…。
+> CONTEXT: Map004/events/26/pages/1/6/Dialogue
+Nazuna:
+It's only natural...
+There isn't a demon who can defeat me...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(その割には、負けて素っ裸に剥かれて、
+テレビやネットで晒されまくって、
+散々だった気がするけど…。)
+> CONTEXT: Map004/events/26/pages/1/12/Dialogue
+Male Student:
+(Though she did lose and was naked.
+It's everywhere on TV and the net,
+I kinda feel bad for her...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…なんか文句ある？
+> CONTEXT: Map004/events/26/pages/1/18/Dialogue
+Nazuna:
+...Did you say something?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+…いえ、ないです……。
+> CONTEXT: Map004/events/26/pages/1/22/Dialogue
+Male Student:
+...N-no... I didn't say anything...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+九輪さん、胸が小さいの、気にしてたんだな。
+あの大きさがいいのに。
+> CONTEXT: Map004/events/26/pages/1/30/Dialogue
+Male Student:
+Nazuna's chest is small, not that I mind.
+I actually think it's a good size.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+アソコに毛が生えてないのがコンプレックスらしいけど、
+綺麗な一本スジ、俺は大好きだぜ。
+> CONTEXT: Map004/events/26/pages/1/34/Dialogue
+Male Student:
+She's worried about hair not growing there,
+but I prefer seeing those clean lips.
+> END STRING
+
+> BEGIN STRING
+わいわい…
+> CONTEXT: Map004/events/26/pages/1/38/Dialogue
+*talking*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……〜〜〜……っ……！！
+わ、私の裸の話題で…、
+クラスの男子が、盛り上がってるっ…！！
+> CONTEXT: Map004/events/26/pages/1/41/Dialogue
+Nazuna:
+.....~~~.........!!
+They're talking about me naked...,
+The boys are too excited...!!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+見ろよ、この乳首…、
+ピンクで、ツンと上向いてて…。
+> CONTEXT: Map004/events/26/pages/1/51/Dialogue
+Male Student:
+Look at her nipple...,
+it's so pink, and standing up...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+げへへ…、たまんねえ。
+九輪さんの敗北動画、たくさんネットに上がってるもんな。
+> CONTEXT: Map004/events/26/pages/1/55/Dialogue
+Male Student:
+Squee..., I have to find all of them.
+Nazuna's defeat is everywhere on the net.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+テレビカメラ以外にも、結構な数の生徒が、
+こっそり撮影して投稿してるみたいだぜ。
+全部探し出して保存しとかないと…。
+> CONTEXT: Map004/events/26/pages/1/59/Dialogue
+Male Student:
+Students captured it as well as the TV,
+they secretly recorded and want to contribute.
+I have to collect them all...
+> END STRING
+
+> BEGIN STRING
+バチッ！
+バチッ！！
+> CONTEXT: Map004/events/26/pages/1/70/Dialogue
+*smack*
+*smack*
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ギャッ！！？
+い、いつの間に背後に…。
+> CONTEXT: Map004/events/26/pages/1/73/Dialogue
+Male Student:
+Gyaa!!?
+W-when did you get here...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+痛い！
+ごめんなさい、九輪さん！！
+> CONTEXT: Map004/events/26/pages/1/77/Dialogue
+Male Student:
+Ouch!
+Sorry Nazuna!!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+う〜ん、教室で水着というアンバランスさが、また…。
+> CONTEXT: Map004/events/26/pages/1/84/Dialogue
+Male Student:
+U~n, it's unusual to see a
+school swimsuit in the classroom...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+情けない…、この私が、
+水着でうろつき回らなきゃ、
+いけないなんて…。
+> CONTEXT: Map004/events/26/pages/1/88/Dialogue
+Nazuna:
+It's so shameful... walking around in a swimsuit.
+This isn't good...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+やあ、九輪さん。
+最近、魔物の出現が多いね。
+ちゃんと休めてる？
+> CONTEXT: Map004/events/26/pages/1/96/Dialogue
+Male Student:
+Hello Nazuna.
+There have been a lot of demons lately.
+Are you resting properly?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あの程度、1日何匹戦っても、大したことない…。
+余裕。
+> CONTEXT: Map004/events/26/pages/1/102/Dialogue
+Nazuna:
+It's not a serious problem,
+there are only a few every day.
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+よかったね、魔物を倒せて…。
+これで平和が戻ってきたよ。
+> CONTEXT: Map004/events/28/pages/1/1/Dialogue
+Male Student:
+This is good, the demon has been defeated.
+Peace has returned.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うん…、これで、元通り。
+恥ずかしいことも、もう、ない…。
+> CONTEXT: Map004/events/28/pages/1/7/Dialogue
+Nazuna:
+Yeah... and back with my uniform.
+There's nothing shameful about it...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(…まあ、九輪さんの全裸映像は、
+きっちり録画してあるけどね…。
+本人の前では、絶対言えないけど。)
+> CONTEXT: Map004/events/28/pages/1/12/Dialogue
+Male Student:
+(...But, I got all her nudes,
+I'm keeping them very close...
+But I can't say that while she's around.)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+？
+顔がニヤけてる…。
+> CONTEXT: Map004/events/28/pages/1/18/Dialogue
+Nazuna:
+?
+He's grinning...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+や、やぁ、九輪さん…。
+機嫌悪そうだね。
+> CONTEXT: Map004/events/28/pages/1/33/Dialogue
+Male Student:
+A-ah, Nazuna...
+you seem to be in a bad mood.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いいわけ、ない…。
+…み、見た？
+私の、き、着替える、映像…。
+> CONTEXT: Map004/events/28/pages/1/38/Dialogue
+Nazuna:
+It should be obvious why...
+...you saw it, didn't you?
+My video... me changing...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うっ…、え〜…と、ちょっとだけ…
+> CONTEXT: Map004/events/28/pages/1/44/Dialogue
+Male Student:
+Uue~...... maybe a little bit.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…………！！
+聞かなきゃよかった…、うぅ、
+分かってたのに…。
+> CONTEXT: Map004/events/28/pages/1/48/Dialogue
+Nazuna:
+...........!!
+Uu.... I wish I didn't hear that...
+But I already knew...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(九輪さんのおっぱい…、お尻、アソコ…、
+ぜ、全部見ちゃったよ。
+今でも勃起が収まらない…。)
+> CONTEXT: Map004/events/28/pages/1/57/Dialogue
+Male Student:
+(Nazuna's tits... ass...
+I saw all of it.
+I'm still hard remembering it...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+へ、変な目で見ないで…。
+うぅ〜……。
+> CONTEXT: Map004/events/28/pages/1/63/Dialogue
+Nazuna:
+Eeh, I should avoid eye contact...
+Uu~........
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+(学園一の美少女の、水着姿…。
+水泳の授業は男女別だから、
+初めて見れるよ…。)
+> CONTEXT: Map004/events/28/pages/1/71/Dialogue
+Male Student:
+(The prettiest girl in our school in her swimsuit...
+Since swimming lessons are separated by sex,
+this is the first time I've seen one...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(うぅ…、スクール水着とはいえ、男の人の前で、
+こんなに肌を出すの、初めて…。)
+> CONTEXT: Map004/events/28/pages/1/77/Dialogue
+Nazuna:
+(Uu... being in a swimsuit infront of boys,
+I've never shown so much skin before...)
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+あっ、九輪さん。
+今日も、見事な戦いだったよ。
+魔法が使えるって、羨ましいなぁ。
+> CONTEXT: Map004/events/28/pages/1/84/Dialogue
+Male Student:
+Ah, Nazuna.
+That was a great fight today.
+I'm jealous of your magic.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ありがとう…。
+私の魔法は、攻撃と回復しかできないから…、
+日常生活では、あんまり役には立たないよ。
+> CONTEXT: Map004/events/28/pages/1/90/Dialogue
+Nazuna:
+Thank you...
+My magic is only good for attacking and recovering.
+In everyday life, it's not very useful.
+> END STRING
+
+> BEGIN STRING
+男子生徒：
+ど、どうも、九輪さん…。
+ふひひ…。
+> CONTEXT: Map004/events/35/pages/1/0/Dialogue
+Male Student:
+H-hello Nazuna...
+Fuhihi...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+他のクラスには、用事、ない…。
+> CONTEXT: Map004/events/41/pages/0/0/Dialogue
+> CONTEXT: Map004/events/42/pages/0/0/Dialogue
+> CONTEXT: Map004/events/43/pages/0/0/Dialogue
+Nazuna:
+I don't have business with the other classes
+> END STRING
+
+> BEGIN STRING
+『週間魔法使い』
+> CONTEXT: Map004/events/44/pages/0/0/Dialogue
+『The Weekly Witch』
+> END STRING
+
+> BEGIN STRING
+6ヶ月連続人気ナンバー1！
+美少女魔法使い九輪ナズナちゃんのプライベートに密着！！
+> CONTEXT: Map004/events/44/pages/0/2/Dialogue
+The no. 1 most popular for 6 months
+The beautiful witch Nazuna remains to herself
+> END STRING
+
+> BEGIN STRING
+火寄町に現れた最強の魔物！
+九輪ナズナちゃんの戦闘の様子を激写！！
+> CONTEXT: Map004/events/44/pages/0/5/Dialogue
+A strong demon has appeared in town!
+Nazuna's battle will be hard to capture!!
+> END STRING
+
+> BEGIN STRING
+君も魔法使いになれる！
+ナズナちゃんの魔術修行メニューを入手…
+> CONTEXT: Map004/events/44/pages/0/8/Dialogue
+You can become a witch too!
+Just follow Nazuna's training...
+> END STRING
+
+> BEGIN STRING
+『モコモコ動画』
+> CONTEXT: Map004/events/45/pages/0/0/Dialogue
+> CONTEXT: Map004/events/45/pages/1/0/Dialogue
+> CONTEXT: Map004/events/45/pages/2/0/Dialogue
+> CONTEXT: Map004/events/45/pages/3/0/Dialogue
+『MokoMokoDouga』
+> END STRING
+
+> BEGIN STRING
+視聴者数一位：899987回再生
+火寄学園2年C組　九輪ナズナちゃんの戦闘映像
+> CONTEXT: Map004/events/45/pages/0/3/Dialogue
+Nazuna of class 2-C fighting
+Views: 899987
+> END STRING
+
+> BEGIN STRING
+『超かわいい！！』
+『パンツ見えない…』
+『ナズナちゃんペロペロ』
+…
+> CONTEXT: Map004/events/45/pages/0/6/Dialogue
+『She's so cute!!』
+『I can't see her panties...』
+『I WANT TO LICK NAZUNA』
+...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ネットって、嫌い…。
+うちの学園の生徒が、撮ったのかな、これ…。
+> CONTEXT: Map004/events/45/pages/0/12/Dialogue
+Nazuna:
+The internet is awful...
+I wonder if someone from here took this video...
+> END STRING
+
+> BEGIN STRING
+視聴者数一位：1468890回再生
+永久保存版！火寄学園2年C組　九輪ナズナちゃんのスク水姿！！
+> CONTEXT: Map004/events/45/pages/1/3/Dialogue
+Nazuna of class 2-C fights in school swimsuit
+Views: 1468890
+> END STRING
+
+> BEGIN STRING
+『おっぱい小さい　かわいい』
+『1000万回抜いた』
+『乳首浮いてない？』
+…
+> CONTEXT: Map004/events/45/pages/1/6/Dialogue
+『Her small boobs are cute』
+『I've fapped to this over 1000 million times』
+『Can you see her tit?』
+...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+あぅぅ～…、ネットにも、上がっちゃってる…。
+一回流れちゃうと、消せないのにぃ…。
+> CONTEXT: Map004/events/45/pages/1/12/Dialogue
+Nazuna:
+Aaa~... I can't believe that fight is online...
+You can't delete it once it's on the net...
+> END STRING
+
+> BEGIN STRING
+視聴者数一位：20326488回再生
+火寄学園2年C組　九輪ナズナちゃん敗北！！無修正で全裸公開！
+> CONTEXT: Map004/events/45/pages/2/3/Dialogue
+Nazuna of class 2-C defeated!! Naked and uncensored!
+Views: 20326488
+> END STRING
+
+> BEGIN STRING
+『画質いいな、マ○コはっきり見える』
+『消される前に保存しとこ』
+『ナズナちゃんのおっぱい見ちゃった…』
+…
+> CONTEXT: Map004/events/45/pages/2/6/Dialogue
+『Great video quality! Her pussy is so clear』
+『Save it before it's deleted』
+『I love looking at her boobs』
+...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ああああっ…！
+さ、削除申請、しなきゃ…。
+うぅ、何この再生数…！
+> CONTEXT: Map004/events/45/pages/2/12/Dialogue
+Nazuna:
+Aaaaaaaahh...!
+I need to delete this video...
+Aah... What's with this viewer count...!
+> END STRING
+
+> BEGIN STRING
+視聴者数一位：46783004回再生
+火寄学園2年C組　九輪ナズナちゃんの戦闘映像まとめ
+> CONTEXT: Map004/events/45/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『やっぱり制服姿がいい！！』
+『勝ってよかったね』
+『ナズナちゃんかわいすぎる』
+…
+> CONTEXT: Map004/events/45/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+制服の映像、一位になってる…。
+恥ずかしいけど、水着よりは、マシかな…。
+> CONTEXT: Map004/events/45/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『やっぱりスク水がいい！！』
+『もっと負けてほしかった』
+『ナズナちゃんエロすぎる』
+…
+> CONTEXT: Map004/events/45/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ナズナちゃんのお尻！！』
+『肌綺麗だなあ』
+『触りたい…』
+…
+> CONTEXT: Map004/events/45/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『おっぱい！おっぱい！』
+『ナズナちゃん乳首立ってない？』
+『ピンク色でいい乳首してるなあ』
+…
+> CONTEXT: Map004/events/45/pages/3/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『マ○コモロ見え』
+『1000万回抜いたわ』
+『毛が生えてないじゃん』
+…
+> CONTEXT: Map004/events/45/pages/3/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『HD画質でお尻の穴見えてる！』
+『マ○コちょっと開いてるぜ』
+『無修正でこれはまずくないか？』
+…
+> CONTEXT: Map004/events/45/pages/3/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+再生数が異様に多いと思ったら、
+動画の後半…、ずっと、私の裸の映像、ばっかり…。
+> CONTEXT: Map004/events/45/pages/3/76/Dialogue
+Nazuna:
+No wonder why there are so many views,
+the second half are the nudes...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+…制服、着てみたら、どうなるんだろう…。
+> CONTEXT: Map004/events/46/pages/0/1/Dialogue
+Nazuna:
+What will happen if I wear my uniform?
+> END STRING
+
+> BEGIN STRING
+ごそごそ…
+> CONTEXT: Map004/events/46/pages/0/5/Dialogue
+*rustle*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+予備の制服…。
+> CONTEXT: Map004/events/46/pages/0/8/Dialogue
+Nazuna:
+A spare uniform...
+> END STRING
+
+> BEGIN STRING
+ビリビリビリビリ！！
+> CONTEXT: Map004/events/46/pages/0/18/Dialogue
+*rip*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…！
+> CONTEXT: Commonevents/1/186/Dialogue
+> CONTEXT: Map004/events/46/pages/0/23/Dialogue
+Nazuna:
+Kyaa...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+は、弾け飛んじゃった………。
+> CONTEXT: Map004/events/46/pages/0/27/Dialogue
+Nazuna:
+It split open and flew away.........
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+『九輪ナズナさん、執念の勝利！
+魔物に呪いをかけられたナズナさんだが、
+このたび、見事にリベンジに成功し、解呪に成功…』
+> CONTEXT: Map004/events/47/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うん、このぐらいの、好意的な記事なら、
+掲載しても、いい…。
+> CONTEXT: Map004/events/47/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+『なお、敗北時のナズナさんの写真の入手に成功したので、
+以下に掲載する…』
+> CONTEXT: Map004/events/47/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+ナズナさんの着替え映像、誰が撮ったんだろう？
+探し出して、元データ貰えないかな…。
+> CONTEXT: Map004/events/47/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+そんなこと、しちゃ駄目…！
+> CONTEXT: Map004/events/47/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+写真部部長:
+僕も、負けたナズナさんの写真、撮っちゃった。
+記事にしていいかな？
+> CONTEXT: Map004/events/47/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ぜ…絶対だめ！絶対だめ！絶対だめ！！！
+写真も消してぇぇ…！
+> CONTEXT: Map004/events/47/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新聞部部長:
+大スクープだ…。
+写真撮っていい？
+> CONTEXT: Map004/events/47/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+絶対だめ！！
+> CONTEXT: Map004/events/47/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新聞部部長:
+ここは新聞部の部室だよ。
+> CONTEXT: Map004/events/47/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+どうも、先輩…。
+また、私のこと、勝手に記事にしたでしょ。
+いつも、恥ずかしいからやめてって、いってるのに…。
+> CONTEXT: Map004/events/47/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新聞部部長:
+いやあ…、やっぱ、折角同じ学園なんだし、
+記事にしないわけには…。
+> CONTEXT: Map004/events/47/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+新聞部員：
+ナズナさんのことが載ってる週刊誌や新聞を、
+片っ端からコレクションしてるんですよ！
+> CONTEXT: Map004/events/48/pages/0/0/Dialogue
+Newspaper Club Member:
+You've been on the papers a lot Nazuna,
+there's so much on you!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+やっぱり九輪さん、最後は勝ったな。
+彼女に勝てる奴なんて、地球上にいないぜ。
+> CONTEXT: Map004/events/49/pages/0/1/Dialogue
+Male Student:
+You won after all.
+There isn't a person on earth who can beat you.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+まったくもって、その通り。
+うんうん…。
+> CONTEXT: Map004/events/49/pages/0/6/Dialogue
+Nazuna:
+That's very true.
+Mhmm...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+…まあ、素っ裸でテレビに出されて、
+何もかも全国ネットで公開されて…、
+女の子としては完膚なきまでに負け越しだな。
+> CONTEXT: Map004/events/49/pages/0/12/Dialogue
+Male Student:
+...Though you did appear naked on TV,
+shown to the whole country and net.
+To have that loss break your streak.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……………。
+> CONTEXT: Map004/events/49/pages/0/18/Dialogue
+Nazuna:
+..............
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+九輪さんが、スク水を脱いで全裸になって、
+服を着るまでの一部始終の映像なんて…、100万出しても見れないぜ。
+ものすごいラッキーだったなあ。
+> CONTEXT: Map004/events/49/pages/0/27/Dialogue
+Male Student:
+Nazuna took off her swimsuit and was naked,
+Millions of photos of her with and without clothes
+It's such a good day!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+私…、本当に大変なもの、見せちゃった…。
+裸…、全部、隅々までっ…、それも、学園の男の子、全員に…！
+じっくり…、たっぷり、長時間…！
+> CONTEXT: Map004/events/49/pages/0/33/Dialogue
+Nazuna:
+I... can't believe... it was shown...
+Naked... every boy saw every corner... me, naked...!
+Slowly... and carefully... for so long...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+水着姿よりすごいの見ちゃった。
+テレビにも出てる超絶美少女の全裸…、
+目に焼き付いたぜ！
+> CONTEXT: Map004/events/49/pages/0/42/Dialogue
+Male Student:
+This was even better than her swimsuit.
+She was completely naked... on TV!
+It's burned into my eyes!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くぅ…、学園の男子に、裸、見られるなんて…。
+さ、最悪っ…！
+> CONTEXT: Map004/events/49/pages/0/48/Dialogue
+Nazuna:
+Kuu... for all the boys to see me naked...
+T-this is the worst...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+はぁはぁ…、身体にぴっちり張り付いて…、
+間近で、こんなの見れるなんて…。
+> CONTEXT: Map004/events/49/pages/0/56/Dialogue
+Male Student:
+*pant* *pant* 
+It's on tight...
+to be able to see it this close...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(これ…、普通のスクール水着より、
+明らかに、生地が薄い…！
+恥ずかしい…、身体のラインが丸見え…。)
+> CONTEXT: Map004/events/49/pages/0/61/Dialogue
+Nazuna:
+(This... isn't our normal school swimsuit,
+The fabric is very thin...!
+So embarrassing... my body line is so visible...)
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+九輪さん、今日もクールでかわいいなぁ…。
+> CONTEXT: Map004/events/49/pages/0/69/Dialogue
+Male Student:
+Nazuna, you're looking pretty today...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+学園、居づらくなっちゃった…。
+うぅ…、早くあの魔物、倒さないと…。
+> CONTEXT: Map004/events/50/pages/0/22/Dialogue
+Nazuna:
+It's becoming harder to stay in school
+Uu..., I need to beat that demon, fast...
+> END STRING

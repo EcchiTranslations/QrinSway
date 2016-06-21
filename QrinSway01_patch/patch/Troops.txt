@@ -1,0 +1,1233 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+魔物
+> CONTEXT: Troops/1/name/
+> CONTEXT: Troops/4/name/
+> CONTEXT: Enemies/1/name/
+> CONTEXT: Enemies/2/name/
+> CONTEXT: Enemies/4/name/
+Demon
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+すぐに、終わらせる…。
+覚悟して。
+> CONTEXT: Troops/1/pages/0/2/Dialogue
+Nazuna:
+Let's finish this now...
+Pepare!
+> END STRING
+
+> BEGIN STRING
+魔物は呪文をつぶやいている…
+> CONTEXT: Troops/1/pages/1/1/Dialogue
+The demon murmurs an incantation...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+むっ…、魔力が高まってる。
+早めに倒さないと…
+> CONTEXT: Troops/1/pages/1/4/Dialogue
+Nazuna:
+...His powers are increasing.
+I have to defeat him quickly...
+> END STRING
+
+> BEGIN STRING
+魔物:
+ばかめ！
+もう遅いわ！！
+> CONTEXT: Troops/1/pages/1/8/Dialogue
+Demon:
+Fool!
+You're too late!!
+> END STRING
+
+> BEGIN STRING
+魔物の手から放たれた魔法が、
+周囲を闇に染める！
+> CONTEXT: Troops/1/pages/1/12/Dialogue
+Magic emitted from the demon's hand,
+the world was blanketed in darkness
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+うっ…！
+> CONTEXT: Troops/1/pages/1/16/Dialogue
+Nazuna:
+Uu...!
+> END STRING
+
+> BEGIN STRING
+闇が晴れ、
+奪われた視界が元に戻る…。
+> CONTEXT: Troops/1/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(今のはいったい、
+何の魔法…？
+ダメージは受けていない…)
+> CONTEXT: Troops/1/pages/1/24/Dialogue
+Nazuna:
+(What on earth?
+What magic was that?
+It didn't hurt...)
+> END STRING
+
+> BEGIN STRING
+ざわざわ…
+> CONTEXT: Troops/1/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……。
+> CONTEXT: Troops/1/pages/1/32/Dialogue
+> CONTEXT: Commonevents/34/234/Dialogue
+Nazuna:
+.............
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+えっ…！？
+え！？えええっ！！？
+> CONTEXT: Troops/1/pages/1/39/Dialogue
+Nazuna:
+Eh....!?
+Eh!? Eeeeeh!!?
+> END STRING
+
+> BEGIN STRING
+魔物:
+ハハハ、それは呪いの服だ！
+俺の魔法は、他人の服を強制的に着せ替えてしまうのだ。
+> CONTEXT: Troops/1/pages/1/43/Dialogue
+Demon:
+Hehehe, it's a clothing spell!
+My magic forcibly changes someone else's clothes.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+こ、これ、呪いの服…！？
+どう見ても、す、すく……
+> CONTEXT: Troops/1/pages/1/47/Dialogue
+Nazuna:
+A... clothing spell...?
+That's an unusual one...
+> END STRING
+
+> BEGIN STRING
+報道陣:
+なんと、魔物が魔法を放った途端、
+ナズナさんの服が、
+スクール水着に…！
+> CONTEXT: Troops/1/pages/1/51/Dialogue
+Reporter:
+The demon cast his spell,
+and Nazuna's outfit changed,
+into a school swimsuit...!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+魔物いわく、呪いの服だそうです！
+しかし、似合っていますねー、
+スクール水着！！
+> CONTEXT: Troops/1/pages/1/56/Dialogue
+Reporter:
+It seems the demon can change clothes.
+However, it's very fitting,
+a school swimsuit!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ひゃっ！？
+と、と、撮っちゃ駄目！！
+こんな格好…！
+> CONTEXT: Troops/1/pages/1/64/Dialogue
+Nazuna:
+Hiya!?
+D-don't record me!!
+Looking like this...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+ちなみに、呪いの服は、
+脱ぐことはできても、着替えることはできんからな。
+お前はもう、他の服を着れないというわけだ。
+> CONTEXT: Troops/1/pages/1/69/Dialogue
+Demon:
+By the way, the clothes are cursed.
+You can take it off, but you can't change your clothes.
+You can't wear any other clothes from now on.
+> END STRING
+
+> BEGIN STRING
+魔物:
+今日のところは、挨拶代わりだ！
+次は倒すまでやるからな。
+> CONTEXT: Troops/1/pages/1/74/Dialogue
+Demon:
+Now, take this as my greeting gift!
+I will study until your next defeat.
+> END STRING
+
+> BEGIN STRING
+魔物は好き勝手にまくし立てると、
+ナズナを置いて、
+飛び去っていった…。
+> CONTEXT: Troops/1/pages/1/78/Dialogue
+As the demon was talking,
+he flew away from Nazuna...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、ちょっと、待っ……。
+> CONTEXT: Troops/1/pages/1/83/Dialogue
+Nazuna:
+Ah, hold on a sec...
+> END STRING
+
+> BEGIN STRING
+魔物2
+> CONTEXT: Troops/2/name/
+Demon 2
+> END STRING
+
+> BEGIN STRING
+変態
+> CONTEXT: Troops/3/name/
+> CONTEXT: Enemies/3/name/
+Pervert
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+な、何…、
+なんでっ、なんで、なんでぇぇ！？
+> CONTEXT: Troops/3/pages/0/2/Dialogue
+Nazuna:
+Wh-what...,
+why, why, why!?
+> END STRING
+
+> BEGIN STRING
+変態：
+はぁはぁ…、ナズナちゃんが悪いんだからね。
+そんなエッチな格好で町中歩き回ってるんだから…。
+> CONTEXT: Troops/3/pages/0/6/Dialogue
+Pervert:
+*pant* *pant* ...because you're naughty.
+Walking around town with such a lewd look.
+> END STRING
+
+> BEGIN STRING
+変態：
+こうなったらもう、
+この場で僕の欲望を受け止めてもらうしかない！
+はぁはぁはぁはぁ…！
+> CONTEXT: Troops/3/pages/0/10/Dialogue
+Pervert:
+So it's come to this,
+I need to take you with me!
+*pant* *pant* *pant* *pant*!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ひぃぃぃっ…！
+き、気持ち悪い！！
+変態、変態っ！！！
+> CONTEXT: Troops/3/pages/0/16/Dialogue
+Nazuna:
+Hee...!
+I have a bad feeling about this!!
+Pervert! Pervert!!!
+> END STRING
+
+> BEGIN STRING
+がやがや…
+> CONTEXT: Troops/3/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+うわっ、ナズナちゃんが脱がされてる。
+いいぞー、そこの奴！
+もっとやれー！脚開かせろー！
+> CONTEXT: Troops/3/pages/0/23/Dialogue
+Passerby:
+Uwa, Nazuna is undressed.
+You, good job!
+More! Spread her legs open!
+> END STRING
+
+> BEGIN STRING
+通行人：
+写真撮っちゃおうぜ！
+こっち向いてー！ナズナちゃーん！！
+> CONTEXT: Troops/3/pages/0/28/Dialogue
+Passerby:
+I need to take a photo!
+Nazuna, look over here!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+や、やああああっ…！？
+> CONTEXT: Troops/3/pages/0/36/Dialogue
+Nazuna:
+Hiyaaaaaa...!?
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+（ありえないっ…、街中で、こんなの！！
+に、逃げなきゃ！！）
+> CONTEXT: Troops/3/pages/1/3/Dialogue
+Nazuna:
+(Unbelievable... in downtown... like this!!
+I-I need to run away!!)
+> END STRING
+
+> BEGIN STRING
+変態：
+ま、待ってよ…、うひひ。
+お尻向けて、どこに行くのかな？…っと！
+> CONTEXT: Troops/3/pages/1/7/Dialogue
+Pervert:
+Oh ho, wait.
+You're turning your ass around,
+where do you think you're going?
+> END STRING
+
+> BEGIN STRING
+ぺチン！
+> CONTEXT: Troops/3/pages/1/12/Dialogue
+*touch*
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ぴゃ…ひぃぃぃっ！！？
+> CONTEXT: Troops/3/pages/1/18/Dialogue
+Nazuna:
+Pya... hiiiii!!?
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+（お尻っ…！！
+お尻、叩かれた…、触られた！！
+パンツも履いてないお尻を、直接…！！）
+> CONTEXT: Troops/3/pages/1/23/Dialogue
+Nazuna:
+(My butt...!!
+M-my b-butt... he touched it!!
+Without any panties on...!!)
+> END STRING
+
+> BEGIN STRING
+変態：
+ひひひ、柔らかいお尻だったなぁ。
+張りもあって、美尻だねぇ、ナズナちゃん！
+> CONTEXT: Troops/3/pages/1/28/Dialogue
+Pervert:
+Hehehe, your ass is so soft.
+It's a little tense too, it's so beautiful Nazuna!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+あぅ…、う……っ！！
+> CONTEXT: Troops/3/pages/1/36/Dialogue
+Nazuna:
+Au...u....!!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+はひ、はひっ…！
+はやく、倒さなきゃ…！
+終わらせなきゃ、町中の人に、見られちゃうぅ…！
+> CONTEXT: Troops/3/pages/2/2/Dialogue
+Nazuna:
+Ah... ue....!
+I need to beat him...!
+If I dont, everyone here will see...!
+> END STRING
+
+> BEGIN STRING
+変態：
+隙ありっ！！
+> CONTEXT: Troops/3/pages/2/7/Dialogue
+> CONTEXT: Troops/3/pages/3/6/Dialogue
+Pervert:
+Now's my chance!!
+> END STRING
+
+> BEGIN STRING
+むにゅっ…
+> CONTEXT: Troops/3/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ああああああああああーーーっ！！
+> CONTEXT: Troops/3/pages/2/17/Dialogue
+Nazuna:
+Aaaaaaaa~~~!!
+> END STRING
+
+> BEGIN STRING
+むにゅむにゅむにゅむにゅ…
+> CONTEXT: Troops/3/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+きゃーーーっ！！きゃーーーーー！！！！
+触っちゃ駄目！！
+揉まなっ…、あっ、あぁんっ…！
+> CONTEXT: Troops/3/pages/2/23/Dialogue
+Nazuna:
+Kya~~!! Kya~~~~~!!!!
+Don't touch them!!
+D-don... aaah...!
+> END STRING
+
+> BEGIN STRING
+通行人：
+見ろよ、ナズナちゃんおっぱい揉まれてる！
+乳首も弄られてるなぁ…、羨ましい～！
+> CONTEXT: Troops/3/pages/2/28/Dialogue
+Passerby:
+Look, he's rubbing Nazuna's breasts!
+He's playing with her nipples..., I'm jealous~!
+> END STRING
+
+> BEGIN STRING
+通行人：
+かわいいあえぎ声だねぇ。
+乳首摘まれるたびに漏れて…、
+うっ、興奮してきた…。
+> CONTEXT: Troops/3/pages/2/32/Dialogue
+Passerby:
+Her panting is so cute.
+Every time he pinches her tits...,
+she gets so excited...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+放してぇ！
+あぅ、や、やぁぁ…っ！
+> CONTEXT: Troops/3/pages/2/40/Dialogue
+Nazuna:
+Let me go!
+Auya, yaaa...!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+うぅ…、恥ずかしい、恥ずかしすぎるっ…！！
+こんなの、耐えられないっ…！
+> CONTEXT: Troops/3/pages/3/2/Dialogue
+Nazuna:
+Uu..., so embarrassing, too embarrassing...!!
+I c-can't endure this
+> END STRING
+
+> BEGIN STRING
+がしっ！
+> CONTEXT: Troops/3/pages/3/9/Dialogue
+> CONTEXT: Troops/4/pages/2/31/Dialogue
+> CONTEXT: Troops/4/pages/3/43/Dialogue
+> CONTEXT: Commonevents/1/183/Dialogue
+*grab*
+> END STRING
+
+> BEGIN STRING
+ずるずる…
+> CONTEXT: Troops/3/pages/3/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+変態はナズナの水着を足から抜き去り、
+完全に全裸にしてしまった…
+> CONTEXT: Troops/3/pages/3/18/Dialogue
+The pervert removed Nazuna's swimsuit through her feet,
+she's now completely naked...
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+いやぁああっ！！
+返して！
+返してよぉ！！
+> CONTEXT: Troops/3/pages/3/22/Dialogue
+Nazuna:
+Iyaaa!!
+Give it back!
+Give it back!!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+……あっ！！
+> CONTEXT: Troops/3/pages/3/28/Dialogue
+Nazuna:
+.....Ah!!
+> END STRING
+
+> BEGIN STRING
+どてっ
+> CONTEXT: Troops/3/pages/3/31/Dialogue
+*crash*
+> END STRING
+
+> BEGIN STRING
+ナズナは転んでしまった！
+> CONTEXT: Troops/3/pages/3/33/Dialogue
+Nazuna fell down!
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+あいたた…
+> CONTEXT: Troops/3/pages/3/37/Dialogue
+Nazuna:
+Ouch...
+> END STRING
+
+> BEGIN STRING
+通行人：
+うわっ、足をあんなに開いちゃって…。
+モロだぜ、モロ！
+> CONTEXT: Troops/3/pages/3/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通行人：
+肛門まで見えるじゃん。
+一生もののラッキーショットだな、こりゃ！
+う～ん、かわいいオマ○コ…。
+> CONTEXT: Troops/3/pages/3/44/Dialogue
+Passerby:
+Look at her anus.
+This is a lucky shot, once in a lifetime!
+U~u, and a cute pussy
+> END STRING
+
+> BEGIN STRING
+ナズナ：
+ひっ…あっ！！
+あ”ひっ…、あわ、あっ、あっ、あっ……。
+> CONTEXT: Troops/3/pages/3/53/Dialogue
+Nazuna:
+Aah... aa!!
+Ahi... awa... ah, ah, ah......
+> END STRING
+
+> BEGIN STRING
+ナズナは恥ずかしさの限界を超えてしまい、
+その場で硬直してしまった…。
+> CONTEXT: Troops/3/pages/3/57/Dialogue
+Nazuna had exceeded her embarrassment limit,
+she became stiff on the spot...
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうした？戦わないのか？
+もう、勝つのは諦めたから、許して貰いたいのかな？
+> CONTEXT: Troops/4/pages/0/2/Dialogue
+Demon:
+What's wrong? Don't you want to fight?
+Have you given up on winning?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(みんなが見てる…。
+でも、嫌だけど、こんな卑怯者には、
+負けたくないっ…！！)
+> CONTEXT: Troops/4/pages/0/7/Dialogue
+Nazuna:
+(Everyone is watching...
+It might be unpleasant, but I have to do this.
+I'm not gonna lose...!!)
+> END STRING
+
+> BEGIN STRING
+ぬぎぬぎ…
+> CONTEXT: Troops/4/pages/0/16/Dialogue
+> CONTEXT: Troops/4/pages/0/32/Dialogue
+*undressing*
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+！！！！！？？？
+> CONTEXT: Troops/4/pages/0/18/Dialogue
+Schoolboy:
+!!!!!???
+> END STRING
+
+> BEGIN STRING
+女子生徒:
+やだ…、何やってんの！？
+> CONTEXT: Troops/4/pages/0/21/Dialogue
+Schoolgirl:
+Waah... what are you doing!?
+> END STRING
+
+> BEGIN STRING
+報道陣:
+いったい、何が起こっているのでしょうか！？
+ナズナさん、自ら水着を脱ぎ、全裸になりました！！
+> CONTEXT: Troops/4/pages/0/24/Dialogue
+Reporter:
+What on earth is happening!?
+Nazuna willingly took off her swimsuit,
+and is now completely naked!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くぅぅ…っ！！
+これで、完全に、裸…。
+やぁぁ…、また、見られてるっ…！！
+> CONTEXT: Troops/4/pages/0/35/Dialogue
+Nazuna:
+Kuu...!!
+I-i'm completely naked...
+Se-seen again...!
+> END STRING
+
+> BEGIN STRING
+魔物:
+何をしてるんだ、お前は…？
+> CONTEXT: Troops/4/pages/0/40/Dialogue
+Demon:
+What are you doing...?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+ふ、ふん…！！
+あなたのやり口は、お見通しなんだから！！
+私がここまでするとは、予想できなかった筈…、これで勝てる！！
+> CONTEXT: Troops/4/pages/0/44/Dialogue
+Nazuna:
+Fufu...
+I know your tricks!!
+I couldn't win with it on..., but now I can!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+？
+> CONTEXT: Troops/4/pages/0/49/Dialogue
+Demon:
+?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ、はぁ…。
+> CONTEXT: Troops/4/pages/1/2/Dialogue
+Nazuna:
+A... ah....
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(裸になったから、弱体化はされてない筈だけど…。
+思ってたより、全然、恥ずかしいぃ…！！
+ひ、膝が笑ってる…、肩も、震えてっ…！！)
+> CONTEXT: Troops/4/pages/1/6/Dialogue
+Nazuna:
+(I may be undressed, and can't be weakened...
+But I'm much more embarrassed than I thought...!
+M-my knees are trembling and shoulders shaking...!!)
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、全裸です！
+この格好で戦うつもりでしょうか？
+これからいったい、何が起こるのか…、全て中継します！！
+> CONTEXT: Troops/4/pages/1/11/Dialogue
+Reporter:
+Nazuna is naked!
+Does she really intend to fight like this?
+What happens next...? We must report this!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+撮らないで！！
+違うの…、水着に魔法がかかってるから、
+脱がなきゃいけなくてぇぇ…！
+> CONTEXT: Troops/4/pages/1/20/Dialogue
+Nazuna:
+Don't record this!!
+The swimsuit... disrupts my magic...
+I had to take it off...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+くらくらする…。
+全然、戦闘力に変化を感じられないし…。
+第一、こ、こんな格好じゃ…、やっぱり、まともに、戦えない！！
+> CONTEXT: Troops/4/pages/2/2/Dialogue
+Nazuna:
+I'm feeling dizzy...
+I don't feel any stronger fighting like this...
+With this appearance... I can't fight at all!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+なんだかよく分からんが、
+大勢に裸を見せつけたいのならば、協力してやろう。
+ほれ！
+> CONTEXT: Troops/4/pages/2/7/Dialogue
+Demon:
+I still don't quite understand, but...
+If you enjoy being naked around such a crowd,
+then I will help satisfy your exhibitionism!!
+> END STRING
+
+> BEGIN STRING
+魔物はナズナを男子生徒の集団に向かって
+突き飛ばした！
+> CONTEXT: Troops/4/pages/2/12/Dialogue
+> CONTEXT: Troops/4/pages/3/23/Dialogue
+The demon pushes Nazuna toward a group of schoolboys!
+> END STRING
+
+> BEGIN STRING
+どんっ！
+> CONTEXT: Troops/4/pages/2/19/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/4/pages/3/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…！？
+> CONTEXT: Troops/4/pages/2/22/Dialogue
+Nazuna:
+Kyaa...!?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+危ない、九輪さん！
+> CONTEXT: Troops/4/pages/2/25/Dialogue
+> CONTEXT: Troops/4/pages/3/36/Dialogue
+Schoolboy:
+Watch out Nazuna!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+受け止めてあげるよ！
+> CONTEXT: Troops/4/pages/2/28/Dialogue
+Schoolboy:
+I'll catch you!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ、ありが………
+> CONTEXT: Troops/4/pages/2/34/Dialogue
+Nazuna:
+Th-than-...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うぅっ…、こんなに近くで…。
+> CONTEXT: Troops/4/pages/2/38/Dialogue
+Schoolboy:
+Uwa... it's so close...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ちくび…。
+> CONTEXT: Troops/4/pages/2/41/Dialogue
+Schoolboy:
+Her t-tits...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+……………！
+> CONTEXT: Troops/4/pages/2/48/Dialogue
+Nazuna:
+..............!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(だめだめ、変なこと、考えちゃ…。
+みんな、ただ、応援してくれてるだけ。
+魔物との戦いの最中なのに、いやらしい目なんて、誰もしてないの！)
+> CONTEXT: Troops/4/pages/2/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぁ、はぁ…。はぁ…。
+> CONTEXT: Troops/4/pages/3/2/Dialogue
+Nazuna:
+Haa... Haa... Haa...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(この作戦…、失敗、だったんじゃ…？
+私、脱ぎ損…？
+みんなに裸を見られただけで、なんの意味も…？)
+> CONTEXT: Troops/4/pages/3/6/Dialogue
+Nazuna:
+(This strategy... isn't working...
+I only feel disadvantaged...
+Was there any meaning to being seen naked...?)
+> END STRING
+
+> BEGIN STRING
+かぁぁぁ…
+> CONTEXT: Troops/4/pages/3/12/Dialogue
+> CONTEXT: Commonevents/34/273/Dialogue
+*blush*
+> END STRING
+
+> BEGIN STRING
+冷静になるにつれて、
+ただでさえ赤かったナズナの頬が、
+どんどん赤くなっていく…。
+> CONTEXT: Troops/4/pages/3/14/Dialogue
+As Nazuna calms down,
+her cheeks are red,
+and becoming more and more red...
+> END STRING
+
+> BEGIN STRING
+魔物:
+どうした？
+遠慮するな。
+もっと見て貰いたいんだろ？
+> CONTEXT: Troops/4/pages/3/18/Dialogue
+Demon:
+What's wrong?
+Don't be so modest.
+Do you want to be seen more?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ、や、やめ…！
+> CONTEXT: Troops/4/pages/3/33/Dialogue
+Nazuna:
+Aa... s-stop...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+失敗するとまずいから、
+しゃがんで受け止めるね。
+> CONTEXT: Troops/4/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+……。
+> CONTEXT: Troops/4/pages/3/47/Dialogue
+> CONTEXT: Troops/4/pages/3/74/Dialogue
+Schoolboy:
+........
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+おお…、視界いっぱいに、
+楽園が…。
+> CONTEXT: Troops/4/pages/3/50/Dialogue
+Schoolboy:
+Ooo... this view,
+it's paradise...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+すごい…、鼻血が出てきた…。
+> CONTEXT: Troops/4/pages/3/54/Dialogue
+Schoolboy:
+Great, my nose is bleeding...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あ…、みんな、か、顔、近い！！
+もう大丈夫！！
+はな、放してっ…！！
+> CONTEXT: Troops/4/pages/3/61/Dialogue
+Nazuna:
+Aa..., his face is so close!!
+I'm fine!!
+L-let go...!!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(ま、間近で、見てた…！？
+今…！
+や、やだ、私の、大事なとこ…！！)
+> CONTEXT: Troops/4/pages/3/68/Dialogue
+Nazuna:
+(T-they were that close...!?
+Just now...!
+L-looking at my special place...!!)
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+プリプリだ…。
+> CONTEXT: Troops/4/pages/3/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(なんか、まだ、見られてる気がする…。)
+> CONTEXT: Troops/4/pages/3/81/Dialogue
+Nazuna:
+(It feels like they're still looking...)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(魔物を倒すためならと思ったけど…、
+も、もう無理！！
+やっぱり、裸を見られるのは、嫌！！)
+> CONTEXT: Troops/4/pages/4/2/Dialogue
+Nazuna:
+(I thought this would help defeat him...
+But it's impossible!!
+I hate being seen naked!!)
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(やっぱり着よう…！
+弱体化の魔法も受けるけど、
+これじゃ、余計に戦えない！！)
+> CONTEXT: Troops/4/pages/4/8/Dialogue
+Nazuna:
+(I'll put it on...!
+My magic is only weakening,
+I can't fight like this!!)
+> END STRING
+
+> BEGIN STRING
+ナズナは水着を拾うことにした。
+> CONTEXT: Troops/4/pages/4/13/Dialogue
+Nazuna decided to pick up her swimsuit.
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う〜、情けない…。
+ただ、脱いだだけで終わるなんて！
+私、変態みたい…。
+> CONTEXT: Troops/4/pages/4/15/Dialogue
+Nazuna:
+Uu~, this is awful...
+To give up after taking it off,
+I look like a pervert...!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+なんだ、九輪さん、水着を拾うのか？
+うわ、しゃがんで…、
+モロ見えじゃん！
+> CONTEXT: Troops/4/pages/4/21/Dialogue
+Schoolboy:
+What, Nazuna is picking up her swimsuit?
+Uwa, she's bending over...,
+This is quite a sight!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+びくっ！
+> CONTEXT: Troops/4/pages/4/30/Dialogue
+Nazuna:
+Biku!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(や、やだぁ…っ！！
+そうだ、このポーズ！！
+よりによって、男子たちに、お尻を突き出して…！)
+> CONTEXT: Troops/4/pages/4/34/Dialogue
+Nazuna:
+(Uu... I hate it!!
+This pose...!
+My butt is shown to all the boys...!)
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+お尻の穴まで見えちゃった…。
+全部だよ、全部見えてる！
+> CONTEXT: Troops/4/pages/4/39/Dialogue
+Schoolboy:
+Her anus...
+I can see it, I can see it all!
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うっわ〜、いい位置で見れたな。
+こっち側に立っててよかった〜！
+> CONTEXT: Troops/4/pages/4/43/Dialogue
+Male Student:
+Uwa~, this is a great spot.
+I'm glad I stood on this side!
+> END STRING
+
+> BEGIN STRING
+報道陣:
+ナズナさん、再び水着を拾おうとしたまま、固まっています！
+後ろから撮ると、大変な光景ですね〜！
+もっと近寄ってみましょう…、おお！性器も肛門も、よく見えます！
+> CONTEXT: Troops/4/pages/4/47/Dialogue
+Reporter:
+Nazuna is picking up her swimsuit!
+Get a shot from behind, this is a great view~!
+Look closely...! Her vagina and anus look great!
+> END STRING
+
+> BEGIN STRING
+ナズナはあまりの恥辱に混乱し、
+フリーズしている…
+> CONTEXT: Troops/4/pages/4/52/Dialogue
+The excessive humiliation confuses Nazuna,
+She freezes up...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+(あぁ、やだ…、早く拾わなきゃ、いっぱい、見られちゃう！！
+拾う前に、隠した方がいい…？
+でも、そしたら、すぐ魔物からの攻撃が…、でも……、あわあわ…。)
+> CONTEXT: Troops/4/pages/4/56/Dialogue
+Nazuna:
+(A... I need to get it before they see too much!!
+Should I cover myself before picking it up...?
+But then the demon could attack... but... but...!!)
+> END STRING
+
+> BEGIN STRING
+カシャッ…
+> CONTEXT: Troops/4/pages/4/61/Dialogue
+*click*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！？
+> CONTEXT: Troops/4/pages/4/67/Dialogue
+> CONTEXT: Commonevents/31/45/Dialogue
+Nazuna:
+!!?
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+おい…、誰か、今、撮らなかった？
+九輪さんのアソコ…。
+> CONTEXT: Troops/4/pages/4/71/Dialogue
+Schoolboy:
+Hey..., has someone taken a picture?
+Nazuna's pussy...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+そんなこと、やっていいと思ってんのかよ！
+…や、やっていいなら、俺も撮る！
+> CONTEXT: Troops/4/pages/4/75/Dialogue
+Schoolboy:
+I didn't think of that!
+...If I can, I'll take some pictures too!
+> END STRING
+
+> BEGIN STRING
+カシャカシャ…
+> CONTEXT: Troops/4/pages/4/79/Dialogue
+*click* *click*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+！！！！！？！？？
+な…、と、撮らないで！！
+私、裸で…、裸なのに！！
+> CONTEXT: Troops/4/pages/4/85/Dialogue
+Nazuna:
+!!!!!????
+D-don't t-take pictures!!
+I-I'm naked... naked...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+うわ〜、今日は晴れてるから、
+めちゃくちゃ鮮明に撮れる…。
+これから毎日、いつでも九輪さんのマ○コとアナル、見れるのか…。
+> CONTEXT: Troops/4/pages/4/91/Dialogue
+Schoolboy:
+Wow~, today is so sunny.
+They're coming out so clear...
+We can watch her pussy and asshole everyday now...
+> END STRING
+
+> BEGIN STRING
+男子生徒:
+ど、どけよ！
+俺も九輪さんの後ろに回って…、
+うおお、連写しちゃおう…！
+> CONTEXT: Troops/4/pages/4/96/Dialogue
+Male Student:
+M-Move!
+I'll go behind Nazuna...,
+Oooh, keep shooting...!
+> END STRING
+
+> BEGIN STRING
+カシャカシャカシャカシャ…
+> CONTEXT: Troops/4/pages/4/101/Dialogue
+*click* *click* *click* *click*
+*click* *click* *click* *click*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+いやあああああああっ！？
+みんな…、ひどい！！
+撮らないで！見ないでぇぇ…！！
+> CONTEXT: Troops/4/pages/4/107/Dialogue
+Nazuna:
+Iyaaaaaaaaaa!?
+This... is awful!!
+Stop taking pictures! Don't look...!!
+> END STRING
+
+> BEGIN STRING
+魔物:
+とりあえず、見て欲しくないなら、
+ケツを突き出すのをやめては？
+> CONTEXT: Troops/4/pages/4/113/Dialogue
+Demon:
+If you don't want others to see,
+maybe you should stop pushing out your ass?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+はぅあっ！！？
+> CONTEXT: Troops/4/pages/4/121/Dialogue
+Nazuna:
+Waua!!?
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+う、うぅ…。
+> CONTEXT: Troops/4/pages/4/126/Dialogue
+Nazuna:
+Uu, uu...
+> END STRING
+
+> BEGIN STRING
+魔物:
+オラッ！
+> CONTEXT: Troops/4/pages/4/129/Dialogue
+Demon:
+Hoorah!
+> END STRING
+
+> BEGIN STRING
+ゴツン！
+> CONTEXT: Troops/4/pages/4/132/Dialogue
+*thump*
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+あっ…！
+> CONTEXT: Troops/4/pages/4/138/Dialogue
+Nazuna:
+Aa...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゅう…。
+> CONTEXT: Troops/4/pages/4/142/Dialogue
+Nazuna:
+Kyuu...
+> END STRING
+
+> BEGIN STRING
+ナズナは気絶してしまった…。
+> CONTEXT: Troops/4/pages/4/145/Dialogue
+Nazuna fainted...
+> END STRING
+
+> BEGIN STRING
+魔物:
+なんだったんだ…？
+イジメすぎて、
+精神が崩壊したのか…？
+> CONTEXT: Troops/4/pages/4/147/Dialogue
+Demon:
+Huh...?
+After all that bullying,
+did her spirit collapse...?
+> END STRING
