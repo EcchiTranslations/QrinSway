@@ -1626,15 +1626,6 @@ A spare uniform...
 
 > BEGIN STRING
 ナズナ:
-きゃ…！
-> CONTEXT: Commonevents/1/186/Dialogue
-> CONTEXT: Map004/events/46/pages/0/23/Dialogue
-Nazuna:
-Kyaa...!
-> END STRING
-
-> BEGIN STRING
-ナズナ:
 は、弾け飛んじゃった………。
 > CONTEXT: Map004/events/46/pages/0/27/Dialogue
 Nazuna:
