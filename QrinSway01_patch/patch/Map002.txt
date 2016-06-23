@@ -68,7 +68,7 @@ I can't believe it! I'm completely exposed!
 > BEGIN STRING
 画面にナズナの胸が大写しになった！
 > CONTEXT: Map002/events/2/pages/0/49/Dialogue
-The show changed to a close-up of her chest.
+The screen changed to a close-up of her chest.
 > END STRING
 
 > BEGIN STRING
@@ -85,7 +85,7 @@ Nazuna:
 ナズナちゃんも災難だな。
 > CONTEXT: Map002/events/2/pages/0/60/Dialogue
 Bystander:
-To show her breasts on national TV...
+To show her boobs on national TV...
 That must be awful for Nazuna.
 > END STRING
 
@@ -94,7 +94,7 @@ That must be awful for Nazuna.
 おっぱい小さくても、俺はずっとファンだよ！
 > CONTEXT: Map002/events/2/pages/0/64/Dialogue
 Bystander:
-Even if her breasts are small, 
+Even if her boobs are small, 
 I'm still an all-time fan of her!
 > END STRING
 
@@ -106,14 +106,14 @@ I'm still an all-time fan of her!
 > CONTEXT: Map002/events/2/pages/0/68/Dialogue
 Nazuna:
 A-ah...!
-My breasts...!
+My boobs...!
 Being... shown...!!
 > END STRING
 
 > BEGIN STRING
 画面にナズナの尻が大写しになった！
 > CONTEXT: Map002/events/2/pages/0/74/Dialogue
-The show changed to a close-up of her ass.
+The screen changed to a close-up of her ass.
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +129,9 @@ T-there's... more...!?
 ナズナちゃんのお尻…、
 ぷりっとしてて、柔らかそうだなぁ。
 > CONTEXT: Map002/events/2/pages/0/80/Dialogue
-Nazuna:
-T-there's... more...!?
+Bystander:
+Nazuna's bare ass...
+They look so soft.
 > END STRING
 
 > BEGIN STRING
@@ -154,7 +155,7 @@ A-ahh... E-ehh...
 > BEGIN STRING
 画面にナズナの股間が大写しになった！
 > CONTEXT: Map002/events/2/pages/0/92/Dialogue
-The show changed to a close-up of her crotch!
+The screen changed to a close-up of her crotch!
 > END STRING
 
 > BEGIN STRING
@@ -194,7 +195,7 @@ I must thank that demon.
 Bystander:
 It looks pretty tight.
 She must definitely be a virgin.
-But she won't be able to find a boyfriend now.
+She won't be able to find a boyfriend now.
 > END STRING
 
 > BEGIN STRING
@@ -310,8 +311,7 @@ I need to give them a call later...
 > CONTEXT: Map002/events/2/pages/0/178/Dialogue
 Bystander:
 I didn't think much of swimsuits until now.
-I understand the body line well now,
-thanks to Nazuna.
+I understand the body line well now, thanks to Nazuna.
 > END STRING
 
 > BEGIN STRING
@@ -759,7 +759,7 @@ Can't argue with you there...
 > CONTEXT: Map002/events/10/pages/0/26/Dialogue
 Bystander:
 Such a cute girl, broadcasted naked on TV.
-It got me very excited.
+It got me very hard.
 > END STRING
 
 > BEGIN STRING
@@ -848,7 +848,7 @@ Shake off his hand!
 > BEGIN STRING
 肩を掴まれ、硬直してしまう
 > CONTEXT: Map002/events/11/pages/0/19/Choice/1
-Shoulder is caught and become stiff
+Shoulder is caught and becomes stiff
 > END STRING
 
 > BEGIN STRING
@@ -910,8 +910,10 @@ Nazuna:
 ナズナ：
 け、警察、呼ぶからね…！
 反省して！！
-> CONTEXT: Map002/events/11/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/11/pages/0/63/Dialogue
+Nazuna:
+Po-police, call the police...!
+Get him!!
 > END STRING
 
 > BEGIN STRING

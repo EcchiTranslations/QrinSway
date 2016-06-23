@@ -81,13 +81,6 @@ Attacks three random enemies.
 > END STRING
 
 > BEGIN STRING
-逃げる
-> CONTEXT: Skills/6/name/
-> CONTEXT: System/terms/commands/1/
-Escape
-> END STRING
-
-> BEGIN STRING
 敵キャラの行動用。使用者が戦闘から離脱する。
 > CONTEXT: Skills/6/description/ < UNTRANSLATED
 

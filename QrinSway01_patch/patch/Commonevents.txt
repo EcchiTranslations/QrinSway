@@ -41,8 +41,8 @@ D-don't touch it...!
 魔物はナズナのスクール水着を
 一気に引き下ろした！！
 > CONTEXT: Commonevents/1/22/Dialogue
-The demon firmly grabbed her shoulder straps
-一and pulled it straight down!!
+The demon firmly grabs her shoulder straps
+-and pulls it straight down!!
 > END STRING
 
 > BEGIN STRING
@@ -148,8 +148,7 @@ Kuu...
 その隠し方はやばいぞ…。)
 > CONTEXT: Commonevents/1/82/Dialogue
 Schoolboy:
-(Nazuna,
-she's covering her chest with both of her hands,
+(She's covering her chest with both of her hands,
 she's not covering herself well...)
 > END STRING
 
@@ -204,7 +203,7 @@ W-wait a second...!
 > CONTEXT: Commonevents/1/115/Dialogue
 Demon:
 To all those viewers,
-Enjoy this service!!
+Enjoy this show!!
 > END STRING
 
 > BEGIN STRING
@@ -227,7 +226,7 @@ Kiya...!
 ナズナの股間が、
 レンズの至近距離に…！
 > CONTEXT: Commonevents/1/129/Dialogue
-Nazuna's crotch were positioned
+Nazuna's crotch was positioned
 right next to the camera lens...!
 > END STRING
 
@@ -307,7 +306,7 @@ There's nothing I can do...!
 距離を取ろうとした。
 > CONTEXT: Commonevents/1/174/Dialogue
 Nazuna turns her back towards the demon,
-and tries to make some distance.
+and tries to get away.
 > END STRING
 
 > BEGIN STRING
@@ -320,15 +319,6 @@ Demon:
 Oh ho, your ass,
 Do you want us to see?
 Okay, wish granted...!
-> END STRING
-
-> BEGIN STRING
-ナズナ:
-きゃ…！
-> CONTEXT: Commonevents/1/186/Dialogue
-> CONTEXT: Map004/events/46/pages/0/23/Dialogue
-Nazuna:
-Kyaa...!
 > END STRING
 
 > BEGIN STRING
@@ -395,7 +385,7 @@ Wah... hi, hii...!
 ナズナの肛門と性器が、
 どアップで全国放送された！！
 > CONTEXT: Commonevents/1/226/Dialogue
-Nazuna's pussy and anus was now
+Nazuna's pussy and asshole was now
 being shown to the entire nation.
 > END STRING
 
@@ -407,7 +397,8 @@ being shown to the entire nation.
 > CONTEXT: Commonevents/1/229/Dialogue
 Reporter:
 Unbelievable!
-The demon pushed Nazuna's bottom onto the lens!!
+The demon pushed Nazuna's bottom 
+onto the lens!!
 > END STRING
 
 > BEGIN STRING
@@ -418,7 +409,7 @@ The demon pushed Nazuna's bottom onto the lens!!
 > CONTEXT: Commonevents/1/234/Dialogue
 Reporter:
 This is too dirty...!
-Nazuna's asshole is being
+Nazuna's anus is being
 seen by the whole country!!
 > END STRING
 
@@ -649,8 +640,9 @@ Nazuna's swimsuit was pulled down!
 > BEGIN STRING
 ナズナ:
 なに、するのぉぉぉ！！？
-> CONTEXT: Commonevents/4/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/4/90/Dialogue
+Nazuna:
+What are you doing!!?
 > END STRING
 
 > BEGIN STRING
@@ -1247,7 +1239,7 @@ Kya~! Kya~~!!!
 > CONTEXT: Commonevents/31/99/Dialogue
 Reporter:
 The demon threw her swimsuit here.
-Nazuna is running here, naked!
+Nazuna is running here naked!
 Very desperately.
 > END STRING
 
@@ -1256,7 +1248,8 @@ Very desperately.
 カメラは駆け寄るナズナを真正面からローアングルで撮影する…。
 > CONTEXT: Commonevents/31/105/Dialogue
 To make matters worse,
-the camera recorded Nazuna at a low angle...
+the camera recorded Nazuna
+at a low angle...
 > END STRING
 
 > BEGIN STRING
@@ -1264,7 +1257,7 @@ the camera recorded Nazuna at a low angle...
 …っと、撮らないでよぉ…。
 > CONTEXT: Commonevents/31/109/Dialogue
 Nazuna:
-D-don't film this!!
+D-don't record this!!
 > END STRING
 
 > BEGIN STRING
@@ -1327,7 +1320,7 @@ and shown to every living room in the country...
 写真部だから、写真にまつわることかな？
 > CONTEXT: Commonevents/32/5/Dialogue
 Nazuna:
-The club leader said something was stolen, but what could it be? 
+The club leader said something was stolen, but what is it?
 If it's the photography club, maybe it's a picture.
 > END STRING
 
@@ -1339,7 +1332,7 @@ If it's the photography club, maybe it's a picture.
 > CONTEXT: Commonevents/32/12/Dialogue
 Demon:
 Do you want to know what it is?
-It was something good I found going through their stuff. 
+It's something good I found while going through their stuff. 
 It's related to you.
 > END STRING
 
@@ -1371,8 +1364,8 @@ Is that it?
 > CONTEXT: Commonevents/32/29/Dialogue
 Demon:
 Hehehe
-Something even better...
-I'll spread to every classroom in this school.
+Something even better... since it's very special,
+I'll play it in every classroom in this school.
 > END STRING
 
 > BEGIN STRING
@@ -1382,9 +1375,9 @@ I'll spread to every classroom in this school.
 おそらく、画面内の動画を各教室に転送しているのだろう…。
 > CONTEXT: Commonevents/32/34/Dialogue
 The demon points to the PC screen.
-A picture of some kind is displayed.
+A video of some kind is displayed.
 He murmurs an incantation on the computer.
-Forwarding it to each screen in every classroom.
+Forwarding it to every screen in every classroom.
 > END STRING
 
 > BEGIN STRING
@@ -1410,21 +1403,21 @@ Stop being strange...
 聞こえるのは、水音と、遠くで少女たちが話す声…。
 そこがどこなのか、ナズナには見覚えがあった。
 > CONTEXT: Commonevents/32/46/Dialogue
-A grey wall is appears in the video.
+A grey wall appears in the video.
 The sound of water and a girl's voice can be heard...
-Nazuna felt an odd familiarity about it.
+Nazuna felt unusually familiar about it.
 > END STRING
 
 > BEGIN STRING
 パッ…
-> CONTEXT: Commonevents/32/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/32/54/Dialogue
+*shine*
 > END STRING
 
 > BEGIN STRING
 どよどよ…
-> CONTEXT: Commonevents/32/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/32/59/Dialogue
+*confused*
 > END STRING
 
 > BEGIN STRING
@@ -1527,7 +1520,7 @@ Gi......!
 > BEGIN STRING
 うおおおお…
 > CONTEXT: Commonevents/32/120/Dialogue
-Oooooh...
+*waaaah*
 > END STRING
 
 > BEGIN STRING
@@ -1536,7 +1529,7 @@ Oooooh...
 ナズナの頭の中は、恥辱でいっぱいになった。
 > CONTEXT: Commonevents/32/122/Dialogue
 A loud shout of joy was heard clearly from the boys.
-Everyone at her school had now seen her naked...!
+Everyone at her school was now seeing her naked...!
 Nazuna's face became clouded with embarrassment.
 > END STRING
 
@@ -1563,7 +1556,7 @@ Nazuna's boobs...
 やめなさいよ、あんたたち…
 ナズナちゃんが、かわいそ…
 > CONTEXT: Commonevents/32/133/Dialogue
-FeSchoolboy:
+Schoolgirl:
 Stop this you guys...
 Nazuna is too precious...
 > END STRING
@@ -1608,7 +1601,7 @@ Her nipples and slit were all being shown.
 Nazuna:
 Ah..., ah, ah...
 I can't believe it...
-Everyone's... seen me naked...
+Everyone's... seeing me naked...
 > END STRING
 
 > BEGIN STRING
@@ -1673,8 +1666,8 @@ Everyone else already has...』
 
 > BEGIN STRING
 ぷにゅっ
-> CONTEXT: Commonevents/32/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/32/191/Dialogue
+*touch*
 > END STRING
 
 > BEGIN STRING
@@ -1710,7 +1703,7 @@ T-this is a nightmare...!!
 Her knees quivering, she could barely stand anymore.
 The video began to spread throughout the school.
 Things that every girl keep secret,
-were now all exposed to all her classmates.
+were now exposed to all her classmates.
 > END STRING
 
 > BEGIN STRING
@@ -1756,7 +1749,7 @@ Nazuna:
 > CONTEXT: Commonevents/32/232/Dialogue
 Nazuna was completely dumbstruck.
 She fumbled onto the floor.
-Now that all her classmates saw her nude,
+Now that all her classmates saw her naked,
 how could she face them again...
 > END STRING
 
@@ -1780,8 +1773,8 @@ and displayed it to the whole school...
 > CONTEXT: Commonevents/32/242/Dialogue
 Demon:
 That was quite the shock.
-Will all the students watch is slowly and carefully?
-I may even show this to the whole country on TV.
+Do you think every student in school saw it?
+Maybe I should even show this on national TV.
 > END STRING
 
 > BEGIN STRING
@@ -2302,8 +2295,8 @@ I have to be careful with it......
 
 > BEGIN STRING
 ちくちく…
-> CONTEXT: Commonevents/34/291/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/291/Dialogue
+*rustle*
 > END STRING
 
 > BEGIN STRING

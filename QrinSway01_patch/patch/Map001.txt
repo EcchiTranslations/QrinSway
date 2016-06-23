@@ -261,10 +261,10 @@ and sold without her permission.
 勝てたからいいけど、もし負けるところなんてテレビで放送されたら、
 情けなくて私、どうにかなっちゃう…。)
 > CONTEXT: Map001/events/3/pages/0/155/Dialogue
-Regardless, people love her looks.
-She's as popular as an idol, the first for a witch.
-DVDs and pictures of fights are recorded secretly,
-and sold without her permission.
+Nazuna:
+(Uu... they record because I'm cute...
+I was able to win, but if a loss is recorded on TV,
+it would make me look pathetic...)
 > END STRING
 
 > BEGIN STRING
@@ -275,8 +275,7 @@ and sold without her permission.
 > CONTEXT: Map001/events/3/pages/0/160/Dialogue
 With her heart pounding,
 she returned to class with showers of praise.
-It was very encouraging
-to see everyone love her.
+It was very encouraging to see everyone love her.
 > END STRING
 
 > BEGIN STRING
@@ -293,7 +292,7 @@ one she would never expect...
 ちょうど昼休みだし、ゆっくりしてよう。
 > CONTEXT: Map001/events/3/pages/0/177/Dialogue
 Nazuna:
-Finally escape those reporters...
+Finally escaped those reporters...
 I want to take it easy this lunch period.
 > END STRING
 
@@ -353,16 +352,6 @@ Ah..., she ran away...
 
 > BEGIN STRING
 ナズナ:
-………。
-> CONTEXT: Map001/events/41/pages/0/59/Dialogue
-> CONTEXT: Map004/events/26/pages/1/66/Dialogue
-> CONTEXT: Map004/events/28/pages/1/29/Dialogue
-Nazuna:
-............
-> END STRING
-
-> BEGIN STRING
-ナズナ:
 酷いことになった…。
 とにかく、あの魔物を倒さなきゃ…。
 早く呪いを解かないと…、恥ずかしくて、どうにかなっちゃう…！
@@ -370,7 +359,7 @@ Nazuna:
 Nazuna:
 This is awful...
 I need to defeat that demon now...
-It's too embarrassing being like this...!
+It's too embarrassing looking like this...!
 > END STRING
 
 > BEGIN STRING
@@ -435,7 +424,8 @@ Nazuna:
 目に焼きついてしまった。）
 > CONTEXT: Map001/events/88/pages/0/37/Dialogue
 Schoolboy:
-(Underneath that swimsuit..., pure white skin...
+(Underneath that swimsuit..., 
+pure white skin...
 it's burned forever in my eyes.)
 > END STRING
 
@@ -548,8 +538,7 @@ I didn't take this...
 （写真撮ったら怒るかな…怒るよなあ……。）
 > CONTEXT: Map001/events/89/pages/0/47/Dialogue
 Schoolboy:
-(I wonder if she would get angry
-if I took a picture...)
+(I wonder if she would get angry if I took a picture...)
 > END STRING
 
 > BEGIN STRING
@@ -557,8 +546,7 @@ if I took a picture...)
 やあ、九輪さんもサボり？
 > CONTEXT: Map001/events/89/pages/0/52/Dialogue
 Schoolboy:
-Hey Nazuna, 
-are you skipping class too?
+Hey Nazuna, are you skipping class too?
 > END STRING
 
 > BEGIN STRING
@@ -671,7 +659,7 @@ Sorry... you were giving me a dirty look...
 ちょっとサイズが合ってないのかな…？
 > CONTEXT: Map001/events/90/pages/0/62/Dialogue
 Schoolboy:
-Squee...
+*lively*
 Is that really your size...?
 > END STRING
 
@@ -680,8 +668,7 @@ Is that really your size...?
 身体のラインが丸わかりで、すっごく恥ずかしい…。
 > CONTEXT: Map001/events/90/pages/0/67/Dialogue
 Nazuna:
-It's so embarrassing having 
-my body line so visible...
+It's so embarrassing having my body line so visible...
 > END STRING
 
 > BEGIN STRING
@@ -1055,8 +1042,8 @@ The whole country has already seen you naked.
 > CONTEXT: Map001/events/95/pages/0/116/Dialogue
 Wizard:
 You can lose as many times now.
-Wouldn't it be easier if you stripped naked?
-Everyone has already seen, so no need to be shy.
+Wouldn't it be easier if you took it off beforehand?
+Everyone has already seen, so there's no need to be shy.
 > END STRING
 
 > BEGIN STRING
@@ -1067,7 +1054,7 @@ Everyone has already seen, so no need to be shy.
 > CONTEXT: Map001/events/95/pages/0/128/Dialogue
 Nazuna:
 But that's too embarrassing...!
-I was seen by everyone in school..., in Japan,
+I was seen by everyone in school... in Japan,
 even on the net!! That's impossible to do...!
 > END STRING
 
@@ -1114,9 +1101,9 @@ Nazuna left thinking over the idea...
 俺の寄付金の着服に気付きやがって…、おかげで降格されちまった。)
 > CONTEXT: Map001/events/95/pages/0/154/Dialogue
 Wizard:
-(...Well, it's a lie. She's prodigious, 
-but she gets in my way~. I owe her this 
-after my embezzlement got me demoted.)
+(...Well, it's a lie. She's prodigious, but she's in my way~. 
+I owe her this after they discovered
+my embezzlement and got me demoted.)
 > END STRING
 
 > BEGIN STRING

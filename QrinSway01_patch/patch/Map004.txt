@@ -198,7 +198,7 @@ I can't lose next time.
 > CONTEXT: Map004/events/9/pages/1/233/Dialogue
 Nazuna:
 I can recover some health at the bath,
-or eat something at the shops to strengthen me.
+or eat something at the shops to strengthen myself.
 I should consider doing those before a rematch.
 > END STRING
 
@@ -236,9 +236,8 @@ You seem like the type to be all bark and no bite.
 覚悟するのだな！
 > CONTEXT: Map004/events/9/pages/0/10/Dialogue
 Demon:
-I am different from 
-everyone you've faced thus far.
-So prepare yourself!
+I am different from everyone you've faced thus far.
+Prepare yourself!
 > END STRING
 
 > BEGIN STRING
@@ -257,7 +256,7 @@ Nazuna:
 > BEGIN STRING
 ちょっと待ってもらう
 > CONTEXT: Map004/events/9/pages/0/19/Choice/1
-Wait a minute
+Not yet
 > END STRING
 
 > BEGIN STRING
@@ -460,7 +459,7 @@ There was no reason to do that...!
 テレビで見てたけど、ナズナちゃん、
 恥ずかしがって全然戦ってなかったじゃない。
 > CONTEXT: Map004/events/9/pages/1/79/Dialogue
-Magic Associate:
+Wizard:
 That was quite a defeat...
 I was watching you on TV,
 you were too ashamed to fight.
@@ -484,7 +483,7 @@ The whole school!!
 お母様も今回のことを知ったら、
 そう仰るよ。
 > CONTEXT: Map004/events/9/pages/1/89/Dialogue
-Magic Associate:
+Wizard:
 You lost because your spirit was too weak.
 I think your mother needs to know about that.
 I'll tell her myself.
@@ -508,8 +507,7 @@ she'll punish me very badly...!
 僕も責任とか問われたくないから、報告はしないよ。
 君も、僕が教えた作戦だって、誰にも言わないでね？
 > CONTEXT: Map004/events/9/pages/1/103/Dialogue
-Magic Associate:
-Magic Associate:
+Wizard:
 Likewise, you won't tell anyone 
 of the strategy I taught you, alright?
 > END STRING
@@ -528,7 +526,7 @@ O-okay... I won't tell anyone...
 幸い、あの魔物は優しい方みたいだから、
 何度負けても、全裸にされる以上の責めは受けないだろう。
 > CONTEXT: Map004/events/9/pages/1/111/Dialogue
-Magic Associate:
+Wizard:
 Oh, and you should try it again if you feel like it.
 Thankfully, that demon is an amiable person,
 but I'm not responsible should you try it again.
@@ -552,7 +550,7 @@ Uu, I never want to do it again.
 次は裸の戦いも慣れて、きっといつも通りに戦えるさ！
 頑張ってね！！
 > CONTEXT: Map004/events/9/pages/1/122/Dialogue
-Magic Associate:
+Wizard:
 That's the spirit!!
 You're used to being naked in battle, 
 so surely now you can win next time! Good luck!!
@@ -581,7 +579,7 @@ and went away embarrassed
 全裸になっても、何の意味もないんだけどね。
 あの恥ずかしそうな顔、傑作だったな！)
 > CONTEXT: Map004/events/9/pages/1/139/Dialogue
-Magic Associate:
+Wizard:
 (...Well, it's a complete lie.
 There is no meaning to being naked.
 But that embarrassed face, it was a masterpiece!)
@@ -593,7 +591,7 @@ But that embarrassed face, it was a masterpiece!)
 くくく、精々何度もチャレンジして、
 恥を上塗りしてくれよ！)
 > CONTEXT: Map004/events/9/pages/1/144/Dialogue
-Magic Associate:
+Wizard:
 (She's lost a lot of prestige in the association now.
 Hehe, and she can keep trying this over and over,
 it'll only add onto their embarrassment!)
@@ -852,8 +850,8 @@ It's fine...
 > CONTEXT: Map004/events/12/pages/0/86/Dialogue
 Photography Club:
 (Such a picture on the PC...,
-It could be a problem if the demon or her find it,
-but who finds it is more dangerous...?)
+It'll be a problem if she finds it,
+but it'll be worse if the demon finds it...!!)
 > END STRING
 
 > BEGIN STRING
@@ -1118,8 +1116,8 @@ The boys are too excited...!!
 ピンクで、ツンと上向いてて…。
 > CONTEXT: Map004/events/26/pages/1/51/Dialogue
 Schoolboy:
-Look at her nipple...,
-it's so pink, and standing up...
+Look at her tits...,
+they're so pink, and they're standing up too...
 > END STRING
 
 > BEGIN STRING
@@ -1128,7 +1126,7 @@ it's so pink, and standing up...
 九輪さんの敗北動画、たくさんネットに上がってるもんな。
 > CONTEXT: Map004/events/26/pages/1/55/Dialogue
 Schoolboy:
-Squee..., I have to find all of them.
+*excited* I have to find all of them.
 Nazuna's defeat is everywhere on the net.
 > END STRING
 
@@ -1140,8 +1138,18 @@ Nazuna's defeat is everywhere on the net.
 > CONTEXT: Map004/events/26/pages/1/59/Dialogue
 Schoolboy:
 Students captured it as well as the TV,
-they secretly recorded and want to contribute.
+they secretly recorded and posted it.
 I have to collect them all...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………。
+> CONTEXT: Map001/events/41/pages/0/59/Dialogue
+> CONTEXT: Map004/events/26/pages/1/66/Dialogue
+> CONTEXT: Map004/events/28/pages/1/29/Dialogue
+Nazuna:
+............
 > END STRING
 
 > BEGIN STRING
@@ -1211,7 +1219,7 @@ Are you resting properly?
 > CONTEXT: Map004/events/26/pages/1/102/Dialogue
 Nazuna:
 It's not a serious problem,
-there are only a few every day.
+there's only a few every day.
 > END STRING
 
 > BEGIN STRING
@@ -1441,7 +1449,7 @@ Views: 899987
 > CONTEXT: Map004/events/45/pages/0/6/Dialogue
 『She's so cute!!』
 『I can't see her panties...』
-『I WANT TO LICK NAZUNA』
+『I want to lick Nazuna』
 ...
 > END STRING
 
@@ -1471,7 +1479,7 @@ Views: 1468890
 > CONTEXT: Map004/events/45/pages/1/6/Dialogue
 『Her small boobs are cute』
 『I've fapped to this over 1000 million times』
-『Can you see her tit?』
+『Can you see her tits?』
 ...
 > END STRING
 
@@ -1482,7 +1490,7 @@ Views: 1468890
 > CONTEXT: Map004/events/45/pages/1/12/Dialogue
 Nazuna:
 Aaa~... I can't believe that fight is online...
-You can't delete it once it's on the net...
+Once it's on the net, it's impossible to get rid of...
 > END STRING
 
 > BEGIN STRING
@@ -1907,4 +1915,12 @@ Nazuna, you're looking pretty today...
 Nazuna:
 It's becoming harder to stay in school
 Uu..., I need to beat that demon, fast...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…！
+> CONTEXT: Map004/events/46/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/1/186/Dialogue < UNTRANSLATED
+
 > END STRING

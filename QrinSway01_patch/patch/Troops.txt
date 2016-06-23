@@ -65,7 +65,8 @@ Uu...!
 闇が晴れ、
 奪われた視界が元に戻る…。
 > CONTEXT: Troops/1/pages/1/19/Dialogue
-The darkness clears up
+The darkness clears up,
+Nazuna's vision is restored...
 > END STRING
 
 > BEGIN STRING
@@ -148,8 +149,7 @@ into a school swimsuit...!
 > CONTEXT: Troops/1/pages/1/56/Dialogue
 Reporter:
 It seems the demon can change clothes.
-However, it's very fitting,
-a school swimsuit!!
+A school swimsuit is very fitting!!
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +161,7 @@ a school swimsuit!!
 Nazuna:
 Hiya!?
 D-don't record me!!
-Looking like this...!
+Not while looking like this...!
 > END STRING
 
 > BEGIN STRING
@@ -173,7 +173,7 @@ Looking like this...!
 Demon:
 By the way, the clothes are cursed.
 You can take it off, but you can't change your clothes.
-You can't wear any other clothes from now on.
+You can't wear anything else from now on.
 > END STRING
 
 > BEGIN STRING
@@ -245,7 +245,7 @@ Walking around town with such a lewd look.
 Pervert:
 So it's come to this,
 I need to take you with me!
-*pant* *pant* *pant* *pant*!
+*pant* *pant* *pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -255,8 +255,8 @@ I need to take you with me!
 変態、変態っ！！！
 > CONTEXT: Troops/3/pages/0/16/Dialogue
 Nazuna:
-Hee...!
-I have a bad feeling about this!!
+Hiiii...!
+Yo-you're disgusting!!
 Pervert! Pervert!!!
 > END STRING
 
@@ -422,7 +422,8 @@ D-don... aaah...!
 > CONTEXT: Troops/3/pages/2/28/Dialogue
 Bystander:
 Look, he's rubbing Nazuna's breasts!
-He's playing with her nipples..., I'm jealous~!
+He's playing with her nipples...,
+I'm jealous~!
 > END STRING
 
 > BEGIN STRING
@@ -525,8 +526,10 @@ Ouch...
 通行人：
 うわっ、足をあんなに開いちゃって…。
 モロだぜ、モロ！
-> CONTEXT: Troops/3/pages/3/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/3/pages/3/40/Dialogue
+Bystander:
+Uwa, her legs are so open
+More! More!
 > END STRING
 
 > BEGIN STRING
@@ -585,7 +588,7 @@ I'm not gonna lose...!!)
 ぬぎぬぎ…
 > CONTEXT: Troops/4/pages/0/16/Dialogue
 > CONTEXT: Troops/4/pages/0/32/Dialogue
-*undressing*
+*undress*
 > END STRING
 
 > BEGIN STRING
@@ -623,7 +626,7 @@ and is now completely naked!
 > CONTEXT: Troops/4/pages/0/35/Dialogue
 Nazuna:
 Kuu...!!
-I-i'm completely naked...
+I-I'm completely naked...
 Se-seen again...!
 > END STRING
 
@@ -736,7 +739,7 @@ The demon pushes Nazuna toward a group of schoolboys!
 > CONTEXT: Troops/4/pages/2/19/Dialogue
 > CONTEXT: Troops/4/pages/3/30/Dialogue
 > CONTEXT: Commonevents/1/122/Dialogue
-*thud*
+*push*
 > END STRING
 
 > BEGIN STRING
@@ -813,7 +816,7 @@ Even during this fight, no one is staring!)
 はぁ、はぁ…。はぁ…。
 > CONTEXT: Troops/4/pages/3/2/Dialogue
 Nazuna:
-Haa... Haa... Haa...
+*pant* *pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -825,7 +828,7 @@ Haa... Haa... Haa...
 Nazuna:
 (This strategy... isn't working...
 I only feel disadvantaged...
-Was there any meaning to being seen naked...?)
+Was there any meaning to being naked...?)
 > END STRING
 
 > BEGIN STRING
@@ -842,7 +845,7 @@ Was there any meaning to being seen naked...?)
 > CONTEXT: Troops/4/pages/3/14/Dialogue
 As Nazuna calms down,
 her cheeks are red,
-and becoming more and more red...
+only becoming more and more red...
 > END STRING
 
 > BEGIN STRING
@@ -869,8 +872,10 @@ Aa... s-stop...!
 男子生徒:
 失敗するとまずいから、
 しゃがんで受け止めるね。
-> CONTEXT: Troops/4/pages/3/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/39/Dialogue
+Schoolboy:
+It'll be bad if she falls,
+I'll crouch down and catch her
 > END STRING
 
 > BEGIN STRING
@@ -927,8 +932,9 @@ L-looking at my special place...!!)
 > BEGIN STRING
 男子生徒:
 プリプリだ…。
-> CONTEXT: Troops/4/pages/3/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/3/77/Dialogue
+Schoolboy:
+*huff*
 > END STRING
 
 > BEGIN STRING
@@ -998,7 +1004,7 @@ This is quite a sight!
 びくっ！
 > CONTEXT: Troops/4/pages/4/30/Dialogue
 Nazuna:
-Biku!
+*flinch*
 > END STRING
 
 > BEGIN STRING
@@ -1019,7 +1025,7 @@ My butt is shown to all the boys...!)
 全部だよ、全部見えてる！
 > CONTEXT: Troops/4/pages/4/39/Dialogue
 Schoolboy:
-Her anus...
+Her asshole...
 I can see it, I can see it all!
 > END STRING
 
@@ -1086,7 +1092,7 @@ Nazuna:
 九輪さんのアソコ…。
 > CONTEXT: Troops/4/pages/4/71/Dialogue
 Schoolboy:
-Hey..., has someone taken a picture?
+Hey..., did someone take a picture?
 Nazuna's pussy...
 > END STRING
 
@@ -1231,6 +1237,6 @@ Nazuna fainted...
 > CONTEXT: Troops/4/pages/4/147/Dialogue
 Demon:
 Huh...?
-After all that bullying,
+After all that teasing,
 did her spirit collapse...?
 > END STRING
