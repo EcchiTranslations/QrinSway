@@ -334,8 +334,9 @@ Kyaa...!
 > BEGIN STRING
 魔物はナズナの足を取ると、
 一気に引き寄せる！
-> CONTEXT: Commonevents/1/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/190/Dialogue
+The demon grabs hold of Nazuna's foot,
+and prevents her escape!
 > END STRING
 
 > BEGIN STRING
@@ -350,8 +351,8 @@ Look carefully!!
 
 > BEGIN STRING
 どんっ！！
-> CONTEXT: Commonevents/1/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/202/Dialogue
+*thud*
 > END STRING
 
 > BEGIN STRING
@@ -485,8 +486,8 @@ he pulled it up with all his might!!
 
 > BEGIN STRING
 ぐいっ！！
-> CONTEXT: Commonevents/3/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/3/30/Dialogue
+*pull*
 > END STRING
 
 > BEGIN STRING
@@ -635,7 +636,7 @@ Alright... here!
 ずるっ！
 > CONTEXT: Commonevents/4/79/Dialogue
 > CONTEXT: Commonevents/31/43/Dialogue
-*strip*
+*drag*
 > END STRING
 
 > BEGIN STRING
@@ -663,7 +664,7 @@ Ooh... b-boobs...
 > BEGIN STRING
 むにょっ…
 > CONTEXT: Commonevents/4/97/Dialogue
-*pat*
+*grope*
 > END STRING
 
 > BEGIN STRING
@@ -833,8 +834,8 @@ T-too cruel... uu...
 
 > BEGIN STRING
 プニプニ…
-> CONTEXT: Commonevents/4/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/4/204/Dialogue
+*jiggle*
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +860,8 @@ Don't rub it...!
 
 > BEGIN STRING
 くにくに…
-> CONTEXT: Commonevents/4/225/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/4/225/Dialogue
+*pinch*
 > END STRING
 
 > BEGIN STRING
@@ -949,8 +950,9 @@ even... on TV...
 > BEGIN STRING
 ナズナ:
 くらっ…
-> CONTEXT: Commonevents/4/266/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/4/266/Dialogue
+Nazuna:
+Phwa...
 > END STRING
 
 > BEGIN STRING
@@ -1303,8 +1305,10 @@ Just like this! Just like this!!
 ナズナ:
 わっ、分かったからぁ…！
 胸を、アップで撮らないでぇ…。
-> CONTEXT: Commonevents/31/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/31/158/Dialogue
+Nazuna:
+A-alright then...
+Don't show this anywhere...
 > END STRING
 
 > BEGIN STRING
@@ -1540,7 +1544,7 @@ Nazuna's face became clouded with embarrassment.
 男子生徒:
 やべーぞ、完っ全に、見えて…
 > CONTEXT: Commonevents/32/126/Dialogue
-Male Student:
+Schoolboy:
 Wow...! You can see everything...
 > END STRING
 
@@ -1549,7 +1553,7 @@ Wow...! You can see everything...
 誰が、こんなこと…
 九輪さんの、おっぱいと、アソコが…
 > CONTEXT: Commonevents/32/129/Dialogue
-Male Student:
+Schoolboy:
 What a sight...
 Nazuna's boobs...
 > END STRING
@@ -1559,7 +1563,7 @@ Nazuna's boobs...
 やめなさいよ、あんたたち…
 ナズナちゃんが、かわいそ…
 > CONTEXT: Commonevents/32/133/Dialogue
-Female Student:
+FeSchoolboy:
 Stop this you guys...
 Nazuna is too precious...
 > END STRING
@@ -1888,42 +1892,47 @@ and eat something to increase my power...
 > BEGIN STRING
 通行人:
 おっと、ごめんよ！
-> CONTEXT: Commonevents/34/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/0/Dialogue
+Bystander:
+Oops, sorry!
 > END STRING
 
 > BEGIN STRING
 どんっ
-> CONTEXT: Commonevents/34/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/3/Dialogue
+*bump*
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 きゃっ！
-> CONTEXT: Commonevents/34/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/9/Dialogue
+Nazuna:
+Kyaa!
 > END STRING
 
 > BEGIN STRING
 ビリッ！
-> CONTEXT: Commonevents/34/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/13/Dialogue
+*rip*
 > END STRING
 
 > BEGIN STRING
 通行人:
 ぶつかっちゃったよ。
 大丈夫？ナズナちゃん。
-> CONTEXT: Commonevents/34/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/15/Dialogue
+Bystander:
+Sorry for bumping into you.
+Are you alright Nazuna?
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 うん、大丈夫…。
-> CONTEXT: Commonevents/34/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/20/Dialogue
+Nazuna:
+I'm fine...
 > END STRING
 
 > BEGIN STRING
@@ -1931,32 +1940,39 @@ and eat something to increase my power...
 (やべっ、服の金具が引っかかって、水着が切れちゃった。
 ナズナちゃんの方はまだ、気付いてないみたいだな。
 う〜ん、かわいい乳首だ…、堪能させてもらおう…。)
-> CONTEXT: Commonevents/34/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/23/Dialogue
+Bystander:
+(The metal filling caught her clothes and cut it.
+She hasn't noticed it yet.
+Ehe, it's a cute nipple... I'll remember this...)
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 あなたも、怪我はない…？
 じゃあ、私は行くから…。
-> CONTEXT: Commonevents/34/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/28/Dialogue
+Nazuna:
+Are you hurt...?
+If not, I must be on my way...
 > END STRING
 
 > BEGIN STRING
 通行人:
 (あーあ、乳首出てるのに、気付かず行っちゃった。
 まあいいか…、いっぱい見て貰いなよ、ナズナちゃん！)
-> CONTEXT: Commonevents/34/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/32/Dialogue
+Bystander:
+(Aah, she didn't noticing her nipple showing.
+It was nice..., but I wanted to see more!)
 > END STRING
 
 > BEGIN STRING
 …
-> CONTEXT: Commonevents/34/39/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/34/76/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/34/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/39/Dialogue
+> CONTEXT: Commonevents/34/76/Dialogue
+> CONTEXT: Commonevents/34/102/Dialogue
+...
 > END STRING
 
 > BEGIN STRING
@@ -1964,37 +1980,45 @@ and eat something to increase my power...
 ………？
 視線が突き刺さる…。
 水着で、町中を歩いてるから、当たり前か…。
-> CONTEXT: Commonevents/34/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/51/Dialogue
+Nazuna:
+...........?
+Everyone's staring... Must be the swimsuit...,
+it's not common to go to the store with one on.
 > END STRING
 
 > BEGIN STRING
 クスクス…
-> CONTEXT: Commonevents/34/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/56/Dialogue
+*giggle*
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 (落ち着かない…。)
-> CONTEXT: Commonevents/34/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/58/Dialogue
+Nazuna:
+(It's not calming down...)
 > END STRING
 
 > BEGIN STRING
 通行人:
 おおっ…。
 ナズナちゃん、いい格好だねえ！
-> CONTEXT: Commonevents/34/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/61/Dialogue
+Bystander:
+Ooh...
+Nice look Nazuna!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 いい格好…？
 うぅ、スクール水着なんて、着たくないんだからね…。
-> CONTEXT: Commonevents/34/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/65/Dialogue
+Nazuna:
+Nice look?
+Uu, I don't want to wear this school swimsuit...
 > END STRING
 
 > BEGIN STRING
@@ -2002,30 +2026,38 @@ and eat something to increase my power...
 (いや、水着っていうか……。
 まあいいや。
 折角乳首見せてくれてるんだし、黙ってよっと！)
-> CONTEXT: Commonevents/34/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/69/Dialogue
+Bystander:
+(It's not the swimsuit.....
+Not that it's bad.
+With her nipple showing, everyone's silently looking!)
 > END STRING
 
 > BEGIN STRING
 男子生徒:
 うは…。
-> CONTEXT: Commonevents/34/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/86/Dialogue
+Schoolboy:
+Uha...
 > END STRING
 
 > BEGIN STRING
 男子生徒:
 おおっ、先っちょが…。
-> CONTEXT: Commonevents/34/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/89/Dialogue
+Schoolboy:
+Ooh, the tip...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 うるさいなぁ…。
 水着だからって…、恥ずかしいから、騒がないでほしい…。
-> CONTEXT: Commonevents/34/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/95/Dialogue
+Nazuna:
+So noisy...
+Just because I'm in a swimsuit... so embarrassing...,
+there's no need to make so much noise...
 > END STRING
 
 > BEGIN STRING
@@ -2033,29 +2065,35 @@ and eat something to increase my power...
 教室…。
 授業、こんな格好じゃ、受けたくないな…。
 どうしよ……。
-> CONTEXT: Commonevents/34/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/106/Dialogue
+Nazuna:
+In this class...
+Looking like this... I don't want to stand out...
+Why.....
 > END STRING
 
 > BEGIN STRING
 男子生徒:
 あっ、九輪さ…うおおお！？
-> CONTEXT: Commonevents/34/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/127/Dialogue
+Schoolboy:
+Aa, Nazuna... uooo!?
 > END STRING
 
 > BEGIN STRING
 男子生徒:
 み、見え……。
-> CONTEXT: Commonevents/34/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/130/Dialogue
+Schoolboy:
+Look, look...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 な、何…？
-> CONTEXT: Commonevents/34/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/137/Dialogue
+Nazuna:
+What is it...?
 > END STRING
 
 > BEGIN STRING
@@ -2063,29 +2101,35 @@ and eat something to increase my power...
 あっ…、な、なんでもないよ。
 うん…。
 うへへへ…。
-> CONTEXT: Commonevents/34/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/140/Dialogue
+Schoolboy:
+Ah..., n-nothing.
+Yeah... nothing...
+Ueee...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ……？
-> CONTEXT: Commonevents/34/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/146/Dialogue
+Nazuna:
+.........?
 > END STRING
 
 > BEGIN STRING
 男子生徒:
 わあ…。
-> CONTEXT: Commonevents/34/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/158/Dialogue
+Schoolboy:
+Waah...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ？
-> CONTEXT: Commonevents/34/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/162/Dialogue
+Nazuna:
+?
 > END STRING
 
 > BEGIN STRING
@@ -2093,15 +2137,19 @@ and eat something to increase my power...
 あっ…いや、九輪さん、数学得意だよね。
 宿題で、わからないとこがあってさ…。
 このノート、見てくれよ。
-> CONTEXT: Commonevents/34/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/165/Dialogue
+Schoolboy:
+Ah... hey, Nazuna, you're good at math.
+Can you help me with my homework...
+It's here in my notebook.
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 …ここに、Xを代入すると…、Yが…
-> CONTEXT: Commonevents/34/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/173/Dialogue
+Nazuna:
+...When you substitute X here... Y...
 > END STRING
 
 > BEGIN STRING
@@ -2109,16 +2157,21 @@ and eat something to increase my power...
 へ〜！なるほど〜〜！
 な、なるほどなぁ！！
 詳細に、ばっちり、鮮明に、よく分かるなあ！！
-> CONTEXT: Commonevents/34/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/176/Dialogue
+Schoolboy:
+Ee~ that's right~~!
+I... I understand now!!
+I understand it very clearly now!!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 な、なんか、近いんだけど…。
 近眼、なの？
-> CONTEXT: Commonevents/34/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/182/Dialogue
+Nazuna:
+Y-you're getting closer...
+Are you near-sighted?
 > END STRING
 
 > BEGIN STRING
@@ -2126,8 +2179,11 @@ and eat something to increase my power...
 えっ！？
 あ…そうそう！！
 間近で見たほうが、やっぱりよくわかるじゃん！？
-> CONTEXT: Commonevents/34/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/186/Dialogue
+Schoolboy:
+Oh!?
+Oh... is that so.
+Isn't it better to see closer up!?
 > END STRING
 
 > BEGIN STRING
@@ -2135,8 +2191,11 @@ and eat something to increase my power...
 続けて続けて！
 はぁはぁ…、こんなに近くで、凝視できる日が来るとは…！
 この、ほのかに膨らんだ突起が…！
-> CONTEXT: Commonevents/34/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/191/Dialogue
+Schoolboy:
+Keep going!
+*pant* *pant*
+The bump is swelling faintly...!
 > END STRING
 
 > BEGIN STRING
@@ -2144,8 +2203,11 @@ and eat something to increase my power...
 ……？
 なんか、変…。
 テストが近いからって、根を詰めすぎなんじゃないの…？
-> CONTEXT: Commonevents/34/196/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/196/Dialogue
+Nazuna:
+......?
+Something wrong...
+Can he not study with the test so soon...?
 > END STRING
 
 > BEGIN STRING
@@ -2153,8 +2215,11 @@ and eat something to increase my power...
 ふぅ…、私の席。
 なんだか、色んな人に話しかけられて、疲れちゃった。
 やっぱり、水着だからかな……
-> CONTEXT: Commonevents/34/211/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/211/Dialogue
+Nazuna:
+Phew... finally at my seat.
+I'm tired after talking to so many people.
+It must be because of the swimsuit......
 > END STRING
 
 > BEGIN STRING
@@ -2162,23 +2227,29 @@ and eat something to increase my power...
 ちょっと、ナズナ！
 む、胸…！
 出てる！出てる！
-> CONTEXT: Commonevents/34/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/220/Dialogue
+Schoolgirl:
+Hey..., Nazuna!
+Chest, your chest...!
+It's out! It's out!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ………！
-> CONTEXT: Commonevents/34/241/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/241/Dialogue
+Nazuna:
+................!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 きっっっ…！
 き、きゃあああああーーーーーっ！！！！！
-> CONTEXT: Commonevents/34/245/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/245/Dialogue
+Nazuna:
+Kii...!
+Ki, Kyaaaaaa~~~!!!!
 > END STRING
 
 > BEGIN STRING
@@ -2186,8 +2257,11 @@ and eat something to increase my power...
 なんで！？
 いつからっ…、水着、切れて！？
 あ…、まさか、商店街で、ぶつかった時！！
-> CONTEXT: Commonevents/34/263/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/263/Dialogue
+Nazuna:
+How!?
+When... when did it get cut!?
+Ah..., when I crashed into that guy!!!
 > END STRING
 
 > BEGIN STRING
@@ -2195,8 +2269,11 @@ and eat something to increase my power...
 え…、ち、ちょっと待って…？
 あの時から、見えてたなら…、
 あの時も、あの時も…、男の人に、胸、見られて……？
-> CONTEXT: Commonevents/34/268/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/268/Dialogue
+Nazuna:
+Ee..., wait, wait a minute...
+If thats when it started...
+which means... everyone saw my nipple.......?
 > END STRING
 
 > BEGIN STRING
@@ -2204,8 +2281,11 @@ and eat something to increase my power...
 (何人に、見られちゃったんだろう…。
 これじゃ、私、露出狂みたい…！！
 うぅぅ、恥ずかしいぃ…！)
-> CONTEXT: Commonevents/34/276/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/276/Dialogue
+Nazuna:
+(Everyone's been watching...
+It makes me look like... like... a flasher...!!
+Uuu, so embarrassing...!)
 > END STRING
 
 > BEGIN STRING
@@ -2213,8 +2293,11 @@ and eat something to increase my power...
 とりあえず…、ぬ、縫おう。
 今はこれしか着れないんだから…、
 大事に扱わなきゃ……。
-> CONTEXT: Commonevents/34/285/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/285/Dialogue
+Nazuna:
+Let's stitch this up...
+Since it's the only thing I can wear now...
+I have to be careful with it......
 > END STRING
 
 > BEGIN STRING
@@ -2228,6 +2311,9 @@ and eat something to increase my power...
 はぁ…、情けない……。
 クラスの男子も、私の乳首…、黙って見てたんだよね…？
 うぅ〜…、酷い…、許せない……。
-> CONTEXT: Commonevents/34/294/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/34/294/Dialogue
+Nazuna:
+De... deplorable...
+The boys saw my nipple but didn't say anything...?
+Uu~... horrible...
 > END STRING

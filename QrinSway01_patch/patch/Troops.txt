@@ -64,8 +64,8 @@ Uu...!
 > BEGIN STRING
 闇が晴れ、
 奪われた視界が元に戻る…。
-> CONTEXT: Troops/1/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/1/pages/1/19/Dialogue
+The darkness clears up
 > END STRING
 
 > BEGIN STRING
@@ -82,11 +82,11 @@ It didn't hurt...)
 
 > BEGIN STRING
 ざわざわ…
-> CONTEXT: Troops/1/pages/1/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/42/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/34/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/34/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/1/pages/1/29/Dialogue
+> CONTEXT: Map004/events/9/pages/0/42/Dialogue
+> CONTEXT: Map004/events/9/pages/1/34/Dialogue
+> CONTEXT: Commonevents/34/48/Dialogue
+*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -262,9 +262,9 @@ Pervert! Pervert!!!
 
 > BEGIN STRING
 がやがや…
-> CONTEXT: Troops/3/pages/0/21/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/34/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/3/pages/0/21/Dialogue
+> CONTEXT: Commonevents/34/92/Dialogue
+*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -273,7 +273,7 @@ Pervert! Pervert!!!
 いいぞー、そこの奴！
 もっとやれー！脚開かせろー！
 > CONTEXT: Troops/3/pages/0/23/Dialogue
-Passerby:
+Bystander:
 Uwa, Nazuna is undressed.
 You, good job!
 More! Spread her legs open!
@@ -284,7 +284,7 @@ More! Spread her legs open!
 写真撮っちゃおうぜ！
 こっち向いてー！ナズナちゃーん！！
 > CONTEXT: Troops/3/pages/0/28/Dialogue
-Passerby:
+Bystander:
 I need to take a photo!
 Nazuna, look over here!
 > END STRING
@@ -385,8 +385,8 @@ Now's my chance!!
 
 > BEGIN STRING
 むにゅっ…
-> CONTEXT: Troops/3/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/3/pages/2/11/Dialogue
+*grope*
 > END STRING
 
 > BEGIN STRING
@@ -399,8 +399,8 @@ Aaaaaaaa~~~!!
 
 > BEGIN STRING
 むにゅむにゅむにゅむにゅ…
-> CONTEXT: Troops/3/pages/2/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/3/pages/2/20/Dialogue
+*grope* *grope* *grope* *grope*
 > END STRING
 
 > BEGIN STRING
@@ -420,7 +420,7 @@ D-don... aaah...!
 見ろよ、ナズナちゃんおっぱい揉まれてる！
 乳首も弄られてるなぁ…、羨ましい～！
 > CONTEXT: Troops/3/pages/2/28/Dialogue
-Passerby:
+Bystander:
 Look, he's rubbing Nazuna's breasts!
 He's playing with her nipples..., I'm jealous~!
 > END STRING
@@ -431,7 +431,7 @@ He's playing with her nipples..., I'm jealous~!
 乳首摘まれるたびに漏れて…、
 うっ、興奮してきた…。
 > CONTEXT: Troops/3/pages/2/32/Dialogue
-Passerby:
+Bystander:
 Her panting is so cute.
 Every time he pinches her tits...,
 she gets so excited...
@@ -468,9 +468,9 @@ I c-can't endure this
 
 > BEGIN STRING
 ずるずる…
-> CONTEXT: Troops/3/pages/3/16/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/31/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/3/pages/3/16/Dialogue
+> CONTEXT: Commonevents/31/52/Dialogue
+*drag*
 > END STRING
 
 > BEGIN STRING
@@ -535,7 +535,7 @@ Ouch...
 一生もののラッキーショットだな、こりゃ！
 う～ん、かわいいオマ○コ…。
 > CONTEXT: Troops/3/pages/3/44/Dialogue
-Passerby:
+Bystander:
 Look at her anus.
 This is a lucky shot, once in a lifetime!
 U~u, and a cute pussy
@@ -733,10 +733,10 @@ The demon pushes Nazuna toward a group of schoolboys!
 
 > BEGIN STRING
 どんっ！
-> CONTEXT: Troops/4/pages/2/19/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/4/pages/3/30/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/1/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/2/19/Dialogue
+> CONTEXT: Troops/4/pages/3/30/Dialogue
+> CONTEXT: Commonevents/1/122/Dialogue
+*thud*
 > END STRING
 
 > BEGIN STRING
@@ -801,8 +801,11 @@ Nazuna:
 (だめだめ、変なこと、考えちゃ…。
 みんな、ただ、応援してくれてるだけ。
 魔物との戦いの最中なのに、いやらしい目なんて、誰もしてないの！)
-> CONTEXT: Troops/4/pages/2/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/4/pages/2/53/Dialogue
+Nazuna:
+(Even if this may be strange to do...
+I still have everyone's support.
+Even during this fight, no one is staring!)
 > END STRING
 
 > BEGIN STRING
@@ -1025,7 +1028,7 @@ I can see it, I can see it all!
 うっわ〜、いい位置で見れたな。
 こっち側に立っててよかった〜！
 > CONTEXT: Troops/4/pages/4/43/Dialogue
-Male Student:
+Schoolboy:
 Uwa~, this is a great spot.
 I'm glad I stood on this side!
 > END STRING
@@ -1133,7 +1136,7 @@ We can watch her pussy and asshole everyday now...
 俺も九輪さんの後ろに回って…、
 うおお、連写しちゃおう…！
 > CONTEXT: Troops/4/pages/4/96/Dialogue
-Male Student:
+Schoolboy:
 M-Move!
 I'll go behind Nazuna...,
 Oooh, keep shooting...!

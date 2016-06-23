@@ -1,5 +1,78 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
+"Graphics/Animations/"
+> CONTEXT: Scripts/Cache/15:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks1/"
+> CONTEXT: Scripts/Cache/21:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks2/"
+> CONTEXT: Scripts/Cache/27:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlers/"
+> CONTEXT: Scripts/Cache/33:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Characters/"
+> CONTEXT: Scripts/Cache/39:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Faces/"
+> CONTEXT: Scripts/Cache/45:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Parallaxes/"
+> CONTEXT: Scripts/Cache/51:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Pictures/"
+> CONTEXT: Scripts/Cache/57:17 < UNTRANSLATED
+> CONTEXT: Scripts/キャッシュ消す/48:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/"
+> CONTEXT: Scripts/Cache/63:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Tilesets/"
+> CONTEXT: Scripts/Cache/69:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles1/"
+> CONTEXT: Scripts/Cache/75:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles2/"
+> CONTEXT: Scripts/Cache/81:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "購入する"
 > CONTEXT: Scripts/Vocab/11:21
 "Buy"
@@ -286,85 +359,6 @@
 > END STRING
 
 > BEGIN STRING
-"Graphics/Animations/"
-> CONTEXT: Scripts/Cache/15:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlebacks1/"
-> CONTEXT: Scripts/Cache/21:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlebacks2/"
-> CONTEXT: Scripts/Cache/27:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Battlers/"
-> CONTEXT: Scripts/Cache/33:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Characters/"
-> CONTEXT: Scripts/Cache/39:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Faces/"
-> CONTEXT: Scripts/Cache/45:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Parallaxes/"
-> CONTEXT: Scripts/Cache/51:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Pictures/"
-> CONTEXT: Scripts/Cache/57:17 < UNTRANSLATED
-> CONTEXT: Scripts/キャッシュ消す/48:22 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/System/"
-> CONTEXT: Scripts/Cache/63:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Tilesets/"
-> CONTEXT: Scripts/Cache/69:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Titles1/"
-> CONTEXT: Scripts/Cache/75:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"Graphics/Titles2/"
-> CONTEXT: Scripts/Cache/81:17 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%02d:%02d:%02d"
-> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "Data/Actors.rvdata2"
 > CONTEXT: Scripts/DataManager/37:37 < UNTRANSLATED
 
@@ -403,6 +397,12 @@
 > BEGIN STRING
 "Data/Enemies.rvdata2"
 > CONTEXT: Scripts/DataManager/43:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
 
 > END STRING
 
@@ -1262,14 +1262,14 @@
 > END STRING
 
 > BEGIN STRING
-"×"
-> CONTEXT: Scripts/Window_ShopNumber/61:55 < UNTRANSLATED
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/86:29 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"%+d"
-> CONTEXT: Scripts/Window_ShopStatus/86:29 < UNTRANSLATED
+"×"
+> CONTEXT: Scripts/Window_ShopNumber/61:55 < UNTRANSLATED
 
 > END STRING
 
@@ -3821,12 +3821,6 @@
 > END STRING
 
 > BEGIN STRING
-/09/
-> CONTEXT: Scripts/キャッシュ消す/7:5 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 //
 > CONTEXT: Scripts/キャッシュ消す/23:10 < UNTRANSLATED
 > CONTEXT: Scripts/キャッシュ消す/24:10 < UNTRANSLATED
@@ -3897,6 +3891,12 @@
 > BEGIN STRING
 'LOAD'
 > CONTEXT: Scripts/skip/396:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/09/
+> CONTEXT: Scripts/キャッシュ消す/7:5 < UNTRANSLATED
 
 > END STRING
 

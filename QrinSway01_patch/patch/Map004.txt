@@ -1031,7 +1031,7 @@ That's... nice.
 あんなに強そうな魔物に勝つなんて、
 やっぱり九輪さんは違うぜ！
 > CONTEXT: Map004/events/26/pages/1/1/Dialogue
-Male Student:
+Schoolboy:
 The demon seemed to be strong,
 but you're stronger!
 > END STRING
@@ -1052,7 +1052,7 @@ There isn't a demon who can defeat me...
 テレビやネットで晒されまくって、
 散々だった気がするけど…。)
 > CONTEXT: Map004/events/26/pages/1/12/Dialogue
-Male Student:
+Schoolboy:
 (Though she did lose and was naked.
 It's everywhere on TV and the net,
 I kinda feel bad for her...)
@@ -1070,7 +1070,7 @@ Nazuna:
 男子生徒:
 …いえ、ないです……。
 > CONTEXT: Map004/events/26/pages/1/22/Dialogue
-Male Student:
+Schoolboy:
 ...N-no... I didn't say anything...
 > END STRING
 
@@ -1079,7 +1079,7 @@ Male Student:
 九輪さん、胸が小さいの、気にしてたんだな。
 あの大きさがいいのに。
 > CONTEXT: Map004/events/26/pages/1/30/Dialogue
-Male Student:
+Schoolboy:
 Nazuna's chest is small, not that I mind.
 I actually think it's a good size.
 > END STRING
@@ -1089,7 +1089,7 @@ I actually think it's a good size.
 アソコに毛が生えてないのがコンプレックスらしいけど、
 綺麗な一本スジ、俺は大好きだぜ。
 > CONTEXT: Map004/events/26/pages/1/34/Dialogue
-Male Student:
+Schoolboy:
 She's worried about hair not growing there,
 but I prefer seeing those clean lips.
 > END STRING
@@ -1117,7 +1117,7 @@ The boys are too excited...!!
 見ろよ、この乳首…、
 ピンクで、ツンと上向いてて…。
 > CONTEXT: Map004/events/26/pages/1/51/Dialogue
-Male Student:
+Schoolboy:
 Look at her nipple...,
 it's so pink, and standing up...
 > END STRING
@@ -1127,7 +1127,7 @@ it's so pink, and standing up...
 げへへ…、たまんねえ。
 九輪さんの敗北動画、たくさんネットに上がってるもんな。
 > CONTEXT: Map004/events/26/pages/1/55/Dialogue
-Male Student:
+Schoolboy:
 Squee..., I have to find all of them.
 Nazuna's defeat is everywhere on the net.
 > END STRING
@@ -1138,7 +1138,7 @@ Nazuna's defeat is everywhere on the net.
 こっそり撮影して投稿してるみたいだぜ。
 全部探し出して保存しとかないと…。
 > CONTEXT: Map004/events/26/pages/1/59/Dialogue
-Male Student:
+Schoolboy:
 Students captured it as well as the TV,
 they secretly recorded and want to contribute.
 I have to collect them all...
@@ -1157,7 +1157,7 @@ I have to collect them all...
 ギャッ！！？
 い、いつの間に背後に…。
 > CONTEXT: Map004/events/26/pages/1/73/Dialogue
-Male Student:
+Schoolboy:
 Gyaa!!?
 W-when did you get here...
 > END STRING
@@ -1167,7 +1167,7 @@ W-when did you get here...
 痛い！
 ごめんなさい、九輪さん！！
 > CONTEXT: Map004/events/26/pages/1/77/Dialogue
-Male Student:
+Schoolboy:
 Ouch!
 Sorry Nazuna!!
 > END STRING
@@ -1176,7 +1176,7 @@ Sorry Nazuna!!
 男子生徒:
 う〜ん、教室で水着というアンバランスさが、また…。
 > CONTEXT: Map004/events/26/pages/1/84/Dialogue
-Male Student:
+Schoolboy:
 U~n, it's unusual to see a
 school swimsuit in the classroom...
 > END STRING
@@ -1198,7 +1198,7 @@ This isn't good...
 最近、魔物の出現が多いね。
 ちゃんと休めてる？
 > CONTEXT: Map004/events/26/pages/1/96/Dialogue
-Male Student:
+Schoolboy:
 Hello Nazuna.
 There have been a lot of demons lately.
 Are you resting properly?
@@ -1219,7 +1219,7 @@ there are only a few every day.
 よかったね、魔物を倒せて…。
 これで平和が戻ってきたよ。
 > CONTEXT: Map004/events/28/pages/1/1/Dialogue
-Male Student:
+Schoolboy:
 This is good, the demon has been defeated.
 Peace has returned.
 > END STRING
@@ -1240,7 +1240,7 @@ There's nothing shameful about it...
 きっちり録画してあるけどね…。
 本人の前では、絶対言えないけど。)
 > CONTEXT: Map004/events/28/pages/1/12/Dialogue
-Male Student:
+Schoolboy:
 (...But, I got all her nudes,
 I'm keeping them very close...
 But I can't say that while she's around.)
@@ -1261,7 +1261,7 @@ He's grinning...
 や、やぁ、九輪さん…。
 機嫌悪そうだね。
 > CONTEXT: Map004/events/28/pages/1/33/Dialogue
-Male Student:
+Schoolboy:
 A-ah, Nazuna...
 you seem to be in a bad mood.
 > END STRING
@@ -1282,7 +1282,7 @@ My video... me changing...
 男子生徒:
 うっ…、え〜…と、ちょっとだけ…
 > CONTEXT: Map004/events/28/pages/1/44/Dialogue
-Male Student:
+Schoolboy:
 Uue~...... maybe a little bit.
 > END STRING
 
@@ -1304,7 +1304,7 @@ But I already knew...
 ぜ、全部見ちゃったよ。
 今でも勃起が収まらない…。)
 > CONTEXT: Map004/events/28/pages/1/57/Dialogue
-Male Student:
+Schoolboy:
 (Nazuna's tits... ass...
 I saw all of it.
 I'm still hard remembering it...)
@@ -1326,7 +1326,7 @@ Uu~........
 水泳の授業は男女別だから、
 初めて見れるよ…。)
 > CONTEXT: Map004/events/28/pages/1/71/Dialogue
-Male Student:
+Schoolboy:
 (The prettiest girl in our school in her swimsuit...
 Since swimming lessons are separated by sex,
 this is the first time I've seen one...)
@@ -1348,7 +1348,7 @@ I've never shown so much skin before...)
 今日も、見事な戦いだったよ。
 魔法が使えるって、羨ましいなぁ。
 > CONTEXT: Map004/events/28/pages/1/84/Dialogue
-Male Student:
+Schoolboy:
 Ah, Nazuna.
 That was a great fight today.
 I'm jealous of your magic.
@@ -1371,7 +1371,7 @@ In everyday life, it's not very useful.
 ど、どうも、九輪さん…。
 ふひひ…。
 > CONTEXT: Map004/events/35/pages/1/0/Dialogue
-Male Student:
+Schoolboy:
 H-hello Nazuna...
 Fuhihi...
 > END STRING
@@ -1520,8 +1520,9 @@ Aah... What's with this viewer count...!
 > BEGIN STRING
 視聴者数一位：46783004回再生
 火寄学園2年C組　九輪ナズナちゃんの戦闘映像まとめ
-> CONTEXT: Map004/events/45/pages/3/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/2/Dialogue
+Nazuna Class 2-C Battle Summary
+Views: 46783004
 > END STRING
 
 > BEGIN STRING
@@ -1529,16 +1530,22 @@ Aah... What's with this viewer count...!
 『勝ってよかったね』
 『ナズナちゃんかわいすぎる』
 …
-> CONTEXT: Map004/events/45/pages/3/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/6/Dialogue
+『She looks good in her uniform!!』
+『Her victory was great』
+『Nazuna is so cute』
+...
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 制服の映像、一位になってる…。
 恥ずかしいけど、水着よりは、マシかな…。
-> CONTEXT: Map004/events/45/pages/3/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/12/Dialogue
+Nazuna:
+They show my school uniform first...
+It's embarrassing, 
+but it's better than the school swimsuit...
 > END STRING
 
 > BEGIN STRING
@@ -1546,8 +1553,11 @@ Aah... What's with this viewer count...!
 『もっと負けてほしかった』
 『ナズナちゃんエロすぎる』
 …
-> CONTEXT: Map004/events/45/pages/3/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/24/Dialogue
+『She looks great in a school swimsuit!!』
+『I wanted her to lose more』
+『Nazuna is too lewd』
+...
 > END STRING
 
 > BEGIN STRING
@@ -1555,8 +1565,11 @@ Aah... What's with this viewer count...!
 『肌綺麗だなあ』
 『触りたい…』
 …
-> CONTEXT: Map004/events/45/pages/3/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/34/Dialogue
+『Nazuna's ass!!』
+『Her skin is so pretty』
+『I want to touch her』
+...
 > END STRING
 
 > BEGIN STRING
@@ -1564,8 +1577,11 @@ Aah... What's with this viewer count...!
 『ナズナちゃん乳首立ってない？』
 『ピンク色でいい乳首してるなあ』
 …
-> CONTEXT: Map004/events/45/pages/3/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/44/Dialogue
+『Boobs! Boobs!』
+『Are Nazuna's nipples standing?』
+『Her nipples are so nice and pink』
+...
 > END STRING
 
 > BEGIN STRING
@@ -1573,8 +1589,11 @@ Aah... What's with this viewer count...!
 『1000万回抜いたわ』
 『毛が生えてないじゃん』
 …
-> CONTEXT: Map004/events/45/pages/3/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/54/Dialogue
+『Her pussy is visible』
+『I've fapped to this 1000 million times』
+『She's not growing any hair』
+...
 > END STRING
 
 > BEGIN STRING
@@ -1582,8 +1601,11 @@ Aah... What's with this viewer count...!
 『マ○コちょっと開いてるぜ』
 『無修正でこれはまずくないか？』
 …
-> CONTEXT: Map004/events/45/pages/3/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/45/pages/3/68/Dialogue
+『HD shots of her ass』
+『Her pussy is slightly open』
+『Shouldn't this be censored?』
+...
 > END STRING
 
 > BEGIN STRING
@@ -1593,7 +1615,7 @@ Aah... What's with this viewer count...!
 > CONTEXT: Map004/events/45/pages/3/76/Dialogue
 Nazuna:
 No wonder why there are so many views,
-the second half are the nudes...
+the second half is just me naked...
 > END STRING
 
 > BEGIN STRING
@@ -1637,77 +1659,95 @@ It split open and flew away.........
 『九輪ナズナさん、執念の勝利！
 魔物に呪いをかけられたナズナさんだが、
 このたび、見事にリベンジに成功し、解呪に成功…』
-> CONTEXT: Map004/events/47/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/1/Dialogue
+Newspaper Club:
+『Nazuna triumphantly wins!
+Though she was cursed by the demon,
+she defeated him and removed the curse...』
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 うん、このぐらいの、好意的な記事なら、
 掲載しても、いい…。
-> CONTEXT: Map004/events/47/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/7/Dialogue
+Nazuna:
+Hmm, this article seems good,
+you should publish it...
 > END STRING
 
 > BEGIN STRING
 写真部部長:
 『なお、敗北時のナズナさんの写真の入手に成功したので、
 以下に掲載する…』
-> CONTEXT: Map004/events/47/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/14/Dialogue
+Newspaper Club:
+『We captured a picture of Nazuna's defeat,
+shown right below...』
 > END STRING
 
 > BEGIN STRING
 写真部部長:
 ナズナさんの着替え映像、誰が撮ったんだろう？
 探し出して、元データ貰えないかな…。
-> CONTEXT: Map004/events/47/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/29/Dialogue
+Newspaper Club:
+I wonder who recorded you changing...
+Where can I find the original data...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 そんなこと、しちゃ駄目…！
-> CONTEXT: Map004/events/47/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/34/Dialogue
+Nazuna:
+Don't do such a thing...!
 > END STRING
 
 > BEGIN STRING
 写真部部長:
 僕も、負けたナズナさんの写真、撮っちゃった。
 記事にしていいかな？
-> CONTEXT: Map004/events/47/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/41/Dialogue
+Newspaper Club:
+I got a photo of when you lost.
+May I write an article on that?
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ぜ…絶対だめ！絶対だめ！絶対だめ！！！
 写真も消してぇぇ…！
-> CONTEXT: Map004/events/47/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/46/Dialogue
+Nazuna:
+N-no! No! No way! You can't!!
+Delete that photo too...!!
 > END STRING
 
 > BEGIN STRING
 新聞部部長:
 大スクープだ…。
 写真撮っていい？
-> CONTEXT: Map004/events/47/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/54/Dialogue
+Newspaper Club:
+This is a huge scoop...
+May I take a picture?
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 絶対だめ！！
-> CONTEXT: Map004/events/47/pages/0/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/59/Dialogue
+Nazuna:
+No way!!
 > END STRING
 
 > BEGIN STRING
 新聞部部長:
 ここは新聞部の部室だよ。
-> CONTEXT: Map004/events/47/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/65/Dialogue
+Newspaper Club:
+This is the newspaper clubroom.
 > END STRING
 
 > BEGIN STRING
@@ -1715,16 +1755,21 @@ It split open and flew away.........
 どうも、先輩…。
 また、私のこと、勝手に記事にしたでしょ。
 いつも、恥ずかしいからやめてって、いってるのに…。
-> CONTEXT: Map004/events/47/pages/0/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/69/Dialogue
+Nazuna:
+Greetings senpai,
+You wrote an article about me without my permission.
+I want you to stop, it's too embarrassing
 > END STRING
 
 > BEGIN STRING
 新聞部部長:
 いやあ…、やっぱ、折角同じ学園なんだし、
 記事にしないわけには…。
-> CONTEXT: Map004/events/47/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map004/events/47/pages/0/75/Dialogue
+Newspaper Club:
+Gee... after all the effort I put into it,
+there's no reason not too...
 > END STRING
 
 > BEGIN STRING
@@ -1742,7 +1787,7 @@ there's so much on you!
 やっぱり九輪さん、最後は勝ったな。
 彼女に勝てる奴なんて、地球上にいないぜ。
 > CONTEXT: Map004/events/49/pages/0/1/Dialogue
-Male Student:
+Schoolboy:
 You won after all.
 There isn't a person on earth who can beat you.
 > END STRING
@@ -1763,7 +1808,7 @@ Mhmm...
 何もかも全国ネットで公開されて…、
 女の子としては完膚なきまでに負け越しだな。
 > CONTEXT: Map004/events/49/pages/0/12/Dialogue
-Male Student:
+Schoolboy:
 ...Though you did appear naked on TV,
 shown to the whole country and net.
 To have that loss break your streak.
@@ -1783,7 +1828,7 @@ Nazuna:
 服を着るまでの一部始終の映像なんて…、100万出しても見れないぜ。
 ものすごいラッキーだったなあ。
 > CONTEXT: Map004/events/49/pages/0/27/Dialogue
-Male Student:
+Schoolboy:
 Nazuna took off her swimsuit and was naked,
 Millions of photos of her with and without clothes
 It's such a good day!
@@ -1807,7 +1852,7 @@ Slowly... and carefully... for so long...!
 テレビにも出てる超絶美少女の全裸…、
 目に焼き付いたぜ！
 > CONTEXT: Map004/events/49/pages/0/42/Dialogue
-Male Student:
+Schoolboy:
 This was even better than her swimsuit.
 She was completely naked... on TV!
 It's burned into my eyes!
@@ -1828,7 +1873,7 @@ T-this is the worst...!
 はぁはぁ…、身体にぴっちり張り付いて…、
 間近で、こんなの見れるなんて…。
 > CONTEXT: Map004/events/49/pages/0/56/Dialogue
-Male Student:
+Schoolboy:
 *pant* *pant* 
 It's on tight...
 to be able to see it this close...
@@ -1850,7 +1895,7 @@ So embarrassing... my body line is so visible...)
 男子生徒:
 九輪さん、今日もクールでかわいいなぁ…。
 > CONTEXT: Map004/events/49/pages/0/69/Dialogue
-Male Student:
+Schoolboy:
 Nazuna, you're looking pretty today...
 > END STRING
 
