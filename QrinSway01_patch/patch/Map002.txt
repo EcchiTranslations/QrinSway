@@ -427,9 +427,9 @@ You can have as many as you want.
 > CONTEXT: Map002/events/4/pages/1/17/Dialogue
 > CONTEXT: Map002/events/4/pages/2/17/Dialogue
 Nazuna:
-I munch on it...
-The croquette makes for a full meal.
-My magical powers grow as well...
+*munch* *munch*
+The croquette makes for a good meal.
+My magical powers are growing as well...
 > END STRING
 
 > BEGIN STRING
@@ -763,7 +763,7 @@ Uuuu...
 > CONTEXT: Map002/events/10/pages/0/26/Dialogue
 Bystander:
 Such a cute girl, broadcasted naked on TV.
-It got me very hard.
+It got me really hard.
 > END STRING
 
 > BEGIN STRING

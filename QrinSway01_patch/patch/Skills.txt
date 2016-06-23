@@ -25,14 +25,6 @@ Damages the enemy.
 > END STRING
 
 > BEGIN STRING
-防御
-> CONTEXT: Skills/2/name/
-> CONTEXT: States/9/name/
-> CONTEXT: System/terms/commands/3/
-Guard
-> END STRING
-
-> BEGIN STRING
 身を守ることに専念し、受けるダメージを抑える。
 > CONTEXT: Skills/2/description/
 Protects user and reduces damage taken.
@@ -1872,7 +1864,7 @@ Trip and fall
 うっかり足を滑らせてころぶ。
 頭を打って大ダメージ。戦闘には負ける。
 > CONTEXT: Skills/129/description/
-Carelessly slip your foot and fall.
+Carelessly slip and fall.
 Deals massive damage to your head. Loses the battle.
 > END STRING
 

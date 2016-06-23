@@ -359,12 +359,6 @@
 > END STRING
 
 > BEGIN STRING
-"%02d:%02d:%02d"
-> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 "Data/Actors.rvdata2"
 > CONTEXT: Scripts/DataManager/37:37 < UNTRANSLATED
 
@@ -379,6 +373,12 @@
 > BEGIN STRING
 "Data/Skills.rvdata2"
 > CONTEXT: Scripts/DataManager/39:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
 
 > END STRING
 
@@ -949,16 +949,16 @@
 > END STRING
 
 > BEGIN STRING
-"Data/Map%03d.rvdata2"
-> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 '!'
 > CONTEXT: Scripts/Game_CharacterBase/246:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/17:36 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/353:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rvdata2"
+> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
 
 > END STRING
 

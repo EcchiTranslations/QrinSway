@@ -245,8 +245,7 @@ Aah... aah, aah....
 こっちに来ました！
 > CONTEXT: Commonevents/1/136/Dialogue
 Reporter:
-Woah, Nazuna was pushed by the demon
-right towards us!
+Woah, the demon pushed Nazuna towards us!
 > END STRING
 
 > BEGIN STRING
@@ -1710,7 +1709,7 @@ T-this is a nightmare...!!
 よりによって自身が通う学園にいる全員に晒してしまったのだ。
 > CONTEXT: Commonevents/32/210/Dialogue
 Her knees quivering, she could barely stand anymore.
-The video began to spread throughout the school.
+The video was shared throughout the school.
 Things that every girl keep secret,
 were now exposed to all her classmates.
 > END STRING

@@ -6,7 +6,7 @@
 > CONTEXT: Map001/events/3/pages/0/4/Dialogue
 Another sunny day at a school.
 Many students gathered around the school grounds.
-A strange scene had developed.
+As a strange scene had developed.
 > END STRING
 
 > BEGIN STRING
@@ -634,8 +634,8 @@ Everyone saw everything... I want to cry...
 感謝しないとな。）
 > CONTEXT: Map001/events/90/pages/0/38/Dialogue
 Schoolboy:
-(Though bad for her, that demon,
-I loved what he had shown us...
+(Though bad for her,
+I loved what that demon showed us...
 I must thank him.)
 > END STRING
 
@@ -1123,8 +1123,8 @@ Nazuna left thinking over the idea...
 > CONTEXT: Map001/events/95/pages/0/154/Dialogue
 Wizard:
 (...Well, it's a lie. She's prodigious, but she's in my way~. 
-I owe her this after they discovered
-my embezzlement and got me demoted.)
+I owe her this after they discovered my embezzlement
+and got me demoted.)
 > END STRING
 
 > BEGIN STRING
@@ -1136,7 +1136,7 @@ my embezzlement and got me demoted.)
 Wizard:
 (Her mother is the head of the British branch,
 and since this affair hasn't reach headquarters,
-her repeated failures will destroy their status!!)
+her repeated failures will destroy their reputation!!)
 > END STRING
 
 > BEGIN STRING

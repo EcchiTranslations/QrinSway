@@ -153,6 +153,14 @@ Escape
 > END STRING
 
 > BEGIN STRING
+防御
+> CONTEXT: Skills/2/name/
+> CONTEXT: States/9/name/
+> CONTEXT: System/terms/commands/3/
+Guard
+> END STRING
+
+> BEGIN STRING
 アイテム
 > CONTEXT: System/terms/commands/4/
 Item

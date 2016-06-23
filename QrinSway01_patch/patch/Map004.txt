@@ -135,7 +135,7 @@ Is she ashamed of her swimsuit being broadcasted live?
 > CONTEXT: Map004/events/3/pages/1/73/Dialogue
 Nazuna:
 Broadcasted live...!
-D-don't, I don't permit you to...!
+D-don't, I don't allow you to...!
 Go away!!
 > END STRING
 
@@ -686,7 +686,7 @@ No
 ありがとう！
 > CONTEXT: Map004/events/9/pages/2/0/Dialogue
 > CONTEXT: Map004/events/12/pages/0/1/Dialogue
-Photography Club:
+Photography Club Leader:
 I'm able to use the clubroom again.
 Thank you!
 > END STRING
@@ -699,7 +699,7 @@ Thank you!
 > CONTEXT: Map004/events/12/pages/0/7/Dialogue
 Nazuna:
 Don't ever record me again...
-I'll never permit it...
+I'll never allow it...
 > END STRING
 
 > BEGIN STRING
@@ -716,7 +716,7 @@ Senpai... do you have anything to tell me...?
 あ、あぁ…、酷い事件だったね…。
 あんな映像を、学校中で再生するなんて……。
 > CONTEXT: Map004/events/12/pages/0/22/Dialogue
-Photography Club:
+Photography Club Leader:
 Oh!!?
 I-It was terrible... terrible indeed...,
 to show such a thing in school!
@@ -736,7 +736,7 @@ Nazuna:
 確かに、ナズナちゃんの着替えを盗撮したのは僕だけど、
 1番悪いのは、あれを大勢に公開した、魔物だろ？
 > CONTEXT: Map004/events/12/pages/0/32/Dialogue
-Photography Club:
+Photography Club Leader:
 W-wait...
 I may have recorded you changing,
 but the demon is worse for playing it, right?
@@ -748,7 +748,7 @@ but the demon is worse for playing it, right?
 怒りの矛先を間違えてはいけない！
 今までは、僕一人で楽しんでたんだから、実害はなかったわけだし…
 > CONTEXT: Map004/events/12/pages/0/37/Dialogue
-Photography Club:
+Photography Club Leader:
 Having all 1,000 students at this school seeing you naked,
 that's much worse... don't you agree?
 Until now, I was the only one enjoying it... no harm done...
@@ -764,7 +764,7 @@ Until now, I was the only one enjoying it... no harm done...
 写真部部長:
 がああああああ！？
 > CONTEXT: Map004/events/12/pages/0/44/Dialogue
-Photography Club:
+Photography Club Leader:
 Gaaaaaaa!?
 > END STRING
 
@@ -784,7 +784,7 @@ and having peeped on me!
 うぅ…、ごめんなさい……。
 ガクリ…。
 > CONTEXT: Map004/events/12/pages/0/53/Dialogue
-Photography Club:
+Photography Club Leader:
 I'm so sorry...
 Uwa...
 > END STRING
@@ -794,7 +794,7 @@ Uwa...
 はあ…、魔物にアレを奪われるなんて、えらいことになった…。
 もし、あれが流出したら、えらいことに…
 > CONTEXT: Map004/events/12/pages/0/60/Dialogue
-Photography Club:
+Photography Club Leader:
 Ugh... the demon took that thing...,
 it was so good...
 But if it's leaked, there's gonna be trouble...
@@ -816,7 +816,7 @@ Is there any way I can help?
 大丈夫、なんでもないから！！
 気にしないで！
 > CONTEXT: Map004/events/12/pages/0/71/Dialogue
-Photography Club:
+Photography Club Leader:
 N-no, no!
 It's alright!!
 Don't worry about it!
@@ -837,7 +837,7 @@ Is it really...?
 た、大したものじゃないから！！
 うん…。
 > CONTEXT: Map004/events/12/pages/0/82/Dialogue
-Photography Club:
+Photography Club Leader:
 It's really not all that important!
 It's fine...
 > END STRING
@@ -848,7 +848,7 @@ It's fine...
 魔物に見つかったのは大問題だけど、この子に見つかるのは、
 それ以上にやばい…！！）
 > CONTEXT: Map004/events/12/pages/0/86/Dialogue
-Photography Club:
+Photography Club Leader:
 (Such a picture on the PC...,
 It'll be a problem if she finds it,
 but it'll be worse if the demon finds it...!!)
@@ -860,7 +860,7 @@ but it'll be worse if the demon finds it...!!)
 まるで、魔法でもかかってるみたいに、
 ビクともしない…。
 > CONTEXT: Map004/events/12/pages/0/95/Dialogue
-Photography Club:
+Photography Club Leader:
 The door won't open, even with its key.
 It's as if magic is locking it,
 it won't budge an inch...
@@ -880,7 +880,7 @@ Stand back senpai...
 写真部部長:
 ここは写真部の部室だよ。
 > CONTEXT: Map004/events/12/pages/0/108/Dialogue
-Photography Club:
+Photography Club Leader:
 This is the photography clubroom.
 > END STRING
 
@@ -896,7 +896,7 @@ Thank you senpai...
 写真部部長:
 …。
 > CONTEXT: Map004/events/12/pages/0/116/Dialogue
-Photography Club:
+Photography Club Leader:
 ...
 > END STRING
 
@@ -917,7 +917,7 @@ Is there something on my face...?
 い、いや、なんでもないよ…。
 えへへ…。
 > CONTEXT: Map004/events/12/pages/0/126/Dialogue
-Photography Club:
+Photography Club Leader:
 No no no, you're fine...
 Ehehe...
 > END STRING
@@ -1658,7 +1658,7 @@ It split open and flew away.........
 魔物に呪いをかけられたナズナさんだが、
 このたび、見事にリベンジに成功し、解呪に成功…』
 > CONTEXT: Map004/events/47/pages/0/1/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 『Nazuna triumphantly wins!
 Though she was cursed by the demon,
 she defeated him and removed the curse...』
@@ -1679,7 +1679,7 @@ you should publish it...
 『なお、敗北時のナズナさんの写真の入手に成功したので、
 以下に掲載する…』
 > CONTEXT: Map004/events/47/pages/0/14/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 『We captured a picture of Nazuna's defeat,
 shown right below...』
 > END STRING
@@ -1689,7 +1689,7 @@ shown right below...』
 ナズナさんの着替え映像、誰が撮ったんだろう？
 探し出して、元データ貰えないかな…。
 > CONTEXT: Map004/events/47/pages/0/29/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 I wonder who recorded you changing...
 Where can I find the original data...
 > END STRING
@@ -1707,7 +1707,7 @@ Don't do such a thing...!
 僕も、負けたナズナさんの写真、撮っちゃった。
 記事にしていいかな？
 > CONTEXT: Map004/events/47/pages/0/41/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 I got a photo of when you lost.
 May I write an article on that?
 > END STRING
@@ -1727,7 +1727,7 @@ Delete that photo too...!!
 大スクープだ…。
 写真撮っていい？
 > CONTEXT: Map004/events/47/pages/0/54/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 This is a huge scoop...
 May I take a picture?
 > END STRING
@@ -1744,7 +1744,7 @@ No way!!
 新聞部部長:
 ここは新聞部の部室だよ。
 > CONTEXT: Map004/events/47/pages/0/65/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 This is the newspaper clubroom.
 > END STRING
 
@@ -1765,7 +1765,7 @@ I want you to stop, it's too embarrassing
 いやあ…、やっぱ、折角同じ学園なんだし、
 記事にしないわけには…。
 > CONTEXT: Map004/events/47/pages/0/75/Dialogue
-Newspaper Club:
+Newspaper Club Leader:
 Gee... after all the effort I put into it,
 there's no reason not too...
 > END STRING
