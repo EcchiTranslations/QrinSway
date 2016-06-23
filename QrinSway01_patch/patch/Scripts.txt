@@ -92,20 +92,20 @@
 
 > BEGIN STRING
 "持っている数"
-> CONTEXT: Scripts/Vocab/14:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/14:21
+"Possession"
 > END STRING
 
 > BEGIN STRING
 "現在の経験値"
-> CONTEXT: Scripts/Vocab/17:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/17:21
+"Current Exp"
 > END STRING
 
 > BEGIN STRING
 "次の%sまで"
-> CONTEXT: Scripts/Vocab/18:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/18:21
+"To Next %s"
 > END STRING
 
 > BEGIN STRING
@@ -359,6 +359,12 @@
 > END STRING
 
 > BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "Data/Actors.rvdata2"
 > CONTEXT: Scripts/DataManager/37:37 < UNTRANSLATED
 
@@ -542,12 +548,6 @@
 "rb"
 > CONTEXT: Scripts/DataManager/173:37 < UNTRANSLATED
 > CONTEXT: Scripts/DataManager/185:37 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%02d:%02d:%02d"
-> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
 
 > END STRING
 
@@ -949,16 +949,16 @@
 > END STRING
 
 > BEGIN STRING
-'!'
-> CONTEXT: Scripts/Game_CharacterBase/246:46 < UNTRANSLATED
-> CONTEXT: Scripts/Window_NameInput/17:36 < UNTRANSLATED
-> CONTEXT: Scripts/Window_Message/353:10 < UNTRANSLATED
+"Data/Map%03d.rvdata2"
+> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-"Data/Map%03d.rvdata2"
-> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
+'!'
+> CONTEXT: Scripts/Game_CharacterBase/246:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/353:10 < UNTRANSLATED
 
 > END STRING
 

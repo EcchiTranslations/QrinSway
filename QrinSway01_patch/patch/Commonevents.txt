@@ -6,7 +6,7 @@
 > CONTEXT: Commonevents/3/2/Dialogue
 > CONTEXT: Commonevents/4/2/Dialogue
 Nazuna:
-Hrmm... He's up to something...
+Hrmm... he's up to something...
 > END STRING
 
 > BEGIN STRING
@@ -34,7 +34,7 @@ Nazuna pushes his hand away.
 > CONTEXT: Commonevents/4/16/Dialogue
 > CONTEXT: Commonevents/4/41/Dialogue
 Nazuna:
-D-don't touch it...!
+D-don't touch...!
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +42,7 @@ D-don't touch it...!
 一気に引き下ろした！！
 > CONTEXT: Commonevents/1/22/Dialogue
 The demon firmly grabs her shoulder straps
--and pulls it straight down!!
+and pulls it straight down!!
 > END STRING
 
 > BEGIN STRING
@@ -319,6 +319,15 @@ Demon:
 Oh ho, your ass,
 Do you want us to see?
 Okay, wish granted...!
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+きゃ…！
+> CONTEXT: Map004/events/46/pages/0/23/Dialogue
+> CONTEXT: Commonevents/1/186/Dialogue
+Nazuna:
+Kyaa...!
 > END STRING
 
 > BEGIN STRING
@@ -1956,7 +1965,7 @@ If not, I must be on my way...
 まあいいか…、いっぱい見て貰いなよ、ナズナちゃん！)
 > CONTEXT: Commonevents/34/32/Dialogue
 Bystander:
-(Aah, she didn't noticing her nipple showing.
+(Aah, she didn't notice her nipple showing.
 It was nice..., but I wanted to see more!)
 > END STRING
 
@@ -2199,8 +2208,8 @@ The bump is swelling faintly...!
 > CONTEXT: Commonevents/34/196/Dialogue
 Nazuna:
 ......?
-Something wrong...
-Can he not study with the test so soon...?
+Is something wrong...
+Is it hard to study with the test so soon...?
 > END STRING
 
 > BEGIN STRING

@@ -454,7 +454,7 @@ Auya, yaaa...!
 こんなの、耐えられないっ…！
 > CONTEXT: Troops/3/pages/3/2/Dialogue
 Nazuna:
-Uu..., so embarrassing, too embarrassing...!!
+Uu..., so embarrassing, it's so embarrassing...!!
 I c-can't endure this
 > END STRING
 

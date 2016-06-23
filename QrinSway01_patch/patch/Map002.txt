@@ -740,16 +740,20 @@ Can't argue with you there...
 通行人:
 いや、負けたじゃん…。
 全裸にされてみんなに見られて泣いてたじゃん。
-> CONTEXT: Map002/events/10/pages/0/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/0/11/Dialogue
+Bystander:
+Though... you still did lose...
+And everyone saw you naked and crying.
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 なっ…、泣いてないもんっ…！
 ううううう…。
-> CONTEXT: Map002/events/10/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/0/16/Dialogue
+Nazuna:
+I-I didn't cry...!
+Uuuu...
 > END STRING
 
 > BEGIN STRING

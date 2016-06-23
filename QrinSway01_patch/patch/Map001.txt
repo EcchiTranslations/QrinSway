@@ -84,7 +84,7 @@ It might hurt a little, but endure it.
 > CONTEXT: Map001/events/3/pages/0/50/Dialogue
 Light surged from the girl's fingertip.
 A flash of light hit the demon,
-and after a second, it had disappeared.
+and after a second, the demon disappeared.
 > END STRING
 
 > BEGIN STRING
@@ -114,7 +114,7 @@ She won!
 Schoolgirl:
 Thank you Nazuna!
 If it weren't for your magical powers,
-what would we do without you...
+what would we do without you...?
 > END STRING
 
 > BEGIN STRING
@@ -274,8 +274,8 @@ it would make me look pathetic...)
 彼女にとっては愛すべき日常の一コマだ。
 > CONTEXT: Map001/events/3/pages/0/160/Dialogue
 With her heart pounding,
-she returned to class with showers of praise.
-It was very encouraging to see everyone love her.
+she returned to class receiving praise from her classmates.
+It was a very encouraging scene for her.
 > END STRING
 
 > BEGIN STRING
@@ -311,7 +311,7 @@ And she's unable to wear anything else!!
 > BEGIN STRING
 じーっ…。
 > CONTEXT: Map001/events/41/pages/0/15/Dialogue
-*staring*
+*stare*
 > END STRING
 
 > BEGIN STRING
@@ -339,7 +339,7 @@ Her skin is beautiful too~!
 と、と、撮らないでぇぇぇ…！
 > CONTEXT: Map001/events/41/pages/0/32/Dialogue
 Nazuna:
-D-d-don't film this...!
+D-d-don't record this...!
 > END STRING
 
 > BEGIN STRING
@@ -348,6 +348,16 @@ D-d-don't film this...!
 > CONTEXT: Map001/events/41/pages/0/47/Dialogue
 Reporter:
 Ah..., she ran away...
+> END STRING
+
+> BEGIN STRING
+ナズナ:
+………。
+> CONTEXT: Map001/events/41/pages/0/59/Dialogue
+> CONTEXT: Map004/events/26/pages/1/66/Dialogue
+> CONTEXT: Map004/events/28/pages/1/29/Dialogue
+Nazuna:
+............
 > END STRING
 
 > BEGIN STRING
@@ -849,7 +859,7 @@ it's been a long time...
 魔法協会の男だった。
 > CONTEXT: Map001/events/95/pages/0/9/Dialogue
 A man from another town appeared before Nazuna.
-He was a member of the magic association.
+He was a member of the mage's guild.
 > END STRING
 
 > BEGIN STRING
@@ -857,16 +867,21 @@ He was a member of the magic association.
 政府との連携や情報統制など、
 個人では難しい手続きや金銭面でのサポートを、
 組織としてバックアップしてくれるのだ。
-> CONTEXT: Map001/events/95/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/95/pages/0/12/Dialogue
+The mage's guild was formed to oppose demons,
+cooperating with the government and providing information.
+Supporting them is difficult and is hard on individuals.
+Nazuna serves as backup for the guild.
 > END STRING
 
 > BEGIN STRING
 財源は主に寄付から成り立っており、
 協会員の構成としては、ナズナのような魔法使いは一握りで、
 裏方としての普通の人間がほとんどである。
-> CONTEXT: Map001/events/95/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/95/pages/0/17/Dialogue
+Funding is provided mostly from donations.
+Magicians like Nazuna are rare.
+Normal people make up majority of the guild.
 > END STRING
 
 > BEGIN STRING
@@ -874,8 +889,11 @@ He was a member of the magic association.
 しかしまあ、面白い格好になっちゃって…。
 一応、君は日本支部の顔なんだから、相応しい振る舞いを頼むよ。
 イギリス支部のお母様も悲しむよ？
-> CONTEXT: Map001/events/95/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/95/pages/0/21/Dialogue
+Wizard:
+You have quite an interesting appearance...
+You represent the British branch here, so do behave.
+You wouldn't want to make your mother sad?
 > END STRING
 
 > BEGIN STRING
@@ -885,7 +903,7 @@ He was a member of the magic association.
 > CONTEXT: Map001/events/95/pages/0/27/Dialogue
 Nazuna:
 Mama isn't the issue right now.
-These magic clothes... 
+These magical clothes... 
 I can't do anything about them...!!
 > END STRING
 
@@ -894,8 +912,11 @@ I can't do anything about them...!!
 とにかくさ、これ以上テレビ中継される中で負けたり、
 全裸の映像が出回ったりすると、協会のイメージダウンなんだよね。
 ナズナちゃんに憧れて魔法使いを目指す子も多いんだから、その辺を…
-> CONTEXT: Map001/events/95/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/95/pages/0/32/Dialogue
+Wizard:
+Losing naked on TV was awful.
+It damages the image of all magicians.
+A lot of children look up to you, Nazuna.
 > END STRING
 
 > BEGIN STRING
@@ -905,7 +926,7 @@ I can't do anything about them...!!
 テレビやネットに圧力をかけてくださいよぉ！
 > CONTEXT: Map001/events/95/pages/0/44/Dialogue
 Nazuna:
-I know! It's embarrassing...!!
+I know! It was embarrassing...!!
 If you understand the situation, please...
 pressure the net and TV to remove them!
 > END STRING

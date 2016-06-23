@@ -15,7 +15,7 @@ Public bath
 > CONTEXT: Map005/events/5/pages/1/2/Dialogue
 > CONTEXT: Map005/events/5/pages/2/2/Dialogue
 Nazuna:
-...Let's enter the bath.
+...Time for a bath.
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +28,7 @@ Nazuna:
 > CONTEXT: Map005/events/3/pages/2/49/Dialogue
 > CONTEXT: Map005/events/3/pages/2/95/Dialogue
 Nazuna:
-...phew
+...Phew
 > END STRING
 
 > BEGIN STRING

@@ -113,7 +113,7 @@ unable to wear anything else except her swimsuit~.
 だ、駄目…。
 > CONTEXT: Map004/events/3/pages/1/63/Dialogue
 Nazuna:
-Ah..., don't film...!
+Ah..., don't record...!
 You're not allowed to.
 > END STRING
 
@@ -176,7 +176,7 @@ Stay tuned!
 か、勝手に撮らないでってばぁ…！
 > CONTEXT: Map004/events/3/pages/1/95/Dialogue
 Nazuna:
-D-don't film without my permission...!
+D-don't record without my permission...!
 > END STRING
 
 > BEGIN STRING
@@ -927,7 +927,7 @@ Ehehe...
 ナズナ、がんばってね。
 > CONTEXT: Map004/events/15/pages/1/0/Dialogue
 Schoolgirl:
-Nazuna, try your best!
+Do your best Nazuna!
 > END STRING
 
 > BEGIN STRING
@@ -1140,16 +1140,6 @@ Schoolboy:
 Students captured it as well as the TV,
 they secretly recorded and posted it.
 I have to collect them all...
-> END STRING
-
-> BEGIN STRING
-ナズナ:
-………。
-> CONTEXT: Map001/events/41/pages/0/59/Dialogue
-> CONTEXT: Map004/events/26/pages/1/66/Dialogue
-> CONTEXT: Map004/events/28/pages/1/29/Dialogue
-Nazuna:
-............
 > END STRING
 
 > BEGIN STRING
@@ -1765,7 +1755,7 @@ This is the newspaper clubroom.
 いつも、恥ずかしいからやめてって、いってるのに…。
 > CONTEXT: Map004/events/47/pages/0/69/Dialogue
 Nazuna:
-Greetings senpai,
+Hey senpai,
 You wrote an article about me without my permission.
 I want you to stop, it's too embarrassing
 > END STRING
@@ -1915,12 +1905,4 @@ Nazuna, you're looking pretty today...
 Nazuna:
 It's becoming harder to stay in school
 Uu..., I need to beat that demon, fast...
-> END STRING
-
-> BEGIN STRING
-ナズナ:
-きゃ…！
-> CONTEXT: Map004/events/46/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/1/186/Dialogue < UNTRANSLATED
-
 > END STRING
