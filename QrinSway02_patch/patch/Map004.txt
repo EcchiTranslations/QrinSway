@@ -53,7 +53,7 @@ Say cheese!
 パシャッ！
 > CONTEXT: Map004/events/9/pages/1/16/Dialogue
 > CONTEXT: Commonevents/31/263/Dialogue
-Click!
+*click*
 > END STRING
 
 > BEGIN STRING
@@ -71,7 +71,7 @@ I'll let it slide since I'm feeling good now.
 えへへへ…、じゃあ次はちょっと、ポーズ取ってみようか…。
 > CONTEXT: Map004/events/9/pages/1/22/Dialogue
 Photography Club Leader:
-Now now...,\\.\\. pose a little...
+Now now..., pose a little...
 > END STRING
 
 > BEGIN STRING
@@ -233,8 +233,8 @@ can you pick it up for me?
 よいしょ…
 > CONTEXT: Map004/events/12/pages/0/6/Dialogue
 Nazuna:
-Sure...\\.
-Is this it?\\.
+Sure...
+Is this it?
 Oops-a-daisy...
 > END STRING
 
@@ -246,7 +246,7 @@ Oops-a-daisy...
 > CONTEXT: Map004/events/12/pages/0/15/Dialogue
 Schoolboy:
 (Ooohh...!!
-Bending over to pick it up...\\.
+Bending over to pick it up...
 it looks so dirty...)
 > END STRING
 
@@ -255,7 +255,7 @@ it looks so dirty...)
 …はい、消しゴム。
 > CONTEXT: Map004/events/12/pages/0/23/Dialogue
 Nazuna:
-...Here\\.\\., your eraser.
+...Here, your eraser.
 > END STRING
 
 > BEGIN STRING
@@ -264,7 +264,7 @@ Nazuna:
 本当にありがとう！！！
 > CONTEXT: Map004/events/12/pages/0/26/Dialogue
 Schoolboy:
-Ah,\\. thank you...!!\\.\\.
+Ah, thank you...!!
 Thank you very much!!!
 > END STRING
 
@@ -302,7 +302,7 @@ I was cheering for you~.
 えへへ。
 > CONTEXT: Map004/events/19/pages/1/6/Dialogue
 Nazuna:
-Yeah, I really gave it my all...\\.\\.
+Yeah, I really gave it my all...
 Teehee.
 > END STRING
 
@@ -313,7 +313,7 @@ Teehee.
 > CONTEXT: Map004/events/19/pages/1/14/Dialogue
 Schoolgirl:
 Are you all right?
-To be exposed throughout school,\\. 
+To be exposed throughout school, 
 it's too cruel...
 > END STRING
 
@@ -323,7 +323,7 @@ it's too cruel...
 こんなのって……。
 > CONTEXT: Map004/events/19/pages/1/19/Dialogue
 Nazuna:
-Friends,\\.\\. seniors,\\.\\. juniors...\\.\\.
+Friends, seniors, juniors...
 Like this...
 > END STRING
 
@@ -393,7 +393,7 @@ Thank you...
 あんなメガネを使ったこと…。
 > CONTEXT: Map004/events/26/pages/2/6/Dialogue
 Schoolboy:
-A-\\.are you angry...?
+A-are you angry...?
 Having used those glasses...
 > END STRING
 
@@ -451,7 +451,7 @@ U~~~~..., uu~~...
 はぁ…はぁ…。
 > CONTEXT: Map004/events/26/pages/2/45/Dialogue
 Schoolboy:
-*pant*\\.\\. *pant*
+*pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -459,7 +459,7 @@ Schoolboy:
 事件解決したら…、覚えてろ……。
 > CONTEXT: Map004/events/26/pages/2/49/Dialogue
 Nazuna:
-When this is over.\\..\\..,\\.\\.
+When this is over...,
 you're gonna regret this...
 > END STRING
 
@@ -564,8 +564,8 @@ Eek...
 白くてかわいいな。）
 > CONTEXT: Map004/events/26/pages/2/120/Dialogue
 Schoolboy:
-(When set to low...\\.
-aah,\\. Nazuna's panties...\\.\\.
+(When set to low...
+aah, Nazuna's panties...
 so white and pretty.)
 > END STRING
 
@@ -718,10 +718,10 @@ Live broadcasted, uncut unrevisioned version
 『ちょっと濡れてるよね？ただの汗かな？』
 …
 > CONTEXT: Map004/events/45/pages/0/58/Dialogue
-『Her insides twitched!』\\!
-『ぶち込んで泣かせてやりたい！！』\\!
-『Is she getting wet? Or is that sweat?』\\!
-\\..\\..\\..
+『Her insides twitched!』
+『ぶち込んで泣かせてやりたい！！』
+『Is she getting wet? Or is that sweat?』
+...
 > END STRING
 
 > BEGIN STRING
@@ -763,9 +763,9 @@ Live broadcasted, uncut unrevisioned version
 『キモい奴だな』
 …
 > CONTEXT: Map004/events/45/pages/0/92/Dialogue
-『I saw Nazuna attending class naked today』\\!
-『Nice fantasy』\\!
-『You're disgusting』\\!
+『I saw Nazuna attending class naked today』
+『Nice fantasy』
+『You're disgusting』
 ...
 > END STRING
 
@@ -788,7 +788,7 @@ I haven't undressed today...
 Nazuna:
 Oof... the swimsuit video from last time...,
 it's still the highest ranked one...
-delete it...\\.\\. delete it......
+delete it... delete it......
 > END STRING
 
 > BEGIN STRING
@@ -834,8 +834,8 @@ I need to take my seat.
 はぁはぁ…。)
 > CONTEXT: Map004/events/46/pages/0/21/Dialogue
 Schoolboy:
-(Her ass.\\..\\..\\. her bare back.\\..\\..\\.
-*pant*...\\. *pant*...)
+(Her ass... her bare back...
+*pant*... *pant*...)
 > END STRING
 
 > BEGIN STRING
@@ -854,7 +854,7 @@ her bottom can be seen by everyone behind...)
 なんか、視線を感じる……。)
 > CONTEXT: Map004/events/46/pages/0/30/Dialogue
 Nazuna:
-(........?\\.\\.
+(........?
 I feel eyes staring at me......)
 > END STRING
 
@@ -865,8 +865,8 @@ I feel eyes staring at me......)
 前に出て解いてくれ。
 > CONTEXT: Map004/events/46/pages/0/37/Dialogue
 Teacher:
-Now for this problem.\\..\\..\\.
-Nazuna!\\.\\.
+Now for this problem...
+Nazuna!
 Come upfront and solve it.
 > END STRING
 
@@ -886,7 +886,7 @@ Okay!
 > CONTEXT: Map004/events/46/pages/0/69/Dialogue
 Schoolboy:
 (Lucky!
-She's in front of the class...\\.\\.,
+She's in front of the class...,
 I can see her naked so clearly!)
 > END STRING
 
@@ -917,7 +917,7 @@ I can see her naked so clearly!)
 よいしょ…。
 > CONTEXT: Map004/events/46/pages/0/83/Dialogue
 Nazuna:
-Ah\\., I dropped the chalk...\\.
+Ah, I dropped the chalk...
 Oops-a-daisy...
 > END STRING
 
@@ -936,8 +936,8 @@ Schoolboy:
 丸見えに！！)
 > CONTEXT: Map004/events/46/pages/0/91/Dialogue
 Schoolboy:
-(She's bending over...\\.,
-her bottom,\\.\\. it's completely visible!!)
+(She's bending over...,
+her bottom, it's completely visible!!)
 > END STRING
 
 > BEGIN STRING
@@ -1018,7 +1018,7 @@ She wanted to avoid that at all costs.
 ありえない……。)
 > CONTEXT: Map004/events/46/pages/2/31/Dialogue
 Nazuna:
-(To attend class like this...\\.
+(To attend class like this...
 it's impossible......)
 > END STRING
 
@@ -1029,7 +1029,7 @@ it's impossible......)
 指示書…？
 > CONTEXT: Map004/events/46/pages/2/41/Dialogue
 Nazuna:
-...?\\!
+...?
 A paper on my desk.
 Instructions...?
 > END STRING
@@ -1519,7 +1519,7 @@ Schoolboy:
 お、お疲れ様…。
 > CONTEXT: Map004/events/49/pages/1/1/Dialogue
 Schoolboy:
-T-\\.thank you...
+T-thank you...
 > END STRING
 
 > BEGIN STRING
@@ -1545,7 +1545,7 @@ Huh...
 > CONTEXT: Map004/events/49/pages/1/13/Dialogue
 Nazuna:
 You saw me naked...
-A-\\.apoligize now...!
+A-apoligize now...!
 > END STRING
 
 > BEGIN STRING
@@ -1594,7 +1594,7 @@ Uu....!
 …ちょっとトイレ行ってくる…。
 > CONTEXT: Map004/events/49/pages/1/47/Dialogue
 Schoolboy:
-I-\\.I need to use the bathroom...
+I-I need to use the bathroom...
 > END STRING
 
 > BEGIN STRING
@@ -1629,7 +1629,7 @@ Nazuna:
 動画もネットにあがってるし…。
 > CONTEXT: Map004/events/49/pages/1/70/Dialogue
 Schoolboy:
-I saw it on the news on my phone...,\\.\\.
+I saw it on the news on my phone...,
 and there's videos online too...
 > END STRING
 
@@ -1646,7 +1646,7 @@ Nazuna:
 おっと、靴紐がほどけちゃった。
 > CONTEXT: Map004/events/49/pages/1/82/Dialogue
 Schoolboy:
-Oops,\\.\\. my shoe's untied.
+Oops, my shoe's untied.
 > END STRING
 
 > BEGIN STRING
@@ -1710,8 +1710,8 @@ Stand up and look at my eyes...
 誰だか知らないけど、メガネをくれた人に感謝しないと。）
 > CONTEXT: Map004/events/49/pages/1/125/Dialogue
 Schoolboy:
-(To see Nazuna's underwear so close...\\.
-I don't know who,\\. but I must thank them
+(To see Nazuna's underwear so close...
+I don't know who, but I must thank them
 for these glasses.)
 > END STRING
 
@@ -1721,7 +1721,7 @@ for these glasses.)
 みんな、なんだか変…。
 > CONTEXT: Map004/events/49/pages/1/130/Dialogue
 Nazuna:
-Did something happen-...?\\.\\.
+Did something happen-...?
 Everyone's acting weird...
 > END STRING
 
@@ -1746,7 +1746,7 @@ Good morning...
 > CONTEXT: Map004/events/50/pages/0/21/Dialogue
 Schoolboy:
 Good morning Nazuna!!
-Woah,\\. seriously...?
+Woah, seriously...?
 > END STRING
 
 > BEGIN STRING
@@ -1755,8 +1755,8 @@ Woah,\\. seriously...?
 透過度を上げて…、うおお！！
 > CONTEXT: Map004/events/50/pages/0/25/Dialogue
 Schoolboy:
-Oho,\\. white...\\.\\.
-Raise the intensity...\\.\\. \\{oooh!
+Oho, white...
+Raise the intensity... \\{oooh!
 > END STRING
 
 > BEGIN STRING
@@ -1766,9 +1766,9 @@ Raise the intensity...\\.\\. \\{oooh!
 どうしたの？白？
 > CONTEXT: Map004/events/50/pages/0/29/Dialogue
 Nazuna:
-...?\\!
-Why is everyone wearing glasses...?\\!
-What happened?\\.\\. What's white?
+...?
+Why is everyone wearing glasses...?
+What happened? What's white?
 > END STRING
 
 > BEGIN STRING
@@ -1796,9 +1796,9 @@ Nazuna:
 まさか、本物だとは！！)
 > CONTEXT: Map004/events/50/pages/0/42/Dialogue
 Schoolboy:
-(We found these glasses in our desks this morning...\\.
+(We found these glasses in our desks this morning...
 It said they're see-through glasses that only works
-on Nazuna.\\..\\..\\. and it really works!!)
+on Nazuna... and it really works!!)
 > END STRING
 
 > BEGIN STRING
@@ -1808,9 +1808,9 @@ on Nazuna.\\..\\..\\. and it really works!!)
 あぁあ、完全無防備な、九輪さんの裸…。)
 > CONTEXT: Map004/events/50/pages/0/48/Dialogue
 Schoolboy:
-(These glasses are going through her uniform...\\|
-This is so exciting!!\\.\\.
-Aah,\\. Nazuna...\\.\\. naked...\\.\\. completely defenseless...)
+(These glasses are going through her uniform...
+This is so exciting!!
+Aah, Nazuna... naked... completely defenseless...)
 > END STRING
 
 > BEGIN STRING
@@ -1838,8 +1838,8 @@ but I'll thoroughly enjoy seeing her naked from now on...)
 やべえ、学園に来るのが楽しみになりすぎる…！)
 > CONTEXT: Map004/events/50/pages/0/60/Dialogue
 Schoolboy:
-(Today...\\. no,\\. from here on
-I'll see Nazuna naked all day...\\.\\.
+(Today... no, from here on
+I'll see Nazuna naked all day...
 I'm looking forward to coming to school now...!)
 > END STRING
 
@@ -1850,8 +1850,8 @@ I'm looking forward to coming to school now...!)
 考えすぎ、なんだろうけど…。
 > CONTEXT: Map004/events/50/pages/0/67/Dialogue
 Nazuna:
-Calm down...\\.
-It feels like...\\.\\. something dirty is going on...\\.\\.
+Calm down...
+It feels like... something dirty is going on...
 I hope it's just my imagination...
 > END STRING
 
@@ -1970,8 +1970,8 @@ Only witches and demons can make them...
 えっ！？
 > CONTEXT: Map004/events/51/pages/0/60/Dialogue
 Nazuna:
-W-what...!?\\|
-I'm...\\.\\. naked...!!?\\.\\.
+W-what...!?
+I'm... naked...!!?
 Huh!!?
 > END STRING
 
@@ -1982,7 +1982,7 @@ Huh!!?
 > CONTEXT: Map004/events/51/pages/0/65/Dialogue
 Nazuna unintentionally tries to touch her body.
 Yet all she felt was her uniform.
-Of course\\., since she doesn't remember taking it off.
+Of course, since she doesn't remember taking it off.
 > END STRING
 
 > BEGIN STRING
@@ -1991,7 +1991,7 @@ Of course\\., since she doesn't remember taking it off.
 この、メガネ！！
 > CONTEXT: Map004/events/51/pages/0/71/Dialogue
 Nazuna:
-........!\\!
+........!
 These \\C[9]glasses\\C[0]!!
 > END STRING
 
@@ -2008,7 +2008,7 @@ These \\C[9]glasses\\C[0]!!
 ばれちゃった…。
 > CONTEXT: Map004/events/51/pages/0/78/Dialogue
 Schoolboy:
-Uh oh...\\.\\.
+Uh oh...
 She found out...
 > END STRING
 
@@ -2034,7 +2034,7 @@ She found out...
 誰が作ったのか、わからない…？
 > CONTEXT: Map004/events/51/pages/0/95/Dialogue
 Nazuna:
-...Then these glasses,\\.
+...Then these glasses,
 you don't know who made them?
 > END STRING
 
@@ -2054,8 +2054,8 @@ along with a note describing what it was.
 『これは夢の魔導具、スケスケメガネです』…？
 > CONTEXT: Map004/events/51/pages/0/103/Dialogue
 Nazuna:
-Let me see that...\\!
-『The see-through glasses of your dream』.\\..\\..\\.?
+Let me see that...
+『The see-through glasses of your dream』...?
 > END STRING
 
 > BEGIN STRING
@@ -2123,8 +2123,8 @@ Nazuna:
 何時間も…、ひたすら！？)
 > CONTEXT: Map004/events/51/pages/0/146/Dialogue
 Nazuna:
-(The entire classroom...\\.\\. since morning\\.,
-was watching me naked...\\. the whole time.\\..\\..\\.
+(The entire classroom... since morning,
+was watching me naked... the whole time...
 for how many hours!?)
 > END STRING
 
@@ -2142,7 +2142,7 @@ for how many hours!?)
 大丈夫！？
 > CONTEXT: Map004/events/51/pages/0/154/Dialogue
 Schoolboy:
-N-\\.Nazuna!?\\.\\.
+N-Nazuna!?
 Are you alright?
 > END STRING
 
@@ -2213,7 +2213,7 @@ Are you alright?
 > CONTEXT: Map004/events/51/pages/0/195/Dialogue
 Nazuna:
 Ah....!
-A-\\.are you still peeping...!!
+A-are you still peeping...!!
 > END STRING
 
 > BEGIN STRING
@@ -2222,8 +2222,8 @@ A-\\.are you still peeping...!!
 裸…、みんなに、いっぱい、見られちゃうぅ…！！)
 > CONTEXT: Map004/events/51/pages/0/200/Dialogue
 Nazuna:
-(Quickly...\\. I need to find the demon ringleader!!
-Before everyone sees me...\\. naked...!!)
+(Quickly... I need to find the demon ringleader!!
+Before everyone sees me... naked...!!)
 > END STRING
 
 > BEGIN STRING
@@ -2233,7 +2233,7 @@ Before everyone sees me...\\. naked...!!)
 魔力、成長してるんじゃない？
 > CONTEXT: Map004/events/52/pages/0/0/Dialogue
 Schoolboy:
-You're so strong during the day.\\.
+You're so strong during the day.
 For such a demon to be defeated in one blow,
 is your magic getting stronger?
 > END STRING
@@ -2426,7 +2426,7 @@ CMとかでも流れてるけど…、
 > CONTEXT: Map004/events/52/pages/1/140/Dialogue
 Nazuna:
 (With those glasses stuck to his face...,
-everyone's freely looking at me naked...\\.\\.
+everyone's freely looking at me naked...
 Uu, this is too cruel...)
 > END STRING
 
@@ -2438,7 +2438,7 @@ Uu, this is too cruel...)
 > CONTEXT: Map004/events/52/pages/1/150/Dialogue
 Schoolboy:
 (Even though videos of her stripped by the demon are online...
-before my eyes\\., in  real time\\.,
+before my eyes, in  real time,
 it's a whole 'nother level of erotic...)
 > END STRING
 
@@ -2447,7 +2447,7 @@ it's a whole 'nother level of erotic...)
 私のスカート…、なにか、変…？
 > CONTEXT: Map004/events/52/pages/1/155/Dialogue
 Nazuna:
-My skirt...\\. is there something wrong with it...?
+My skirt... is there something wrong with it...?
 > END STRING
 
 > BEGIN STRING
@@ -2456,7 +2456,7 @@ My skirt...\\. is there something wrong with it...?
 わかんないなあ…。
 > CONTEXT: Map004/events/52/pages/1/158/Dialogue
 Schoolboy:
-I don't know...\\.
+I don't know...
 I can't see your skirt so...
 > END STRING
 
@@ -2468,6 +2468,6 @@ I can't see your skirt so...
 > CONTEXT: Map004/events/52/pages/1/162/Dialogue
 Nazuna:
 ...?
-You can't see it? It's right in front of you...\\.\\.
+You can't see it? It's right in front of you...
 Are those new glasses doing something?
 > END STRING

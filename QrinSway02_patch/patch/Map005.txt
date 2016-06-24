@@ -52,7 +52,7 @@ Nazuna:
 な、ナズナちゃん！？
 > CONTEXT: Map005/events/5/pages/0/50/Dialogue
 Bathing guest:
-N-\\.Nazuna!?
+N-Nazuna!?
 > END STRING
 
 > BEGIN STRING
@@ -88,7 +88,7 @@ You know this is the men's bath?
 ぴゃああ！！？
 > CONTEXT: Map005/events/5/pages/0/71/Dialogue
 Nazuna：
-\\{\\{\\{\\{\\{\\{Kyaa!!?\\|\\.\\.\\^
+Kyaa!!?
 > END STRING
 
 > BEGIN STRING
@@ -98,7 +98,7 @@ Nazuna：
 > CONTEXT: Map005/events/5/pages/0/80/Dialogue
 Nazuna：
 T-the mens b-bath?
-They saw me...\\.\\. \\C[9]naked\\C[0]!
+They saw me... \\C[9]naked\\C[0]!
 > END STRING
 
 > BEGIN STRING

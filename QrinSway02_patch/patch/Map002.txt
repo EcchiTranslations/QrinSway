@@ -308,21 +308,23 @@ AVでもこんなえげつないもん、
 やあ、ナズナちゃん。
 コロッケ食べる？
 > CONTEXT: Map002/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+Older Man：
+Hello Nazuna.
+Would you like a croquette?
 > END STRING
 
 > BEGIN STRING
 食べる
 > CONTEXT: Map002/events/4/pages/0/4/Choice/0 < UNTRANSLATED
 > CONTEXT: Map002/events/4/pages/1/5/Choice/0 < UNTRANSLATED
-
+Eat
 > END STRING
 
 > BEGIN STRING
 食べない
 > CONTEXT: Map002/events/4/pages/0/4/Choice/1 < UNTRANSLATED
 > CONTEXT: Map002/events/4/pages/1/5/Choice/1 < UNTRANSLATED
-
+Don't eat
 > END STRING
 
 > BEGIN STRING
@@ -330,7 +332,9 @@ AVでもこんなえげつないもん、
 いつも、ありがとう。
 食べる…。
 > CONTEXT: Map002/events/4/pages/0/7/Dialogue < UNTRANSLATED
-
+Nazuna:
+Thank you.
+...I'll have one.
 > END STRING
 
 > BEGIN STRING
@@ -338,7 +342,9 @@ AVでもこんなえげつないもん、
 いつも守ってくれるお礼だよ！
 いつでも、好きなだけ食べていいからね。
 > CONTEXT: Map002/events/4/pages/0/12/Dialogue < UNTRANSLATED
-
+Older Man:
+I do this for your thanks!
+You can have as many as you want.
 > END STRING
 
 > BEGIN STRING
@@ -347,21 +353,25 @@ AVでもこんなえげつないもん、
 コロッケは、完全食。
 魔力も一時的にだけど、アップする…。
 > CONTEXT: Map002/events/4/pages/0/17/Dialogue < UNTRANSLATED
-
+Nazuna:
+*munch* *munch*
+The croquette makes for a good meal.
+My magical powers are growing as well...
 > END STRING
 
 > BEGIN STRING
 コロッケを食べて魔力のレベルが上がりました。
 > CONTEXT: Map002/events/4/pages/0/23/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/4/pages/1/49/Dialogue < UNTRANSLATED
-
+Nazuna gained a level eating the croquette.
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 う～…、ダイエット中…。
 > CONTEXT: Map002/events/4/pages/0/29/Dialogue < UNTRANSLATED
-
+Nazuna:
+U~..., I'm on a diet...
 > END STRING
 
 > BEGIN STRING
@@ -450,14 +460,17 @@ AVでもこんなえげつないもん、
 今日も魔物を倒したんだって？
 すごいね～！
 > CONTEXT: Map002/events/5/pages/0/0/Dialogue < UNTRANSLATED
-
+Bystander:
+Did you defeat another demon today?
+That's amazing!
 > END STRING
 
 > BEGIN STRING
 通行人:
 夢のようなひとときだった…。
 > CONTEXT: Map002/events/5/pages/1/1/Dialogue < UNTRANSLATED
-
+Bystander:
+I thought I was just dreaming...
 > END STRING
 
 > BEGIN STRING
@@ -466,14 +479,18 @@ AVでもこんなえげつないもん、
 そのうちこのメガネの効力も消えるんだろうけど…、
 名残惜しいなあ。）
 > CONTEXT: Map002/events/5/pages/1/10/Dialogue < UNTRANSLATED
-
+Bystander:
+（In fact, it's still not over.
+The effects of the glasses won't go away soon,
+sorry to say.）
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ……？
 > CONTEXT: Map002/events/5/pages/1/15/Dialogue < UNTRANSLATED
-
+Nazuna:
+......?
 > END STRING
 
 > BEGIN STRING
@@ -505,7 +522,8 @@ AVでもこんなえげつないもん、
 ナズナ:
 ……っ！！
 > CONTEXT: Map002/events/5/pages/1/47/Dialogue < UNTRANSLATED
-
+Nazuna:
+.......!!
 > END STRING
 
 > BEGIN STRING
@@ -1026,8 +1044,8 @@ Hello young lady.
 流行ってるのかな？
 > CONTEXT: Map002/events/11/pages/0/5/Dialogue
 Nazuna:
-Thank you.\\!
-There's a large line.\\.
+Thank you.
+There's a large line.
 Are you popular?
 > END STRING
 
@@ -1048,8 +1066,8 @@ It's free.
 占い、好き…。
 > CONTEXT: Map002/events/11/pages/0/18/Dialogue
 Nazuna:
-Oh,\\. it's free?\\!
-Yes, please.\\.\\.
+Oh, it's free?
+Yes, please.
 I'd like to hear my fortune.
 > END STRING
 
@@ -1059,8 +1077,8 @@ I'd like to hear my fortune.
 …むむむ！
 > CONTEXT: Map002/events/11/pages/0/24/Dialogue
 Fortune Teller:
-Give me your hand\\..\\..\\..\\!
-\\..\\..\\..Hmm!
+Give me your hand...
+...Hmm!
 > END STRING
 
 > BEGIN STRING
@@ -1077,7 +1095,7 @@ What is it?
 近いうちに、大きな災難を受ける羽目になるよ！！
 > CONTEXT: Map002/events/11/pages/0/33/Dialogue
 Fortune Teller:
-\\{Terrible!\\}\\!
+Terrible!
 Big misfortune is coming your way!!
 > END STRING
 
@@ -1089,7 +1107,7 @@ Big misfortune is coming your way!!
 > CONTEXT: Map002/events/11/pages/0/38/Dialogue
 Nazuna:
 Huh...!?
-R-\\.really.......
+R-really.......
 I'm worried...
 > END STRING
 
@@ -1099,7 +1117,7 @@ I'm worried...
 諦めて、受け入れるしかないよ。
 > CONTEXT: Map002/events/11/pages/0/44/Dialogue
 Fortune Teller:
-I cannot say,\\. as it will change your fortune.\\.\\.
+I cannot say, as it will change your fortune.
 You cannot do anything but accept it.
 > END STRING
 
@@ -1124,9 +1142,9 @@ Nazuna dropped her shoulders and left...
 見ていろ、想像を絶する恥辱を与えてやる！！
 > CONTEXT: Map002/events/11/pages/0/62/Dialogue
 Fortune Teller:
-Kukuku...\\. young \\C[3]witch\\C[0]...\\.\\.
-I now have a sample of your magical powers.\\!
-Now watch,\\. for \\C[6]humiliation\\C[0] beyond imagination!
+Kukuku... young witch...
+I now have a sample of your magical powers.
+Now watch, for humiliation beyond imagination!
 > END STRING
 
 > BEGIN STRING
@@ -1142,8 +1160,8 @@ The fortune teller was really a demon...!
 千円なんて全然安いけどさ。
 > CONTEXT: Map002/events/11/pages/1/4/Dialogue
 Bystander:
-Seriously~?\\.
-I can really see her naked with this?\\.\\.
+Seriously~?
+I can really see her naked with this?
 1,000 yen is nothing for that.
 > END STRING
 
@@ -1163,7 +1181,7 @@ I can really see her naked with this?\\.\\.
 いつでもスケスケ！！
 > CONTEXT: Map002/events/11/pages/1/14/Dialogue
 Fortune Teller:
-It's genuine and the real deal~.\\.\\.
+It's genuine and the real deal~.
 No matter what kind of clothes she wears,
 you can always see right through them!!
 > END STRING
@@ -1182,8 +1200,8 @@ you can always see right through them!!
 …！！！！！
 > CONTEXT: Map002/events/11/pages/1/32/Dialogue
 Nazuna:
-\\{~~~~~~~!!!??
-...!!!!!\\|\\^
+~~~~~~~!!!??
+...!!!!!
 > END STRING
 
 > BEGIN STRING
@@ -1192,8 +1210,8 @@ Nazuna:
 う、売るなっ！！
 > CONTEXT: Map002/events/11/pages/1/42/Dialogue
 Nazuna:
-S-\\.s-\\.stop it...!\\.\\.
-S-\\.stop selling these!!
+S-s-stop it...!
+S-stop selling these!!
 > END STRING
 
 > BEGIN STRING
@@ -1213,9 +1231,9 @@ If I beat you, this town is mine...
 こ、こ、こんなの売る、必要ない…！
 > CONTEXT: Map002/events/11/pages/1/52/Dialogue
 Nazuna:
-Wh-\\.what...!\\!
+Wh-what...!
 If you want to fight me,
-s-\\.selling this is unnecessary...!
+s-selling this is unnecessary...!
 > END STRING
 
 > BEGIN STRING
@@ -1226,8 +1244,8 @@ s-\\.selling this is unnecessary...!
 > CONTEXT: Map002/events/11/pages/1/57/Dialogue
 Fortune Teller:
 We need the money.
-All the students at your school got it for free...\\.\\.,
-did they enjoy?
+All the students at your school got it for free...,
+did they enjoy it?
 > END STRING
 
 > BEGIN STRING
@@ -1253,8 +1271,8 @@ did they enjoy?
 本物だぜ、これ。
 > CONTEXT: Map002/events/11/pages/1/72/Dialogue
 Bystander:
-Let's see...\\. lowering the opacity.\\..\\..\\.\\|
-Oh\\., it's transparent!\\.\\. Transparent!\\.\\.
+Let's see... lowering the opacity...
+Oh, it's transparent! Transparent!
 It's the real deal.
 > END STRING
 
@@ -1265,8 +1283,8 @@ It's the real deal.
 でも、色気のないパンツ履いてるな。
 > CONTEXT: Map002/events/11/pages/1/79/Dialogue
 Bystander:
-Now lowering the opacity some more...\\.\\.\\.
-Oh ho...!\\. It's white.\\.\\.
+Now lowering the opacity some more...
+Oh ho...! It's white.
 But they're not very sexy.
 > END STRING
 
@@ -1277,8 +1295,8 @@ But they're not very sexy.
 す、すっぽんぽんだ…。
 > CONTEXT: Map002/events/11/pages/1/86/Dialogue
 Bystander:
-Now at max power.\\..\\..\\.\\.\\. it's gone!!\\.
-Her clothes are completely gone...\\.\\.
+Now at max power... it's gone!!
+Her clothes are completely gone...
 She's in her birthday suit...
 > END STRING
 
@@ -1289,8 +1307,8 @@ She's in her birthday suit...
 み、見ちゃ駄目ぇぇ…！
 > CONTEXT: Map002/events/11/pages/1/91/Dialogue
 Nazuna:
-Wha...!?\\.
-Don't...!\\.\\.
+Wha...!?
+Don't...!
 Don't look...!
 > END STRING
 
@@ -1307,8 +1325,8 @@ Don't fight
 一つ残らず、回収する…。
 > CONTEXT: Map002/events/11/pages/1/107/Dialogue
 Nazuna:
-I-\\.I won't allow this...
-I'll defeat you quickly\\.\\., and those glasses\\.\\.,
+I-I won't allow this...
+I'll defeat you quickly, and those glasses,
 I'll collect them all...
 > END STRING
 
@@ -1328,8 +1346,8 @@ I'll collect them all...
 既に、ナズナさんが対応にあたっております！！
 > CONTEXT: Map002/events/11/pages/1/145/Dialogue
 Reporter:
-This is Abura TV!\\.
-The demon has appeared in downtown!\\.\\.
+This is Abura TV!
+The demon has appeared in downtown!
 And Nazuna is already set to fight!!
 > END STRING
 
@@ -1340,8 +1358,8 @@ And Nazuna is already set to fight!!
 気をつけないと…。
 > CONTEXT: Map002/events/11/pages/1/151/Dialogue
 Nazuna:
-Uu...\\., the TV reporters again...\\.
-I don't want a repeat of last time...\\.
+Uu..., the TV reporters again...
+I don't want a repeat of last time...
 I need to be careful...
 > END STRING
 
@@ -1928,15 +1946,16 @@ Oh my, she ran away.
 何だか、面白いことになっているようだけど？
 > CONTEXT: Map002/events/39/pages/0/6/Dialogue
 Shami:
-Long time no see Nazuna.
-
+It's been a while Nazuna.
+Has anything interesting happened?
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ひぃっ…、ま、ママーー！！
 > CONTEXT: Map002/events/39/pages/0/14/Dialogue < UNTRANSLATED
-
+Nazuna:
+Ah..., ma-mama!!
 > END STRING
 
 > BEGIN STRING
@@ -1945,7 +1964,10 @@ Long time no see Nazuna.
 世界最強との呼び声も高い無敵の魔法使いにして、
 ナズナの実の母でもある、九輪シャミーだ。
 > CONTEXT: Map002/events/39/pages/0/17/Dialogue < UNTRANSLATED
-
+Appearing right before Nazuna,
+was the head of the British branch of the Mage's Guild.
+Considered to be the world's strongest mage,
+is Nazuna's mother, Shami.
 > END STRING
 
 > BEGIN STRING
@@ -1962,7 +1984,9 @@ Long time no see Nazuna.
 あらあら…、惨めに負けただけではなく、言い訳までするの？
 たるんでるわね〜、引き締めてあげなきゃ♪
 > CONTEXT: Map002/events/39/pages/0/28/Dialogue < UNTRANSLATED
-
+Shami:
+Oh my..., do you have an excuse for your miserable defeat?
+You're slacking~, I'll have to be more strict♪
 > END STRING
 
 > BEGIN STRING
@@ -1970,7 +1994,9 @@ Long time no see Nazuna.
 ひぃいいいいいっ！！
 ごめんなさい！ごめんなさい！！
 > CONTEXT: Map002/events/39/pages/0/38/Dialogue < UNTRANSLATED
-
+Nazuna:
+Nooooooo!!
+I'm sorry! I'm sorry!!
 > END STRING
 
 > BEGIN STRING
@@ -2475,9 +2501,9 @@ but I feel bad for her.
 ママぁ…、助けてぇ…！！
 > CONTEXT: Map002/events/39/pages/0/471/Dialogue
 Nazuna:
-Aa...,\\.\\. aah\\.\\. aah--...!!
-Nuuu...,\\.\\. so embarrassing...!\\.\\.
-Mom...\\.\\.\\. help...!!
+Aa..., aah aah--...!!
+Nuuu..., so embarrassing...!
+Mom... help...!!
 > END STRING
 
 > BEGIN STRING
@@ -2487,9 +2513,9 @@ Mom...\\.\\.\\. help...!!
 ごめんなさいねぇ、過保護に育ててしまったものだから…。
 > CONTEXT: Map002/events/39/pages/0/476/Dialogue
 Shami:
-Nazuna, how embarrassing!\\!
-To cry in front of your friends...\\.\\.
-I'm sorry,\\. I overprotected you growing up...
+Nazuna, how embarrassing!
+To cry in front of your friends...
+I'm sorry, I overprotected you growing up...
 > END STRING
 
 > BEGIN STRING
@@ -2499,9 +2525,9 @@ I'm sorry,\\. I overprotected you growing up...
 はぁはぁ…。
 > CONTEXT: Map002/events/39/pages/0/481/Dialogue
 Schoolboy:
-N-\\.not true...\\. Nazuna is a good girl...\\.
-Everyone's nice to her...\\.\\.
-*pant*\\. *pant*\\.
+N-not true... Nazuna is a good girl...
+Everyone's nice to her...
+*pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -2520,8 +2546,8 @@ Everyone's nice to her...\\.\\.
 じゃあ、写真はそれを使って、全校生徒と先生に送ってくださる？
 > CONTEXT: Map002/events/39/pages/0/491/Dialogue
 Shami:
-Do you have your friend's email?\\.\\.
-Ah...\\.\\. the school has a mailing list.\\..\\..\\.\\.
+Do you have your friend's email?
+Ah... the school has a mailing list...
 Can you send it to all the students and teachers?
 > END STRING
 
@@ -2568,8 +2594,8 @@ But it's already being sent.
 じゃあ、次はそのまま、裸踊りでもしましょうか？
 > CONTEXT: Map002/events/39/pages/0/526/Dialogue
 Shami:
-Your shyness still hasn't left...\\!
-Well then,\\.\\. how about dancing naked next?
+Your shyness still hasn't left...
+Well then, how about dancing naked next?
 > END STRING
 
 > BEGIN STRING
@@ -2581,7 +2607,7 @@ Well then,\\.\\. how about dancing naked next?
 Shami:
 そうそう、みっともなく足を開いて、リズミカルに踊りなさい？
 Throw away your shame...
-Ah,\\. can you sing it with a loud voice too?
+Ah, can you sing it with a loud voice too?
 > END STRING
 
 > BEGIN STRING
@@ -2667,7 +2693,7 @@ Ah,\\. can you sing it with a loud voice too?
 ナズナちゃん…、が、頑張って…！
 > CONTEXT: Map002/events/39/pages/0/632/Dialogue
 Schoolgirl:
-Nazuna...\\. do your best...!
+Nazuna... do your best...!
 > END STRING
 
 > BEGIN STRING
@@ -2703,7 +2729,7 @@ Nazuna...\\. do your best...!
 1000万人ぐらいに見られたら、ちょっとは慣れるわよね？
 > CONTEXT: Map002/events/39/pages/0/669/Dialogue
 Shami:
-Ah,\\. also...\\!
+Ah, also...
 I'll post this online later.
 You'll get used to it after ten million people see.
 > END STRING
@@ -2740,9 +2766,9 @@ You'll get used to it after ten million people see.
 山手線で行きましょうか…、その格好のままでね。
 > CONTEXT: Map002/events/39/pages/0/740/Dialogue
 Shami:
-Now,\\.\\. let's go to the Shibuya diagonal crosswalk next!
+Now, let's go to the Shibuya diagonal crosswalk next!
 I want to do some Tokyo sightseeing!
-Let's go on the Yamanote Line...\\.\\. looking like that.
+Let's go on the Yamanote Line... looking like that.
 > END STRING
 
 > BEGIN STRING

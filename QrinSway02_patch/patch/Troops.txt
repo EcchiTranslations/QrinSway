@@ -20,7 +20,7 @@ Demon
 覚悟して。
 > CONTEXT: Troops/1/pages/0/2/Dialogue
 Nazuna:
-Time to end this now...\\.
+Time to end this now...
 Prepare.
 > END STRING
 
@@ -84,7 +84,7 @@ I need to end this now...
 > CONTEXT: Map002/events/10/pages/1/98/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/38/pages/0/100/Dialogue < UNTRANSLATED
 > CONTEXT: Map002/events/39/pages/0/205/Dialogue < UNTRANSLATED
-
+*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -98,7 +98,8 @@ I need to end this now...
 > CONTEXT: Map001/events/92/pages/0/152/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/52/pages/1/115/Dialogue < UNTRANSLATED
 > CONTEXT: Map004/events/52/pages/1/125/Dialogue < UNTRANSLATED
-
+Nazuna:
+......
 > END STRING
 
 > BEGIN STRING
@@ -189,7 +190,7 @@ I need to end this now...
 > BEGIN STRING
 魔物2
 > CONTEXT: Troops/2/name/ < UNTRANSLATED
-
+Demon 2
 > END STRING
 
 > BEGIN STRING
@@ -628,7 +629,7 @@ Nazuna is completely naked in downtown!!
 い、言わないで…、撮らないで！！
 > CONTEXT: Troops/4/pages/0/54/Dialogue
 Nazuna:
-D-\\.don't say that...\\.\\.
+D-don't say that...
 Don't record this!!
 > END STRING
 
@@ -661,8 +662,8 @@ Did the stress break you?
 > CONTEXT: Troops/4/pages/0/69/Dialogue
 Nazuna:
 \\}*mumble......*\\{
-*pant*\\. *pant*\\. I-\\.it's fine...\\.\\.
-Everyone's...\\.\\. already seen by now...
+*pant* *pant* I-it's fine...
+Everyone's... already seen by now...
 > END STRING
 
 > BEGIN STRING
@@ -697,8 +698,8 @@ Ooo, nice looks...
 今度は自分から…。
 露出に目覚めたか？
 > CONTEXT: Troops/4/pages/0/88/Dialogue
-Also, she's showing her pussy...\\.
-Willingly this time...\\.\\.
+Also, she's showing her pussy...
+Willingly this time...
 Has she awakend to exhibitionism?
 > END STRING
 

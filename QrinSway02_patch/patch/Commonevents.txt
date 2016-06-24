@@ -26,7 +26,7 @@ Nazuna brushed his hand away.
 さ、触らないで…！
 > CONTEXT: Commonevents/1/16/Dialogue
 Nazuna:
-Do-\\.dont touch it...!
+Do-dont touch it...!
 > END STRING
 
 > BEGIN STRING
@@ -80,7 +80,7 @@ we weren't able to see her underwear.
 きゃ、きゃあぁ！？
 > CONTEXT: Commonevents/1/45/Dialogue
 Nazuna:
-Kya,\\. kyaaa!?
+Kya, kyaaa!?
 > END STRING
 
 > BEGIN STRING
@@ -115,7 +115,7 @@ Watch me closely!!
 > CONTEXT: Commonevents/2/10/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/5/23/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/31/315/Dialogue < UNTRANSLATED
-
+*pull*
 > END STRING
 
 > BEGIN STRING
@@ -123,7 +123,7 @@ Watch me closely!!
 いやっ、や、やめっ…！！
 > CONTEXT: Commonevents/1/61/Dialogue
 Nazuna:
-St-\\.stop it...!!
+St-stop it...!!
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +206,7 @@ Piiiiii!!?
 せ、説明しちゃダメ…！
 > CONTEXT: Commonevents/1/122/Dialogue
 Nazuna:
-Do-\\.don't tell them that...!
+Do-don't tell them that...!
 > END STRING
 
 > BEGIN STRING
@@ -240,7 +240,7 @@ Hold the glasses infront of the camera.
 綺麗に透けました！！
 > CONTEXT: Commonevents/1/137/Dialogue
 Reporter:
-It's\\. it's true...!
+It's it's true...!
 Her underwear is completely transparent!!
 > END STRING
 
@@ -513,7 +513,7 @@ They are all staring at your nipples.
 ずるい、肉弾戦は…！
 > CONTEXT: Commonevents/3/49/Dialogue
 Nazuna:
-W-\\. wait!
+W- wait!
 That's not fair!
 I can't fight properly like this.
 > END STRING
@@ -553,7 +553,7 @@ Nazuna attempted a kick!
 え、えい…！
 > CONTEXT: Commonevents/3/72/Dialogue
 Nazuna:
-T-\\.take that!
+T-take that!
 > END STRING
 
 > BEGIN STRING
@@ -620,7 +620,7 @@ You can see it so clearly.
 は、放しっ…！
 > CONTEXT: Commonevents/3/108/Dialogue
 Nazuna:
-W-\\.wait!
+W-wait!
 Let me go...!
 > END STRING
 
@@ -653,7 +653,7 @@ Nazuna couldn't move!
 > CONTEXT: Commonevents/3/121/Dialogue
 Nazuna:
 Stop...!
-It's e-\\.embarrassing!
+It's e-embarrassing!
 > END STRING
 
 > BEGIN STRING
@@ -673,7 +673,7 @@ enjoy the view of your p○ssy.
 そんっ…、なっ…！
 > CONTEXT: Commonevents/3/131/Dialogue
 Nazuna:
-Th-\\.that can't...!
+Th-that can't...!
 > END STRING
 
 > BEGIN STRING
@@ -707,7 +707,7 @@ but you don't want to miss out on this!
 そこは、大事な人、にしか…。
 > CONTEXT: Commonevents/3/146/Dialogue
 Nazuna:
-R-\\.really, stop...!
+R-really, stop...!
 Seeing me like this...
 Only my important person can see this...
 > END STRING
@@ -753,7 +753,7 @@ Eh...!
 もういいでしょ…？
 > CONTEXT: Commonevents/3/171/Dialogue
 Nazuna:
-This w-\\.whole time... I've been caught...
+This w-whole time... I've been caught...
 You've all been looking...
 Haven't you had enough?
 > END STRING
@@ -796,8 +796,8 @@ for a walk, you'll feel the same as you do now!
 そっ、ん、なっ…！！
 > CONTEXT: Commonevents/3/190/Dialogue
 Nazuna:
-Eh..., N-\\.no...!
-Th-\\.tha-\\.thats...!!
+Eh..., N-no...!
+Th-tha-thats...!!
 > END STRING
 
 > BEGIN STRING
@@ -875,7 +875,7 @@ That can't be...
 外、歩けない……！
 > CONTEXT: Commonevents/3/224/Dialogue
 Nazuna:
-I-\\.I'll be...
+I-I'll be...
 I'll be too embarrassed.
 I won't be able to go outside......!
 > END STRING
@@ -1046,7 +1046,7 @@ It's pink on the inside!
 ナズナ:
 …っっ、き、きゃあぁああ！！？
 > CONTEXT: Commonevents/4/93/Dialogue
-... W-\\.what are you doing!!?
+... W-what are you doing!!?
 > END STRING
 
 > BEGIN STRING
@@ -1069,7 +1069,7 @@ Your body doesn't move!
 ナズナ:
 あっ、あっ…、放してぇ…!
 > CONTEXT: Commonevents/4/102/Dialogue
-A-\\.ah, let go of me...!
+A-ah, let go of me...!
 > END STRING
 
 > BEGIN STRING
@@ -1099,7 +1099,7 @@ This view is the best...
 見ないでぇええええ！？
 > CONTEXT: Commonevents/4/115/Dialogue
 Nazuna:
-Don't loo\\.oo\\.oo\\.ook!
+Don't looooooook!
 > END STRING
 
 > BEGIN STRING
@@ -1155,7 +1155,7 @@ going to see your disgraceful asshole.
 お願い、もうやめてぇ…!
 > CONTEXT: Commonevents/4/144/Dialogue
 Nazuna:
-S-\\.stop...!
+S-stop...!
 Stop talking about that hole.
 Please, just stop...!
 > END STRING
@@ -1199,7 +1199,7 @@ power and put up a fight!!
 ひ…、か、カメラ…、やだ…。
 > CONTEXT: Commonevents/4/171/Dialogue
 Nazuna:
-N-\\.no, not the c-\\.camera...
+N-no, not the c-camera...
 > END STRING
 
 > BEGIN STRING
@@ -1295,7 +1295,7 @@ In the middle of town... In broad daylight...
 なにも、つけて、ない…？
 > CONTEXT: Commonevents/4/216/Dialogue
 Nazuna:
-I'm n-\\.not wearing...
+I'm n-not wearing...
 anything below the waist...?
 > END STRING
 
@@ -1345,7 +1345,7 @@ Ah..., I... pl-...!
 ヒクヒク…
 > CONTEXT: Commonevents/4/237/Dialogue
 > CONTEXT: Commonevents/4/256/Dialogue
-*Twitch*
+*twitch*
 > END STRING
 
 > BEGIN STRING
@@ -1381,7 +1381,7 @@ Ah, ah, ah....
 > BEGIN STRING
 キュッ！
 > CONTEXT: Commonevents/4/258/Dialogue
-*Sobs*
+*sob*
 > END STRING
 
 > BEGIN STRING
@@ -1402,8 +1402,8 @@ I wonder what it means...
 実況…、や、や、やめ……!
 > CONTEXT: Commonevents/4/266/Dialogue
 Nazuna:
-N-\\.no.. *sobs*,
-s-\\.s-\\.stop reporting live......!
+N-no.. *sob*,
+s-s-stop reporting live......!
 > END STRING
 
 > BEGIN STRING
@@ -1427,7 +1427,7 @@ It's never going to come down!)
 Nazuna:
 They even saw it twitching...
 everyone has seen... everything...!
-I-\\.it's way too..., embarrassing...!)
+I-it's way too..., embarrassing...!)
 > END STRING
 
 > BEGIN STRING
@@ -1688,7 +1688,10 @@ END
 勝てない、どうして…？
 こんな、卑怯者に……。
 > CONTEXT: Commonevents/31/1/Dialogue < UNTRANSLATED
-
+Nazuna:
+I lost...
+Why couldn't I win...?
+To such a coward......
 > END STRING
 
 > BEGIN STRING
@@ -1721,7 +1724,10 @@ END
 俺、大ファンなんだよ！
 握手できるなんて、感激！
 > CONTEXT: Commonevents/31/27/Dialogue < UNTRANSLATED
-
+Bystander:
+It's Nazuna!
+I'm a huge fan!
+I'm so touched to be able to shake your hand!
 > END STRING
 
 > BEGIN STRING
@@ -1752,7 +1758,9 @@ END
 あっ、嬉しすぎて忘れるとこだった。
 眼鏡、眼鏡…
 > CONTEXT: Commonevents/31/44/Dialogue < UNTRANSLATED
-
+Bystander:
+Ah, how could I forget...
+The glasses, the glasses...
 > END STRING
 
 > BEGIN STRING
@@ -1768,7 +1776,10 @@ END
 こんなに近くで、ナズナちゃんのおっぱい、じっくり見れるなんて！
 今日は人生最高の1日だよ！！
 > CONTEXT: Commonevents/31/54/Dialogue < UNTRANSLATED
-
+Bystander:
+Uwaa~!
+To see Nazuna's boobs so closely and carefully!
+Today's the best day of my life!
 > END STRING
 
 > BEGIN STRING
@@ -1776,7 +1787,9 @@ END
 見ないで、よぉ…。
 私の胸…、見世物じゃ、ない…。
 > CONTEXT: Commonevents/31/60/Dialogue < UNTRANSLATED
-
+Nazuna:
+Don't look...
+My breasts... are not for show...
 > END STRING
 
 > BEGIN STRING
@@ -1785,7 +1798,10 @@ END
 ちゃんと魔法契約書に書いてある通り、
 にこやかに対応しろ！！
 > CONTEXT: Commonevents/31/64/Dialogue < UNTRANSLATED
-
+Demon:
+Hey! Watch your mouth!
+As it's written on the magic contract,
+you must smile accordingly!!
 > END STRING
 
 > BEGIN STRING
@@ -1794,7 +1810,10 @@ END
 お客様には裸のすべてを包み隠さず、
 お見せすることを誓います…』
 > CONTEXT: Commonevents/31/69/Dialogue < UNTRANSLATED
-
+『I, Nazuna Kurin, as per the demon's victory,
+will cooperate with selling the see-through glasses,
+and to not cover my naked body to customers,
+swearing to show everything...』
 > END STRING
 
 > BEGIN STRING
@@ -1803,7 +1822,10 @@ END
 私は、そんな眼鏡の販売になんて、
 協力したくない…！
 > CONTEXT: Commonevents/31/74/Dialogue < UNTRANSLATED
-
+Nazuna:
+B-But you forced me to sign it...!
+To sell glasses that does this,
+I don't want to help...!
 > END STRING
 
 > BEGIN STRING
@@ -1812,7 +1834,10 @@ END
 魔法契約を破った者は、今後一切魔法が使えなくなるからな。
 いずれにせよ、眼鏡で裸を見られるのを、阻止できんという訳だ。
 > CONTEXT: Commonevents/31/79/Dialogue < UNTRANSLATED
-
+Demon:
+You wish... You know that anyone who breaks 
+a magic contract can no longer use magic.
+In any case, I can't stop the glasses from seeing you naked.
 > END STRING
 
 > BEGIN STRING
@@ -1983,7 +2008,10 @@ END
 ちゃんと答えろ！！
 お客様が製品スペックを知りたがってるだろうが！！
 > CONTEXT: Commonevents/31/228/Dialogue < UNTRANSLATED
-
+Demon:
+Well?
+Answer them!!
+THe customer has a question about the product!!
 > END STRING
 
 > BEGIN STRING
@@ -1992,7 +2020,10 @@ END
 もともとぉ…、はえて、ましぇん…っ！
 き、気にしてるのにぃ…、酷いっ…！！
 > CONTEXT: Commonevents/31/234/Dialogue < UNTRANSLATED
-
+Nazuna:
+Waah...!
+I-It's s-still g-grow-growing...!
+This... is too cruel...!
 > END STRING
 
 > BEGIN STRING
@@ -2211,7 +2242,9 @@ END
 ナズナは意識がないまま、全身あらゆる部分を視姦され、
 撮影されてしまった…。
 > CONTEXT: Commonevents/31/368/Dialogue < UNTRANSLATED
-
+For a while after, Nazuna was raped by cameras
+from head to toe as she lay unconscious...
+Not an inch of her hadn't been recorded...
 > END STRING
 
 > BEGIN STRING
