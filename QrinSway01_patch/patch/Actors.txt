@@ -9,6 +9,6 @@ Nazuna
 若干マイペースなところがあるが、優秀な魔法使い。
 目立つのが苦手。
 > CONTEXT: Actors/1/description/
-A small, but talented witch who works at her own pace. 
+A small, but talented mage who works at her own pace. 
 She prefers to avoid attention.
 > END STRING

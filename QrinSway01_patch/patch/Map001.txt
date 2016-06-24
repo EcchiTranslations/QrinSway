@@ -6,7 +6,7 @@
 > CONTEXT: Map001/events/3/pages/0/4/Dialogue
 Another sunny day at a school.
 Many students gathered around the school grounds.
-As a strange scene had developed.
+For a strange scene had developed.
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +26,7 @@ Graahh!!!
 Nazuna:
 This has been tough.
 But now...
-prepare yourself.
+Prepare yourself.
 > END STRING
 
 > BEGIN STRING
@@ -114,7 +114,7 @@ She won!
 Schoolgirl:
 Thank you Nazuna!
 If it weren't for your magical powers,
-what would we do without you...?
+what would we do without you...
 > END STRING
 
 > BEGIN STRING
@@ -146,7 +146,7 @@ She has a really cute blush on her face...!
 > CONTEXT: Map001/events/3/pages/0/80/Dialogue
 Demons have suddenly appeared in modern society.
 They're immune to modern weapons, except magic.
-Only a few people posses magic powers to fight.
+Only a few people possess magic powers to fight.
 > END STRING
 
 > BEGIN STRING
@@ -156,7 +156,7 @@ Only a few people posses magic powers to fight.
 日夜戦っているのだ。
 > CONTEXT: Map001/events/3/pages/0/84/Dialogue
 This beautiful girl, Nazuna, is one such person.
-She's the only witch in town,
+She's the only mage in town,
 so she protects the school whenever one appears,
 fighting day and night.
 > END STRING
@@ -176,7 +176,7 @@ but I need to protect everyone...)
 魔法使いに倒された魔物は、
 彼らが本来いる世界へと即座に送還される。
 > CONTEXT: Map001/events/3/pages/0/94/Dialogue
-The demon is defeated by the witch,
+The demon is defeated by the mage,
 sent back to the world they came from.
 > END STRING
 
@@ -238,7 +238,7 @@ On TV...! I'm too nervous...!)
 口が達者な方ではないナズナは、
 あまりメディアに露出するのが好きではない。
 > CONTEXT: Map001/events/3/pages/0/146/Dialogue
-The witch doesn't like being treated like an idol,
+The mage doesn't like being treated like an idol,
 Nazuna isn't very good with words,
 so she avoids media exposure as much as possible.
 > END STRING
@@ -250,7 +250,7 @@ so she avoids media exposure as much as possible.
 本人の了承なしに売られている程だ。
 > CONTEXT: Map001/events/3/pages/0/150/Dialogue
 Regardless, people love her looks.
-She's as popular as an idol, the first for a witch.
+She's as popular as an idol, the first for a mage.
 DVDs and pictures of fights are recorded secretly,
 and sold without her permission.
 > END STRING
@@ -499,7 +499,7 @@ Sorry, it was just a joke...
 九輪さんの着替え映像が教室で流れるなんてな…。
 > CONTEXT: Map001/events/89/pages/0/15/Dialogue
 Schoolboy:
-I occasionally skip class now to rub one out,
+I occasionally skip class now to rub one out
 to that video of you changing...
 > END STRING
 
@@ -634,9 +634,9 @@ Everyone saw everything... I want to cry...
 感謝しないとな。）
 > CONTEXT: Map001/events/90/pages/0/38/Dialogue
 Schoolboy:
-(Though bad for her,
-I loved what that demon showed us...
-I must thank him.)
+(While bad for her,
+I love what that demon showed us...
+I have to thank him.)
 > END STRING
 
 > BEGIN STRING
@@ -702,7 +702,7 @@ Sorry, no.
 相変わらずバッサリだね…。
 > CONTEXT: Map001/events/90/pages/0/81/Dialogue
 Schoolboy:
-To shoot me down just like that...
+Shot down, just like that...
 > END STRING
 
 > BEGIN STRING
@@ -730,7 +730,7 @@ It's because I tried my best...
 > CONTEXT: Map001/events/91/pages/0/11/Dialogue
 Teacher:
 (Though she may be a student,
-I did enjoy viewing her nude figure...
+I did enjoy viewing her naked figure...
 I'm lucky...)
 > END STRING
 
@@ -832,7 +832,7 @@ Don't worry, I attend every day...
 > CONTEXT: Map001/events/91/pages/0/73/Dialogue
 Teacher:
 You are first in the school,
-so I'm not worried about you.
+so I'm not too worried about you.
 > END STRING
 
 > BEGIN STRING
@@ -840,7 +840,7 @@ so I'm not worried about you.
 こんにちは、ナズナちゃん。
 苦戦しているみたいだね。
 > CONTEXT: Map001/events/95/pages/0/0/Dialogue
-Wizard:
+Mage:
 Hello Nazuna.
 You seem to be having trouble.
 > END STRING
@@ -850,8 +850,8 @@ You seem to be having trouble.
 あっ…、どうも…、ご無沙汰してます…。
 > CONTEXT: Map001/events/95/pages/0/5/Dialogue
 Nazuna:
-Ah..., I am...,
-it's been a long time...
+Ah..., I am...
+It's been a long time...
 > END STRING
 
 > BEGIN STRING
@@ -868,7 +868,7 @@ He was a member of the mage's guild.
 個人では難しい手続きや金銭面でのサポートを、
 組織としてバックアップしてくれるのだ。
 > CONTEXT: Map001/events/95/pages/0/12/Dialogue
-The mage's guild was formed to oppose demons,
+The mage's guild was formed to fight demons,
 cooperating with the government and providing information.
 Supporting them is difficult and is hard on individuals.
 Nazuna serves as backup for the guild.
@@ -890,7 +890,7 @@ Normal people make up majority of the guild.
 一応、君は日本支部の顔なんだから、相応しい振る舞いを頼むよ。
 イギリス支部のお母様も悲しむよ？
 > CONTEXT: Map001/events/95/pages/0/21/Dialogue
-Wizard:
+Mage:
 You have quite an interesting appearance...
 You represent the British branch here, so do behave.
 You wouldn't want to make your mother sad?
@@ -913,7 +913,7 @@ I can't do anything about them...!!
 全裸の映像が出回ったりすると、協会のイメージダウンなんだよね。
 ナズナちゃんに憧れて魔法使いを目指す子も多いんだから、その辺を…
 > CONTEXT: Map001/events/95/pages/0/32/Dialogue
-Wizard:
+Mage:
 Losing naked on TV was awful.
 It damages the image of all magicians.
 A lot of children look up to you, Nazuna.
@@ -926,7 +926,7 @@ A lot of children look up to you, Nazuna.
 テレビやネットに圧力をかけてくださいよぉ！
 > CONTEXT: Map001/events/95/pages/0/44/Dialogue
 Nazuna:
-I know! It was embarrassing...!!
+I know! It's embarrassing...!!
 If you understand the situation, please...
 pressure the net and TV to remove them!
 > END STRING
@@ -937,7 +937,7 @@ pressure the net and TV to remove them!
 まあ、そう興奮しないで。
 君が何故負けたのか、理由を教えてあげよう。
 > CONTEXT: Map001/events/95/pages/0/50/Dialogue
-Wizard:
+Mage:
 Doing such a thing would be very costly...
 But don't get so worked up.
 I will teach you why you lost.
@@ -957,7 +957,7 @@ Huh...?
 君が着せられているスクール水着…、
 何故そんなものを着せてきたのか、疑問はなかったかい？
 > CONTEXT: Map001/events/95/pages/0/60/Dialogue
-Wizard:
+Mage:
 About the school swimsuit...
 Why would he have cast it first place?
 > END STRING
@@ -980,10 +980,10 @@ The demon fuels his energy from my shame...
 その水着、君の魔力を弱める効果があるんだよね。
 だから、戦っても、すぐ負けちゃうのさ。
 > CONTEXT: Map001/events/95/pages/0/71/Dialogue
-Wizard:
+Mage:
 But there might be another reason:
 The swimsuit is weakening your magic powers.
-So you've lost before the battle has even begun.
+So you've lost before the battle has even started.
 > END STRING
 
 > BEGIN STRING
@@ -1003,7 +1003,7 @@ there was no such an effect...
 アメリカ支部の、なんか…偉い人が言ってたから間違いないよ！
 まだ、ナズナちゃんのレベルでは検知できないんじゃないかな？
 > CONTEXT: Map001/events/95/pages/0/83/Dialogue
-Wizard:
+Mage:
 I'm from the American branch..., 
 of course I would never lie!
 Perhaps you cannot detect it at your level?
@@ -1026,9 +1026,9 @@ How...?
 脱ぐことはできるだろ？
 裸で戦えばいいじゃないか。
 > CONTEXT: Map001/events/95/pages/0/94/Dialogue
-Wizard:
+Mage:
 Can you take it off?
-Maybe you should fight without it.
+Perhaps you should fight without it.
 > END STRING
 
 > BEGIN STRING
@@ -1040,7 +1040,7 @@ Maybe you should fight without it.
 Nazuna:
 Wh-wh-wh-what are you saying...!?
 The demon would see...! The students...!
-The TV broadcast...!!
+The TV reporters...!!
 > END STRING
 
 > BEGIN STRING
@@ -1049,7 +1049,7 @@ The TV broadcast...!!
 ものは考えようだよ。
 どうせ君の裸は、全国に公開されているんだし。
 > CONTEXT: Map001/events/95/pages/0/111/Dialogue
-Wizard:
+Mage:
 Now now, don't get excited.
 Think of it like this:
 The whole country has already seen you naked.
@@ -1061,7 +1061,7 @@ The whole country has already seen you naked.
 自分からスパッと全裸になって、サッと勝つ方がいいんじゃない？
 みんな、もう見てるんだから、今更、恥ずかしがることもないだろ。
 > CONTEXT: Map001/events/95/pages/0/116/Dialogue
-Wizard:
+Mage:
 You can lose as many times now.
 Wouldn't it be easier if you took it off beforehand?
 Everyone has already seen, so there's no need to be shy.
@@ -1084,7 +1084,7 @@ even on the net!! That's impossible to do...!
 いずれにせよ、僕からできる助言は以上だよ。
 どうするかは、君が決めるといい。
 > CONTEXT: Map001/events/95/pages/0/134/Dialogue
-Wizard:
+Mage:
 In any case, thats all the advice I have.
 You should decide what to do.
 > END STRING
@@ -1094,7 +1094,7 @@ You should decide what to do.
 まっ、水着を着て戦っても、負けて脱がされるんだから、
 大した違いはないだろうけどね。
 > CONTEXT: Map001/events/95/pages/0/138/Dialogue
-Wizard:
+Mage:
 Either you take it off or it gets taken off,
 it makes very little difference.
 > END STRING
@@ -1121,10 +1121,10 @@ Nazuna left thinking over the idea...
 あの子、優秀なんだけど、融通が効かないし、邪魔なんだよな〜。
 俺の寄付金の着服に気付きやがって…、おかげで降格されちまった。)
 > CONTEXT: Map001/events/95/pages/0/154/Dialogue
-Wizard:
-(...Well, it's a lie. She's prodigious, but she's in my way~. 
-I owe her this after they discovered my embezzlement
-and got me demoted.)
+Mage:
+(...Well, it's a lie. She's talented, but she's in my way~. 
+I owe her this after her mother discovered 
+my embezzlement and got me demoted.)
 > END STRING
 
 > BEGIN STRING
@@ -1133,7 +1133,7 @@ and got me demoted.)
 今回の一件はまだ本部には伝わってないから、
 今のうちに失敗させまくって、協会内の格を落とさせまくってやる！！)
 > CONTEXT: Map001/events/95/pages/0/159/Dialogue
-Wizard:
+Mage:
 (Her mother is the head of the British branch,
 and since this affair hasn't reach headquarters,
 her repeated failures will destroy their reputation!!)

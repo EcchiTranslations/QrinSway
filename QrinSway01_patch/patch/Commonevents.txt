@@ -1202,7 +1202,7 @@ Nazuna... is naked...!
 Reporter:
 This is serious!
 With Nazuna defeated, the demon stripped her!
-This is exclusive footage of the No. 1 witch naked!!
+This is exclusive footage of the No. 1 mage naked!!
 > END STRING
 
 > BEGIN STRING
@@ -1826,7 +1826,7 @@ from your disgrace is the best feast.
 > CONTEXT: Commonevents/32/261/Dialogue
 Demon:
 I assume you'll stay in this school for a while.
-You're obligated to fight me since you're a witch,
+You're obligated to fight me since you're a mage,
 so I'll defeat you over and over for your energy.
 > END STRING
 
@@ -1865,7 +1865,7 @@ otherwise I'd lose and be stripped naked again...)
 > CONTEXT: Commonevents/32/287/Dialogue
 It's understandable for her face to turn red.
 At her age, it's very sensitive to be seen naked.
-Despite being a witch, she is still a girl.
+Despite being a mage, she is still a girl.
 > END STRING
 
 > BEGIN STRING

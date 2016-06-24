@@ -216,7 +216,7 @@ This is the boy's locker room...
 仲間たちの分も合わせて、たっぷりとお返ししてやるぞ！
 > CONTEXT: Map004/events/9/pages/0/0/Dialogue
 Demon:
-The witch has arrived!!
+The mage has arrived!!
 I will return the favor you did to my friends!
 > END STRING
 
@@ -459,7 +459,7 @@ There was no reason to do that...!
 テレビで見てたけど、ナズナちゃん、
 恥ずかしがって全然戦ってなかったじゃない。
 > CONTEXT: Map004/events/9/pages/1/79/Dialogue
-Wizard:
+Mage:
 That was quite a defeat...
 I was watching you on TV,
 you were too ashamed to fight.
@@ -483,7 +483,7 @@ The whole school!!
 お母様も今回のことを知ったら、
 そう仰るよ。
 > CONTEXT: Map004/events/9/pages/1/89/Dialogue
-Wizard:
+Mage:
 You lost because your spirit was too weak.
 I think your mother needs to know about that.
 I'll tell her myself.
@@ -507,7 +507,7 @@ she'll punish me very badly...!
 僕も責任とか問われたくないから、報告はしないよ。
 君も、僕が教えた作戦だって、誰にも言わないでね？
 > CONTEXT: Map004/events/9/pages/1/103/Dialogue
-Wizard:
+Mage:
 Likewise, you won't tell anyone 
 of the strategy I taught you, alright?
 > END STRING
@@ -526,7 +526,7 @@ O-okay... I won't tell anyone...
 幸い、あの魔物は優しい方みたいだから、
 何度負けても、全裸にされる以上の責めは受けないだろう。
 > CONTEXT: Map004/events/9/pages/1/111/Dialogue
-Wizard:
+Mage:
 Oh, and you should try it again if you feel like it.
 Thankfully, that demon is an amiable person,
 but I'm not responsible should you try it again.
@@ -550,7 +550,7 @@ Uu, I never want to do it again.
 次は裸の戦いも慣れて、きっといつも通りに戦えるさ！
 頑張ってね！！
 > CONTEXT: Map004/events/9/pages/1/122/Dialogue
-Wizard:
+Mage:
 That's the spirit!!
 You're used to being naked in battle, 
 so surely now you can win next time! Good luck!!
@@ -579,7 +579,7 @@ and went away embarrassed
 全裸になっても、何の意味もないんだけどね。
 あの恥ずかしそうな顔、傑作だったな！)
 > CONTEXT: Map004/events/9/pages/1/139/Dialogue
-Wizard:
+Mage:
 (...Well, it's a complete lie.
 There is no meaning to being naked.
 But that embarrassed face, it was a masterpiece!)
@@ -591,7 +591,7 @@ But that embarrassed face, it was a masterpiece!)
 くくく、精々何度もチャレンジして、
 恥を上塗りしてくれよ！)
 > CONTEXT: Map004/events/9/pages/1/144/Dialogue
-Wizard:
+Mage:
 (She's lost a lot of prestige in the association now.
 Hehe, and she can keep trying this over and over,
 it'll only add onto their embarrassment!)
@@ -1387,7 +1387,7 @@ I don't have business with the other classes
 > BEGIN STRING
 『週間魔法使い』
 > CONTEXT: Map004/events/44/pages/0/0/Dialogue
-『The Weekly Witch』
+『The Weekly Mage』
 > END STRING
 
 > BEGIN STRING
@@ -1395,7 +1395,7 @@ I don't have business with the other classes
 美少女魔法使い九輪ナズナちゃんのプライベートに密着！！
 > CONTEXT: Map004/events/44/pages/0/2/Dialogue
 The no. 1 most popular for 6 months
-The beautiful witch Nazuna remains to herself
+The beautiful mage Nazuna remains to herself
 > END STRING
 
 > BEGIN STRING
@@ -1410,7 +1410,7 @@ Nazuna's battle will be hard to capture!!
 君も魔法使いになれる！
 ナズナちゃんの魔術修行メニューを入手…
 > CONTEXT: Map004/events/44/pages/0/8/Dialogue
-You can become a witch too!
+You can become a mage too!
 Just follow Nazuna's training...
 > END STRING
 
