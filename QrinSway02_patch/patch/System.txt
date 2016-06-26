@@ -262,7 +262,7 @@ Level
 
 > BEGIN STRING
 Lv
-> CONTEXT: System/terms/basic/1/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/1/
 Lv
 > END STRING
 
@@ -274,7 +274,7 @@ HP
 
 > BEGIN STRING
 HP
-> CONTEXT: System/terms/basic/3/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/3/
 HP
 > END STRING
 
@@ -286,7 +286,7 @@ MP
 
 > BEGIN STRING
 MP
-> CONTEXT: System/terms/basic/5/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/5/
 MP
 > END STRING
 
@@ -298,7 +298,7 @@ TP
 
 > BEGIN STRING
 TP
-> CONTEXT: System/terms/basic/7/ < UNTRANSLATED
+> CONTEXT: System/terms/basic/7/
 TP
 > END STRING
 

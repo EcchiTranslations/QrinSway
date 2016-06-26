@@ -358,6 +358,12 @@
 > END STRING
 
 > BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "Data/Actors.rvdata2"
 > CONTEXT: Scripts/DataManager/37:37 < UNTRANSLATED
 
@@ -366,12 +372,6 @@
 > BEGIN STRING
 "Data/Classes.rvdata2"
 > CONTEXT: Scripts/DataManager/38:37 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"%02d:%02d:%02d"
-> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
 
 > END STRING
 
@@ -948,16 +948,16 @@
 > END STRING
 
 > BEGIN STRING
-"Data/Map%03d.rvdata2"
-> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 '!'
 > CONTEXT: Scripts/Game_CharacterBase/246:46 < UNTRANSLATED
 > CONTEXT: Scripts/Window_NameInput/17:36 < UNTRANSLATED
 > CONTEXT: Scripts/Window_Message/353:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rvdata2"
+> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
 
 > END STRING
 
@@ -1077,6 +1077,18 @@
 "Ship"
 > CONTEXT: Scripts/Spriteset_Battle/194:5 < UNTRANSLATED
 > CONTEXT: Scripts/Spriteset_Battle/200:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"command_\#{command.code}"
+> CONTEXT: Scripts/Game_Interpreter/195:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Movies/'
+> CONTEXT: Scripts/Game_Interpreter/1043:25 < UNTRANSLATED
 
 > END STRING
 
@@ -1218,18 +1230,6 @@
 > BEGIN STRING
 "/"
 > CONTEXT: Scripts/Window_Base/488:46 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-"command_\#{command.code}"
-> CONTEXT: Scripts/Game_Interpreter/195:19 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-'Movies/'
-> CONTEXT: Scripts/Game_Interpreter/1043:25 < UNTRANSLATED
 
 > END STRING
 
@@ -3820,6 +3820,12 @@
 > END STRING
 
 > BEGIN STRING
+/09/
+> CONTEXT: Scripts/キャッシュ消す/7:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 //
 > CONTEXT: Scripts/キャッシュ消す/23:10 < UNTRANSLATED
 > CONTEXT: Scripts/キャッシュ消す/24:10 < UNTRANSLATED
@@ -3890,12 +3896,6 @@
 > BEGIN STRING
 'LOAD'
 > CONTEXT: Scripts/skip/396:10 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-/09/
-> CONTEXT: Scripts/キャッシュ消す/7:5 < UNTRANSLATED
 
 > END STRING
 

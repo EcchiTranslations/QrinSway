@@ -80,24 +80,24 @@ I need to end this now...
 
 > BEGIN STRING
 ざわざわ…
-> CONTEXT: Troops/1/pages/1/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/10/pages/1/98/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/38/pages/0/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/39/pages/0/205/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/1/pages/1/29/Dialogue
+> CONTEXT: Map002/events/10/pages/1/98/Dialogue
+> CONTEXT: Map002/events/38/pages/0/100/Dialogue
+> CONTEXT: Map002/events/39/pages/0/205/Dialogue
 *chatter*
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ……。
-> CONTEXT: Troops/1/pages/1/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/5/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/88/pages/0/6/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/89/pages/1/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/92/pages/0/85/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/92/pages/0/152/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/52/pages/1/115/Dialogue < UNTRANSLATED
-> CONTEXT: Map004/events/52/pages/1/125/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/1/pages/1/32/Dialogue
+> CONTEXT: Map002/events/5/pages/1/5/Dialogue
+> CONTEXT: Map001/events/88/pages/0/6/Dialogue
+> CONTEXT: Map001/events/89/pages/1/45/Dialogue
+> CONTEXT: Map001/events/92/pages/0/85/Dialogue
+> CONTEXT: Map001/events/92/pages/0/152/Dialogue
+> CONTEXT: Map004/events/52/pages/1/115/Dialogue
+> CONTEXT: Map004/events/52/pages/1/125/Dialogue
 Nazuna:
 ......
 > END STRING
@@ -189,7 +189,7 @@ Nazuna:
 
 > BEGIN STRING
 魔物2
-> CONTEXT: Troops/2/name/ < UNTRANSLATED
+> CONTEXT: Troops/2/name/
 Demon 2
 > END STRING
 

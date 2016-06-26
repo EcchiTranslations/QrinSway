@@ -307,7 +307,7 @@ AVでもこんなえげつないもん、
 おじさん：
 やあ、ナズナちゃん。
 コロッケ食べる？
-> CONTEXT: Map002/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/0/Dialogue
 Older Man：
 Hello Nazuna.
 Would you like a croquette?
@@ -315,15 +315,15 @@ Would you like a croquette?
 
 > BEGIN STRING
 食べる
-> CONTEXT: Map002/events/4/pages/0/4/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/4/Choice/0
+> CONTEXT: Map002/events/4/pages/1/5/Choice/0
 Eat
 > END STRING
 
 > BEGIN STRING
 食べない
-> CONTEXT: Map002/events/4/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/4/Choice/1
+> CONTEXT: Map002/events/4/pages/1/5/Choice/1
 Don't eat
 > END STRING
 
@@ -331,7 +331,7 @@ Don't eat
 ナズナ：
 いつも、ありがとう。
 食べる…。
-> CONTEXT: Map002/events/4/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/7/Dialogue
 Nazuna:
 Thank you.
 ...I'll have one.
@@ -341,7 +341,7 @@ Thank you.
 おじさん：
 いつも守ってくれるお礼だよ！
 いつでも、好きなだけ食べていいからね。
-> CONTEXT: Map002/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/12/Dialogue
 Older Man:
 I do this for your thanks!
 You can have as many as you want.
@@ -352,7 +352,7 @@ You can have as many as you want.
 もぐもぐもぐ…
 コロッケは、完全食。
 魔力も一時的にだけど、アップする…。
-> CONTEXT: Map002/events/4/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/17/Dialogue
 Nazuna:
 *munch* *munch*
 The croquette makes for a good meal.
@@ -361,15 +361,15 @@ My magical powers are growing as well...
 
 > BEGIN STRING
 コロッケを食べて魔力のレベルが上がりました。
-> CONTEXT: Map002/events/4/pages/0/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/23/Dialogue
+> CONTEXT: Map002/events/4/pages/1/49/Dialogue
 Nazuna gained a level eating the croquette.
 > END STRING
 
 > BEGIN STRING
 ナズナ：
 う～…、ダイエット中…。
-> CONTEXT: Map002/events/4/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/29/Dialogue
 Nazuna:
 U~..., I'm on a diet...
 > END STRING
@@ -459,7 +459,7 @@ U~..., I'm on a diet...
 通行人:
 今日も魔物を倒したんだって？
 すごいね～！
-> CONTEXT: Map002/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/0/0/Dialogue
 Bystander:
 Did you defeat another demon today?
 That's amazing!
@@ -468,7 +468,7 @@ That's amazing!
 > BEGIN STRING
 通行人:
 夢のようなひとときだった…。
-> CONTEXT: Map002/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/1/1/Dialogue
 Bystander:
 I thought I was just dreaming...
 > END STRING
@@ -478,7 +478,7 @@ I thought I was just dreaming...
 （実はまだ、終わってないんだけどね。
 そのうちこのメガネの効力も消えるんだろうけど…、
 名残惜しいなあ。）
-> CONTEXT: Map002/events/5/pages/1/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/1/10/Dialogue
 Bystander:
 （In fact, it's still not over.
 The effects of the glasses won't go away soon,
@@ -488,7 +488,7 @@ sorry to say.）
 > BEGIN STRING
 ナズナ:
 ……？
-> CONTEXT: Map002/events/5/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/1/15/Dialogue
 Nazuna:
 ......?
 > END STRING
@@ -521,7 +521,7 @@ Nazuna:
 > BEGIN STRING
 ナズナ:
 ……っ！！
-> CONTEXT: Map002/events/5/pages/1/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/5/pages/1/47/Dialogue
 Nazuna:
 .......!!
 > END STRING
@@ -1810,8 +1810,9 @@ Oh my, she ran away.
 > BEGIN STRING
 ナズナ:
 ！！！！！？
-> CONTEXT: Map002/events/38/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/38/pages/0/33/Dialogue
+Nazuna:
+!!!!!?
 > END STRING
 
 > BEGIN STRING
@@ -1953,7 +1954,7 @@ Has anything interesting happened?
 > BEGIN STRING
 ナズナ:
 ひぃっ…、ま、ママーー！！
-> CONTEXT: Map002/events/39/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/14/Dialogue
 Nazuna:
 Ah..., ma-mama!!
 > END STRING
@@ -1963,7 +1964,7 @@ Ah..., ma-mama!!
 魔法協会イギリス本部の最高幹部の一人。
 世界最強との呼び声も高い無敵の魔法使いにして、
 ナズナの実の母でもある、九輪シャミーだ。
-> CONTEXT: Map002/events/39/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/17/Dialogue
 Appearing right before Nazuna,
 was the head of the British branch of the Mage's Guild.
 Considered to be the world's strongest mage,
@@ -1983,17 +1984,17 @@ is Nazuna's mother, Shami.
 シャミー:
 あらあら…、惨めに負けただけではなく、言い訳までするの？
 たるんでるわね〜、引き締めてあげなきゃ♪
-> CONTEXT: Map002/events/39/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/28/Dialogue
 Shami:
 Oh my..., do you have an excuse for your miserable defeat?
-You're slacking~, I'll have to be more strict♪
+You're slacking~, it seems I need to be more strict♪
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ひぃいいいいいっ！！
 ごめんなさい！ごめんなさい！！
-> CONTEXT: Map002/events/39/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/39/pages/0/38/Dialogue
 Nazuna:
 Nooooooo!!
 I'm sorry! I'm sorry!!
@@ -2037,8 +2038,9 @@ I'm sorry! I'm sorry!!
 > BEGIN STRING
 ナズナ:
 ……………！！？
-> CONTEXT: Map002/events/39/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/62/Dialogue
+Nazuna:
+...............!!?
 > END STRING
 
 > BEGIN STRING
@@ -2046,8 +2048,11 @@ I'm sorry! I'm sorry!!
 ほらぁ、またそうやって固まる。
 裸を見られたぐらいで、そんなに狼狽えちゃダメよ〜？
 これは、特訓が必要ね！！
-> CONTEXT: Map002/events/39/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/65/Dialogue
+Shami:
+So I need to toughen you up.
+When you're seen naked, don't get very confused?
+This needs some special training!!
 > END STRING
 
 > BEGIN STRING
@@ -2055,16 +2060,21 @@ I'm sorry! I'm sorry!!
 い、いらない！！
 特訓なんて、しないでいいから！
 勝てるから！！！
-> CONTEXT: Map002/events/39/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/71/Dialogue
+Nazuna:
+Th-that's not neccessarry at all!!
+Special training for that isn't neccessarry!
+I can still win!!!
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 だから、帰ってぇえ…！！
 私は、大丈夫だから！！
-> CONTEXT: Map002/events/39/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/76/Dialogue
+Nazuna:
+So, please go...!!
+I'm alright!!
 > END STRING
 
 > BEGIN STRING
@@ -2072,8 +2082,11 @@ I'm sorry! I'm sorry!!
 ナズナにとって、聞くだけで全身が硬直する程の恐るべき言葉である。
 何か失敗する度に、この母親はその言葉と共に、
 ナズナの心に強烈なトラウマを刻んでいくのだ。
-> CONTEXT: Map002/events/39/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/81/Dialogue
+『Special training』...
+Simply hearing that word causes Nazuna to freeze up
+Whenever she fails something, her mother uses that word.
+She has become traumatized to it.
 > END STRING
 
 > BEGIN STRING
@@ -2081,8 +2094,11 @@ I'm sorry! I'm sorry!!
 そんなに警戒しなくても大丈夫！
 今回は、砂漠にも密林にも行かないし、
 拷問器具も使わないし、精神汚染系の魔法も使わないから！！
-> CONTEXT: Map002/events/39/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/86/Dialogue
+Shami:
+Even if you're fine, I still want to look out for you!
+We don't need to go to the desert of jungle this time.
+No torture tools either, since it'll hurt your magic!
 > END STRING
 
 > BEGIN STRING
@@ -2090,35 +2106,41 @@ I'm sorry! I'm sorry!!
 そうねぇ…、ナズナは恥ずかしがりみたいだから、
 恥ずかしくなくなるまで、裸で過ごしてみましょうか？
 学園や町の皆さんにも、協力して頂いて…
-> CONTEXT: Map002/events/39/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/91/Dialogue
+Shami:
+Because..., you're too shy Nazuna.
+Maybe you should remain naked until you're not.
+Everyone in town and at school will cooperate as well...
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ……！
-> CONTEXT: Map002/events/39/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/99/Dialogue
+Nazuna:
+......!
 > END STRING
 
 > BEGIN STRING
 だっ…！
-> CONTEXT: Map002/events/39/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/107/Dialogue
+*run*
 > END STRING
 
 > BEGIN STRING
 シャミー:
 逃げちゃダメよ♪
-> CONTEXT: Map002/events/39/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/109/Dialogue
+Shami:
+Don't run away♪
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 ひぎゃーーーっ！！！？
-> CONTEXT: Map002/events/39/pages/0/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/124/Dialogue
+Nazuna:
+Hiyaa~~~!!!?
 > END STRING
 
 > BEGIN STRING
@@ -2126,8 +2148,11 @@ I'm sorry! I'm sorry!!
 許して…、ママぁ…！
 私…、こんな格好…。
 この町に、いられなくなっちゃう…。
-> CONTEXT: Map002/events/39/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/140/Dialogue
+Nazuna:
+Please... mama...!
+Looking... like this...
+I can't come to town anymore...
 > END STRING
 
 > BEGIN STRING
@@ -2135,8 +2160,11 @@ I'm sorry! I'm sorry!!
 ほらほら、そうやって恥ずかしがる。
 裸を見られるぐらい、今更どうってことないでしょ？
 慣れるまで、あなたの知り合いに、片っ端から見せつけていくからね。
-> CONTEXT: Map002/events/39/pages/0/145/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/145/Dialogue
+Shami:
+Hey! Hey! You're being shy.
+It's not a big deal after being seen naked for a while.
+Until you're used to it, you'll show yourself to everyone you know.
 > END STRING
 
 > BEGIN STRING
@@ -2144,8 +2172,11 @@ I'm sorry! I'm sorry!!
 やだ…、やだ！！
 ま、ママだって…、町中を裸で歩くのは、
 嫌でしょぉぉ…！？
-> CONTEXT: Map002/events/39/pages/0/151/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/151/Dialogue
+Nazuna:
+No way... no way!!
+Ma-mama... even walking naked in town?
+That's awful...!
 > END STRING
 
 > BEGIN STRING
@@ -2171,23 +2202,29 @@ I'm sorry! I'm sorry!!
 あらあら、背伸びしちゃって…。
 いいから、行くわよ。
 はい、特訓開始〜♪
-> CONTEXT: Map002/events/39/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/167/Dialogue
+Shami:
+Now now, get up...
+Don't worry, let's go.
+Yep, let's start your special training~♪
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 うっ…、えぅぅ、ひっく…！
-> CONTEXT: Map002/events/39/pages/0/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/176/Dialogue
+Nazuna:
+Uu... euu, eep...!
 > END STRING
 
 > BEGIN STRING
 通行人:
 おい…、ナズナちゃん、素っ裸で歩いてるぞ…。
 俺、今、メガネはかけてないよな…？
-> CONTEXT: Map002/events/39/pages/0/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/207/Dialogue
+Pedestrian:
+Hey... Nazuna is walking completely naked...
+Am I wearing the glasses right now...?
 > END STRING
 
 > BEGIN STRING
@@ -2204,8 +2241,11 @@ I'm sorry! I'm sorry!!
 ご機嫌よう、皆さん。
 今日は娘のナズナの、特訓中ですの。
 恥ずかしさの克服のため、協力してくださらない？
-> CONTEXT: Map002/events/39/pages/0/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/217/Dialogue
+Shami:
+Hello everyone.
+My daughter Nazuna is doing some special training today.
+Will you help out in overcoming her bashfulness?
 > END STRING
 
 > BEGIN STRING
@@ -2233,16 +2273,20 @@ and you can focus on fighting the demon!
 ナズナ:
 ひっ…、こ、来ないで！！
 私は、こんな特訓…、したくないぃ…！
-> CONTEXT: Map002/events/39/pages/0/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/239/Dialogue
+Nazuna:
+Hiya... don't come here!!
+I... I don't want to do this special training...!
 > END STRING
 
 > BEGIN STRING
 シャミー:
 あら、美味しそうなお惣菜。
 コロッケくださる？
-> CONTEXT: Map002/events/39/pages/0/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/265/Dialogue
+Shami:
+Oh my, those look delicious.
+May I have a croquette?
 > END STRING
 
 > BEGIN STRING
@@ -2255,16 +2299,19 @@ and you can focus on fighting the demon!
 > BEGIN STRING
 おじさん:
 ……。
-> CONTEXT: Map002/events/39/pages/0/272/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/272/Dialogue
+Older Man:
+......
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 や、やぁあ！！
 おじさん…、み、見ないでぇ！！
-> CONTEXT: Map002/events/39/pages/0/282/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/282/Dialogue
+Nazuna:
+Kyaaa!!
+Please... don't l-look!!
 > END STRING
 
 > BEGIN STRING
@@ -2790,8 +2837,10 @@ Let's go on the Yamanote Line... looking like that.
 シャミー:
 ……………。
 ………。
-> CONTEXT: Map002/events/39/pages/0/762/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/39/pages/0/762/Dialogue
+Shami:
+...............
+.........
 > END STRING
 
 > BEGIN STRING

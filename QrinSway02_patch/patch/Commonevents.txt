@@ -111,10 +111,10 @@ Watch me closely!!
 
 > BEGIN STRING
 ぐいっ！
-> CONTEXT: Commonevents/1/58/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/2/10/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/5/23/Dialogue < UNTRANSLATED
-> CONTEXT: Commonevents/31/315/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/1/58/Dialogue
+> CONTEXT: Commonevents/2/10/Dialogue
+> CONTEXT: Commonevents/5/23/Dialogue
+> CONTEXT: Commonevents/31/315/Dialogue
 *pull*
 > END STRING
 
@@ -1687,7 +1687,7 @@ END
 負けた…。
 勝てない、どうして…？
 こんな、卑怯者に……。
-> CONTEXT: Commonevents/31/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/1/Dialogue
 Nazuna:
 I lost...
 Why couldn't I win...?
@@ -1723,7 +1723,7 @@ To such a coward......
 ナズナちゃん！
 俺、大ファンなんだよ！
 握手できるなんて、感激！
-> CONTEXT: Commonevents/31/27/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/27/Dialogue
 Bystander:
 It's Nazuna!
 I'm a huge fan!
@@ -1757,7 +1757,7 @@ I'm so touched to be able to shake your hand!
 通行人:
 あっ、嬉しすぎて忘れるとこだった。
 眼鏡、眼鏡…
-> CONTEXT: Commonevents/31/44/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/44/Dialogue
 Bystander:
 Ah, how could I forget...
 The glasses, the glasses...
@@ -1775,7 +1775,7 @@ The glasses, the glasses...
 うひょ〜！
 こんなに近くで、ナズナちゃんのおっぱい、じっくり見れるなんて！
 今日は人生最高の1日だよ！！
-> CONTEXT: Commonevents/31/54/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/54/Dialogue
 Bystander:
 Uwaa~!
 To see Nazuna's boobs so closely and carefully!
@@ -1786,7 +1786,7 @@ Today's the best day of my life!
 ナズナ:
 見ないで、よぉ…。
 私の胸…、見世物じゃ、ない…。
-> CONTEXT: Commonevents/31/60/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/60/Dialogue
 Nazuna:
 Don't look...
 My breasts... are not for show...
@@ -1797,7 +1797,7 @@ My breasts... are not for show...
 こらっ、なんて言い草だ！
 ちゃんと魔法契約書に書いてある通り、
 にこやかに対応しろ！！
-> CONTEXT: Commonevents/31/64/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/64/Dialogue
 Demon:
 Hey! Watch your mouth!
 As it's written on the magic contract,
@@ -1809,7 +1809,7 @@ you must smile accordingly!!
 スケスケメガネの販売促進に協力し、
 お客様には裸のすべてを包み隠さず、
 お見せすることを誓います…』
-> CONTEXT: Commonevents/31/69/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/69/Dialogue
 『I, Nazuna Kurin, as per the demon's victory,
 will cooperate with selling the see-through glasses,
 and to not cover my naked body to customers,
@@ -1821,7 +1821,7 @@ swearing to show everything...』
 む、無理やり、サインさせたくせにぃ…！
 私は、そんな眼鏡の販売になんて、
 協力したくない…！
-> CONTEXT: Commonevents/31/74/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/74/Dialogue
 Nazuna:
 B-But you forced me to sign it...!
 To sell glasses that does this,
@@ -1833,7 +1833,7 @@ I don't want to help...!
 貴様が望むと望むまいと、
 魔法契約を破った者は、今後一切魔法が使えなくなるからな。
 いずれにせよ、眼鏡で裸を見られるのを、阻止できんという訳だ。
-> CONTEXT: Commonevents/31/79/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/79/Dialogue
 Demon:
 You wish... You know that anyone who breaks 
 a magic contract can no longer use magic.
@@ -2007,7 +2007,7 @@ In any case, I can't stop the glasses from seeing you naked.
 どうなんだ？
 ちゃんと答えろ！！
 お客様が製品スペックを知りたがってるだろうが！！
-> CONTEXT: Commonevents/31/228/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/228/Dialogue
 Demon:
 Well?
 Answer them!!
@@ -2019,7 +2019,7 @@ THe customer has a question about the product!!
 ひ、は、ぅ…っ！
 もともとぉ…、はえて、ましぇん…っ！
 き、気にしてるのにぃ…、酷いっ…！！
-> CONTEXT: Commonevents/31/234/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/234/Dialogue
 Nazuna:
 Waah...!
 I-It's s-still g-grow-growing...!
@@ -2241,7 +2241,7 @@ This... is too cruel...!
 その後、しばらくの間、
 ナズナは意識がないまま、全身あらゆる部分を視姦され、
 撮影されてしまった…。
-> CONTEXT: Commonevents/31/368/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/31/368/Dialogue
 For a while after, Nazuna was raped by cameras
 from head to toe as she lay unconscious...
 Not an inch of her hadn't been recorded...
