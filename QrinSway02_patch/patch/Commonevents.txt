@@ -147,8 +147,9 @@ Nazuna can't move!!
 > BEGIN STRING
 ナズナ:
 あ”っ、あっ…、と、撮っちゃ…！
-> CONTEXT: Commonevents/1/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/71/Dialogue
+Nazuna:
+N-no... You can't t-take...!
 > END STRING
 
 > BEGIN STRING
@@ -156,16 +157,21 @@ Nazuna can't move!!
 ほらほら、拡げてやるぞ〜。
 くくく、パンツの下が、
 大変なことになっているなぁ？
-> CONTEXT: Commonevents/1/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/79/Dialogue
+Demon:
+I'm going to spread it open~.
+Hehehe, This is going to be a big
+problem underneath your panties won't it?
 > END STRING
 
 > BEGIN STRING
 魔物はナズナの秘部を、
 パンツの下で、
 思いっきり割り広げた！
-> CONTEXT: Commonevents/1/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/84/Dialogue
+Underneath Nazuna's panties,
+the demon remorselessly
+spread her pussy wide open!
 > END STRING
 
 > BEGIN STRING
@@ -181,15 +187,19 @@ Piiiiii!!?
 うわっ、これはえぐい！
 魔物がナズナさんの大切な所を、指で拡げています！！
 下着越しでも、中が広がっているのが分かりますね〜。
-> CONTEXT: Commonevents/1/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/98/Dialogue
+Reporter:
+Wah, this is harsh! The demon has spread Nazuna's
+precious place wide with his fingers!! She is wearing
+underwear, but it's easy to tell, isn't it?
 > END STRING
 
 > BEGIN STRING
 ナズナ:
 あひ…、あっ、や、やぁあ…！
-> CONTEXT: Commonevents/1/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/104/Dialogue
+Nazuna:
+A-Ah... N-no...!
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +207,11 @@ Piiiiii!!?
 見物人どもがつけている眼鏡だが、
 これはな…、こいつにだけ効く、
 スケスケ眼鏡で…
-> CONTEXT: Commonevents/1/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/110/Dialogue
+Demon:
+The bystanders have the glasses, but...
+This is only truely effective for them.
+If you had these see-through glasses...
 > END STRING
 
 > BEGIN STRING
@@ -252,8 +265,8 @@ Her underwear is completely transparent!!
 > CONTEXT: Commonevents/1/142/Dialogue
 Reporter:
 Everyone, look for yourself!
-魔導具の効果を注意喚起するため、
-無修正でお送りしております！
+Watch closely to the effect of this
+magic tool, This is uncensored footage!
 > END STRING
 
 > BEGIN STRING
@@ -261,8 +274,10 @@ Everyone, look for yourself!
 ナズナさんの性器が奥まで
 見えてしまっていますね！！
 何も着けてない様にしか見えません！
-> CONTEXT: Commonevents/1/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/147/Dialogue
+Reporter:
+We can see right inside Nazuna's genitals!!
+It's as if she isn't wearing anything at all!
 > END STRING
 
 > BEGIN STRING
@@ -270,8 +285,10 @@ Everyone, look for yourself!
 ぴぎぃいいいいぃ！！？
 や”め”っ…！
 あ”、ぁわ…！
-> CONTEXT: Commonevents/1/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/152/Dialogue
+Eeeeeek!!?
+S-St-...!
+D-don-...!
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +296,11 @@ Everyone, look for yourself!
 どうだ！？
 俺が作った眼鏡は、
 素晴らしいだろう！！
-> CONTEXT: Commonevents/1/160/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/160/Dialogue
+Demon:
+Hows that!?
+These glasses that I made
+are amazing are they not!?
 > END STRING
 
 > BEGIN STRING
@@ -288,8 +308,11 @@ Everyone, look for yourself!
 これさえ買えば、
 こいつのこんな姿を、
 いつでも何度でも見放題だ！！
-> CONTEXT: Commonevents/1/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/165/Dialogue
+Demon:
+If you buy them,
+you can see her like this as often
+as you want, whenever you want!!
 > END STRING
 
 > BEGIN STRING
@@ -297,14 +320,17 @@ Everyone, look for yourself!
 こんな所の、奥の奥までもな！！
 隅々まで全部見えるだろう！？
 どうだ！どうだ！！
-> CONTEXT: Commonevents/1/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/170/Dialogue
+Demon:
+You can see as far inside as you want!!
+You can see right down to every nook and cranny!
+How about it? How about it!?
 > END STRING
 
 > BEGIN STRING
 ぱくぱく！
-> CONTEXT: Commonevents/1/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/175/Dialogue
+*applause*
 > END STRING
 
 > BEGIN STRING
@@ -318,8 +344,11 @@ Everyone, look for yourself!
 ひゃわ…、ら、らめぇぇ……。
 撮ららいれ…、見ないれ…。
 あっ、あっ……。
-> CONTEXT: Commonevents/1/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/179/Dialogue
+Nazuna:
+No..., Y-you can't...
+Recording... Looking...
+Please...
 > END STRING
 
 > BEGIN STRING
@@ -327,8 +356,11 @@ Everyone, look for yourself!
 なんと、魔物はテレビに向けて
 ナズナさんの性器を広げて、
 CMに仕立てあげてしまいました！
-> CONTEXT: Commonevents/1/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/184/Dialogue
+Reporter:
+What's this? The demon has made a
+commercial featuring Nazuna's genitals
+spread wide and pointed at the camera!
 > END STRING
 
 > BEGIN STRING
@@ -336,8 +368,11 @@ CMに仕立てあげてしまいました！
 何千万人も見ている番組
 ですからね〜。
 効果は絶大でしょうね〜！
-> CONTEXT: Commonevents/1/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/189/Dialogue
+Reporter:
+We have tens of millions of people
+watching this program. This commercial
+is bound to have tremendous impact!
 > END STRING
 
 > BEGIN STRING
@@ -345,8 +380,11 @@ CMに仕立てあげてしまいました！
 なんっ、ぜん、まん……。
 はひぃぃ……。
 くらっ…。
-> CONTEXT: Commonevents/1/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/198/Dialogue
+Nazuna:
+Tens... Millions...
+N-no...
+It can't....
 > END STRING
 
 > BEGIN STRING
@@ -354,8 +392,11 @@ CMに仕立てあげてしまいました！
 時間の許す限り撮り続けろ。
 カメラのバッテリーが
 持つ限りだ！
-> CONTEXT: Commonevents/1/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/203/Dialogue
+Demon:
+Keep recording!
+I'll allow you to keep going right
+up untill the cameras battery dies!
 > END STRING
 
 > BEGIN STRING
@@ -363,8 +404,11 @@ CMに仕立てあげてしまいました！
 では、あと30分ぐらいですね。
 ナズナさんは辛いですが、
 頑張りましょう！！
-> CONTEXT: Commonevents/1/208/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/208/Dialogue
+Reporter:
+That means we have about 30 minutes.
+This is tough on Nazuna,
+but lets keep it up!!
 > END STRING
 
 > BEGIN STRING
@@ -372,8 +416,11 @@ CMに仕立てあげてしまいました！
 む、り、ぃぃ…！
 は、恥ずかしい…、見られてる、
 全部、全国ネットで……。
-> CONTEXT: Commonevents/1/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/214/Dialogue
+Nazuna:
+I c-can't...!
+It's e-embarrassing...
+They can see everything, on the net....
 > END STRING
 
 > BEGIN STRING
@@ -388,8 +435,10 @@ CMに仕立てあげてしまいました！
 ナズナは気絶してしまい、
 その後、本当に30分間、
 性器を放送され続けた…。
-> CONTEXT: Commonevents/1/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Commonevents/1/224/Dialogue
+Nazuna fainted!
+After that, they really did broadcast
+her genitals for 30 more minutes...
 > END STRING
 
 > BEGIN STRING
