@@ -58,8 +58,8 @@ Nazuna:
 しまいました！
 > CONTEXT: Commonevents/1/34/Dialogue
 Reporter:
-Oh ho, the demon grabbed Nazuna's skirt
-and pulled it down
+Oh ho, the demon grabbed Nazuna's skirt,
+\pulled it down
 and took it away!
 > END STRING
 
@@ -72,7 +72,7 @@ and took it away!
 Reporter:
 Her white underwear is pretty~.
 Since she was in a swimsuit the other day,
-we weren't able to see her underwear.
+we weren't able to see her panties.
 > END STRING
 
 > BEGIN STRING
@@ -149,7 +149,7 @@ Nazuna can't move!!
 あ”っ、あっ…、と、撮っちゃ…！
 > CONTEXT: Commonevents/1/71/Dialogue
 Nazuna:
-N-no... You can't t-take...!
+N-no... You can't r-record...!
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +160,8 @@ N-no... You can't t-take...!
 > CONTEXT: Commonevents/1/79/Dialogue
 Demon:
 I'm going to spread it open~.
-Hehehe, This is going to be a big
-problem underneath your panties won't it?
+Hehehe, This is going to end
+up troubling you isn't it?
 > END STRING
 
 > BEGIN STRING
@@ -189,8 +189,8 @@ Piiiiii!!?
 下着越しでも、中が広がっているのが分かりますね〜。
 > CONTEXT: Commonevents/1/98/Dialogue
 Reporter:
-Wah, this is harsh! The demon has spread Nazuna's
-precious place wide with his fingers!! She is wearing
+Wow, this is harsh! The demon has spread Nazuna's
+precious place wide with his fingers!! She's wearing
 underwear, but it's easy to tell, isn't it?
 > END STRING
 
@@ -209,9 +209,9 @@ A-Ah... N-no...!
 スケスケ眼鏡で…
 > CONTEXT: Commonevents/1/110/Dialogue
 Demon:
-The bystanders have the glasses, but...
-This is only truely effective for them.
-If you had these see-through glasses...
+You see those glasses the bystanders have?
+This is only truely effective with those.
+If only you had a pair...
 > END STRING
 
 > BEGIN STRING
@@ -240,10 +240,10 @@ Hold the glasses infront of the camera.
 そ、それ駄目ぇ！！
 やめて、それだけ、はっ…！
 > CONTEXT: Commonevents/1/131/Dialogue
-ナズナ:
-！！？！？
-そ、それ駄目ぇ！！
-やめて、それだけ、はっ…！
+Nazuna:
+!!?!?
+Y-you can't!!
+Stop, anything but that...!
 > END STRING
 
 > BEGIN STRING
@@ -253,7 +253,7 @@ Hold the glasses infront of the camera.
 綺麗に透けました！！
 > CONTEXT: Commonevents/1/137/Dialogue
 Reporter:
-It's it's true...!
+I-it's true...!
 Her underwear is completely transparent!!
 > END STRING
 
@@ -266,7 +266,7 @@ Her underwear is completely transparent!!
 Reporter:
 Everyone, look for yourself!
 Watch closely to the effect of this
-magic tool, This is uncensored footage!
+magic tool, this is uncensored footage!
 > END STRING
 
 > BEGIN STRING
@@ -276,7 +276,7 @@ magic tool, This is uncensored footage!
 何も着けてない様にしか見えません！
 > CONTEXT: Commonevents/1/147/Dialogue
 Reporter:
-We can see right inside Nazuna's genitals!!
+We can see right inside Nazuna's vagina!!
 It's as if she isn't wearing anything at all!
 > END STRING
 
@@ -286,6 +286,7 @@ It's as if she isn't wearing anything at all!
 や”め”っ…！
 あ”、ぁわ…！
 > CONTEXT: Commonevents/1/152/Dialogue
+Nazuna:
 Eeeeeek!!?
 S-St-...!
 D-don-...!
@@ -358,7 +359,7 @@ Please...
 CMに仕立てあげてしまいました！
 > CONTEXT: Commonevents/1/184/Dialogue
 Reporter:
-What's this? The demon has made a
+Remarkable! The demon has made a
 commercial featuring Nazuna's genitals
 spread wide and pointed at the camera!
 > END STRING
@@ -372,7 +373,7 @@ spread wide and pointed at the camera!
 Reporter:
 We have tens of millions of people
 watching this program. This commercial
-is bound to have tremendous impact!
+is bound to have a tremendous impact!
 > END STRING
 
 > BEGIN STRING
@@ -396,7 +397,7 @@ It can't....
 Demon:
 Keep recording!
 I'll allow you to keep going right
-up untill the cameras battery dies!
+up untill the camera's battery dies!
 > END STRING
 
 > BEGIN STRING
@@ -420,7 +421,7 @@ but lets keep it up!!
 Nazuna:
 I c-can't...!
 It's e-embarrassing...
-They can see everything, on the net....
+Everything..., on the net....
 > END STRING
 
 > BEGIN STRING
@@ -428,7 +429,9 @@ They can see everything, on the net....
 はひ…、ひゅ、あ、ぁ……。
 がくっ…。
 > CONTEXT: Commonevents/1/220/Dialogue < UNTRANSLATED
-
+Nazuna:
+Ah, st-, no......
+*collapse*
 > END STRING
 
 > BEGIN STRING
